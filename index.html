@@ -477,14 +477,25 @@
       <!-- Compatibility Table -->
       <div class="glass-card rounded-2xl border-slate-800 overflow-hidden shadow-xl mb-10">
         <div class="overflow-x-auto custom-scrollbar">
-          <table class="w-full min-w-[860px] text-right text-xs sm:text-sm border-collapse">
+          <table class="w-full min-w-[940px] text-right text-xs sm:text-sm border-collapse">
             <thead class="bg-slate-900/90 text-slate-300 border-b border-slate-800 font-bold">
               <tr>
-                <th class="p-4 w-[190px] whitespace-nowrap" data-i18n="th_format">الصيغة الكارتوجرافية</th>
+                <th class="p-4 w-[180px] whitespace-nowrap" data-i18n="th_format">الصيغة الكارتوجرافية</th>
                 <th class="p-4 w-[110px] text-center whitespace-nowrap" data-i18n="th_ext">الامتداد</th>
-                <th class="p-4 w-[250px] whitespace-nowrap" data-i18n="th_opens_in">يفتح ويعمل في</th>
-                <th class="p-4 w-[110px] text-center whitespace-nowrap" data-i18n="th_count">العدد بالمكتبة</th>
-                <th class="p-4 w-[280px] whitespace-nowrap" data-i18n="th_how_to_add">طريقة الإضافة والاستخدام</th>
+                <th class="p-4 w-[170px] text-center whitespace-nowrap bg-ocean-950/40 border-x border-slate-800">
+                  <span class="inline-flex items-center gap-1.5 text-ocean-300">
+                    <i class="fa-solid fa-map"></i>
+                    <span data-i18n="th_arcmap">ArcMap 10.x</span>
+                  </span>
+                </th>
+                <th class="p-4 w-[170px] text-center whitespace-nowrap bg-emerald-950/30 border-e border-slate-800">
+                  <span class="inline-flex items-center gap-1.5 text-emerald-300">
+                    <i class="fa-solid fa-cube"></i>
+                    <span data-i18n="th_pro">ArcGIS Pro</span>
+                  </span>
+                </th>
+                <th class="p-4 w-[100px] text-center whitespace-nowrap" data-i18n="th_count">العدد بالمكتبة</th>
+                <th class="p-4 w-[260px] whitespace-nowrap" data-i18n="th_how_to_add">طريقة الإضافة والاستخدام</th>
                 <th class="p-4 min-w-[220px]" data-i18n="th_notes">ملاحظات البنية والتحويل</th>
               </tr>
             </thead>
@@ -499,18 +510,17 @@
                 <td class="p-4 text-center whitespace-nowrap">
                   <code class="px-2.5 py-1 rounded-md bg-slate-900 border border-slate-800 text-ocean-400 font-mono font-bold text-xs" dir="ltr">.style</code>
                 </td>
-                <td class="p-4 whitespace-nowrap">
-                  <div class="inline-flex items-center gap-1.5 flex-nowrap">
-                    <span class="px-2.5 py-1 rounded-lg bg-ocean-500/20 text-ocean-300 border border-ocean-500/30 font-bold whitespace-nowrap inline-flex items-center gap-1">
-                      <i class="fa-solid fa-circle-check text-ocean-400 text-[10px]"></i>
-                      <span>ArcMap 10.x</span>
-                    </span>
-                    <span class="text-slate-500 font-bold px-0.5">+</span>
-                    <span class="px-2.5 py-1 rounded-lg bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 font-bold whitespace-nowrap inline-flex items-center gap-1">
-                      <i class="fa-solid fa-circle-check text-emerald-400 text-[10px]"></i>
-                      <span>ArcGIS Pro</span>
-                    </span>
-                  </div>
+                <td class="p-4 text-center whitespace-nowrap bg-ocean-950/20 border-x border-slate-800/60">
+                  <span class="px-3 py-1 rounded-full bg-emerald-500/15 text-emerald-300 border border-emerald-500/30 font-bold text-xs inline-flex items-center gap-1.5 whitespace-nowrap shadow-sm">
+                    <i class="fa-solid fa-circle-check text-emerald-400 text-sm"></i>
+                    <span>مدعوم بالكامل</span>
+                  </span>
+                </td>
+                <td class="p-4 text-center whitespace-nowrap bg-emerald-950/15 border-e border-slate-800/60">
+                  <span class="px-3 py-1 rounded-full bg-emerald-500/15 text-emerald-300 border border-emerald-500/30 font-bold text-xs inline-flex items-center gap-1.5 whitespace-nowrap shadow-sm">
+                    <i class="fa-solid fa-circle-check text-emerald-400 text-sm"></i>
+                    <span>مدعوم ومباشر</span>
+                  </span>
                 </td>
                 <td class="p-4 text-center font-mono font-bold text-ocean-300 text-base whitespace-nowrap">486</td>
                 <td class="p-4 font-mono text-xs leading-relaxed">
@@ -531,17 +541,17 @@
                 <td class="p-4 text-center whitespace-nowrap">
                   <code class="px-2.5 py-1 rounded-md bg-slate-900 border border-slate-800 text-brand-400 font-mono font-bold text-xs" dir="ltr">.stylx</code>
                 </td>
-                <td class="p-4">
-                  <div class="flex flex-col gap-1.5 items-start">
-                    <span class="px-2.5 py-1 rounded-lg bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 font-bold whitespace-nowrap inline-flex items-center gap-1">
-                      <i class="fa-solid fa-circle-check text-emerald-400 text-[10px]"></i>
-                      <span>ArcGIS Pro فقط</span>
-                    </span>
-                    <span class="text-[11px] font-semibold text-rose-400 whitespace-nowrap inline-flex items-center gap-1">
-                      <i class="fa-solid fa-circle-xmark text-rose-400 text-[10px]"></i>
-                      <span>لا يفتح في ArcMap 10.x</span>
-                    </span>
-                  </div>
+                <td class="p-4 text-center whitespace-nowrap bg-ocean-950/20 border-x border-slate-800/60">
+                  <span class="px-3 py-1 rounded-full bg-rose-500/15 text-rose-300 border border-rose-500/30 font-bold text-xs inline-flex items-center gap-1.5 whitespace-nowrap shadow-sm">
+                    <i class="fa-solid fa-circle-xmark text-rose-400 text-sm"></i>
+                    <span>غير مدعوم نهائياً</span>
+                  </span>
+                </td>
+                <td class="p-4 text-center whitespace-nowrap bg-emerald-950/15 border-e border-slate-800/60">
+                  <span class="px-3 py-1 rounded-full bg-emerald-500/15 text-emerald-300 border border-emerald-500/30 font-bold text-xs inline-flex items-center gap-1.5 whitespace-nowrap shadow-sm">
+                    <i class="fa-solid fa-circle-check text-emerald-400 text-sm"></i>
+                    <span>مدعوم أصلياً</span>
+                  </span>
                 </td>
                 <td class="p-4 text-center font-mono font-bold text-brand-300 text-base whitespace-nowrap">230</td>
                 <td class="p-4 font-mono text-xs leading-relaxed">
@@ -559,10 +569,16 @@
                 <td class="p-4 text-center whitespace-nowrap">
                   <code class="px-2.5 py-1 rounded-md bg-slate-900 border border-slate-800 text-solar-400 font-mono font-bold text-xs" dir="ltr">.ServerStyle</code>
                 </td>
-                <td class="p-4 whitespace-nowrap">
-                  <span class="px-2.5 py-1 rounded-lg bg-solar-500/20 text-solar-300 border border-solar-500/30 font-bold whitespace-nowrap inline-flex items-center gap-1">
-                    <i class="fa-solid fa-server text-solar-400 text-[10px]"></i>
-                    <span>ArcGIS Server & Pro</span>
+                <td class="p-4 text-center whitespace-nowrap bg-ocean-950/20 border-x border-slate-800/60">
+                  <span class="px-3 py-1 rounded-full bg-slate-800 text-slate-400 border border-slate-700 font-bold text-xs inline-flex items-center gap-1.5 whitespace-nowrap">
+                    <i class="fa-solid fa-circle-xmark text-slate-500 text-sm"></i>
+                    <span>غير مخصص للواجهة</span>
+                  </span>
+                </td>
+                <td class="p-4 text-center whitespace-nowrap bg-emerald-950/15 border-e border-slate-800/60">
+                  <span class="px-3 py-1 rounded-full bg-solar-500/15 text-solar-300 border border-solar-500/30 font-bold text-xs inline-flex items-center gap-1.5 whitespace-nowrap shadow-sm">
+                    <i class="fa-solid fa-circle-check text-solar-400 text-sm"></i>
+                    <span>مدعوم / خدمات</span>
                   </span>
                 </td>
                 <td class="p-4 text-center font-mono font-bold text-solar-300 text-base whitespace-nowrap">114</td>
@@ -581,12 +597,17 @@
                 <td class="p-4 text-center whitespace-nowrap">
                   <code class="px-2.5 py-1 rounded-md bg-slate-900 border border-slate-800 text-purple-400 font-mono font-bold text-xs" dir="ltr">.lyrx / .mxd</code>
                 </td>
-                <td class="p-4 whitespace-nowrap">
-                  <div class="inline-flex items-center gap-1.5 flex-nowrap text-xs">
-                    <span class="px-2 py-0.5 rounded bg-purple-500/20 text-purple-300 border border-purple-500/30 font-bold whitespace-nowrap">Pro (.lyrx)</span>
-                    <span class="text-slate-500 font-bold">+</span>
-                    <span class="px-2 py-0.5 rounded bg-purple-500/20 text-purple-300 border border-purple-500/30 font-bold whitespace-nowrap">ArcMap (.mxd)</span>
-                  </div>
+                <td class="p-4 text-center whitespace-nowrap bg-ocean-950/20 border-x border-slate-800/60">
+                  <span class="px-3 py-1 rounded-full bg-purple-500/15 text-purple-300 border border-purple-500/30 font-bold text-xs inline-flex items-center gap-1.5 whitespace-nowrap shadow-sm">
+                    <i class="fa-solid fa-circle-check text-purple-400 text-sm"></i>
+                    <span>ملفات .mxd فقط</span>
+                  </span>
+                </td>
+                <td class="p-4 text-center whitespace-nowrap bg-emerald-950/15 border-e border-slate-800/60">
+                  <span class="px-3 py-1 rounded-full bg-purple-500/15 text-purple-300 border border-purple-500/30 font-bold text-xs inline-flex items-center gap-1.5 whitespace-nowrap shadow-sm">
+                    <i class="fa-solid fa-circle-check text-purple-400 text-sm"></i>
+                    <span>ملفات .lyrx فقط</span>
+                  </span>
                 </td>
                 <td class="p-4 text-center font-mono font-bold text-purple-300 text-base whitespace-nowrap" dir="ltr">37 / 11</td>
                 <td class="p-4 font-mono text-xs leading-relaxed">
@@ -604,10 +625,16 @@
                 <td class="p-4 text-center whitespace-nowrap">
                   <code class="px-2.5 py-1 rounded-md bg-slate-900 border border-slate-800 text-pink-400 font-mono font-bold text-xs" dir="ltr">.ttf / .otf</code>
                 </td>
-                <td class="p-4 whitespace-nowrap">
-                  <span class="px-2.5 py-1 rounded-lg bg-pink-500/20 text-pink-300 border border-pink-500/30 font-bold whitespace-nowrap inline-flex items-center gap-1">
-                    <i class="fa-brands fa-windows text-pink-400 text-[10px]"></i>
-                    <span>نظام Windows (للبرنامجين معاً)</span>
+                <td class="p-4 text-center whitespace-nowrap bg-ocean-950/20 border-x border-slate-800/60">
+                  <span class="px-3 py-1 rounded-full bg-pink-500/15 text-pink-300 border border-pink-500/30 font-bold text-xs inline-flex items-center gap-1.5 whitespace-nowrap shadow-sm">
+                    <i class="fa-solid fa-circle-check text-pink-400 text-sm"></i>
+                    <span>مدعوم (Windows)</span>
+                  </span>
+                </td>
+                <td class="p-4 text-center whitespace-nowrap bg-emerald-950/15 border-e border-slate-800/60">
+                  <span class="px-3 py-1 rounded-full bg-pink-500/15 text-pink-300 border border-pink-500/30 font-bold text-xs inline-flex items-center gap-1.5 whitespace-nowrap shadow-sm">
+                    <i class="fa-solid fa-circle-check text-pink-400 text-sm"></i>
+                    <span>مدعوم (Windows)</span>
                   </span>
                 </td>
                 <td class="p-4 text-center font-mono font-bold text-pink-300 text-base whitespace-nowrap">50+</td>
@@ -1644,7 +1671,8 @@
         compat_subheading: "الأرك برو يقدر يفتح ستايلات الأرك ماب (.style) ويستخدمها عادي — لكن العكس لا يحدث أبداً. ستايل الأرك ماب هو العملة الكارتوجرافية الشاملة؛ لذلك حرصنا على توفير نسختي .style و .stylx معاً لكل تصنيف رئيسي.",
         th_format: "الصيغة الكارتوجرافية",
         th_ext: "الامتداد",
-        th_opens_in: "يفتح ويعمل في",
+        th_arcmap: "ArcMap 10.x",
+        th_pro: "ArcGIS Pro",
         th_count: "العدد بالمكتبة",
         th_how_to_add: "طريقة الإضافة والاستخدام",
         th_notes: "ملاحظات البنية والتحويل",
@@ -1720,7 +1748,8 @@
         compat_subheading: "ArcGIS Pro can open and use ArcMap .style files natively — but ArcMap CANNOT open .stylx files. ArcMap .style is the universal cartographic format, which is why dual formats are provided across the board.",
         th_format: "Cartographic Format",
         th_ext: "Extension",
-        th_opens_in: "Opens & Works In",
+        th_arcmap: "ArcMap 10.x",
+        th_pro: "ArcGIS Pro",
         th_count: "Library Count",
         th_how_to_add: "How to Add & Load",
         th_notes: "Architecture & Conversion Notes",
