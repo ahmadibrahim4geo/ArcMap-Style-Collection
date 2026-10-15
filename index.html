@@ -239,15 +239,15 @@
 
         </div>
 
-        <!-- Visual Graphical Illustration (5 Cols) - Dedicated Cartographic Symbology Card -->
+        <!-- Visual Graphical Illustration (5 Cols) - Dedicated Cartographic Map & Symbology Showcase -->
         <div class="lg:col-span-5 flex justify-center relative">
-          <div class="relative group w-full max-w-md">
+          <div class="relative group w-full max-w-lg">
             
-            <!-- Orbiting Glow Rings -->
-            <div class="absolute -inset-4 bg-gradient-to-r from-ocean-500 via-brand-500 to-solar-500 rounded-3xl blur-2xl opacity-30 group-hover:opacity-50 transition duration-700 animate-pulse"></div>
+            <!-- Orbiting Ambient Glow Rings -->
+            <div class="absolute -inset-4 bg-gradient-to-r from-ocean-500 via-brand-500 to-solar-500 rounded-3xl blur-2xl opacity-25 group-hover:opacity-40 transition duration-700 animate-pulse"></div>
             
-            <!-- Graphic Card: ArcGIS Symbol Selector & Compatibility Engine -->
-            <div class="relative rounded-3xl p-6 bg-slate-900/90 border-2 border-ocean-500/40 shadow-2xl overflow-hidden backdrop-blur-xl space-y-5">
+            <!-- Graphic Card: ArcGIS Cartographic Studio Viewport -->
+            <div class="relative rounded-3xl p-5 bg-slate-900/90 border-2 border-ocean-500/40 shadow-2xl overflow-hidden backdrop-blur-xl space-y-4">
               
               <!-- Window Header & Controls -->
               <div class="flex items-center justify-between border-b border-slate-800 pb-3" dir="ltr">
@@ -255,109 +255,72 @@
                   <span class="w-3 h-3 rounded-full bg-rose-500 inline-block"></span>
                   <span class="w-3 h-3 rounded-full bg-solar-500 inline-block"></span>
                   <span class="w-3 h-3 rounded-full bg-emerald-500 inline-block"></span>
-                  <span class="text-[11px] font-mono text-slate-400 ml-2 font-bold">ArcGIS Symbol Selector</span>
+                  <span class="text-[11px] font-mono text-slate-300 ml-2 font-bold">ArcGIS Symbology Studio</span>
                 </div>
-                <span class="text-[10px] px-2 py-0.5 rounded bg-ocean-500/20 text-ocean-400 border border-ocean-500/30 font-inter font-bold">LIVE PREVIEW</span>
+                <span class="text-[10px] px-2.5 py-0.5 rounded-full bg-ocean-500/20 text-ocean-300 border border-ocean-500/30 font-inter font-bold">MAP VIEWPORT</span>
               </div>
 
-              <!-- Interactive Symbology Category Switcher Tabs -->
-              <div class="grid grid-cols-4 gap-1 p-1 bg-slate-950 rounded-xl border border-slate-800 text-[10px] font-bold text-center font-inter" dir="ltr">
-                <button id="tabGeol" onclick="selectHeroSymbology('geology')" class="py-1.5 rounded-lg bg-ocean-600 text-white transition shadow-sm">Geology</button>
-                <button id="tabPetro" onclick="selectHeroSymbology('petroleum')" class="py-1.5 rounded-lg text-slate-400 hover:text-white transition">Petroleum</button>
-                <button id="tabHydro" onclick="selectHeroSymbology('hydrology')" class="py-1.5 rounded-lg text-slate-400 hover:text-white transition">Hydrology</button>
-                <button id="tabColor" onclick="selectHeroSymbology('color')" class="py-1.5 rounded-lg text-slate-400 hover:text-white transition">Colors</button>
+              <!-- Interactive Symbology Category Selector -->
+              <div class="grid grid-cols-4 gap-1.5 p-1 bg-slate-950 rounded-xl border border-slate-800 text-[11px] font-bold text-center font-inter" dir="ltr">
+                <button id="tabGeol" onclick="selectHeroSymbology('geology')" class="py-1.5 rounded-lg bg-ocean-600 text-white transition shadow-sm flex items-center justify-center gap-1">
+                  <span>🪨</span> <span>Geology</span>
+                </button>
+                <button id="tabPetro" onclick="selectHeroSymbology('petroleum')" class="py-1.5 rounded-lg text-slate-400 hover:text-white transition flex items-center justify-center gap-1">
+                  <span>🛢️</span> <span>Petroleum</span>
+                </button>
+                <button id="tabHydro" onclick="selectHeroSymbology('hydrology')" class="py-1.5 rounded-lg text-slate-400 hover:text-white transition flex items-center justify-center gap-1">
+                  <span>💧</span> <span>Hydrology</span>
+                </button>
+                <button id="tabColor" onclick="selectHeroSymbology('color')" class="py-1.5 rounded-lg text-slate-400 hover:text-white transition flex items-center justify-center gap-1">
+                  <span>🎨</span> <span>Palettes</span>
+                </button>
               </div>
 
-              <!-- Vector Symbology Showcase Window -->
-              <div class="p-4 rounded-2xl bg-slate-950 border border-slate-800 relative overflow-hidden" dir="ltr">
+              <!-- Vector Map Viewport Canvas -->
+              <div class="rounded-2xl bg-slate-950 border border-slate-800 overflow-hidden relative shadow-inner" dir="ltr">
                 
-                <!-- SVG Canvas Container -->
-                <div id="heroSymbologyCanvas" class="w-full h-36 flex items-center justify-center">
-                  <!-- Symbology dynamically updated via JS, default is Geology -->
-                  <svg viewBox="0 0 380 140" class="w-full h-full">
-                    <defs>
-                      <pattern id="geolHatch" width="10" height="10" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse">
-                        <line x1="0" y1="0" x2="0" y2="10" stroke="#38bdf8" stroke-width="1.5" opacity="0.4" />
-                      </pattern>
-                      <linearGradient id="faultGrad" x1="0" y1="0" x2="1" y2="0">
-                        <stop offset="0%" stop-color="#38bdf8" />
-                        <stop offset="100%" stop-color="#f59e0b" />
-                      </linearGradient>
-                    </defs>
-                    <!-- Geologic Polygon with Hatching -->
-                    <polygon points="20,110 90,30 180,45 150,115" fill="url(#geolHatch)" stroke="#38bdf8" stroke-width="2" />
-                    <!-- Thrust Fault Line with Sawteeth (USGS FGDC standard) -->
-                    <path d="M 120,120 Q 200,80 280,105 T 360,40" fill="none" stroke="#f43f5e" stroke-width="3" />
-                    <polygon points="175,95 185,85 190,98" fill="#f43f5e" />
-                    <polygon points="240,94 250,84 255,97" fill="#f43f5e" />
-                    <polygon points="310,65 320,55 325,68" fill="#f43f5e" />
-                    <!-- Strike and Dip Symbol -->
-                    <g transform="translate(260, 50) rotate(-25)">
-                      <line x1="-18" y1="0" x2="18" y2="0" stroke="#10b981" stroke-width="2.5" />
-                      <line x1="0" y1="0" x2="0" y2="14" stroke="#10b981" stroke-width="2.5" />
-                      <text x="8" y="16" fill="#34d399" font-size="10" font-family="'Inter', sans-serif" font-weight="bold">35°</text>
-                    </g>
-                    <!-- Anticline Fold Axis -->
-                    <line x1="40" y1="20" x2="120" y2="20" stroke="#a78bfa" stroke-width="2" />
-                    <polygon points="76,15 84,20 76,25" fill="#a78bfa" />
-                    <polygon points="84,15 76,20 84,25" fill="#a78bfa" />
-                  </svg>
+                <!-- Map Header Overlay (Coordinates & Scale) -->
+                <div class="absolute top-2.5 left-3 right-3 z-20 flex items-center justify-between text-[10px] font-mono text-slate-400 pointer-events-none">
+                  <span class="px-2 py-0.5 rounded bg-slate-900/80 backdrop-blur border border-slate-800 text-ocean-400">Scale 1:25,000</span>
+                  <span class="px-2 py-0.5 rounded bg-slate-900/80 backdrop-blur border border-slate-800 text-slate-300">WGS 84 • UTM Zone 36N</span>
                 </div>
 
-                <!-- Symbol Details Banner -->
-                <div class="mt-2 pt-2 border-t border-slate-800/80 flex items-center justify-between text-xs">
-                  <div>
-                    <span id="heroSymbName" class="font-bold text-white text-xs block">فالق عادي متوقع | Concealed Normal Fault</span>
-                    <span id="heroSymbCode" class="text-[10px] text-ocean-400 font-mono">USGS FGDC-GeMS Standard • Code: 2.1.3</span>
-                  </div>
-                  <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-brand-500/20 text-brand-300 border border-brand-500/30 font-inter">Vector .style</span>
+                <!-- SVG Interactive Map Canvas (Height increased for rich cartographic detail) -->
+                <div id="heroSymbologyCanvas" class="w-full h-64 sm:h-72 flex items-center justify-center">
+                  <!-- Dynamically populated via selectHeroSymbology() -->
                 </div>
 
               </div>
 
-              <!-- The Golden Compatibility Matrix Box -->
-              <div class="p-3.5 rounded-2xl bg-slate-950 border border-slate-800 space-y-2.5" dir="ltr">
-                <div class="flex items-center justify-between text-[11px] font-mono">
-                  <span class="font-bold text-ocean-400 flex items-center gap-1.5">
-                    <span class="w-2 h-2 rounded-full bg-ocean-400 animate-pulse"></span>
-                    ArcMap (.style)
-                  </span>
-                  <span class="font-bold text-emerald-400 flex items-center gap-1.5">
-                    <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
-                    ArcGIS Pro (.stylx)
-                  </span>
+              <!-- Active Symbol Details Card -->
+              <div class="p-3.5 rounded-2xl bg-slate-950 border border-slate-800 flex items-center justify-between gap-3 shadow-md">
+                <div class="min-w-0">
+                  <div class="flex items-center gap-2">
+                    <span id="heroBadgeType" class="px-2 py-0.5 rounded text-[9px] font-bold bg-ocean-500/20 text-ocean-300 border border-ocean-500/30 font-inter">FGDC STANDARD</span>
+                    <span class="text-[10px] text-slate-400 font-inter">Bilingual Symbol</span>
+                  </div>
+                  <h5 id="heroSymbName" class="font-bold text-white text-xs sm:text-sm mt-1 truncate">فالق عادي متوقع | Concealed Normal Fault</h5>
+                  <p id="heroSymbCode" class="text-[10px] text-slate-400 font-mono mt-0.5">USGS FGDC-GeMS Standard • Code: 2.1.3 • .style & .stylx</p>
                 </div>
-
-                <!-- Animated Compatibility Flow Bar -->
-                <div class="relative flex items-center justify-between bg-slate-900 rounded-xl p-2 px-3 border border-slate-800">
-                  <div class="text-xs font-bold text-white font-inter">486 Styles</div>
-                  <div class="flex items-center gap-1 text-emerald-400 text-xs font-bold font-inter">
-                    <span>Direct Load</span>
-                    <i class="fa-solid fa-arrow-right animate-pulse"></i>
-                  </div>
-                  <div class="text-xs font-bold text-emerald-300 font-inter">230 Stylx</div>
-                </div>
-
-                <!-- Compatibility Checks -->
-                <div class="grid grid-cols-2 gap-2 text-[10px] font-bold">
-                  <div class="p-2 rounded-lg bg-emerald-950/40 border border-emerald-500/30 text-emerald-300 flex items-center gap-1.5">
-                    <i class="fa-solid fa-circle-check text-emerald-400"></i>
-                    <span>Pro opens .style ✓</span>
-                  </div>
-                  <div class="p-2 rounded-lg bg-rose-950/40 border border-rose-500/30 text-rose-300 flex items-center gap-1.5">
-                    <i class="fa-solid fa-circle-xmark text-rose-400"></i>
-                    <span>ArcMap ✕ .stylx</span>
-                  </div>
+                <div id="heroSymbIcon" class="w-10 h-10 rounded-xl bg-gradient-to-tr from-ocean-500/20 to-brand-500/20 border border-ocean-500/30 flex items-center justify-center text-ocean-400 text-lg shrink-0">
+                  <i class="fa-solid fa-mountain"></i>
                 </div>
               </div>
 
-              <!-- Real-time Bilingual Tag Box -->
-              <div class="p-3 rounded-xl bg-slate-950/80 border border-slate-800 flex items-center justify-between text-xs">
-                <div class="flex items-center gap-2">
-                  <i class="fa-solid fa-language text-solar-400 text-sm"></i>
-                  <span class="text-slate-300 text-[11px]">45,589 رمز مترجم بالتنسيق الثنائي</span>
+              <!-- Sleek Format Strip (No flowchart boxes, clean badges) -->
+              <div class="grid grid-cols-3 gap-2 text-center text-[10px] font-mono">
+                <div class="p-2 rounded-xl bg-slate-950/60 border border-slate-800">
+                  <span class="text-slate-400 block text-[9px]">ArcMap</span>
+                  <span class="font-bold text-ocean-300">486 × .style</span>
                 </div>
-                <span class="font-mono text-solar-300 text-[10px] font-bold">عربي | English</span>
+                <div class="p-2 rounded-xl bg-slate-950/60 border border-slate-800">
+                  <span class="text-slate-400 block text-[9px]">ArcGIS Pro</span>
+                  <span class="font-bold text-emerald-300">230 × .stylx</span>
+                </div>
+                <div class="p-2 rounded-xl bg-slate-950/60 border border-slate-800">
+                  <span class="text-slate-400 block text-[9px]">Arabic</span>
+                  <span class="font-bold text-solar-300">40 Editions</span>
+                </div>
               </div>
 
             </div>
@@ -1218,11 +1181,13 @@
       renderCats(document.getElementById('searchBox').value);
     }
 
-    // Hero Visual Symbology Switcher
+    // Hero Visual Symbology Switcher - Real GIS Map Viewport Engine
     function selectHeroSymbology(type) {
       const canvas = document.getElementById('heroSymbologyCanvas');
       const nameEl = document.getElementById('heroSymbName');
       const codeEl = document.getElementById('heroSymbCode');
+      const badgeEl = document.getElementById('heroBadgeType');
+      const iconEl = document.getElementById('heroSymbIcon');
 
       ['tabGeol', 'tabPetro', 'tabHydro', 'tabColor'].forEach(id => {
         const el = document.getElementById(id);
@@ -1236,128 +1201,282 @@
         document.getElementById('tabGeol').classList.add('bg-ocean-600', 'text-white');
         document.getElementById('tabGeol').classList.remove('text-slate-400');
         canvas.innerHTML = `
-          <svg viewBox="0 0 380 140" class="w-full h-full">
+          <svg viewBox="0 0 420 220" class="w-full h-full">
             <defs>
-              <pattern id="geolHatch" width="10" height="10" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse">
-                <line x1="0" y1="0" x2="0" y2="10" stroke="#38bdf8" stroke-width="1.5" opacity="0.4" />
+              <pattern id="geolHatch" width="8" height="8" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse">
+                <line x1="0" y1="0" x2="0" y2="8" stroke="#38bdf8" stroke-width="1.2" opacity="0.35" />
+              </pattern>
+              <pattern id="brickHatch" width="12" height="8" patternUnits="userSpaceOnUse">
+                <rect x="0" y="0" width="12" height="8" fill="none" stroke="#a78bfa" stroke-width="0.8" opacity="0.25" />
+                <line x1="6" y1="0" x2="6" y2="8" stroke="#a78bfa" stroke-width="0.8" opacity="0.25" />
               </pattern>
             </defs>
-            <polygon points="20,110 90,30 180,45 150,115" fill="url(#geolHatch)" stroke="#38bdf8" stroke-width="2" />
-            <path d="M 120,120 Q 200,80 280,105 T 360,40" fill="none" stroke="#f43f5e" stroke-width="3" />
-            <polygon points="175,95 185,85 190,98" fill="#f43f5e" />
-            <polygon points="240,94 250,84 255,97" fill="#f43f5e" />
-            <polygon points="310,65 320,55 325,68" fill="#f43f5e" />
-            <g transform="translate(260, 50) rotate(-25)">
-              <line x1="-18" y1="0" x2="18" y2="0" stroke="#10b981" stroke-width="2.5" />
-              <line x1="0" y1="0" x2="0" y2="14" stroke="#10b981" stroke-width="2.5" />
-              <text x="8" y="16" fill="#34d399" font-size="10" font-family="'Inter', sans-serif" font-weight="bold">35°</text>
+            <!-- Background Map Grid -->
+            <rect width="420" height="220" fill="#030712" />
+            <line x1="105" y1="0" x2="105" y2="220" stroke="#1e293b" stroke-width="0.7" stroke-dasharray="3 3" />
+            <line x1="210" y1="0" x2="210" y2="220" stroke="#1e293b" stroke-width="0.7" stroke-dasharray="3 3" />
+            <line x1="315" y1="0" x2="315" y2="220" stroke="#1e293b" stroke-width="0.7" stroke-dasharray="3 3" />
+            <line x1="0" y1="70" x2="420" y2="70" stroke="#1e293b" stroke-width="0.7" stroke-dasharray="3 3" />
+            <line x1="0" y1="140" x2="420" y2="140" stroke="#1e293b" stroke-width="0.7" stroke-dasharray="3 3" />
+
+            <!-- Geologic Formation A: Sandstone Unit -->
+            <polygon points="10,210 140,40 250,55 190,210" fill="url(#geolHatch)" stroke="#38bdf8" stroke-width="1.5" />
+            <!-- Geologic Formation B: Limestone Unit -->
+            <polygon points="210,10 390,20 370,140 230,80" fill="url(#brickHatch)" stroke="#a78bfa" stroke-width="1.5" />
+
+            <!-- Elevation Contour Curves -->
+            <path d="M 0,160 Q 110,120 220,150 T 420,90" fill="none" stroke="#0284c7" stroke-width="1.2" opacity="0.6" />
+            <path d="M 0,120 Q 130,80 250,110 T 420,50" fill="none" stroke="#0284c7" stroke-width="1.5" opacity="0.8" />
+            <text x="50" y="117" fill="#38bdf8" font-size="8" font-family="'Inter', sans-serif">450m</text>
+            <path d="M 0,80 Q 140,40 270,70 T 420,15" fill="none" stroke="#0284c7" stroke-width="1" opacity="0.5" />
+
+            <!-- USGS FGDC Standard Thrust Fault Line (Red with Sawteeth) -->
+            <path d="M 80,200 Q 180,130 280,165 T 410,75" fill="none" stroke="#f43f5e" stroke-width="3" />
+            <polygon points="150,152 162,140 166,155" fill="#f43f5e" />
+            <polygon points="230,147 242,135 246,150" fill="#f43f5e" />
+            <polygon points="320,120 332,108 336,123" fill="#f43f5e" />
+            <text x="260" y="180" fill="#fda4af" font-size="9" font-weight="bold" font-family="'Cairo', sans-serif">فالق تراكبي رئيسي | Thrust Fault</text>
+
+            <!-- Strike and Dip Symbol (Bedding Measurement) -->
+            <g transform="translate(140, 95) rotate(-30)">
+              <line x1="-16" y1="0" x2="16" y2="0" stroke="#10b981" stroke-width="2.5" />
+              <line x1="0" y1="0" x2="0" y2="12" stroke="#10b981" stroke-width="2.5" />
+              <text x="6" y="14" fill="#34d399" font-size="9" font-weight="bold" font-family="'Inter', sans-serif">35°</text>
             </g>
-            <line x1="40" y1="20" x2="120" y2="20" stroke="#a78bfa" stroke-width="2" />
-            <polygon points="76,15 84,20 76,25" fill="#a78bfa" />
-            <polygon points="84,15 76,20 84,25" fill="#a78bfa" />
+
+            <!-- Anticline Fold Axis -->
+            <line x1="280" y1="25" x2="380" y2="25" stroke="#f59e0b" stroke-width="2" />
+            <polygon points="326,20 334,25 326,30" fill="#f59e0b" />
+            <polygon points="334,20 326,25 334,30" fill="#f59e0b" />
+
+            <!-- North Arrow -->
+            <g transform="translate(385, 45)">
+              <circle cx="0" cy="0" r="14" fill="#0f172a" stroke="#334155" stroke-width="1.5" />
+              <polygon points="0,-12 4,0 0,-3" fill="#ef4444" />
+              <polygon points="0,12 4,0 0,3" fill="#64748b" />
+              <polygon points="0,-12 -4,0 0,-3" fill="#dc2626" />
+              <polygon points="0,12 -4,0 0,3" fill="#475569" />
+              <text x="0" y="-14" fill="#ef4444" font-size="8" font-weight="bold" text-anchor="middle" font-family="'Inter', sans-serif">N</text>
+            </g>
+
+            <!-- Floating Map Legend -->
+            <g transform="translate(255, 125)">
+              <rect x="0" y="0" width="155" height="85" rx="10" fill="#0f172ae6" stroke="#334155" stroke-width="1.5" />
+              <text x="10" y="16" fill="#94a3b8" font-size="8.5" font-weight="bold" font-family="'Inter', sans-serif">MAP LEGEND (FGDC-GeMS)</text>
+              <line x1="12" y1="30" x2="35" y2="30" stroke="#f43f5e" stroke-width="2.5" />
+              <polygon points="22,27 28,23 29,30" fill="#f43f5e" />
+              <text x="42" y="33" fill="#e2e8f0" font-size="8" font-family="'Cairo', sans-serif">فالق تراكبي | Thrust Fault</text>
+              <line x1="14" y1="48" x2="32" y2="48" stroke="#10b981" stroke-width="2" />
+              <line x1="23" y1="48" x2="23" y2="56" stroke="#10b981" stroke-width="2" />
+              <text x="42" y="52" fill="#e2e8f0" font-size="8" font-family="'Cairo', sans-serif">مضرب وميل 35° | Strike & Dip</text>
+              <rect x="14" y="64" width="18" height="10" rx="2" fill="url(#geolHatch)" stroke="#38bdf8" stroke-width="1" />
+              <text x="42" y="72" fill="#e2e8f0" font-size="8" font-family="'Cairo', sans-serif">حجر رملي | Sandstone</text>
+            </g>
+
+            <!-- Scale Bar -->
+            <g transform="translate(15, 205)">
+              <rect x="0" y="0" width="60" height="4" fill="#e2e8f0" />
+              <rect x="60" y="0" width="60" height="4" fill="#0f172a" stroke="#e2e8f0" stroke-width="1" />
+              <text x="0" y="-3" fill="#94a3b8" font-size="7" font-family="'Inter', sans-serif">0</text>
+              <text x="55" y="-3" fill="#94a3b8" font-size="7" font-family="'Inter', sans-serif">500m</text>
+              <text x="115" y="-3" fill="#94a3b8" font-size="7" font-family="'Inter', sans-serif">1km</text>
+            </g>
           </svg>
         `;
         nameEl.textContent = "فالق عادي متوقع | Concealed Normal Fault";
-        codeEl.textContent = "USGS FGDC-GeMS Standard • Code: 2.1.3";
+        codeEl.textContent = "USGS FGDC-GeMS Standard • Code: 2.1.3 • .style & .stylx";
+        badgeEl.textContent = "FGDC GEOLOGY";
+        iconEl.innerHTML = '<i class="fa-solid fa-mountain"></i>';
       } else if (type === 'petroleum') {
         document.getElementById('tabPetro').classList.add('bg-ocean-600', 'text-white');
         document.getElementById('tabPetro').classList.remove('text-slate-400');
         canvas.innerHTML = `
-          <svg viewBox="0 0 380 140" class="w-full h-full">
+          <svg viewBox="0 0 420 220" class="w-full h-full">
             <defs>
               <linearGradient id="pipeGrad" x1="0" y1="0" x2="1" y2="0">
                 <stop offset="0%" stop-color="#f59e0b" />
                 <stop offset="100%" stop-color="#ef4444" />
               </linearGradient>
+              <radialGradient id="beaconGlow" cx="50%" cy="50%" r="50%">
+                <stop offset="0%" stop-color="#ef4444" stop-opacity="0.8" />
+                <stop offset="100%" stop-color="#ef4444" stop-opacity="0" />
+              </radialGradient>
             </defs>
-            <!-- Gas Pipeline Double Line -->
-            <line x1="30" y1="70" x2="350" y2="70" stroke="url(#pipeGrad)" stroke-width="5" stroke-dasharray="16 8" />
-            <!-- Valve Bowtie Symbol -->
-            <polygon points="120,60 140,80 140,60 120,80" fill="#f59e0b" stroke="#ffffff" stroke-width="1.5" />
-            <!-- Producing Oil Well Rig (Circle with filled quadrants) -->
-            <g transform="translate(60, 45)">
+            <rect width="420" height="220" fill="#030712" />
+
+            <!-- Concession Block Boundary -->
+            <polygon points="30,20 390,15 380,205 20,195" fill="#f59e0b0d" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="8 6" />
+            <text x="45" y="40" fill="#fbbf24" font-size="10" font-family="'Inter', sans-serif" font-weight="bold">BLOCK 14 - ONSHORE CONCESSION</text>
+
+            <!-- Seismic Survey 2D Lines -->
+            <line x1="40" y1="80" x2="360" y2="60" stroke="#475569" stroke-width="1" stroke-dasharray="4 4" />
+            <line x1="40" y1="120" x2="360" y2="100" stroke="#475569" stroke-width="1" stroke-dasharray="4 4" />
+            <line x1="40" y1="160" x2="360" y2="140" stroke="#475569" stroke-width="1" stroke-dasharray="4 4" />
+
+            <!-- Natural Gas Pipeline Corridor -->
+            <line x1="20" y1="170" x2="400" y2="130" stroke="url(#pipeGrad)" stroke-width="4.5" />
+            <line x1="20" y1="170" x2="400" y2="130" stroke="#ffffff" stroke-width="1" stroke-dasharray="10 10" />
+
+            <!-- Pipeline Valve Station -->
+            <g transform="translate(180, 153)">
+              <polygon points="-8,-8 8,8 8,-8 -8,8" fill="#f59e0b" stroke="#ffffff" stroke-width="1.5" />
+              <text x="0" y="18" fill="#fcd34d" font-size="8" text-anchor="middle" font-family="'Inter', monospace">V-102</text>
+            </g>
+
+            <!-- Producing Oil Well Rig (Shell Standard Red) with Pulsing Wave -->
+            <g transform="translate(110, 85)">
+              <circle cx="0" cy="0" r="28" fill="url(#beaconGlow)" />
               <circle cx="0" cy="0" r="16" fill="#0f172a" stroke="#ef4444" stroke-width="3" />
               <path d="M 0,0 L 0,-16 A 16,16 0 0,1 16,0 Z" fill="#ef4444" />
               <path d="M 0,0 L 0,16 A 16,16 0 0,1 -16,0 Z" fill="#ef4444" />
-              <text x="0" y="28" fill="#f87171" font-size="9" text-anchor="middle" font-family="'Inter', monospace" font-weight="bold">OIL WELL #1</text>
+              <text x="0" y="28" fill="#fca5a5" font-size="9" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="bold">WELL-01 (PROD)</text>
             </g>
-            <!-- Offshore Platform Symbol -->
-            <g transform="translate(280, 45)">
+
+            <!-- Offshore Drilling Platform -->
+            <g transform="translate(310, 75)">
               <rect x="-16" y="-16" width="32" height="32" rx="4" fill="#0f172a" stroke="#38bdf8" stroke-width="2.5" />
               <circle cx="0" cy="0" r="8" fill="none" stroke="#38bdf8" stroke-width="2" />
               <text x="0" y="3" fill="#38bdf8" font-size="10" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="bold">H</text>
-              <text x="0" y="28" fill="#7dd3fc" font-size="9" text-anchor="middle" font-family="'Inter', monospace" font-weight="bold">PLATFORM-A</text>
+              <text x="0" y="27" fill="#7dd3fc" font-size="9" text-anchor="middle" font-family="'Inter', monospace">PLATFORM-A</text>
+            </g>
+
+            <!-- Floating Petroleum Legend -->
+            <g transform="translate(255, 125)">
+              <rect x="0" y="0" width="155" height="85" rx="10" fill="#0f172ae6" stroke="#334155" stroke-width="1.5" />
+              <text x="10" y="16" fill="#94a3b8" font-size="8.5" font-weight="bold" font-family="'Inter', sans-serif">PETROLEUM (SHELL)</text>
+              <circle cx="20" cy="30" r="6" fill="#0f172a" stroke="#ef4444" stroke-width="2" />
+              <path d="M 20,30 L 20,24 A 6,6 0 0,1 26,30 Z" fill="#ef4444" />
+              <text x="35" y="33" fill="#e2e8f0" font-size="8" font-family="'Cairo', sans-serif">بئر نفط منتج | Oil Well</text>
+              <line x1="12" y1="48" x2="28" y2="48" stroke="#f59e0b" stroke-width="3" />
+              <text x="35" y="52" fill="#e2e8f0" font-size="8" font-family="'Cairo', sans-serif">خط غاز | Gas Pipeline</text>
+              <rect x="14" y="65" width="12" height="12" rx="2" fill="none" stroke="#38bdf8" stroke-width="2" />
+              <text x="35" y="74" fill="#e2e8f0" font-size="8" font-family="'Cairo', sans-serif">منصة بحرية | Platform</text>
             </g>
           </svg>
         `;
         nameEl.textContent = "بئر نفط منتج | Producing Oil Well (Shell Standard)";
-        codeEl.textContent = "Petroleum Styles • Shell Cartographic Standard (Red/Green)";
+        codeEl.textContent = "Petroleum Styles • Shell Cartographic Standard (Red/Green) • 1,271 رمزاً";
+        badgeEl.textContent = "SHELL PETROLEUM";
+        iconEl.innerHTML = '<i class="fa-solid fa-oil-well"></i>';
       } else if (type === 'hydrology') {
         document.getElementById('tabHydro').classList.add('bg-ocean-600', 'text-white');
         document.getElementById('tabHydro').classList.remove('text-slate-400');
         canvas.innerHTML = `
-          <svg viewBox="0 0 380 140" class="w-full h-full">
+          <svg viewBox="0 0 420 220" class="w-full h-full">
             <defs>
-              <linearGradient id="waterRamp" x1="0" y1="0" x2="1" y2="0">
+              <linearGradient id="riverGrad" x1="0" y1="0" x2="1" y2="0">
                 <stop offset="0%" stop-color="#0284c7" />
                 <stop offset="100%" stop-color="#10b981" />
               </linearGradient>
             </defs>
-            <!-- Water Main Transmission Pipe -->
-            <line x1="30" y1="70" x2="350" y2="70" stroke="url(#waterRamp)" stroke-width="6" stroke-linecap="round" />
-            <line x1="30" y1="70" x2="350" y2="70" stroke="#ffffff" stroke-width="1.5" stroke-dasharray="8 6" opacity="0.8" />
-            <!-- SewerGEMS Inspection Manhole -->
-            <g transform="translate(90, 70)">
-              <circle cx="0" cy="0" r="14" fill="#0f172a" stroke="#10b981" stroke-width="3" />
-              <circle cx="0" cy="0" r="8" fill="#10b981" stroke="#34d399" stroke-width="1.5" />
-              <text x="0" y="25" fill="#34d399" font-size="9" text-anchor="middle" font-family="'Inter', monospace">MH-102</text>
+            <rect width="420" height="220" fill="#030712" />
+
+            <!-- Drainage Catchment Basin Polygon -->
+            <path d="M 20,180 Q 90,30 220,40 T 400,100 Q 350,210 200,200 Z" fill="#0284c70d" stroke="#0ea5e9" stroke-width="1.5" stroke-dasharray="6 4" />
+            <text x="35" y="55" fill="#38bdf8" font-size="9" font-family="'Inter', sans-serif" font-weight="bold">CATCHMENT BASIN #3</text>
+
+            <!-- Natural Meandering River Stream -->
+            <path d="M 30,190 Q 120,130 190,160 T 380,40" fill="none" stroke="url(#riverGrad)" stroke-width="5" stroke-linecap="round" />
+            <path d="M 30,190 Q 120,130 190,160 T 380,40" fill="none" stroke="#ffffff" stroke-width="1.2" stroke-dasharray="10 8" opacity="0.7" />
+
+            <!-- Pressurized Water Transmission Main -->
+            <line x1="50" y1="70" x2="370" y2="120" stroke="#38bdf8" stroke-width="3.5" />
+
+            <!-- Water Gate Valve Station -->
+            <g transform="translate(160, 87)">
+              <circle cx="0" cy="0" r="12" fill="#0f172a" stroke="#0284c7" stroke-width="2.5" />
+              <polygon points="-6,-6 6,6 6,-6 -6,6" fill="#38bdf8" />
+              <text x="0" y="20" fill="#7dd3fc" font-size="8" text-anchor="middle" font-family="'Inter', monospace">V-400</text>
             </g>
-            <!-- Hydrant / Gate Valve -->
-            <g transform="translate(260, 70)">
-              <circle cx="0" cy="0" r="14" fill="#0f172a" stroke="#0284c7" stroke-width="3" />
-              <circle cx="0" cy="0" r="5" fill="#38bdf8" />
-              <text x="0" y="25" fill="#38bdf8" font-size="9" text-anchor="middle" font-family="'Inter', monospace">V-400mm</text>
+
+            <!-- SewerGEMS Gravity Network Line & Manholes -->
+            <line x1="60" y1="130" x2="280" y2="180" stroke="#10b981" stroke-width="2.5" stroke-dasharray="8 4" />
+            <g transform="translate(60, 130)">
+              <circle cx="0" cy="0" r="10" fill="#0f172a" stroke="#10b981" stroke-width="2.5" />
+              <circle cx="0" cy="0" r="5" fill="#10b981" />
+              <text x="0" y="-13" fill="#34d399" font-size="8" text-anchor="middle" font-family="'Inter', monospace">MH-01</text>
             </g>
-            <!-- Natural Wavy Stream -->
-            <path d="M 40,25 Q 120,45 200,20 T 340,30" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" />
+            <g transform="translate(170, 155)">
+              <circle cx="0" cy="0" r="10" fill="#0f172a" stroke="#10b981" stroke-width="2.5" />
+              <circle cx="0" cy="0" r="5" fill="#10b981" />
+              <text x="0" y="-13" fill="#34d399" font-size="8" text-anchor="middle" font-family="'Inter', monospace">MH-02</text>
+            </g>
+            <g transform="translate(280, 180)">
+              <circle cx="0" cy="0" r="10" fill="#0f172a" stroke="#10b981" stroke-width="2.5" />
+              <circle cx="0" cy="0" r="5" fill="#10b981" />
+              <text x="0" y="-13" fill="#34d399" font-size="8" text-anchor="middle" font-family="'Inter', monospace">MH-03</text>
+            </g>
+
+            <!-- Floating Hydrology Legend -->
+            <g transform="translate(255, 125)">
+              <rect x="0" y="0" width="155" height="85" rx="10" fill="#0f172ae6" stroke="#334155" stroke-width="1.5" />
+              <text x="10" y="16" fill="#94a3b8" font-size="8.5" font-weight="bold" font-family="'Inter', sans-serif">HYDROLOGY (GEMS)</text>
+              <line x1="12" y1="30" x2="30" y2="30" stroke="#0284c7" stroke-width="3" />
+              <text x="38" y="33" fill="#e2e8f0" font-size="8" font-family="'Cairo', sans-serif">شبكة مياه | Water Main</text>
+              <line x1="12" y1="48" x2="30" y2="48" stroke="#10b981" stroke-width="2" stroke-dasharray="4 2" />
+              <circle cx="21" cy="48" r="4" fill="#10b981" />
+              <text x="38" y="52" fill="#e2e8f0" font-size="8" font-family="'Cairo', sans-serif">صرف صحي | Sewer Manhole</text>
+              <path d="M 12,68 Q 21,63 30,68" stroke="#38bdf8" stroke-width="3" fill="none" />
+              <text x="38" y="72" fill="#e2e8f0" font-size="8" font-family="'Cairo', sans-serif">وادي طبيعي | River Stream</text>
+            </g>
           </svg>
         `;
         nameEl.textContent = "شبكة مياه وصرف | Water Utility Network";
-        codeEl.textContent = "Bentley WaterGEMS & SewerGEMS Standard";
+        codeEl.textContent = "Bentley WaterGEMS & SewerGEMS Standard • .style & .stylx";
+        badgeEl.textContent = "BENTLEY GEMS";
+        iconEl.innerHTML = '<i class="fa-solid fa-droplet"></i>';
       } else if (type === 'color') {
         document.getElementById('tabColor').classList.add('bg-ocean-600', 'text-white');
         document.getElementById('tabColor').classList.remove('text-slate-400');
         canvas.innerHTML = `
-          <svg viewBox="0 0 380 140" class="w-full h-full">
-            <!-- ColorBrewer 7-Class Spectral Scheme -->
-            <g transform="translate(30, 25)">
-              <text x="0" y="-8" fill="#94a3b8" font-size="10" font-family="'Inter', sans-serif" font-weight="bold">ColorBrewer 7-Class Diverging (Spectral)</text>
-              <rect x="0" y="0" width="45" height="24" rx="4" fill="#d53e4f" />
-              <rect x="47" y="0" width="45" height="24" rx="4" fill="#fc8d59" />
-              <rect x="94" y="0" width="45" height="24" rx="4" fill="#fee08b" />
-              <rect x="141" y="0" width="45" height="24" rx="4" fill="#ffffbf" />
-              <rect x="188" y="0" width="45" height="24" rx="4" fill="#e6f598" />
-              <rect x="235" y="0" width="45" height="24" rx="4" fill="#99d594" />
-              <rect x="282" y="0" width="45" height="24" rx="4" fill="#3288bd" />
+          <svg viewBox="0 0 420 220" class="w-full h-full">
+            <defs>
+              <linearGradient id="hypsoRampFull" x1="0" y1="0" x2="1" y2="0">
+                <stop offset="0%" stop-color="#31a354" />
+                <stop offset="25%" stop-color="#a1d99b" />
+                <stop offset="45%" stop-color="#ffeda0" />
+                <stop offset="65%" stop-color="#feb24c" />
+                <stop offset="85%" stop-color="#f03b20" />
+                <stop offset="100%" stop-color="#ffffff" />
+              </linearGradient>
+            </defs>
+            <rect width="420" height="220" fill="#030712" />
+
+            <!-- Thematic Choropleth Polygon Units -->
+            <polygon points="20,120 110,30 200,50 160,130" fill="#d53e4f40" stroke="#d53e4f" stroke-width="1.5" />
+            <polygon points="160,130 200,50 310,40 280,140" fill="#fc8d5940" stroke="#fc8d59" stroke-width="1.5" />
+            <polygon points="280,140 310,40 400,60 380,160" fill="#fee08b40" stroke="#fee08b" stroke-width="1.5" />
+            <polygon points="20,120 160,130 220,205 60,205" fill="#e6f59840" stroke="#e6f598" stroke-width="1.5" />
+            <polygon points="160,130 280,140 360,205 220,205" fill="#99d59440" stroke="#99d594" stroke-width="1.5" />
+            <polygon points="280,140 380,160 410,205 360,205" fill="#3288bd40" stroke="#3288bd" stroke-width="1.5" />
+
+            <!-- ColorBrewer 7-Class Diverging (Spectral) Bar -->
+            <g transform="translate(25, 20)">
+              <text x="0" y="-7" fill="#94a3b8" font-size="9" font-family="'Inter', sans-serif" font-weight="bold">ColorBrewer 7-Class Diverging (Spectral)</text>
+              <rect x="0" y="0" width="30" height="16" rx="3" fill="#d53e4f" />
+              <rect x="33" y="0" width="30" height="16" rx="3" fill="#fc8d59" />
+              <rect x="66" y="0" width="30" height="16" rx="3" fill="#fee08b" />
+              <rect x="99" y="0" width="30" height="16" rx="3" fill="#ffffbf" />
+              <rect x="132" y="0" width="30" height="16" rx="3" fill="#e6f598" />
+              <rect x="165" y="0" width="30" height="16" rx="3" fill="#99d594" />
+              <rect x="198" y="0" width="30" height="16" rx="3" fill="#3288bd" />
             </g>
-            <!-- Elevation / Hypsometric Gradient Bar -->
-            <g transform="translate(30, 85)">
-              <text x="0" y="-8" fill="#94a3b8" font-size="10" font-family="'Inter', sans-serif" font-weight="bold">ETOPO1 & Hypsometric Tint Elevation Ramp</text>
-              <defs>
-                <linearGradient id="hypsoRamp" x1="0" y1="0" x2="1" y2="0">
-                  <stop offset="0%" stop-color="#31a354" />
-                  <stop offset="30%" stop-color="#ffeda0" />
-                  <stop offset="60%" stop-color="#feb24c" />
-                  <stop offset="85%" stop-color="#f03b20" />
-                  <stop offset="100%" stop-color="#ffffff" />
-                </linearGradient>
-              </defs>
-              <rect x="0" y="0" width="327" height="20" rx="6" fill="url(#hypsoRamp)" stroke="#475569" stroke-width="1.5" />
+
+            <!-- Floating Color Legend -->
+            <g transform="translate(255, 125)">
+              <rect x="0" y="0" width="155" height="85" rx="10" fill="#0f172ae6" stroke="#334155" stroke-width="1.5" />
+              <text x="10" y="16" fill="#94a3b8" font-size="8.5" font-weight="bold" font-family="'Inter', sans-serif">COLOR FOR ARCGIS</text>
+              <text x="10" y="32" fill="#cbd5e1" font-size="8" font-family="'Cairo', sans-serif">207 ستايل ألوان معتمد</text>
+              <rect x="10" y="42" width="135" height="12" rx="3" fill="url(#hypsoRampFull)" stroke="#475569" stroke-width="1" />
+              <text x="10" y="68" fill="#94a3b8" font-size="7.5" font-family="'Inter', sans-serif">ETOPO1 & Hypsometric Tint</text>
+              <text x="10" y="78" fill="#38bdf8" font-size="7.5" font-family="'Inter', sans-serif">ColorBrewer Thematic Palettes</text>
             </g>
           </svg>
         `;
         nameEl.textContent = "سكيمات ColorBrewer والتدرجات الرقمية | Spectral Palette";
-        codeEl.textContent = "Color For ArcGIS • 207 Palettes & Books";
+        codeEl.textContent = "Color For ArcGIS • 207 Palettes & Guides • .style & .stylx";
+        badgeEl.textContent = "COLORBREWER";
+        iconEl.innerHTML = '<i class="fa-solid fa-palette"></i>';
       }
     }
 
@@ -1637,6 +1756,7 @@
 
     // Initial Execution
     document.addEventListener('DOMContentLoaded', () => {
+      selectHeroSymbology('geology');
       renderCats();
       renderSimulator();
       setLanguage(currentLang);
