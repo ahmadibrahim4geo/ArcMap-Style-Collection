@@ -476,75 +476,145 @@
 
       <!-- Compatibility Table -->
       <div class="glass-card rounded-2xl border-slate-800 overflow-hidden shadow-xl mb-10">
-        <div class="overflow-x-auto">
-          <table class="w-full text-right text-xs sm:text-sm">
+        <div class="overflow-x-auto custom-scrollbar">
+          <table class="w-full min-w-[860px] text-right text-xs sm:text-sm border-collapse">
             <thead class="bg-slate-900/90 text-slate-300 border-b border-slate-800 font-bold">
               <tr>
-                <th class="p-4" data-i18n="th_format">الصيغة الكارتوجرافية</th>
-                <th class="p-4" data-i18n="th_ext">الامتداد</th>
-                <th class="p-4" data-i18n="th_opens_in">يفتح ويعمل في</th>
-                <th class="p-4" data-i18n="th_count">العدد بالمكتبة</th>
-                <th class="p-4" data-i18n="th_how_to_add">طريقة الإضافة والاستخدام</th>
-                <th class="p-4" data-i18n="th_notes">ملاحظات البنية والتحويل</th>
+                <th class="p-4 w-[190px] whitespace-nowrap" data-i18n="th_format">الصيغة الكارتوجرافية</th>
+                <th class="p-4 w-[110px] text-center whitespace-nowrap" data-i18n="th_ext">الامتداد</th>
+                <th class="p-4 w-[250px] whitespace-nowrap" data-i18n="th_opens_in">يفتح ويعمل في</th>
+                <th class="p-4 w-[110px] text-center whitespace-nowrap" data-i18n="th_count">العدد بالمكتبة</th>
+                <th class="p-4 w-[280px] whitespace-nowrap" data-i18n="th_how_to_add">طريقة الإضافة والاستخدام</th>
+                <th class="p-4 min-w-[220px]" data-i18n="th_notes">ملاحظات البنية والتحويل</th>
               </tr>
             </thead>
             <tbody class="divide-y divide-slate-800 text-slate-300">
               <tr class="hover:bg-slate-900/50 transition">
-                <td class="p-4 font-bold text-white flex items-center gap-2">
-                  <i class="fa-solid fa-file text-ocean-400"></i> ArcMap Style
+                <td class="p-4 font-bold text-white whitespace-nowrap">
+                  <span class="inline-flex items-center gap-2">
+                    <i class="fa-solid fa-file text-ocean-400"></i>
+                    <span>ArcMap Style</span>
+                  </span>
                 </td>
-                <td class="p-4 font-mono font-bold text-ocean-400">.style</td>
+                <td class="p-4 text-center whitespace-nowrap">
+                  <code class="px-2.5 py-1 rounded-md bg-slate-900 border border-slate-800 text-ocean-400 font-mono font-bold text-xs" dir="ltr">.style</code>
+                </td>
+                <td class="p-4 whitespace-nowrap">
+                  <div class="inline-flex items-center gap-1.5 flex-nowrap">
+                    <span class="px-2.5 py-1 rounded-lg bg-ocean-500/20 text-ocean-300 border border-ocean-500/30 font-bold whitespace-nowrap inline-flex items-center gap-1">
+                      <i class="fa-solid fa-circle-check text-ocean-400 text-[10px]"></i>
+                      <span>ArcMap 10.x</span>
+                    </span>
+                    <span class="text-slate-500 font-bold px-0.5">+</span>
+                    <span class="px-2.5 py-1 rounded-lg bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 font-bold whitespace-nowrap inline-flex items-center gap-1">
+                      <i class="fa-solid fa-circle-check text-emerald-400 text-[10px]"></i>
+                      <span>ArcGIS Pro</span>
+                    </span>
+                  </div>
+                </td>
+                <td class="p-4 text-center font-mono font-bold text-ocean-300 text-base whitespace-nowrap">486</td>
+                <td class="p-4 font-mono text-xs leading-relaxed">
+                  <div class="space-y-1">
+                    <div><span class="text-ocean-400 font-bold">ArcMap:</span> Customize › Style Manager</div>
+                    <div><span class="text-emerald-400 font-bold">Pro:</span> Insert › Add Style (مباشرة)</div>
+                  </div>
+                </td>
+                <td class="p-4 text-xs text-slate-400 leading-relaxed">قاعدة بيانات MS Access MDB مدمجة، يقرؤها Pro تلقائياً ويحولها إذا لزم الأمر.</td>
+              </tr>
+              <tr class="hover:bg-slate-900/50 transition">
+                <td class="p-4 font-bold text-white whitespace-nowrap">
+                  <span class="inline-flex items-center gap-2">
+                    <i class="fa-solid fa-cube text-brand-400"></i>
+                    <span>ArcGIS Pro Stylx</span>
+                  </span>
+                </td>
+                <td class="p-4 text-center whitespace-nowrap">
+                  <code class="px-2.5 py-1 rounded-md bg-slate-900 border border-slate-800 text-brand-400 font-mono font-bold text-xs" dir="ltr">.stylx</code>
+                </td>
                 <td class="p-4">
-                  <span class="px-2 py-0.5 rounded bg-ocean-500/20 text-ocean-300 border border-ocean-500/30 font-bold">ArcMap 10.x</span>
-                  <span class="text-slate-400 mx-1">+</span>
-                  <span class="px-2 py-0.5 rounded bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 font-bold">ArcGIS Pro ✓</span>
+                  <div class="flex flex-col gap-1.5 items-start">
+                    <span class="px-2.5 py-1 rounded-lg bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 font-bold whitespace-nowrap inline-flex items-center gap-1">
+                      <i class="fa-solid fa-circle-check text-emerald-400 text-[10px]"></i>
+                      <span>ArcGIS Pro فقط</span>
+                    </span>
+                    <span class="text-[11px] font-semibold text-rose-400 whitespace-nowrap inline-flex items-center gap-1">
+                      <i class="fa-solid fa-circle-xmark text-rose-400 text-[10px]"></i>
+                      <span>لا يفتح في ArcMap 10.x</span>
+                    </span>
+                  </div>
                 </td>
-                <td class="p-4 font-mono font-bold text-ocean-300 text-base">486</td>
-                <td class="p-4 font-mono text-xs">ArcMap: Customize › Style Manager › Add Style to List<br>Pro: Insert › Add Style (مباشرة)</td>
-                <td class="p-4 text-xs text-slate-400">قاعدة بيانات MS Access MDB مدمجة، يقرؤها Pro تلقائياً ويحولها إذا لزم الأمر.</td>
+                <td class="p-4 text-center font-mono font-bold text-brand-300 text-base whitespace-nowrap">230</td>
+                <td class="p-4 font-mono text-xs leading-relaxed">
+                  <div><span class="text-emerald-400 font-bold">Pro:</span> Insert › Add Style › اختر ملف .stylx</div>
+                </td>
+                <td class="p-4 text-xs text-slate-400 leading-relaxed">قاعدة بيانات SQLite3 تحوي عناصر CIM JSON لا يستطيع ArcMap قراءتها.</td>
               </tr>
               <tr class="hover:bg-slate-900/50 transition">
-                <td class="p-4 font-bold text-white flex items-center gap-2">
-                  <i class="fa-solid fa-cube text-brand-400"></i> ArcGIS Pro Stylx
+                <td class="p-4 font-bold text-white whitespace-nowrap">
+                  <span class="inline-flex items-center gap-2">
+                    <i class="fa-solid fa-server text-solar-400"></i>
+                    <span>Server Style</span>
+                  </span>
                 </td>
-                <td class="p-4 font-mono font-bold text-brand-400">.stylx</td>
-                <td class="p-4">
-                  <span class="px-2 py-0.5 rounded bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 font-bold">ArcGIS Pro فقط</span>
-                  <span class="text-rose-400 font-bold mr-1">(غير مدعوم في ArcMap 10.x ✕)</span>
+                <td class="p-4 text-center whitespace-nowrap">
+                  <code class="px-2.5 py-1 rounded-md bg-slate-900 border border-slate-800 text-solar-400 font-mono font-bold text-xs" dir="ltr">.ServerStyle</code>
                 </td>
-                <td class="p-4 font-mono font-bold text-brand-300 text-base">230</td>
-                <td class="p-4 font-mono text-xs">Insert › Add Style › اختر ملف .stylx</td>
-                <td class="p-4 text-xs text-slate-400">قاعدة بيانات SQLite3 تحوي عناصر CIM JSON لا يستطيع ArcMap قراءتها.</td>
+                <td class="p-4 whitespace-nowrap">
+                  <span class="px-2.5 py-1 rounded-lg bg-solar-500/20 text-solar-300 border border-solar-500/30 font-bold whitespace-nowrap inline-flex items-center gap-1">
+                    <i class="fa-solid fa-server text-solar-400 text-[10px]"></i>
+                    <span>ArcGIS Server & Pro</span>
+                  </span>
+                </td>
+                <td class="p-4 text-center font-mono font-bold text-solar-300 text-base whitespace-nowrap">114</td>
+                <td class="p-4 font-mono text-xs leading-relaxed">
+                  <div>يُضاف في Pro كستايل أو يُستخدم في خدمات الخرائط Map Services</div>
+                </td>
+                <td class="p-4 text-xs text-slate-400 leading-relaxed">ستايلات مجهزة لخدمات الخرائط المنشورة على خوادم ArcGIS Enterprise.</td>
               </tr>
               <tr class="hover:bg-slate-900/50 transition">
-                <td class="p-4 font-bold text-white flex items-center gap-2">
-                  <i class="fa-solid fa-server text-solar-400"></i> Server Style
+                <td class="p-4 font-bold text-white whitespace-nowrap">
+                  <span class="inline-flex items-center gap-2">
+                    <i class="fa-solid fa-layer-group text-purple-400"></i>
+                    <span>Layer & Maps</span>
+                  </span>
                 </td>
-                <td class="p-4 font-mono font-bold text-solar-400">.ServerStyle</td>
-                <td class="p-4">ArcGIS Server / Pro</td>
-                <td class="p-4 font-mono font-bold text-solar-300 text-base">114</td>
-                <td class="p-4 font-mono text-xs">يُضاف في Pro كستايل أو يُستخدم في خدمات الخرائط Map Services</td>
-                <td class="p-4 text-xs text-slate-400">ستايلات مجهزة لخدمات الخرائط المنشورة على خوادم ArcGIS Enterprise.</td>
+                <td class="p-4 text-center whitespace-nowrap">
+                  <code class="px-2.5 py-1 rounded-md bg-slate-900 border border-slate-800 text-purple-400 font-mono font-bold text-xs" dir="ltr">.lyrx / .mxd</code>
+                </td>
+                <td class="p-4 whitespace-nowrap">
+                  <div class="inline-flex items-center gap-1.5 flex-nowrap text-xs">
+                    <span class="px-2 py-0.5 rounded bg-purple-500/20 text-purple-300 border border-purple-500/30 font-bold whitespace-nowrap">Pro (.lyrx)</span>
+                    <span class="text-slate-500 font-bold">+</span>
+                    <span class="px-2 py-0.5 rounded bg-purple-500/20 text-purple-300 border border-purple-500/30 font-bold whitespace-nowrap">ArcMap (.mxd)</span>
+                  </div>
+                </td>
+                <td class="p-4 text-center font-mono font-bold text-purple-300 text-base whitespace-nowrap" dir="ltr">37 / 11</td>
+                <td class="p-4 font-mono text-xs leading-relaxed">
+                  <div>Add Data مباشرة أو فتح ملف المشروع</div>
+                </td>
+                <td class="p-4 text-xs text-slate-400 leading-relaxed">طبقات محفوظة بالترميز الجاهز وقوالب خرائط طبوغرافية جاهزة للطباعة.</td>
               </tr>
               <tr class="hover:bg-slate-900/50 transition">
-                <td class="p-4 font-bold text-white flex items-center gap-2">
-                  <i class="fa-solid fa-layer-group text-purple-400"></i> Layer & Maps
+                <td class="p-4 font-bold text-white whitespace-nowrap">
+                  <span class="inline-flex items-center gap-2">
+                    <i class="fa-solid fa-font text-pink-400"></i>
+                    <span>TrueType / OpenType Fonts</span>
+                  </span>
                 </td>
-                <td class="p-4 font-mono font-bold text-purple-400">.lyrx / .mxd</td>
-                <td class="p-4">ArcGIS Pro (.lyrx) / ArcMap (.mxd)</td>
-                <td class="p-4 font-mono font-bold text-purple-300 text-base">37 / 11</td>
-                <td class="p-4 font-mono text-xs">Add Data مباشرة أو فتح ملف المشروع</td>
-                <td class="p-4 text-xs text-slate-400">طبقات محفوظة بالترميز الجاهز وقوالب خرائط طبوغرافية جاهزة للطباعة.</td>
-              </tr>
-              <tr class="hover:bg-slate-900/50 transition">
-                <td class="p-4 font-bold text-white flex items-center gap-2">
-                  <i class="fa-solid fa-font text-pink-400"></i> TrueType / OpenType Fonts
+                <td class="p-4 text-center whitespace-nowrap">
+                  <code class="px-2.5 py-1 rounded-md bg-slate-900 border border-slate-800 text-pink-400 font-mono font-bold text-xs" dir="ltr">.ttf / .otf</code>
                 </td>
-                <td class="p-4 font-mono font-bold text-pink-400">.ttf / .otf</td>
-                <td class="p-4">نظام التشغيل Windows (لـ ArcMap و Pro معاً)</td>
-                <td class="p-4 font-mono font-bold text-pink-300 text-base">50+</td>
-                <td class="p-4 font-mono text-xs">انقر بالزر الأيمن على ملف الخط › Install for all users</td>
-                <td class="p-4 text-xs text-slate-400">ضرورية للغاية لرموز FGDC الجيولوجية حتى لا تظهر كأحرف أو مربعات فارغة.</td>
+                <td class="p-4 whitespace-nowrap">
+                  <span class="px-2.5 py-1 rounded-lg bg-pink-500/20 text-pink-300 border border-pink-500/30 font-bold whitespace-nowrap inline-flex items-center gap-1">
+                    <i class="fa-brands fa-windows text-pink-400 text-[10px]"></i>
+                    <span>نظام Windows (للبرنامجين معاً)</span>
+                  </span>
+                </td>
+                <td class="p-4 text-center font-mono font-bold text-pink-300 text-base whitespace-nowrap">50+</td>
+                <td class="p-4 font-mono text-xs leading-relaxed">
+                  <div>انقر بالزر الأيمن على ملف الخط › Install for all users</div>
+                </td>
+                <td class="p-4 text-xs text-slate-400 leading-relaxed">ضرورية للغاية لرموز FGDC الجيولوجية حتى لا تظهر كأحرف أو مربعات فارغة.</td>
               </tr>
             </tbody>
           </table>
