@@ -1,0 +1,10 @@
+# GitHub: single file limit 100MB — exclude the oversized training GDB + quarantine + temp files
+**/_Archive_Training_GDB/
+**/99_DUPLICATES_Quarantine/
+*.lock
+*.atx
+Thumbs.db
+Desktop.ini
+~$*
+*.tmp
+*.bak

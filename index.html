@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ArcMap Style Collection | مكتبة ستايلات الأرك ماب والأرك برو</title>
+  <meta name="description" content="تجميعة ضخمة لستايلات ArcMap (.style) و ArcGIS Pro (.stylx) — جيولوجيا، هيدرولوجيا، نفط، تعدين، تربة، نقل، غطاء أرضي — مع 40 نسخة عربية ثنائية اللغة">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: { 50: '#F0FDF4', 100: '#DCFCE7', 400: '#34D399', 500: '#10B981', 600: '#059669', 700: '#047857' },
+            ocean: { 50: '#F0F9FF', 100: '#E0F2FE', 300: '#7DD3FC', 400: '#38BDF8', 500: '#0284C7', 600: '#0369A1', 700: '#075985', 800: '#0C4A6E', 900: '#0F172A', 950: '#020617' },
+            solar: { 400: '#FBBF24', 500: '#F59E0B', 600: '#D97706' }
+          },
+          fontFamily: { cairo: ['Cairo', 'sans-serif'], inter: ['Inter', 'sans-serif'] }
+        }
+      }
+    }
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700;800;900&family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <style>
+    body { font-family: 'Cairo', sans-serif; transition: all .25s ease-in-out; }
+    body.lang-en { font-family: 'Inter', sans-serif; }
+    .glass-card { background: rgba(15,23,42,.75); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,.08); }
+    .cat-card { transition: transform .25s, border-color .25s, box-shadow .25s; }
+    .cat-card:hover { transform: translateY(-4px); }
+    .custom-scrollbar::-webkit-scrollbar { width: 6px; height: 6px; }
+    .custom-scrollbar::-webkit-scrollbar-track { background: #0f172a; }
+    .custom-scrollbar::-webkit-scrollbar-thumb { background: #0284c7; border-radius: 3px; }
+  </style>
+</head>
+<body class="bg-slate-950 text-slate-100 antialiased selection:bg-ocean-500 selection:text-white">
+
+<!-- 1. NAV -->
+<nav class="fixed top-0 left-0 right-0 z-50 glass-card border-b border-slate-800">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex items-center justify-between h-20">
+      <a href="#" class="flex items-center gap-3 group">
+        <div class="relative w-11 h-11 rounded-xl bg-gradient-to-tr from-ocean-600 via-ocean-500 to-brand-500 flex items-center justify-center text-white shadow-lg shadow-ocean-500/20 group-hover:scale-105 transition-transform">
+          <i class="fa-solid fa-layer-group text-xl"></i>
+          <span class="absolute -bottom-1 -right-1 w-3 h-3 bg-brand-500 border-2 border-slate-950 rounded-full animate-ping"></span>
+          <span class="absolute -bottom-1 -right-1 w-3 h-3 bg-brand-500 border-2 border-slate-950 rounded-full"></span>
+        </div>
+        <div>
+          <div class="flex items-center gap-2">
+            <span class="text-xl sm:text-2xl font-black tracking-tight text-white group-hover:text-ocean-400 transition-colors">ArcMap Style Collection</span>
+            <span class="text-[10px] px-2 py-0.5 rounded-full bg-ocean-500/20 text-ocean-400 border border-ocean-500/40 font-bold font-inter">v1.0</span>
+          </div>
+          <p class="text-xs text-slate-400 hidden sm:block" data-i18n="nav_tagline">مكتبة ستايلات الأرك ماب والأرك برو — 486 ستايل + 230 ستايل برو</p>
+        </div>
+      </a>
+      <div class="hidden lg:flex items-center gap-6 text-sm font-semibold text-slate-300">
+        <a href="#about" class="hover:text-ocean-400 transition-colors" data-i18n="nav_about">عن المكتبة</a>
+        <a href="#categories" class="hover:text-ocean-400 transition-colors" data-i18n="nav_cats">التصنيفات</a>
+        <a href="#compat" class="hover:text-ocean-400 transition-colors" data-i18n="nav_compat">التوافق</a>
+        <a href="#arabic" class="hover:text-ocean-400 transition-colors" data-i18n="nav_ar">النسخ العربية</a>
+        <a href="#setup" class="hover:text-ocean-400 transition-colors" data-i18n="nav_setup">طريقة الاستخدام</a>
+        <a href="#downloads" class="hover:text-ocean-400 transition-colors" data-i18n="nav_down">التحميل</a>
+        <a href="#author" class="hover:text-ocean-400 transition-colors" data-i18n="nav_author">المطور</a>
+      </div>
+      <div class="flex items-center gap-3">
+        <button id="langToggleBtn" class="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-slate-800/90 hover:bg-slate-700 text-slate-200 border border-slate-700 text-xs font-bold transition-all">
+          <i class="fa-solid fa-globe text-ocean-400"></i><span id="langText">English</span>
+        </button>
+        <a href="https://github.com/ahmadibrahim4geo/ArcMap-Style-Collection" target="_blank" rel="noopener" class="hidden sm:flex items-center gap-2 px-4 py-1.5 rounded-lg bg-gradient-to-r from-ocean-600 to-ocean-500 hover:from-ocean-500 hover:to-ocean-400 text-white text-xs font-bold transition-all">
+          <i class="fa-brands fa-github text-sm"></i><span>GitHub</span>
+        </a>
+        <button id="mobileMenuBtn" class="lg:hidden p-2 rounded-lg bg-slate-800 text-slate-300"><i class="fa-solid fa-bars text-lg"></i></button>
+      </div>
+    </div>
+  </div>
+  <div id="mobileMenu" class="hidden lg:hidden glass-card border-b border-slate-800 px-4 pt-3 pb-6 space-y-3">
+    <a href="#about" class="block py-2 text-slate-300">عن المكتبة</a>
+    <a href="#categories" class="block py-2 text-slate-300">التصنيفات</a>
+    <a href="#compat" class="block py-2 text-slate-300">التوافق</a>
+    <a href="#arabic" class="block py-2 text-slate-300">النسخ العربية</a>
+    <a href="#setup" class="block py-2 text-slate-300">طريقة الاستخدام</a>
+    <a href="#downloads" class="block py-2 text-slate-300">التحميل</a>
+    <a href="#author" class="block py-2 text-slate-300">المطور</a>
+  </div>
+</nav>
+
+<!-- 2. HERO -->
+<header class="relative pt-36 pb-20 overflow-hidden border-b border-slate-800">
+  <div class="absolute top-1/4 left-1/2 -translate-x-1/2 w-[600px] h-[600px] bg-ocean-600/15 rounded-full blur-[140px] pointer-events-none"></div>
+  <div class="absolute top-1/3 left-1/4 w-[400px] h-[400px] bg-brand-500/10 rounded-full blur-[120px] pointer-events-none"></div>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+      <div class="lg:col-span-7 space-y-6 text-center lg:text-start">
+        <div class="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-slate-900/80 border border-ocean-500/30 text-ocean-300 text-xs font-semibold">
+          <span class="w-2 h-2 rounded-full bg-brand-500 animate-pulse"></span>
+          <span data-i18n="hero_badge">المشروع كله عن ستايلات ArcMap • الأرك برو يفتح ستايلات الأرك ماب والعكس لا يحدث</span>
+        </div>
+        <h1 class="text-3xl sm:text-4xl md:text-5xl font-black text-white leading-tight">
+          <span class="bg-clip-text text-transparent bg-gradient-to-r from-white via-slate-100 to-ocean-300" data-i18n="hero_t1">مكتبة ArcMap Style Collection</span><br>
+          <span class="text-2xl sm:text-3xl md:text-4xl text-ocean-400 font-extrabold" data-i18n="hero_t2">486 ستايل أرك ماب + 230 ستايل برو + 40 نسخة عربية</span>
+        </h1>
+        <p class="text-sm font-semibold tracking-wide text-brand-400 font-inter">ARCMAP .STYLE • ARCGIS PRO .STYLX • SERVERSTYLE • LYRX • FONTS • MXD TEMPLATES</p>
+        <p class="text-base sm:text-lg text-slate-300 leading-relaxed" data-i18n="hero_desc">تجميعة قديمة ونادرة تشمل ستايلات Esri الأصلية وتجميعات من الإنترنت: جيولوجيا FGDC و GeMS و BGS و Alaska، هيدرولوجيا وشبكات مياه، بترول وتعدين وتربة SSURGO وغابات وغطاء أرضي ونقل وحدود إدارية — أغلبها ArcMap وقليل ArcGIS Pro وقليل محوَّل من QGIS. كل ستايل أصلي بقي كما هو، وبجانبه نسخة عربية ثنائية اللغة «عربي | English».</p>
+        <div class="flex flex-wrap items-center justify-center lg:justify-start gap-4 pt-2">
+          <a href="#categories" class="px-6 py-3.5 rounded-xl bg-gradient-to-r from-ocean-600 to-ocean-500 hover:from-ocean-500 hover:to-ocean-400 text-white font-bold text-sm shadow-lg flex items-center gap-2 transition-all hover:-translate-y-0.5"><i class="fa-solid fa-layer-group"></i><span data-i18n="hero_b1">تصفح التصنيفات الـ 27</span></a>
+          <a href="https://github.com/ahmadibrahim4geo/ArcMap-Style-Collection" target="_blank" rel="noopener" class="px-6 py-3.5 rounded-xl bg-slate-900/90 hover:bg-slate-800 text-slate-200 border border-slate-700 font-bold text-sm flex items-center gap-2 transition-all hover:-translate-y-0.5"><i class="fa-brands fa-github"></i><span data-i18n="hero_b2">المستودع على GitHub</span></a>
+          <a href="#arabic" class="px-5 py-3.5 rounded-xl bg-slate-800/80 hover:bg-slate-700 text-ocean-300 border border-ocean-500/30 font-semibold text-sm flex items-center gap-2 transition-all"><i class="fa-solid fa-language"></i><span data-i18n="hero_b3">النسخ العربية</span></a>
+        </div>
+        <div class="pt-4 flex flex-wrap items-center justify-center lg:justify-start gap-2 text-xs text-slate-400">
+          <span class="px-2.5 py-1 rounded-md bg-slate-900 border border-slate-800 font-inter"><i class="fa-solid fa-file text-ocean-400 mr-1 ml-1"></i> 486 × .style</span>
+          <span class="px-2.5 py-1 rounded-md bg-slate-900 border border-slate-800 font-inter"><i class="fa-solid fa-cube text-brand-400 mr-1 ml-1"></i> 230 × .stylx</span>
+          <span class="px-2.5 py-1 rounded-md bg-slate-900 border border-slate-800 font-inter"><i class="fa-solid fa-language text-solar-400 mr-1 ml-1"></i> 40 نسخة AR</span>
+          <span class="px-2.5 py-1 rounded-md bg-slate-900 border border-slate-800 font-inter"><i class="fa-solid fa-font text-purple-400 mr-1 ml-1"></i> 50+ خط</span>
+          <span class="px-2.5 py-1 rounded-md bg-slate-900 border border-slate-800 font-inter"><i class="fa-solid fa-database text-emerald-400 mr-1 ml-1"></i> 4125 ملف</span>
+        </div>
+      </div>
+      <div class="lg:col-span-5 flex justify-center relative">
+        <div class="relative w-full max-w-md">
+          <div class="absolute -inset-4 bg-gradient-to-r from-ocean-500 via-brand-500 to-solar-500 rounded-3xl blur-2xl opacity-30 animate-pulse"></div>
+          <div class="relative rounded-3xl p-6 bg-slate-900/90 border-2 border-ocean-500/40 shadow-2xl space-y-5">
+            <div class="p-5 rounded-2xl bg-slate-950 border border-slate-800" dir="ltr">
+              <div class="flex items-center justify-between text-xs mb-3 font-mono">
+                <span class="font-bold text-ocean-400"><span class="w-2.5 h-2.5 rounded-full bg-ocean-400 inline-block animate-pulse"></span> ArcMap .style</span>
+                <span class="font-bold text-emerald-400"><span class="w-2.5 h-2.5 rounded-full bg-emerald-400 inline-block animate-pulse"></span> Pro .stylx</span>
+              </div>
+              <svg viewBox="0 0 400 150" class="w-full h-auto">
+                <defs><linearGradient id="g1" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#0284c7"/><stop offset="100%" stop-color="#10b981"/></linearGradient></defs>
+                <rect x="30" y="20" width="160" height="60" rx="10" fill="#0f172a" stroke="#0284c7" stroke-width="2.5"/>
+                <text x="110" y="45" text-anchor="middle" fill="#38bdf8" font-size="13" font-weight="bold" font-family="Inter">ArcMap</text>
+                <text x="110" y="63" text-anchor="middle" fill="#94a3b8" font-size="11" font-family="monospace">486 × .style</text>
+                <rect x="210" y="20" width="160" height="60" rx="10" fill="#0f172a" stroke="#10b981" stroke-width="2.5"/>
+                <text x="290" y="45" text-anchor="middle" fill="#34d399" font-size="13" font-weight="bold" font-family="Inter">ArcGIS Pro</text>
+                <text x="290" y="63" text-anchor="middle" fill="#94a3b8" font-size="11" font-family="monospace">230 × .stylx</text>
+                <line x1="190" y1="50" x2="210" y2="50" stroke="url(#g1)" stroke-width="3" marker-end="url(#ah)"/>
+                <defs><marker id="ah" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><polygon points="0 0, 6 3, 0 6" fill="#10b981"/></marker></defs>
+                <text x="200" y="40" text-anchor="middle" fill="#fbbf24" font-size="10" font-weight="bold">Pro reads style ➔</text>
+                <rect x="30" y="95" width="340" height="38" rx="10" fill="#020617" stroke="#475569" stroke-width="1.5"/>
+                <text x="200" y="112" text-anchor="middle" fill="#e2e8f0" font-size="11" font-weight="bold">بئر نفط | Oil Well — فالق عكسي | Reverse fault</text>
+                <text x="200" y="126" text-anchor="middle" fill="#64748b" font-size="10" font-family="monospace">Arabic | English • 45,589 symbol • 49,869 field</text>
+              </svg>
+            </div>
+            <div class="grid grid-cols-2 gap-3 text-xs">
+              <div class="p-3 rounded-xl bg-slate-950/60 border border-slate-800"><span class="text-slate-400 block text-[10px]">Compatibility:</span><span class="font-bold text-emerald-400 flex items-center gap-1 mt-0.5"><i class="fa-solid fa-circle-check"></i> Pro ← opens .style</span></div>
+              <div class="p-3 rounded-xl bg-slate-950/60 border border-slate-800"><span class="text-slate-400 block text-[10px]">Reverse:</span><span class="font-bold text-rose-400 flex items-center gap-1 mt-0.5"><i class="fa-solid fa-circle-xmark"></i> ArcMap ✕ .stylx</span></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- 3. METRICS -->
+<section class="py-10 bg-slate-900/60 border-b border-slate-800">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6 text-center">
+      <div class="p-4 rounded-xl glass-card"><p class="text-3xl font-black text-ocean-400 font-inter">486</p><p class="text-xs font-bold text-slate-300 mt-1" data-i18n="m1">ستايل ArcMap (.style)</p></div>
+      <div class="p-4 rounded-xl glass-card"><p class="text-3xl font-black text-brand-400 font-inter">230</p><p class="text-xs font-bold text-slate-300 mt-1" data-i18n="m2">ستايل Pro (.stylx)</p></div>
+      <div class="p-4 rounded-xl glass-card"><p class="text-3xl font-black text-solar-400 font-inter">27</p><p class="text-xs font-bold text-slate-300 mt-1" data-i18n="m3">تصنيفًا موضوعيًا</p></div>
+      <div class="p-4 rounded-xl glass-card"><p class="text-3xl font-black text-purple-400 font-inter">40</p><p class="text-xs font-bold text-slate-300 mt-1" data-i18n="m4">نسخة عربية ثنائية</p></div>
+      <div class="p-4 rounded-xl glass-card"><p class="text-3xl font-black text-pink-400 font-inter">4125</p><p class="text-xs font-bold text-slate-300 mt-1" data-i18n="m5">إجمالي الملفات</p></div>
+      <div class="p-4 rounded-xl glass-card"><p class="text-3xl font-black text-emerald-400 font-inter">MIT</p><p class="text-xs font-bold text-slate-300 mt-1" data-i18n="m6">مفتوح المصدر</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- 4. ABOUT -->
+<section id="about" class="py-20 border-b border-slate-800">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center max-w-3xl mx-auto mb-14">
+      <h2 class="text-xs uppercase font-extrabold tracking-widest text-ocean-400 mb-2 font-inter">ABOUT THE COLLECTION</h2>
+      <h3 class="text-3xl sm:text-4xl font-extrabold text-white" data-i18n="about_h">ما هي هذه التجميعة؟ ولماذا هي مهمة؟</h3>
+      <p class="text-slate-400 text-sm sm:text-base mt-4 leading-relaxed" data-i18n="about_s">المشروع كله عن ستايلات الأرك ماب. تجميعة قديمة تشمل ستايلات Esri الرسمية وتجميعات من الإنترنت، منظمّة في 27 مجلدًا موضوعيًا. الأرك برو يقدر يفتح ستايلات الأرك ماب ويستخدمها عادي، لكن العكس لا يحدث — لذلك حافظنا على نسختي .style و .stylx معًا كلما أمكن.</p>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <div class="glass-card p-6 rounded-2xl hover:border-ocean-500/50 transition"><div class="w-12 h-12 rounded-xl bg-ocean-500/20 text-ocean-400 flex items-center justify-center text-xl mb-4"><i class="fa-solid fa-mountain"></i></div><h4 class="text-lg font-bold text-white mb-2">جيولوجيا معيارية FGDC & GeMS</h4><p class="text-slate-400 text-sm leading-relaxed">Alaska DGGS و BGS 50k و Geology 24K و USGS FGDC-GeMS و OF2005-1314 للصخور والأزمنة الجيولوجية — بالأكواد الرقمية والألوان المعتمدة.</p></div>
+      <div class="glass-card p-6 rounded-2xl hover:border-brand-500/50 transition"><div class="w-12 h-12 rounded-xl bg-brand-500/20 text-brand-400 flex items-center justify-center text-xl mb-4"><i class="fa-solid fa-droplet"></i></div><h4 class="text-lg font-bold text-white mb-2">هيدرولوجيا وشبكات مياه</h4><p class="text-slate-400 text-sm leading-relaxed">رموز الهيدرولوجيا والمرافق (Utilities + Water/Wastewater) وشبكات المياه — ستايلات ArcMap و Pro مع نسخ عربية.</p></div>
+      <div class="glass-card p-6 rounded-2xl hover:border-solar-500/50 transition"><div class="w-12 h-12 rounded-xl bg-solar-500/20 text-solar-400 flex items-center justify-center text-xl mb-4"><i class="fa-solid fa-oil-well"></i></div><h4 class="text-lg font-bold text-white mb-2">بترول وتعدين وتربة</h4><p class="text-slate-400 text-sm leading-relaxed">ستايلات البترول (بما فيها Shell أحمر/أخضر) والتعدين وتربة SSURGO بأكواد FAO — مترجمة مع بقاء الأكواد والاختصارات.</p></div>
+      <div class="glass-card p-6 rounded-2xl hover:border-purple-500/50 transition"><div class="w-12 h-12 rounded-xl bg-purple-500/20 text-purple-400 flex items-center justify-center text-xl mb-4"><i class="fa-solid fa-palette"></i></div><h4 class="text-lg font-bold text-white mb-2">ألوان ColorBrewer و Esri</h4><p class="text-slate-400 text-sm leading-relaxed">أكثر من 200 ستايل ألوان: ColorBrewer و ETOPO1 و Hypsometry و Web Colors و 57 ستايل Esri الأصلية من ArcMap.</p></div>
+      <div class="glass-card p-6 rounded-2xl hover:border-pink-500/50 transition"><div class="w-12 h-12 rounded-xl bg-pink-500/20 text-pink-400 flex items-center justify-center text-xl mb-4"><i class="fa-solid fa-road"></i></div><h4 class="text-lg font-bold text-white mb-2">نقل وغطاء أرضي وسكان</h4><p class="text-slate-400 text-sm leading-relaxed">النقل (OSM/MUTCD) والغطاء الأرضي (FAO-LCCS) والسكان والاستخدام الحضري (UrbanAtlas/CORINE) والحدود الإدارية.</p></div>
+      <div class="glass-card p-6 rounded-2xl hover:border-emerald-500/50 transition"><div class="w-12 h-12 rounded-xl bg-emerald-500/20 text-emerald-400 flex items-center justify-center text-xl mb-4"><i class="fa-solid fa-toolbox"></i></div><h4 class="text-lg font-bold text-white mb-2">خطوط + قوالب + سكربتات</h4><p class="text-slate-400 text-sm leading-relaxed">مجلد Styles and Fonts Symbol المنظم: ستايلات ArcMap و Pro، ومحوَّلات QGIS، وخطوط FGDC، وقوالب MXD/GDB، وأدوات وسكربتات.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- 5. CATEGORIES -->
+<section id="categories" class="py-20 bg-slate-900/40 border-b border-slate-800">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center max-w-3xl mx-auto mb-10">
+      <h2 class="text-xs uppercase font-extrabold tracking-widest text-ocean-400 mb-2 font-inter">BROWSE BY THEME</h2>
+      <h3 class="text-3xl sm:text-4xl font-extrabold text-white" data-i18n="cats_h">تصفح الـ 27 تصنيفًا</h3>
+      <p class="text-slate-400 text-sm sm:text-base mt-4" data-i18n="cats_s">اكتب في مربع البحث للفلترة الفورية — كل بطاقة تعرض عدد ستايلات ArcMap و Pro وإجمالي الملفات، والضغط عليها يفتح المجلد على GitHub.</p>
+    </div>
+    <div class="max-w-2xl mx-auto mb-10">
+      <div class="relative">
+        <i class="fa-solid fa-magnifying-glass absolute top-1/2 -translate-y-1/2 right-4 text-slate-500"></i>
+        <input id="searchBox" type="text" placeholder="ابحث: جيولوجيا، بترول، تربة، نقل، ألوان... / Search: geology, soils, oil..." class="w-full py-3.5 pr-11 pl-4 rounded-2xl bg-slate-950 border border-slate-700 focus:border-ocean-500 outline-none text-sm text-slate-200 placeholder:text-slate-500">
+      </div>
+      <p id="searchCount" class="text-center text-xs text-slate-500 mt-3 font-inter">27 / 27</p>
+    </div>
+    <div id="catsGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+  </div>
+</section>
+
+<!-- 6. COMPAT -->
+<section id="compat" class="py-20 border-b border-slate-800">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center max-w-3xl mx-auto mb-14">
+      <h2 class="text-xs uppercase font-extrabold tracking-widest text-ocean-400 mb-2 font-inter">COMPATIBILITY MATRIX</h2>
+      <h3 class="text-3xl sm:text-4xl font-extrabold text-white" data-i18n="comp_h">قاعدة التوافق الذهبية</h3>
+      <p class="text-slate-400 text-sm sm:text-base mt-4" data-i18n="comp_s">الأرك برو يقدر يفتح ستايلات الأرك ماب (.style) ويستخدمها عادي — لكن العكس لا يحدث. لذلك كل تصنيف رئيسي يحتوي نسختي ArcMap و Pro كلما أمكن.</p>
+    </div>
+    <div class="glass-card rounded-2xl overflow-hidden">
+      <div class="overflow-x-auto"><table class="w-full text-right text-xs sm:text-sm">
+        <thead class="bg-slate-900/90 text-slate-300 border-b border-slate-800 font-bold"><tr><th class="p-4">الصيغة</th><th class="p-4">الامتداد</th><th class="p-4">يفتح في</th><th class="p-4">العدد بالمكتبة</th><th class="p-4">طريقة الإضافة</th></tr></thead>
+        <tbody class="divide-y divide-slate-800 text-slate-300">
+          <tr class="hover:bg-slate-900/50"><td class="p-4 font-bold text-white">ArcMap Style</td><td class="p-4 font-mono text-ocean-400">.style</td><td class="p-4">ArcMap 10.x + <span class="text-emerald-400 font-bold">ArcGIS Pro ✓</span></td><td class="p-4 font-mono font-bold">486</td><td class="p-4">Customize › Style Manager › Add Style</td></tr>
+          <tr class="hover:bg-slate-900/50"><td class="p-4 font-bold text-white">ArcGIS Pro Stylx</td><td class="p-4 font-mono text-brand-400">.stylx</td><td class="p-4">ArcGIS Pro فقط <span class="text-rose-400 font-bold">✕ ArcMap</span></td><td class="p-4 font-mono font-bold">230</td><td class="p-4">Insert › Add Style</td></tr>
+          <tr class="hover:bg-slate-900/50"><td class="p-4 font-bold text-white">Server Style</td><td class="p-4 font-mono text-solar-400">.ServerStyle</td><td class="p-4">Pro / Server</td><td class="p-4 font-mono font-bold">114</td><td class="p-4">Add Style في Pro</td></tr>
+          <tr class="hover:bg-slate-900/50"><td class="p-4 font-bold text-white">Layer File</td><td class="p-4 font-mono text-purple-400">.lyrx / .mxd</td><td class="p-4">Pro / ArcMap</td><td class="p-4 font-mono font-bold">37 / 11</td><td class="p-4">Add Data مباشرة</td></tr>
+          <tr class="hover:bg-slate-900/50"><td class="p-4 font-bold text-white">Fonts</td><td class="p-4 font-mono text-pink-400">.ttf / .otf</td><td class="p-4">النظام (تثبيت)</td><td class="p-4 font-mono font-bold">50+</td><td class="p-4">كليك يمين › Install</td></tr>
+        </tbody>
+      </table></div>
+    </div>
+    <div class="mt-8 grid grid-cols-1 lg:grid-cols-2 gap-6">
+      <div class="glass-card p-6 rounded-2xl border-slate-800"><h4 class="font-bold text-white mb-2"><i class="fa-solid fa-folder-tree text-ocean-400 ml-2"></i>هيكل مجلد Styles and Fonts Symbol</h4><p class="text-xs text-slate-400 leading-relaxed font-mono" dir="ltr">01_ArcMap_Styles / 02_ArcPro_Stylx / 03_from QGIS to ArcMap_Style / 04_Fonts / 05_USGS_AI_Inkscape / 06_Docs_PDF_Books / 07_MXD_GDB_Templates / 08_Tools_Scripts</p></div>
+      <div class="glass-card p-6 rounded-2xl border-2 border-brand-500/30"><h4 class="font-bold text-white mb-2"><i class="fa-solid fa-circle-exclamation text-solar-400 ml-2"></i>ملاحظة عن QGIS</h4><p class="text-xs text-slate-300 leading-relaxed">يوجد قدر قليل محوَّل من QGIS إلى ArcMap داخل <code>03_from QGIS to ArcMap_Style</code> — جودتها استرشادية وليست بمعيارية FGDC.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- 7. ARABIC -->
+<section id="arabic" class="py-20 bg-slate-900/40 border-b border-slate-800">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center max-w-3xl mx-auto mb-14">
+      <h2 class="text-xs uppercase font-extrabold tracking-widest text-ocean-400 mb-2 font-inter">ARABIC BILINGUAL EDITIONS</h2>
+      <h3 class="text-3xl sm:text-4xl font-extrabold text-white">النسخ العربية: 40 ملف • 45,589 رمز • 49,869 حقلًا</h3>
+      <p class="text-slate-400 text-sm sm:text-base mt-4">كل ستايل أصلي بقي كما هو بدون أي تعديل، وأُنشئت بجانبه نسخة عربية داخل مجلد فرعي <code>Arabic</code> بالتنسيق: <span class="text-solar-400 font-bold">عربي | English</span> — مثال: «بئر نفط | Oil Well».</p>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div class="glass-card p-6 rounded-2xl text-center"><div class="w-12 h-12 mx-auto rounded-xl bg-ocean-500/20 text-ocean-400 flex items-center justify-center text-xl mb-3"><i class="fa-solid fa-magnifying-glass"></i></div><h4 class="font-bold text-white">بحث بالعربية والإنجليزية</h4><p class="text-xs text-slate-400 mt-2 leading-relaxed">الأصل الإنجليزي محفوظ بعد الفاصل | لذلك البحث يعمل باللغتين، والأكواد (FGDC و AXX0 و Zt) بقيت كما هي.</p></div>
+      <div class="glass-card p-6 rounded-2xl text-center"><div class="w-12 h-12 mx-auto rounded-xl bg-brand-500/20 text-brand-400 flex items-center justify-center text-xl mb-3"><i class="fa-solid fa-table"></i></div><h4 class="font-bold text-white">ملف مراجعة CSV لكل نسخة</h4><p class="text-xs text-slate-400 mt-2 leading-relaxed font-mono" dir="ltr">Translations_*.csv: field | id | key | original | arabic | new_value | status</p></div>
+      <div class="glass-card p-6 rounded-2xl text-center"><div class="w-12 h-12 mx-auto rounded-xl bg-solar-500/20 text-solar-400 flex items-center justify-center text-xl mb-3"><i class="fa-brands fa-python"></i></div><h4 class="font-bold text-white">إعادة التوليد بالقاموس</h4><p class="text-xs text-slate-400 mt-2 leading-relaxed font-mono" dir="ltr">00 - Arabic Translation Kit / translate_styles.py all</p></div>
+    </div>
+    <div class="mt-8 p-4 rounded-2xl bg-slate-950 border border-slate-800 text-xs text-slate-300 flex items-start gap-2"><i class="fa-solid fa-triangle-exclamation text-solar-400 mt-0.5"></i><span>الترجمة آلية بقاموس (~2860 مصطلحًا) ومرتبة ككلمات مفتاحية للبحث والفهم وليست صياغة نهائية منقحة — راجع عمود arabic في ملف CSV وأعد تشغيل السكربت (الأصول لا تُمس أبدًا — يُتحقق بـ SHA256).</span></div>
+  </div>
+</section>
+
+<!-- 8. SETUP -->
+<section id="setup" class="py-20 border-b border-slate-800">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center max-w-3xl mx-auto mb-14">
+      <h2 class="text-xs uppercase font-extrabold tracking-widest text-ocean-400 mb-2 font-inter">SETUP IN 3 STEPS</h2>
+      <h3 class="text-3xl sm:text-4xl font-extrabold text-white">طريقة الاستخدام في 3 خطوات</h3>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div class="glass-card p-6 rounded-2xl text-center space-y-3"><div class="w-14 h-14 mx-auto rounded-2xl bg-ocean-500/20 text-ocean-400 flex items-center justify-center text-2xl font-black font-inter">1</div><h4 class="text-lg font-bold text-white">حمّل أو انسخ المستودع</h4><p class="text-xs text-slate-400 leading-relaxed font-mono" dir="ltr">git clone https://github.com/ahmadibrahim4geo/ArcMap-Style-Collection.git</p></div>
+      <div class="glass-card p-6 rounded-2xl text-center space-y-3"><div class="w-14 h-14 mx-auto rounded-2xl bg-brand-500/20 text-brand-400 flex items-center justify-center text-2xl font-black font-inter">2</div><h4 class="text-lg font-bold text-white">أضف الستايل لقائمتك</h4><p class="text-xs text-slate-400 leading-relaxed">ArcMap: Customize › Style Manager › Add Style واختر <code>*-AR.style</code> للعربية — Pro: Insert › Add Style واختر <code>*-AR.stylx</code>.</p></div>
+      <div class="glass-card p-6 rounded-2xl text-center space-y-3"><div class="w-14 h-14 mx-auto rounded-2xl bg-solar-500/20 text-solar-400 flex items-center justify-center text-2xl font-black font-inter">3</div><h4 class="text-lg font-bold text-white">ابحث وطبّق الرمز</h4><p class="text-xs text-slate-400 leading-relaxed">ابحث في Symbol Selector بالعربية (بئر، فالق، غابة، خزان...) أو بالإنجليزية، وثبّت الخطوط من مجلد Fonts أولًا.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- 9. DOWNLOADS -->
+<section id="downloads" class="py-20 bg-slate-900/40 border-b border-slate-800">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center max-w-3xl mx-auto mb-12">
+      <h2 class="text-xs uppercase font-extrabold tracking-widest text-ocean-400 mb-2 font-inter">CLONE & DOWNLOAD</h2>
+      <h3 class="text-3xl sm:text-4xl font-extrabold text-white">انسخ المستودع أو حمّله مضغوطًا</h3>
+    </div>
+    <div class="max-w-3xl mx-auto mb-12 p-4 rounded-2xl bg-slate-950 border border-slate-800 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div class="flex items-center gap-3 text-xs sm:text-sm font-mono text-ocean-300 overflow-hidden" dir="ltr"><i class="fa-solid fa-terminal text-slate-500"></i><span class="truncate">git clone https://github.com/ahmadibrahim4geo/ArcMap-Style-Collection.git</span></div>
+      <button id="copyGitCloneBtn" class="px-4 py-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs font-bold font-inter shrink-0 flex items-center gap-2 transition"><i class="fa-regular fa-copy"></i><span data-i18n="btn_copy">نسخ</span></button>
+    </div>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
+      <div class="glass-card p-6 rounded-2xl flex flex-col justify-between space-y-4"><div><div class="w-10 h-10 rounded-xl bg-ocean-500/20 text-ocean-400 flex items-center justify-center text-lg mb-3"><i class="fa-solid fa-file"></i></div><h4 class="font-bold text-white">ستايلات ArcMap</h4><p class="text-xs text-slate-400 mt-1">486 ملف .style — تصفح مجلد 01_ArcMap_Styles.</p></div><a href="https://github.com/ahmadibrahim4geo/ArcMap-Style-Collection/tree/main/Styles%20and%20Fonts%20Symbol/01_ArcMap_Styles" target="_blank" rel="noopener" class="w-full py-2.5 rounded-xl bg-ocean-600 hover:bg-ocean-500 text-white font-bold text-xs text-center transition">فتح المجلد</a></div>
+      <div class="glass-card p-6 rounded-2xl flex flex-col justify-between space-y-4"><div><div class="w-10 h-10 rounded-xl bg-brand-500/20 text-brand-400 flex items-center justify-center text-lg mb-3"><i class="fa-solid fa-cube"></i></div><h4 class="font-bold text-white">ستايلات Pro</h4><p class="text-xs text-slate-400 mt-1">230 ملف .stylx — تصفح مجلد 02_ArcPro_Stylx.</p></div><a href="https://github.com/ahmadibrahim4geo/ArcMap-Style-Collection/tree/main/Styles%20and%20Fonts%20Symbol/02_ArcPro_Stylx" target="_blank" rel="noopener" class="w-full py-2.5 rounded-xl bg-slate-800 hover:bg-slate-700 border border-slate-700 text-slate-200 font-bold text-xs text-center transition">فتح المجلد</a></div>
+      <div class="glass-card p-6 rounded-2xl flex flex-col justify-between space-y-4"><div><div class="w-10 h-10 rounded-xl bg-solar-500/20 text-solar-400 flex items-center justify-center text-lg mb-3"><i class="fa-solid fa-book"></i></div><h4 class="font-bold text-white">نظرية الألوان PDF</h4><p class="text-xs text-slate-400 mt-1">كتاب نظرية الألوان المرفق مع التجميعة (61MB).</p></div><a href="https://github.com/ahmadibrahim4geo/ArcMap-Style-Collection" target="_blank" rel="noopener" class="w-full py-2.5 rounded-xl bg-slate-800 hover:bg-slate-700 border border-slate-700 text-slate-200 font-bold text-xs text-center transition">استعراض المستودع</a></div>
+      <div class="glass-card p-6 rounded-2xl flex flex-col justify-between space-y-4"><div><div class="w-10 h-10 rounded-xl bg-emerald-500/20 text-emerald-400 flex items-center justify-center text-lg mb-3"><i class="fa-solid fa-file-zipper"></i></div><h4 class="font-bold text-white">تحميل ZIP كامل</h4><p class="text-xs text-slate-400 mt-1">الحجم كبير (~2.9GB) — يُفضل الـ Clone الجزئي.</p></div><a href="https://github.com/ahmadibrahim4geo/ArcMap-Style-Collection/archive/refs/heads/main.zip" target="_blank" rel="noopener" class="w-full py-2.5 rounded-xl bg-emerald-600/80 hover:bg-emerald-600 text-white font-bold text-xs text-center transition">تحميل ZIP</a></div>
+    </div>
+  </div>
+</section>
+
+<!-- 10. FOOTER -->
+<footer id="author" class="pt-20 pb-12 bg-slate-950 text-slate-400">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="glass-card p-8 rounded-3xl border-slate-800 mb-14">
+      <div class="grid grid-cols-1 md:grid-cols-12 gap-8 items-center">
+        <div class="md:col-span-3 text-center">
+          <div class="relative w-28 h-28 mx-auto rounded-full p-1 bg-gradient-to-tr from-ocean-500 via-brand-500 to-solar-500 shadow-xl mb-3">
+            <img src="https://ui-avatars.com/api/?name=Ahmad+Ibrahim&background=0284c7&color=fff&size=256" alt="Ahmad Ibrahim" class="w-full h-full object-cover rounded-full border-2 border-slate-900">
+            <span class="absolute bottom-1 right-2 w-4 h-4 bg-emerald-500 border-2 border-slate-900 rounded-full animate-pulse"></span>
+          </div>
+          <h4 class="text-base font-black text-white">أحمد إبراهيم</h4>
+          <p class="text-xs font-semibold text-ocean-400 font-inter">Ahmad Ibrahim</p>
+          <p class="text-[11px] text-slate-400 mt-1" data-i18n="author_role">أخصائي نظم معلومات جغرافية ومطور برمجيات مكانية</p>
+        </div>
+        <div class="md:col-span-9 space-y-3">
+          <div class="flex items-center gap-2"><span class="px-2.5 py-0.5 rounded bg-ocean-500/20 text-ocean-400 text-xs font-bold">جامع ومنظم المكتبة</span><span class="text-xs text-slate-400 font-inter">@ahmadibrahim4geo</span></div>
+          <p class="text-xs sm:text-sm text-slate-300 leading-relaxed">أخصائي GIS وكارتوجرافي — جمع وتنظيم هذه المكتبة النادرة لستايلات ArcMap و ArcGIS Pro (بما فيها النسخ العربية ثنائية اللغة) لخدمة مهندسي وباحثي نظم المعلومات الجغرافية في المشاريع الجيولوجية والهيدرولوجية والبنية التحتية.</p>
+          <div class="mt-4 p-4 rounded-2xl bg-gradient-to-r from-emerald-950/50 via-slate-900 to-slate-900 border border-emerald-500/30 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+            <div class="flex items-center gap-3"><div class="w-10 h-10 rounded-xl bg-emerald-500/20 text-emerald-400 flex items-center justify-center text-xl shrink-0"><i class="fa-brands fa-whatsapp text-2xl"></i></div>
+              <div><div class="flex items-center gap-2"><span class="text-xs font-bold text-emerald-400">استشارات GIS والبنية التحتية</span><span class="px-2 py-0.5 rounded text-[10px] font-bold bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 font-inter">Available</span></div>
+              <p class="text-xs text-slate-300 mt-1">للاستشارات في مشاريع GIS والخرائط الجيولوجية وشبكات المرافق:</p></div></div>
+            <a href="https://wa.me/201111915925" target="_blank" rel="noopener" class="px-5 py-2.5 rounded-xl bg-gradient-to-r from-emerald-600 to-emerald-500 hover:from-emerald-500 hover:to-emerald-400 text-white font-bold text-xs flex items-center gap-2 transition-all hover:-translate-y-0.5"><i class="fa-brands fa-whatsapp text-xl"></i><span>تواصل عبر واتساب</span></a>
+          </div>
+          <div class="flex flex-wrap items-center gap-3 pt-2">
+            <a href="https://github.com/ahmadibrahim4geo" target="_blank" rel="noopener" class="px-3.5 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-white text-xs font-bold flex items-center gap-2 transition"><i class="fa-brands fa-github"></i><span>GitHub Profile</span></a>
+            <a href="mailto:ahmadibrahim.geo@gmail.com" class="px-3.5 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-white text-xs font-bold flex items-center gap-2 transition"><i class="fa-solid fa-envelope"></i><span>البريد الإلكتروني</span></a>
+            <a href="https://wa.me/201111915925" target="_blank" rel="noopener" class="px-3.5 py-1.5 rounded-lg bg-emerald-950/80 hover:bg-emerald-900 border border-emerald-500/30 text-emerald-300 text-xs font-bold flex items-center gap-2 transition"><i class="fa-brands fa-whatsapp text-emerald-400"></i><span>واتساب</span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="py-6 border-t border-b border-slate-900 text-xs flex flex-wrap items-center justify-between gap-4 font-inter"><div><span>Built for Esri ArcMap 10.x & ArcGIS Pro • .style + .stylx + fonts + templates</span></div><div><span>Open Source under <span class="text-ocean-400 font-bold">MIT License</span></span></div></div>
+    <div class="pt-8 text-center text-xs"><p>© 2026 ArcMap Style Collection. All rights reserved.</p><p class="mt-1 text-[11px]" data-i18n="footer_sig">تنظيم أحمد إبراهيم (Ahmad Ibrahim) • لخدمة مجتمع نظم المعلومات الجغرافية</p></div>
+  </div>
+</footer>
+
+<script>
+const REPO = "https://github.com/ahmadibrahim4geo/ArcMap-Style-Collection/tree/main/";
+const CATS = [
+  {ar:"الحدود الإدارية", en:"Administrative Boundaries", path:"Administrative Boundaries Styles", icon:"fa-border-all", c:"#38bdf8", s:2, x:2, t:11, d:"حدود NaturalEarth و GADM — نسختا ArcMap و Pro + عربي"},
+  {ar:"ألاسكا الجيولوجية", en:"Alaska DGGS AK-GeMS", path:"Alaska DGGS AK-GeMS Style", icon:"fa-mountain", c:"#34d399", s:2, x:2, t:17, d:"رموز AK-GeMS الإصداران 1 و 2 — ArcMap و Pro + نسخ عربية"},
+  {ar:"أسهم الشمال العربية", en:"AR North Arrows", path:"Ar North Arrow", icon:"fa-compass", c:"#fbbf24", s:1, x:0, t:4, d:"أسهم شمال مخصصة — ستايل ArcMap"},
+  {ar:"جيولوجيا بريطانيا 50k", en:"BGS Geology 50k", path:"BGS Geology 50k Styles", icon:"fa-layer-group", c:"#a78bfa", s:0, x:2, t:14, d:"رموز BGS بالأكواد اللونية + نسخة Pro عربية"},
+  {ar:"الأقاليم المناخية", en:"Climate Regions", path:"Climate Regions Styles", icon:"fa-cloud-sun", c:"#7dd3fc", s:2, x:2, t:10, d:"تصنيفات مناخية — ArcMap و Pro"},
+  {ar:"ألوان Esri", en:"Color For ArcGIS", path:"Color For ArcGIS", icon:"fa-palette", c:"#f472b6", s:207, x:41, t:1152, d:"أضخم مجلد: 207 ستايل ألوان + أدلة PDF وألوان الويب والارتفاعات"},
+  {ar:"ColorBrewer", en:"ColorBrewer Schemes", path:"ColorBrewer", icon:"fa-swatchbook", c:"#fb7185", s:1, x:0, t:2, d:"سكيمات ColorBrewer الشهيرة للخرائط الموضوعية"},
+  {ar:"ستايلات Esri الأصلية", en:"ESRI Default Styles", path:"ESRI's Styles from arcMap", icon:"fa-star", c:"#fbbf24", s:57, x:0, t:554, d:"57 ستايل Esri الأصلية من ArcMap كما تُنصب مع البرنامج"},
+  {ar:"الغابات", en:"Forestry", path:"Forestry Styles", icon:"fa-tree", c:"#34d399", s:2, x:2, t:11, d:"رموز الغابات والغطاء الشجري + نسخ عربية"},
+  {ar:"جيولوجيا 24K", en:"Geology 24K", path:"Geology 24K Styles", icon:"fa-hammer", c:"#d97706", s:2, x:2, t:11, d:"رموز جيولوجية تفصيلية 1:24K + عربي"},
+  {ar:"الجيومورفولوجيا", en:"Geomorphological", path:"Geomorphological Style", icon:"fa-hill-rockslide", c:"#a3e635", s:3, x:0, t:19, d:"ستايل Vorarlberg الجيومورفولوجي + نسخة عربية (الأصل ثنائي اللغة)"},
+  {ar:"تجميعات GitHub", en:"GitHub Collected", path:"GitHub-Collected-Styles", icon:"fa-github", c:"#e2e8f0", s:6, x:0, t:7, d:"6 ستايلات مجمعة من مستودعات GitHub المختلفة"},
+  {ar:"الهيدرولوجيا والمياه", en:"Hydrology & Water", path:"Hydrology and Water Resources Styles", icon:"fa-droplet", c:"#38bdf8", s:4, x:4, t:17, d:"Utilities و Water/Wastewater — ArcMap و Pro + عربي"},
+  {ar:"الغطاء الأرضي", en:"Land Cover", path:"Land Cover Styles", icon:"fa-leaf", c:"#4ade80", s:2, x:2, t:11, d:"غطاء أرضي FAO-LCCS — ArcMap و Pro + عربي"},
+  {ar:"التعدين", en:"Mining", path:"Mining Styles", icon:"fa-gem", c:"#facc15", s:2, x:2, t:10, d:"رموز المناجم والخامات + نسخ عربية"},
+  {ar:"البترول", en:"Petroleum", path:"Petroleum Styles", icon:"fa-oil-well", c:"#fb923c", s:2, x:6, t:16, d:"رموز النفط والغاز + Shell أحمر/أخضر + نسخ عربية"},
+  {ar:"السكان والديموغرافيا", en:"Population & Demographics", path:"Population and Demographics Styles", icon:"fa-users", c:"#c084fc", s:2, x:2, t:11, d:"رموز سكانية وتعداد + عربي"},
+  {ar:"التربة SSURGO", en:"Soils SSURGO", path:"Soils SSURGO Styles", icon:"fa-seedling", c:"#a16207", s:4, x:2, t:14, d:"رموز التربة SSURGO وأسماء FAO + نسخ عربية"},
+  {ar:"الستايلات والخطوط", en:"Styles & Fonts Hub", path:"Styles and Fonts Symbol", icon:"fa-toolbox", c:"#38bdf8", s:157, x:149, t:2128, d:"القلب المنظم: 8 مجلدات (ArcMap/Pro/QGIS/Fonts/MXD/Tools)"},
+  {ar:"طبوغرافيا مصر", en:"Egypt Topographic", path:"Topographic Styles - Egypt", icon:"fa-map", c:"#f59e0b", s:2, x:2, t:10, d:"رموز طبوغرافية مخصصة لمصر"},
+  {ar:"النقل", en:"Transportation", path:"Transportation Styles", icon:"fa-road", c:"#94a3b8", s:2, x:2, t:11, d:"طرق OSM و MUTCD — ArcMap و Pro + عربي"},
+  {ar:"استخدام الأراضي الحضري", en:"Urban Land Use", path:"Urban Land Use Styles", icon:"fa-city", c:"#f472b6", s:2, x:2, t:12, d:"UrbanAtlas و CORINE — ArcMap و Pro + عربي"},
+  {ar:"وثائق FGDC 2006", en:"FGDC Standard Docs", path:"USGS FGDC Symbol Standard 2006 - Standard Documents", icon:"fa-file-lines", c:"#e2e8f0", s:0, x:0, t:5, d:"الوثائق المعيارية لرموز FGDC الجيولوجية"},
+  {ar:"رموز FGDC-GeMS", en:"USGS FGDC-GeMS", path:"USGS FGDC-GeMS - Standard Geologic Symbology", icon:"fa-shield-halved", c:"#34d399", s:2, x:2, t:21, d:"المعيار الجيولوجي الاتحادي + GSC — نسخ ArcMap و Pro عربية"},
+  {ar:"صخور وأزمنة OF2005", en:"USGS OF2005-1314", path:"USGS OF2005-1314 - Lithology and Geologic Time Styles", icon:"fa-clock", c:"#fbbf24", s:14, x:0, t:30, d:"7 ستايلات للصخور والأزمنة (DNAG/ISC/SGMC/lith) + نسخ عربية"},
+  {ar:"النباتات والأحيوم", en:"Vegetation & Biomes", path:"Vegetation and Biomes Styles", icon:"fa-tree-city", c:"#4ade80", s:2, x:2, t:10, d:"رموز الغطاء النباتي والأحيوم + عربي"},
+  {ar:"شبكات المياه", en:"Water Networks", path:"Water NetWork  Styles", icon:"fa-faucet-drip", c:"#38bdf8", s:2, x:0, t:3, d:"رموز شبكات المياه — ArcMap"}
+];
+const grid = document.getElementById('catsGrid');
+function renderCats(filter="") {
+  const f = filter.trim().toLowerCase();
+  let shown = 0;
+  grid.innerHTML = "";
+  CATS.forEach(c => {
+    const hay = (c.ar + " " + c.en + " " + c.path + " " + c.d).toLowerCase();
+    if (f && !hay.includes(f)) return;
+    shown++;
+    const a = document.createElement('a');
+    a.href = REPO + encodeURIComponent(c.path).replace(/%20/g, "%20");
+    a.target = "_blank"; a.rel = "noopener";
+    a.className = "cat-card glass-card p-5 rounded-2xl block border-slate-800 hover:border-ocean-500/50";
+    a.innerHTML = `<div class="flex items-start gap-3">
+      <span class="w-11 h-11 rounded-xl flex items-center justify-center text-lg shrink-0" style="background:${c.c}22;color:${c.c}"><i class="fa-solid ${c.icon}"></i></span>
+      <div class="min-w-0"><h4 class="font-bold text-white text-sm leading-snug">${c.ar}</h4><p class="text-[11px] text-slate-400 font-inter truncate">${c.en}</p></div>
+    </div>
+    <p class="text-[11px] text-slate-400 mt-3 leading-relaxed min-h-[32px]">${c.d}</p>
+    <div class="flex flex-wrap gap-1.5 mt-3 text-[10px] font-mono">
+      <span class="px-2 py-0.5 rounded bg-ocean-500/15 text-ocean-300 border border-ocean-500/25">.style: ${c.s}</span>
+      <span class="px-2 py-0.5 rounded bg-emerald-500/15 text-emerald-300 border border-emerald-500/25">.stylx: ${c.x}</span>
+      <span class="px-2 py-0.5 rounded bg-slate-800 text-slate-300 border border-slate-700">files: ${c.t}</span>
+    </div>
+    <span class="inline-flex items-center gap-1.5 mt-3 text-[11px] font-bold text-ocean-400">فتح المجلد على GitHub <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i></span>`;
+    grid.appendChild(a);
+  });
+  document.getElementById('searchCount').textContent = shown + " / " + CATS.length;
+}
+renderCats();
+document.getElementById('searchBox').addEventListener('input', e => renderCats(e.target.value));
+document.getElementById('mobileMenuBtn').addEventListener('click', () => document.getElementById('mobileMenu').classList.toggle('hidden'));
+document.querySelectorAll('#mobileMenu a').forEach(a => a.addEventListener('click', () => document.getElementById('mobileMenu').classList.add('hidden')));
+const i18n = {
+  ar: { nav_tagline:"مكتبة ستايلات الأرك ماب والأرك برو — 486 ستايل + 230 ستايل برو", nav_about:"عن المكتبة", nav_cats:"التصنيفات", nav_compat:"التوافق", nav_ar:"النسخ العربية", nav_setup:"طريقة الاستخدام", nav_down:"التحميل", nav_author:"المطور", hero_badge:"المشروع كله عن ستايلات ArcMap • الأرك برو يفتح ستايلات الأرك ماب والعكس لا يحدث", hero_t1:"مكتبة ArcMap Style Collection", hero_t2:"486 ستايل أرك ماب + 230 ستايل برو + 40 نسخة عربية", hero_desc:"تجميعة قديمة ونادرة تشمل ستايلات Esri الأصلية وتجميعات من الإنترنت: جيولوجيا FGDC و GeMS و BGS و Alaska، هيدرولوجيا وشبكات مياه، بترول وتعدين وتربة SSURGO وغابات وغطاء أرضي ونقل وحدود إدارية — أغلبها ArcMap وقليل ArcGIS Pro وقليل محوَّل من QGIS. كل ستايل أصلي بقي كما هو، وبجانبه نسخة عربية ثنائية اللغة «عربي | English».", hero_b1:"تصفح التصنيفات الـ 27", hero_b2:"المستودع على GitHub", hero_b3:"النسخ العربية", btn_copy:"نسخ", author_role:"أخصائي نظم معلومات جغرافية ومطور برمجيات مكانية", footer_sig:"تنظيم أحمد إبراهيم (Ahmad Ibrahim) • لخدمة مجتمع نظم المعلومات الجغرافية" },
+  en: { nav_tagline:"ArcMap & ArcGIS Pro style library — 486 styles + 230 Pro styles", nav_about:"About", nav_cats:"Categories", nav_compat:"Compatibility", nav_ar:"Arabic Editions", nav_setup:"Usage", nav_down:"Download", nav_author:"Author", hero_badge:"Entire project is about ArcMap styles • Pro opens ArcMap styles, not vice versa", hero_t1:"ArcMap Style Collection", hero_t2:"486 ArcMap styles + 230 Pro styles + 40 Arabic editions", hero_desc:"A legacy collection of Esri original styles plus web compilations: FGDC & GeMS & BGS & Alaska geology, hydrology & water networks, petroleum, mining, SSURGO soils, forestry, land cover, transport, admin boundaries — mostly ArcMap, some ArcGIS Pro, few converted from QGIS. Every original kept intact with a bilingual Arabic | English copy beside it.", hero_b1:"Browse 27 categories", hero_b2:"GitHub Repository", hero_b3:"Arabic Editions", btn_copy:"Copy", author_role:"GIS Specialist & Spatial Software Developer", footer_sig:"Curated by Ahmad Ibrahim • Serving the GIS community" }
+};
+let lang = localStorage.getItem('styles_lang') || 'ar';
+function setLang(l) {
+  lang = l; localStorage.setItem('styles_lang', l);
+  const html = document.documentElement, body = document.body;
+  if (l === 'ar') { html.setAttribute('lang','ar'); html.setAttribute('dir','rtl'); body.classList.remove('lang-en'); document.getElementById('langText').textContent = 'English'; }
+  else { html.setAttribute('lang','en'); html.setAttribute('dir','ltr'); body.classList.add('lang-en'); document.getElementById('langText').textContent = 'العربية'; }
+  document.querySelectorAll('[data-i18n]').forEach(el => { const k = el.getAttribute('data-i18n'); if (i18n[l][k]) el.innerHTML = i18n[l][k]; });
+}
+document.getElementById('langToggleBtn').addEventListener('click', () => setLang(lang === 'ar' ? 'en' : 'ar'));
+setLang(lang);
+document.getElementById('copyGitCloneBtn').addEventListener('click', function() {
+  navigator.clipboard.writeText('git clone https://github.com/ahmadibrahim4geo/ArcMap-Style-Collection.git').then(() => {
+    const o = this.innerHTML; this.innerHTML = '<i class="fa-solid fa-check text-brand-400"></i> <span>تم النسخ!</span>';
+    setTimeout(() => this.innerHTML = o, 2000);
+  });
+});
+</script>
+</body>
+</html>
