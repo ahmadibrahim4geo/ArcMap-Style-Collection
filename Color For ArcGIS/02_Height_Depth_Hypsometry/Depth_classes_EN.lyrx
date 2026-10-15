@@ -1,0 +1,724 @@
+{
+ "layerDefinitions": [
+  {
+   "name": "Depth_classes_EN",
+   "renderer": {
+    "type": "CIMUniqueValueRenderer",
+    "fields": [
+     "Category_EN"
+    ],
+    "uniqueValueGroups": [
+     {
+      "heading": "Depth_classes_EN",
+      "classes": [
+       {
+        "label": "2000 - 2630",
+        "description": "Fill #734C00",
+        "values": [
+         {
+          "fieldValues": [
+           "2000 - 2630"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              115,
+              76,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              69,
+              45,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "1500 - 2000",
+        "description": "Fill #ED9C00",
+        "values": [
+         {
+          "fieldValues": [
+           "1500 - 2000"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              237,
+              156,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              142,
+              93,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "1000 - 1500",
+        "description": "Fill #FACC38",
+        "values": [
+         {
+          "fieldValues": [
+           "1000 - 1500"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              250,
+              204,
+              56,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              150,
+              122,
+              33,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "500 - 1000",
+        "description": "Fill #FFF27F",
+        "values": [
+         {
+          "fieldValues": [
+           "500 - 1000"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              242,
+              127,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              145,
+              76,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "200 - 500",
+        "description": "Fill #FFFFA6",
+        "values": [
+         {
+          "fieldValues": [
+           "200 - 500"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              255,
+              166,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              153,
+              99,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "0 - 200",
+        "description": "Fill #FFFFDB",
+        "values": [
+         {
+          "fieldValues": [
+           "0 - 200"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              255,
+              219,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              153,
+              131,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "(- )135 - 0 Depressions",
+        "description": "Fill #EBF2E8",
+        "values": [
+         {
+          "fieldValues": [
+           "(- )135 - 0 Depressions"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              235,
+              242,
+              232,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              141,
+              145,
+              139,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "(-) Depth (m)",
+        "description": "Fill #000000",
+        "values": [
+         {
+          "fieldValues": [
+           "(-) Depth (m)"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              0,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              0,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "- 50 - 0",
+        "description": "Fill #B6EDF0",
+        "values": [
+         {
+          "fieldValues": [
+           "- 50 - 0"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              182,
+              237,
+              240,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              109,
+              142,
+              144,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "- 50 - 200",
+        "description": "Fill #8AC6EB",
+        "values": [
+         {
+          "fieldValues": [
+           "- 50 - 200"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              138,
+              198,
+              235,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              82,
+              118,
+              141,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "- 200 - 500",
+        "description": "Fill #5CA3E6",
+        "values": [
+         {
+          "fieldValues": [
+           "- 200 - 500"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              92,
+              163,
+              230,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              55,
+              97,
+              138,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "- 500 - 1000",
+        "description": "Fill #1F83E0",
+        "values": [
+         {
+          "fieldValues": [
+           "- 500 - 1000"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              31,
+              131,
+              224,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              18,
+              78,
+              134,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "- 1000 -2000",
+        "description": "Fill #2259C7",
+        "values": [
+         {
+          "fieldValues": [
+           "- 1000 -2000"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              34,
+              89,
+              199,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              20,
+              53,
+              119,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "- 2000 - + 2000",
+        "description": "Fill #1A32AB",
+        "values": [
+         {
+          "fieldValues": [
+           "- 2000 - + 2000"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              26,
+              50,
+              171,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              15,
+              30,
+              102,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "- 2000 -  3000",
+        "description": "Fill #204CBD",
+        "values": [
+         {
+          "fieldValues": [
+           "- 2000 -  3000"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              32,
+              76,
+              189,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              19,
+              45,
+              113,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "- 3000 -+ 3000",
+        "description": "Fill #192CA8",
+        "values": [
+         {
+          "fieldValues": [
+           "- 3000 -+ 3000"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              25,
+              44,
+              168,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              15,
+              26,
+              100,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

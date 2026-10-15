@@ -1,0 +1,75 @@
+palette | ESRI | 240
+palette | ESRI - 3D Billboards | 290
+palette | ESRI - ArcScene Basic | 290
+palette | ESRI - C2 Military Operations | 48
+palette | ESRI - CADD GIS Center SDS 200 | 508
+palette | ESRI - CADD GIS Center SDS 220 | 508
+palette | ESRI - CADD GIS Center SDS195 | 508
+palette | ESRI - Civic | 162
+palette | ESRI - Conservation | 64
+palette | ESRI - Crime Analysis | 24
+palette | ESRI - ERS Homeland Security | 24
+palette | ESRI - ESRI | 240
+palette | ESRI - ESRI_Optimized | 240
+palette | ESRI - Environmental | 106
+palette | ESRI - Forestry | 96
+palette | ESRI - Geology 24K | 184
+palette | ESRI - Hazmat | 56
+palette | ESRI - IGL | 8
+palette | ESRI - MSExp258 | 516
+palette | ESRI - Meteorological | 118
+palette | ESRI - Military METOC | 10
+palette | ESRI - Mining | 98
+palette | ESRI - Petroleum | 32
+palette | ESRI - Public Signs | 8
+palette | ESRI - Real Estate | 86
+palette | ESRI - Soils EURO | 292
+palette | ESRI - Survey | 108
+palette | ESRI - Transportation | 36
+palette | ESRI - Utilities | 56
+palette | ESRI - Water Wastewater | 94
+palette | ESRI - Weather | 118
+palette | ESRI - Web216 | 432
+palette | ESRI - Win256 | 512
+qml | AirportPointLabelsOnly | 1
+qml | AirportRunway | 1
+qml | Contours | 6
+qml | CountyOrEquivalent | 1
+qml | LandCover_Woodland | 1
+qml | NHDFlowline | 1
+qml | NHDLine | 1
+qml | NHDPerennialArea | 1
+qml | NHDPerennialWaterbody | 1
+qml | NHDPoints | 1
+qml | NativeAm_HawaiianHomelands | 1
+qml | Railroad | 1
+qml | Reserves_NatlCem_NPS_DOD_FS_FWS | 1
+qml | Roads_Census_NTDNOFS | 1
+qml | StateOrTerritory | 1
+qml | Structures | 1
+qml | Structures_GNIS | 2
+qml | TNMDerivedNames | 1
+qml | Trails | 1
+ramp | Business - Low Income to Low Moderate Income | 16
+ramp | Business - Moderate to High Income | 16
+xml | CrimeAnalysis | 83
+xml | ESRI | 250
+xml | ESRICAD | 41
+xml | Environmental | 233
+xml | Forestry | 259
+xml | Geology24K | 235
+xml | Hazmat | 299
+xml | Meteorological | 284
+xml | OrdnanceSurvey | 58
+xml | Petroleum | 596
+xml | PublicSigns | 118
+xml | RealEstate | 118
+xml | SoilsEURO | 146
+xml | Survey | 134
+xml | Transportation | 417
+xml | USGSTNM | 90
+xml | Utilities | 507
+xml | WasteWater | 55
+xml | Weather | 351
+xml | civic | 493
+xml | conservation | 181

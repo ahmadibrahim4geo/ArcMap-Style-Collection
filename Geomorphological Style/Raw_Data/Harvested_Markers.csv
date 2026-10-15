@@ -1,0 +1,13 @@
+NewID,NewName_AR,NewName_EN,SourceStyle,SourceID,SourceName,Notes
+23,قمة رئيسية,Main Peak (triangle),ESRI.style,3,Triangle 1,True ESRI triangle - replaces wrong glyph 116
+24,قمة ثانوية,Secondary Peak,ESRI.style,93,Triangle 4,True ESRI triangle
+25,قمة بركانية,Volcanic Peak,ESRI.style,94,Triangle 5,True ESRI triangle
+26,اتجاه الرياح السائدة,Wind Direction,CADD GIS Center SDS 220.Style,58,wind_direction_arrow,Standard wind arrow [climate]
+27,اتجاه هجرة الكثبان,Dune Migration,CADD GIS Center SDS 220.Style,397,slope_direction_arrow,Standard slope/direction arrow [landform]
+28,عين / ينبوع,Spring (CADD),CADD GIS Center SDS 220.Style,328,spring_point,Standard spring [hydrography]
+29,شلال,Waterfall,CADD GIS Center SDS 220.Style,333,waterfall_point,Standard waterfall [hydrography]
+30,مسار سريع,Rapids,CADD GIS Center SDS 220.Style,332,water_rapids_point,Standard rapids [hydrography]
+31,مقلع,Quarry,CADD GIS Center SDS 220.Style,391,quarry_point,Standard quarry [land_status]
+32,حفرة اقتراض,Borrow Pit,CADD GIS Center SDS 220.Style,381,borrow_pit_point,Standard borrow pit [land_status]
+33,موقع عينة رسوبية,Sediment Sample,CADD GIS Center SDS 220.Style,396,sediment_sample_point,Standard sample [landform]
+34,نقطة منسوب,Spot Elevation,CADD GIS Center SDS 220.Style,399,spot_elevation_point GROUND,Standard spot elevation [landform]

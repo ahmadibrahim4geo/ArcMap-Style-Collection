@@ -1,0 +1,640 @@
+﻿field,id,key,original,arabic,new_value,status
+NAME,1,WKG10367,TraceFeatures - Starting Points,أثر ظواهر نقاط,أثر ظواهر نقاط | TraceFeatures - Starting Points,translated
+CATEGORY,1,WKG10367,Starting Points,نقاط,نقاط | Starting Points,translated
+NAME,2,DCXDLO6Y,TraceFeatures - Barriers,أثر ظواهر,أثر ظواهر | TraceFeatures - Barriers,translated
+NAME,3,F5OGRWVO,Dirty Areas - All Other Values,مناطق باقي القيم,مناطق باقي القيم | Dirty Areas - All Other Values,translated
+CATEGORY,3,F5OGRWVO,Dirty Areas,مناطق,مناطق | Dirty Areas,translated
+NAME,4,RQGPR75J,Disabled,,Disabled,kept
+CATEGORY,4,RQGPR75J,Dirty Areas,مناطق,مناطق | Dirty Areas,translated
+NAME,5,0PVHS0LU,Dirty,,Dirty,kept
+CATEGORY,5,0PVHS0LU,Dirty Areas,مناطق,مناطق | Dirty Areas,translated
+NAME,6,UV51UK3H,Error,خطأ,خطأ | Error,translated
+CATEGORY,6,UV51UK3H,Dirty Areas,مناطق,مناطق | Dirty Areas,translated
+NAME,7,G9CBTQ46,Dirty and Error,و خطأ,و خطأ | Dirty and Error,translated
+CATEGORY,7,G9CBTQ46,Dirty Areas,مناطق,مناطق | Dirty Areas,translated
+NAME,8,AWCJAJ7J,Subnetwork Error,خطأ,خطأ | Subnetwork Error,translated
+CATEGORY,8,AWCJAJ7J,Dirty Areas,مناطق,مناطق | Dirty Areas,translated
+NAME,9,EAY7NEES,WaterDevice - Unknown,مياه جهاز مجهولة,مياه جهاز مجهولة | WaterDevice - Unknown,translated
+CATEGORY,9,EAY7NEES,Unknown,مجهولة,مجهولة | Unknown,translated
+NAME,10,YM2SHMYM,WaterDevice - Controller - Other,مياه جهاز وحدة تحكم أخرى,مياه جهاز وحدة تحكم أخرى | WaterDevice - Controller - Other,translated
+CATEGORY,10,YM2SHMYM,Controller,وحدة تحكم,وحدة تحكم | Controller,translated
+NAME,11,750ANGIL,Controller - Unknown,وحدة تحكم مجهولة,وحدة تحكم مجهولة | Controller - Unknown,translated
+CATEGORY,11,750ANGIL,Controller,وحدة تحكم,وحدة تحكم | Controller,translated
+NAME,12,3NJBYNSW,Operator Nut,,Operator Nut,kept
+CATEGORY,12,3NJBYNSW,Controller,وحدة تحكم,وحدة تحكم | Controller,translated
+NAME,13,TTHHVYS2,Bypass Valve,ممر تحويلي صمام,ممر تحويلي صمام | Bypass Valve,translated
+CATEGORY,13,TTHHVYS2,Controller,وحدة تحكم,وحدة تحكم | Controller,translated
+NAME,14,Y3AB819G,Post Indicator Valve,بعد صمام,بعد صمام | Post Indicator Valve,translated
+CATEGORY,14,Y3AB819G,Controller,وحدة تحكم,وحدة تحكم | Controller,translated
+NAME,15,KQICPO2L,WaterDevice - Filter - Other,مياه جهاز مرشح أخرى,مياه جهاز مرشح أخرى | WaterDevice - Filter - Other,translated
+CATEGORY,15,KQICPO2L,Filter,مرشح,مرشح | Filter,translated
+NAME,16,6OAMQGZV,Filter - Unknown,مرشح مجهولة,مرشح مجهولة | Filter - Unknown,translated
+CATEGORY,16,6OAMQGZV,Filter,مرشح,مرشح | Filter,translated
+NAME,17,CE0WQWHM,Strainer,,Strainer,kept
+CATEGORY,17,CE0WQWHM,Filter,مرشح,مرشح | Filter,translated
+NAME,18,OUSZM7CO,WaterDevice - Pump - Other,مياه جهاز مضخة أخرى,مياه جهاز مضخة أخرى | WaterDevice - Pump - Other,translated
+CATEGORY,18,OUSZM7CO,Pump,مضخة,مضخة | Pump,translated
+NAME,19,C4VB4PRZ,Pump - Unknown,مضخة مجهولة,مضخة مجهولة | Pump - Unknown,translated
+CATEGORY,19,C4VB4PRZ,Pump,مضخة,مضخة | Pump,translated
+NAME,20,6W8RCHZ3,Booster,تعزيز,تعزيز | Booster,translated
+CATEGORY,20,6W8RCHZ3,Pump,مضخة,مضخة | Pump,translated
+NAME,21,54ECRWHY,Chemical,كيميائية,كيميائية | Chemical,translated
+CATEGORY,21,54ECRWHY,Pump,مضخة,مضخة | Pump,translated
+NAME,22,OFE9RE39,Primary,أولية,أولية | Primary,translated
+CATEGORY,22,OFE9RE39,Pump,مضخة,مضخة | Pump,translated
+NAME,23,UEEXUCEW,WaterDevice - Fire Hydrant - Other,مياه جهاز حنفية حريق أخرى,مياه جهاز حنفية حريق أخرى | WaterDevice - Fire Hydrant - Other,translated
+CATEGORY,23,UEEXUCEW,Fire Hydrant,حنفية حريق,حنفية حريق | Fire Hydrant,translated
+NAME,24,JU8KUHOT,Fire Hydrant - Unknown - Active,حنفية حريق مجهولة نشطة,حنفية حريق مجهولة نشطة | Fire Hydrant - Unknown - Active,translated
+CATEGORY,24,JU8KUHOT,Fire Hydrant,حنفية حريق,حنفية حريق | Fire Hydrant,translated
+NAME,25,WY0BYR6Y,Fire Hydrant - Active,حنفية حريق نشطة,حنفية حريق نشطة | Fire Hydrant - Active,translated
+CATEGORY,25,WY0BYR6Y,Fire Hydrant,حنفية حريق,حنفية حريق | Fire Hydrant,translated
+NAME,26,OHXTKNA9,Fire Hydrant - Unknown - Inactive,حنفية حريق مجهولة غير نشطة,حنفية حريق مجهولة غير نشطة | Fire Hydrant - Unknown - Inactive,translated
+CATEGORY,26,OHXTKNA9,Fire Hydrant,حنفية حريق,حنفية حريق | Fire Hydrant,translated
+NAME,27,E8UAFRUN,Fire Hydrant - Inactive,حنفية حريق غير نشطة,حنفية حريق غير نشطة | Fire Hydrant - Inactive,translated
+CATEGORY,27,E8UAFRUN,Fire Hydrant,حنفية حريق,حنفية حريق | Fire Hydrant,translated
+NAME,28,S4XWHKW9,WaterDevice - System Meter - Other,مياه جهاز عداد المنظومة أخرى,مياه جهاز عداد المنظومة أخرى | WaterDevice - System Meter - Other,translated
+CATEGORY,28,S4XWHKW9,System Meter,عداد المنظومة,عداد المنظومة | System Meter,translated
+NAME,29,FFRM6P6K,System Meter - Unknown,عداد المنظومة مجهولة,عداد المنظومة مجهولة | System Meter - Unknown,translated
+CATEGORY,29,FFRM6P6K,System Meter,عداد المنظومة,عداد المنظومة | System Meter,translated
+NAME,30,5XN0K81Z,Bulk,سائبة,سائبة | Bulk,translated
+CATEGORY,30,5XN0K81Z,System Meter,عداد المنظومة,عداد المنظومة | System Meter,translated
+NAME,31,MTCPRFW1,DMA,,DMA,kept
+CATEGORY,31,MTCPRFW1,System Meter,عداد المنظومة,عداد المنظومة | System Meter,translated
+NAME,32,L9JA2J9V,Emergency Connection,طوارئ توصيلة,طوارئ توصيلة | Emergency Connection,translated
+CATEGORY,32,L9JA2J9V,System Meter,عداد المنظومة,عداد المنظومة | System Meter,translated
+NAME,33,IQ2GNQMM,Pump Station,محطة الضخ,محطة الضخ | Pump Station,translated
+CATEGORY,33,IQ2GNQMM,System Meter,عداد المنظومة,عداد المنظومة | System Meter,translated
+NAME,34,CRVBJ6YB,WaterDevice - Service Meter - Other,مياه جهاز عداد الخدمة أخرى,مياه جهاز عداد الخدمة أخرى | WaterDevice - Service Meter - Other,translated
+CATEGORY,34,CRVBJ6YB,Service Meter,عداد الخدمة,عداد الخدمة | Service Meter,translated
+NAME,35,7IP3B8JS,Service Meter - Unknown,عداد الخدمة مجهولة,عداد الخدمة مجهولة | Service Meter - Unknown,translated
+CATEGORY,35,7IP3B8JS,Service Meter,عداد الخدمة,عداد الخدمة | Service Meter,translated
+NAME,36,BTMZ3VFZ,Industrial,صناعية,صناعية | Industrial,translated
+CATEGORY,36,BTMZ3VFZ,Service Meter,عداد الخدمة,عداد الخدمة | Service Meter,translated
+NAME,37,AKCSOSH3,Residential,سكنية,سكنية | Residential,translated
+CATEGORY,37,AKCSOSH3,Service Meter,عداد الخدمة,عداد الخدمة | Service Meter,translated
+NAME,38,CQH0OSNA,Commercial,تجارية,تجارية | Commercial,translated
+CATEGORY,38,CQH0OSNA,Service Meter,عداد الخدمة,عداد الخدمة | Service Meter,translated
+NAME,39,B057NUUR,Irrigation,ري,ري | Irrigation,translated
+CATEGORY,39,B057NUUR,Service Meter,عداد الخدمة,عداد الخدمة | Service Meter,translated
+NAME,40,B35EYNEQ,Fire,حريق,حريق | Fire,translated
+CATEGORY,40,B35EYNEQ,Service Meter,عداد الخدمة,عداد الخدمة | Service Meter,translated
+NAME,41,EF7SLTB1,WaterDevice - Service Valve - Other,مياه جهاز صمام الخدمة أخرى,مياه جهاز صمام الخدمة أخرى | WaterDevice - Service Valve - Other,translated
+CATEGORY,41,EF7SLTB1,Service Valve,صمام الخدمة,صمام الخدمة | Service Valve,translated
+NAME,42,M5FZAS2P,Service Valve - Unknown - Closed,صمام الخدمة مجهولة مغلقة,صمام الخدمة مجهولة مغلقة | Service Valve - Unknown - Closed,translated
+CATEGORY,42,M5FZAS2P,Service Valve,صمام الخدمة,صمام الخدمة | Service Valve,translated
+NAME,43,JYBREARN,Blow Off - Closed,تنفيس مغلقة,تنفيس مغلقة | Blow Off - Closed,translated
+CATEGORY,43,JYBREARN,Service Valve,صمام الخدمة,صمام الخدمة | Service Valve,translated
+NAME,44,8S529Z5V,Hydrant - Closed,حنفية مغلقة,حنفية مغلقة | Hydrant - Closed,translated
+CATEGORY,44,8S529Z5V,Service Valve,صمام الخدمة,صمام الخدمة | Service Valve,translated
+NAME,45,2R3RLPQP,Sampling - Closed,أخذ العينات مغلقة,أخذ العينات مغلقة | Sampling - Closed,translated
+CATEGORY,45,2R3RLPQP,Service Valve,صمام الخدمة,صمام الخدمة | Service Valve,translated
+NAME,46,6QACLN7N,Purge - Closed,مغلقة,مغلقة | Purge - Closed,translated
+CATEGORY,46,6QACLN7N,Service Valve,صمام الخدمة,صمام الخدمة | Service Valve,translated
+NAME,47,L6EWDY0R,Service - Closed,خدمة مغلقة,خدمة مغلقة | Service - Closed,translated
+CATEGORY,47,L6EWDY0R,Service Valve,صمام الخدمة,صمام الخدمة | Service Valve,translated
+NAME,48,N1JBPJGE,Flap - Closed,مغلقة,مغلقة | Flap - Closed,translated
+CATEGORY,48,N1JBPJGE,Service Valve,صمام الخدمة,صمام الخدمة | Service Valve,translated
+NAME,49,B5NRXOTH,Service Valve - Unknown - Open,صمام الخدمة مجهولة مفتوحة,صمام الخدمة مجهولة مفتوحة | Service Valve - Unknown - Open,translated
+CATEGORY,49,B5NRXOTH,Service Valve,صمام الخدمة,صمام الخدمة | Service Valve,translated
+NAME,50,D1TJPINT,Blow Off - Open,تنفيس مفتوحة,تنفيس مفتوحة | Blow Off - Open,translated
+CATEGORY,50,D1TJPINT,Service Valve,صمام الخدمة,صمام الخدمة | Service Valve,translated
+NAME,51,LLR5NBCZ,Hydrant - Open,حنفية مفتوحة,حنفية مفتوحة | Hydrant - Open,translated
+CATEGORY,51,LLR5NBCZ,Service Valve,صمام الخدمة,صمام الخدمة | Service Valve,translated
+NAME,52,1YFDACX0,Sampling - Open,أخذ العينات مفتوحة,أخذ العينات مفتوحة | Sampling - Open,translated
+CATEGORY,52,1YFDACX0,Service Valve,صمام الخدمة,صمام الخدمة | Service Valve,translated
+NAME,53,51PHRV2C,Purge - Open,مفتوحة,مفتوحة | Purge - Open,translated
+CATEGORY,53,51PHRV2C,Service Valve,صمام الخدمة,صمام الخدمة | Service Valve,translated
+NAME,54,G8XTEM88,Service - Open,خدمة مفتوحة,خدمة مفتوحة | Service - Open,translated
+CATEGORY,54,G8XTEM88,Service Valve,صمام الخدمة,صمام الخدمة | Service Valve,translated
+NAME,55,5UYQGH0U,Flap - Open,مفتوحة,مفتوحة | Flap - Open,translated
+CATEGORY,55,5UYQGH0U,Service Valve,صمام الخدمة,صمام الخدمة | Service Valve,translated
+NAME,56,DI9LH8XI,WaterDevice - System Valve - Other,مياه جهاز صمام المنظومة أخرى,مياه جهاز صمام المنظومة أخرى | WaterDevice - System Valve - Other,translated
+CATEGORY,56,DI9LH8XI,System Valve,صمام المنظومة,صمام المنظومة | System Valve,translated
+NAME,57,SM10JL48,System Valve - Unknown - Closed,صمام المنظومة مجهولة مغلقة,صمام المنظومة مجهولة مغلقة | System Valve - Unknown - Closed,translated
+CATEGORY,57,SM10JL48,System Valve,صمام المنظومة,صمام المنظومة | System Valve,translated
+NAME,58,IV5OCPMW,Isolation Zone - Closed,منطقة مغلقة,منطقة مغلقة | Isolation Zone - Closed,translated
+CATEGORY,58,IV5OCPMW,System Valve,صمام المنظومة,صمام المنظومة | System Valve,translated
+NAME,59,P7V82EKU,Supply - Closed,إمداد مغلقة,إمداد مغلقة | Supply - Closed,translated
+CATEGORY,59,P7V82EKU,System Valve,صمام المنظومة,صمام المنظومة | System Valve,translated
+NAME,60,1BGNID5A,System - Closed,منظومة مغلقة,منظومة مغلقة | System - Closed,translated
+CATEGORY,60,1BGNID5A,System Valve,صمام المنظومة,صمام المنظومة | System Valve,translated
+NAME,61,52LJ82G0,Pressure Zone - Closed,ضغط منطقة مغلقة,ضغط منطقة مغلقة | Pressure Zone - Closed,translated
+CATEGORY,61,52LJ82G0,System Valve,صمام المنظومة,صمام المنظومة | System Valve,translated
+NAME,62,I66ZDX96,Bypass - Closed,ممر تحويلي مغلقة,ممر تحويلي مغلقة | Bypass - Closed,translated
+CATEGORY,62,I66ZDX96,System Valve,صمام المنظومة,صمام المنظومة | System Valve,translated
+NAME,63,MTZ0NEGN,Interconnect - Closed,ربط بيني مغلقة,ربط بيني مغلقة | Interconnect - Closed,translated
+CATEGORY,63,MTZ0NEGN,System Valve,صمام المنظومة,صمام المنظومة | System Valve,translated
+NAME,64,UDEVYSNF,System Valve - Unknown - Open,صمام المنظومة مجهولة مفتوحة,صمام المنظومة مجهولة مفتوحة | System Valve - Unknown - Open,translated
+CATEGORY,64,UDEVYSNF,System Valve,صمام المنظومة,صمام المنظومة | System Valve,translated
+NAME,65,CRP09CE5,Isolation Zone - Open,منطقة مفتوحة,منطقة مفتوحة | Isolation Zone - Open,translated
+CATEGORY,65,CRP09CE5,System Valve,صمام المنظومة,صمام المنظومة | System Valve,translated
+NAME,66,6SQDTVX9,Supply - Open,إمداد مفتوحة,إمداد مفتوحة | Supply - Open,translated
+CATEGORY,66,6SQDTVX9,System Valve,صمام المنظومة,صمام المنظومة | System Valve,translated
+NAME,67,QFBLLZYK,System - Open,منظومة مفتوحة,منظومة مفتوحة | System - Open,translated
+CATEGORY,67,QFBLLZYK,System Valve,صمام المنظومة,صمام المنظومة | System Valve,translated
+NAME,68,EW6135FX,Pressure Zone - Open,ضغط منطقة مفتوحة,ضغط منطقة مفتوحة | Pressure Zone - Open,translated
+CATEGORY,68,EW6135FX,System Valve,صمام المنظومة,صمام المنظومة | System Valve,translated
+NAME,69,CRI9U4ZW,Bypass - Open,ممر تحويلي مفتوحة,ممر تحويلي مفتوحة | Bypass - Open,translated
+CATEGORY,69,CRI9U4ZW,System Valve,صمام المنظومة,صمام المنظومة | System Valve,translated
+NAME,70,84KELYV8,Interconnect - Open,ربط بيني مفتوحة,ربط بيني مفتوحة | Interconnect - Open,translated
+CATEGORY,70,84KELYV8,System Valve,صمام المنظومة,صمام المنظومة | System Valve,translated
+NAME,71,BP1VZG35,WaterDevice - Flow Valve - Other,مياه جهاز تدفق صمام أخرى,مياه جهاز تدفق صمام أخرى | WaterDevice - Flow Valve - Other,translated
+CATEGORY,71,BP1VZG35,Flow Valve,تدفق صمام,تدفق صمام | Flow Valve,translated
+NAME,72,0A658B3N,Flow Valve - Unknown,تدفق صمام مجهولة,تدفق صمام مجهولة | Flow Valve - Unknown,translated
+CATEGORY,72,0A658B3N,Flow Valve,تدفق صمام,تدفق صمام | Flow Valve,translated
+NAME,73,9OOSH2N9,Air Gap,هواء,هواء | Air Gap,translated
+CATEGORY,73,9OOSH2N9,Flow Valve,تدفق صمام,تدفق صمام | Flow Valve,translated
+NAME,74,7IS2CKTP,Altitude,,Altitude,kept
+CATEGORY,74,7IS2CKTP,Flow Valve,تدفق صمام,تدفق صمام | Flow Valve,translated
+NAME,75,KSV6HY7Q,Check,حاجز,حاجز | Check,translated
+CATEGORY,75,KSV6HY7Q,Flow Valve,تدفق صمام,تدفق صمام | Flow Valve,translated
+NAME,76,9DGO6OQJ,WaterDevice - Pressure Valve - Other,مياه جهاز صمام ضغط أخرى,مياه جهاز صمام ضغط أخرى | WaterDevice - Pressure Valve - Other,translated
+CATEGORY,76,9DGO6OQJ,Pressure Valve,صمام ضغط,صمام ضغط | Pressure Valve,translated
+NAME,77,553NB90I,Pressure Valve - Unknown,صمام ضغط مجهولة,صمام ضغط مجهولة | Pressure Valve - Unknown,translated
+CATEGORY,77,553NB90I,Pressure Valve,صمام ضغط,صمام ضغط | Pressure Valve,translated
+NAME,78,IWNP4R13,Combination Air,تركيبة هواء,تركيبة هواء | Combination Air,translated
+CATEGORY,78,IWNP4R13,Pressure Valve,صمام ضغط,صمام ضغط | Pressure Valve,translated
+NAME,79,BY65P78E,Air and Vacuum,هواء و,هواء و | Air and Vacuum,translated
+CATEGORY,79,BY65P78E,Pressure Valve,صمام ضغط,صمام ضغط | Pressure Valve,translated
+NAME,80,F41JJBZ6,Air Release,هواء تحرير,هواء تحرير | Air Release,translated
+CATEGORY,80,F41JJBZ6,Pressure Valve,صمام ضغط,صمام ضغط | Pressure Valve,translated
+NAME,81,QSEPFM0G,Pressure Reducing,ضغط,ضغط | Pressure Reducing,translated
+CATEGORY,81,QSEPFM0G,Pressure Valve,صمام ضغط,صمام ضغط | Pressure Valve,translated
+NAME,82,E3F3ZQZH,Pressure Sustaining,ضغط,ضغط | Pressure Sustaining,translated
+CATEGORY,82,E3F3ZQZH,Pressure Valve,صمام ضغط,صمام ضغط | Pressure Valve,translated
+NAME,83,K9CPVZBM,Pressure Limiting,ضغط,ضغط | Pressure Limiting,translated
+CATEGORY,83,K9CPVZBM,Pressure Valve,صمام ضغط,صمام ضغط | Pressure Valve,translated
+NAME,84,T17N8F7I,Pressure Release,ضغط تحرير,ضغط تحرير | Pressure Release,translated
+CATEGORY,84,T17N8F7I,Pressure Valve,صمام ضغط,صمام ضغط | Pressure Valve,translated
+NAME,85,TJ48SNWE,Surge,صدمة هيدروليكية,صدمة هيدروليكية | Surge,translated
+CATEGORY,85,TJ48SNWE,Pressure Valve,صمام ضغط,صمام ضغط | Pressure Valve,translated
+NAME,86,10PCPQLP,WaterDevice - Station - Other,مياه جهاز محطة أخرى,مياه جهاز محطة أخرى | WaterDevice - Station - Other,translated
+CATEGORY,86,10PCPQLP,Station,محطة,محطة | Station,translated
+NAME,87,BGKHZGMM,Station - Unknown,محطة مجهولة,محطة مجهولة | Station - Unknown,translated
+CATEGORY,87,BGKHZGMM,Station,محطة,محطة | Station,translated
+NAME,88,QVPBMMG2,Sample Station,عينة محطة,عينة محطة | Sample Station,translated
+CATEGORY,88,QVPBMMG2,Station,محطة,محطة | Station,translated
+NAME,89,KG34R3NW,Pump Station,محطة الضخ,محطة الضخ | Pump Station,translated
+CATEGORY,89,KG34R3NW,Station,محطة,محطة | Station,translated
+NAME,90,SUJXHW0I,WaterDevice - Service Connection - Other,مياه جهاز توصيلة الخدمة أخرى,مياه جهاز توصيلة الخدمة أخرى | WaterDevice - Service Connection - Other,translated
+CATEGORY,90,SUJXHW0I,Service Connection,توصيلة الخدمة,توصيلة الخدمة | Service Connection,translated
+NAME,91,G9U1YAQF,Service Connection - Unknown,توصيلة الخدمة مجهولة,توصيلة الخدمة مجهولة | Service Connection - Unknown,translated
+CATEGORY,91,G9U1YAQF,Service Connection,توصيلة الخدمة,توصيلة الخدمة | Service Connection,translated
+NAME,92,JV3Z24GF,Commercial,تجارية,تجارية | Commercial,translated
+CATEGORY,92,JV3Z24GF,Service Connection,توصيلة الخدمة,توصيلة الخدمة | Service Connection,translated
+NAME,93,AZY1YAFF,Fire,حريق,حريق | Fire,translated
+CATEGORY,93,AZY1YAFF,Service Connection,توصيلة الخدمة,توصيلة الخدمة | Service Connection,translated
+NAME,94,8SHOERB8,Industrial,صناعية,صناعية | Industrial,translated
+CATEGORY,94,8SHOERB8,Service Connection,توصيلة الخدمة,توصيلة الخدمة | Service Connection,translated
+NAME,95,G5CNF9RV,Irrigation,ري,ري | Irrigation,translated
+CATEGORY,95,G5CNF9RV,Service Connection,توصيلة الخدمة,توصيلة الخدمة | Service Connection,translated
+NAME,96,ACHE16X5,Residential,سكنية,سكنية | Residential,translated
+CATEGORY,96,ACHE16X5,Service Connection,توصيلة الخدمة,توصيلة الخدمة | Service Connection,translated
+NAME,97,4N71CKX7,WaterDevice - Outlet - Other,مياه جهاز مخرج أخرى,مياه جهاز مخرج أخرى | WaterDevice - Outlet - Other,translated
+CATEGORY,97,4N71CKX7,Outlet,مخرج,مخرج | Outlet,translated
+NAME,98,C8Z4RWEP,Outlet - Unknown,مخرج مجهولة,مخرج مجهولة | Outlet - Unknown,translated
+CATEGORY,98,C8Z4RWEP,Outlet,مخرج,مخرج | Outlet,translated
+NAME,99,FVK8WJ3V,Yard Hydrant,حنفية,حنفية | Yard Hydrant,translated
+CATEGORY,99,FVK8WJ3V,Outlet,مخرج,مخرج | Outlet,translated
+NAME,100,9N5NHXWO,Outlet,مخرج,مخرج | Outlet,translated
+CATEGORY,100,9N5NHXWO,Outlet,مخرج,مخرج | Outlet,translated
+NAME,101,40AVMYWD,WaterDevice - Flushing and Blow Off - Other,مياه جهاز الشطف والتنفيس أخرى,مياه جهاز الشطف والتنفيس أخرى | WaterDevice - Flushing and Blow Off - Other,translated
+CATEGORY,101,40AVMYWD,Flushing and Blow Off,الشطف والتنفيس,الشطف والتنفيس | Flushing and Blow Off,translated
+NAME,102,4UG271N9,Flushing and Blow Off - Unknown,الشطف والتنفيس مجهولة,الشطف والتنفيس مجهولة | Flushing and Blow Off - Unknown,translated
+CATEGORY,102,4UG271N9,Flushing and Blow Off,الشطف والتنفيس,الشطف والتنفيس | Flushing and Blow Off,translated
+NAME,103,K71X90D8,Post Hydrant,بعد حنفية,بعد حنفية | Post Hydrant,translated
+CATEGORY,103,K71X90D8,Flushing and Blow Off,الشطف والتنفيس,الشطف والتنفيس | Flushing and Blow Off,translated
+NAME,104,LLFYJX9R,Hydrant,حنفية,حنفية | Hydrant,translated
+CATEGORY,104,LLFYJX9R,Flushing and Blow Off,الشطف والتنفيس,الشطف والتنفيس | Flushing and Blow Off,translated
+NAME,105,H8EW4YFC,Automatic Flushing,أوتوماتيكية شطف,أوتوماتيكية شطف | Automatic Flushing,translated
+CATEGORY,105,H8EW4YFC,Flushing and Blow Off,الشطف والتنفيس,الشطف والتنفيس | Flushing and Blow Off,translated
+NAME,106,RT64KAN4,Fire Plug Valve,حريق صمام سداد,حريق صمام سداد | Fire Plug Valve,translated
+CATEGORY,106,RT64KAN4,Flushing and Blow Off,الشطف والتنفيس,الشطف والتنفيس | Flushing and Blow Off,translated
+NAME,107,BMPYOK2H,Blow Off,تنفيس,تنفيس | Blow Off,translated
+CATEGORY,107,BMPYOK2H,Flushing and Blow Off,الشطف والتنفيس,الشطف والتنفيس | Flushing and Blow Off,translated
+NAME,108,6ORPR7ZC,WaterDevice - Storage - Other,مياه جهاز تخزين أخرى,مياه جهاز تخزين أخرى | WaterDevice - Storage - Other,translated
+CATEGORY,108,6ORPR7ZC,Storage,تخزين,تخزين | Storage,translated
+NAME,109,NZQ2SR9I,Storage - Unknown,تخزين مجهولة,تخزين مجهولة | Storage - Unknown,translated
+CATEGORY,109,NZQ2SR9I,Storage,تخزين,تخزين | Storage,translated
+NAME,110,Z33IKRN3,Reservoir,خزان,خزان | Reservoir,translated
+CATEGORY,110,Z33IKRN3,Storage,تخزين,تخزين | Storage,translated
+NAME,111,DTAYD5DL,Standpipe,أنبوب قائم,أنبوب قائم | Standpipe,translated
+CATEGORY,111,DTAYD5DL,Storage,تخزين,تخزين | Storage,translated
+NAME,112,BSAQ5Q1E,Storage Tank,خزان تخزين,خزان تخزين | Storage Tank,translated
+CATEGORY,112,BSAQ5Q1E,Storage,تخزين,تخزين | Storage,translated
+NAME,113,4AC81S8W,Tower,برج,برج | Tower,translated
+CATEGORY,113,4AC81S8W,Storage,تخزين,تخزين | Storage,translated
+NAME,114,1757MYK3,Surge Tank,صدمة هيدروليكية خزان,صدمة هيدروليكية خزان | Surge Tank,translated
+CATEGORY,114,1757MYK3,Storage,تخزين,تخزين | Storage,translated
+NAME,115,UTJ9YF6G,Hydropneumatic Tank,خزان,خزان | Hydropneumatic Tank,translated
+CATEGORY,115,UTJ9YF6G,Storage,تخزين,تخزين | Storage,translated
+NAME,116,0AHZD72P,WaterDevice - Supply - Other,مياه جهاز إمداد أخرى,مياه جهاز إمداد أخرى | WaterDevice - Supply - Other,translated
+CATEGORY,116,0AHZD72P,Supply,إمداد,إمداد | Supply,translated
+NAME,117,A227ROEL,Supply - Unknown,إمداد مجهولة,إمداد مجهولة | Supply - Unknown,translated
+CATEGORY,117,A227ROEL,Supply,إمداد,إمداد | Supply,translated
+NAME,118,A95DMN85,Well,بئر,بئر | Well,translated
+CATEGORY,118,A95DMN85,Supply,إمداد,إمداد | Supply,translated
+NAME,119,2DFUJ0OL,Treatment Plant,محطة المعالجة,محطة المعالجة | Treatment Plant,translated
+CATEGORY,119,2DFUJ0OL,Supply,إمداد,إمداد | Supply,translated
+NAME,120,M4ZTE7PR,Interconnect,ربط بيني,ربط بيني | Interconnect,translated
+CATEGORY,120,M4ZTE7PR,Supply,إمداد,إمداد | Supply,translated
+NAME,121,UODWZBCN,WaterDevice - Injection Facility - Other,مياه جهاز حقن منشأة أخرى,مياه جهاز حقن منشأة أخرى | WaterDevice - Injection Facility - Other,translated
+CATEGORY,121,UODWZBCN,Injection Facility,حقن منشأة,حقن منشأة | Injection Facility,translated
+NAME,122,C48SZBDP,Injection Facility - Unknown,حقن منشأة مجهولة,حقن منشأة مجهولة | Injection Facility - Unknown,translated
+CATEGORY,122,C48SZBDP,Injection Facility,حقن منشأة,حقن منشأة | Injection Facility,translated
+NAME,123,M7532JII,Chlorination,,Chlorination,kept
+CATEGORY,123,M7532JII,Injection Facility,حقن منشأة,حقن منشأة | Injection Facility,translated
+NAME,124,A25ONE97,Fluoridation,فلورة,فلورة | Fluoridation,translated
+CATEGORY,124,A25ONE97,Injection Facility,حقن منشأة,حقن منشأة | Injection Facility,translated
+NAME,125,X91KGI2N,WaterDevice - Groundbed - Other,مياه جهاز سرير التأريض أخرى,مياه جهاز سرير التأريض أخرى | WaterDevice - Groundbed - Other,translated
+CATEGORY,125,X91KGI2N,Groundbed,سرير التأريض,سرير التأريض | Groundbed,translated
+NAME,126,JVRJW12Z,Groundbed - Unknown,سرير التأريض مجهولة,سرير التأريض مجهولة | Groundbed - Unknown,translated
+CATEGORY,126,JVRJW12Z,Groundbed,سرير التأريض,سرير التأريض | Groundbed,translated
+NAME,127,E3AFG45L,Anode Bed,أنود طبقة,أنود طبقة | Anode Bed,translated
+CATEGORY,127,E3AFG45L,Groundbed,سرير التأريض,سرير التأريض | Groundbed,translated
+NAME,128,VPWZ1952,WaterDevice - Anode - Other,مياه جهاز أنود أخرى,مياه جهاز أنود أخرى | WaterDevice - Anode - Other,translated
+CATEGORY,128,VPWZ1952,Anode,أنود,أنود | Anode,translated
+NAME,129,2O0XF672,Anode - Unknown,أنود مجهولة,أنود مجهولة | Anode - Unknown,translated
+CATEGORY,129,2O0XF672,Anode,أنود,أنود | Anode,translated
+NAME,130,YESV0FH2,ICCP,,ICCP,kept
+CATEGORY,130,YESV0FH2,Anode,أنود,أنود | Anode,translated
+NAME,131,33WZNJJ3,Galvanic,,Galvanic,kept
+CATEGORY,131,33WZNJJ3,Anode,أنود,أنود | Anode,translated
+NAME,132,ECHY2M4E,WaterDevice - Rectifier - Other,مياه جهاز مقوم أخرى,مياه جهاز مقوم أخرى | WaterDevice - Rectifier - Other,translated
+CATEGORY,132,ECHY2M4E,Rectifier,مقوم,مقوم | Rectifier,translated
+NAME,133,F2TN2FEQ,Rectifier - Unknown,مقوم مجهولة,مقوم مجهولة | Rectifier - Unknown,translated
+CATEGORY,133,F2TN2FEQ,Rectifier,مقوم,مقوم | Rectifier,translated
+NAME,134,Y38FJFW4,Rectifier,مقوم,مقوم | Rectifier,translated
+CATEGORY,134,Y38FJFW4,Rectifier,مقوم,مقوم | Rectifier,translated
+NAME,135,ZCWBURA0,WaterDevice - Test Point - Other,مياه جهاز نقطة الاختبار أخرى,مياه جهاز نقطة الاختبار أخرى | WaterDevice - Test Point - Other,translated
+CATEGORY,135,ZCWBURA0,Test Point,نقطة الاختبار,نقطة الاختبار | Test Point,translated
+NAME,136,RXDJAUZQ,Test Point - Unknown,نقطة الاختبار مجهولة,نقطة الاختبار مجهولة | Test Point - Unknown,translated
+CATEGORY,136,RXDJAUZQ,Test Point,نقطة الاختبار,نقطة الاختبار | Test Point,translated
+NAME,137,2F5A3RGK,Test Point,نقطة الاختبار,نقطة الاختبار | Test Point,translated
+CATEGORY,137,2F5A3RGK,Test Point,نقطة الاختبار,نقطة الاختبار | Test Point,translated
+NAME,138,WL2F66TY,WaterDevice - Monitoring - Other,مياه جهاز مراقبة أخرى,مياه جهاز مراقبة أخرى | WaterDevice - Monitoring - Other,translated
+CATEGORY,138,WL2F66TY,Monitoring,مراقبة,مراقبة | Monitoring,translated
+NAME,139,O664EZDW,Monitoring - Unknown,مراقبة مجهولة,مراقبة مجهولة | Monitoring - Unknown,translated
+CATEGORY,139,O664EZDW,Monitoring,مراقبة,مراقبة | Monitoring,translated
+NAME,140,SKOCBRPW,Detection Meter,عداد,عداد | Detection Meter,translated
+CATEGORY,140,SKOCBRPW,Monitoring,مراقبة,مراقبة | Monitoring,translated
+NAME,141,OHOTP99T,Observation Well,بئر مراقبة,بئر مراقبة | Observation Well,translated
+CATEGORY,141,OHOTP99T,Monitoring,مراقبة,مراقبة | Monitoring,translated
+NAME,142,XZNH2B2O,Pressure Sensor,ضغط حساس,ضغط حساس | Pressure Sensor,translated
+CATEGORY,142,XZNH2B2O,Monitoring,مراقبة,مراقبة | Monitoring,translated
+NAME,143,Z9NTALIX,Temperature Sensor,حساس,حساس | Temperature Sensor,translated
+CATEGORY,143,Z9NTALIX,Monitoring,مراقبة,مراقبة | Monitoring,translated
+NAME,144,DL7HUTNR,WaterAssembly - Unknown,مياه مجموعة مجهولة,مياه مجموعة مجهولة | WaterAssembly - Unknown,translated
+CATEGORY,144,DL7HUTNR,Unknown,مجهولة,مجهولة | Unknown,translated
+NAME,145,B6Y18FBA,WaterAssembly - Backflow Assembly - Other,مياه مجموعة التدفق العكسي أخرى,مياه مجموعة التدفق العكسي أخرى | WaterAssembly - Backflow Assembly - Other,translated
+CATEGORY,145,B6Y18FBA,Backflow Assembly,التدفق العكسي مجموعة,التدفق العكسي مجموعة | Backflow Assembly,translated
+NAME,146,UEJQ0AA5,Backflow Assembly - Unknown,التدفق العكسي مجموعة مجهولة,التدفق العكسي مجموعة مجهولة | Backflow Assembly - Unknown,translated
+CATEGORY,146,UEJQ0AA5,Backflow Assembly,التدفق العكسي مجموعة,التدفق العكسي مجموعة | Backflow Assembly,translated
+NAME,147,AUXTUJGJ,Reduced Pressure Zone,ضغط منطقة,ضغط منطقة | Reduced Pressure Zone,translated
+CATEGORY,147,AUXTUJGJ,Backflow Assembly,التدفق العكسي مجموعة,التدفق العكسي مجموعة | Backflow Assembly,translated
+NAME,148,DEKFBN1N,Reduced Pressure Detector,ضغط,ضغط | Reduced Pressure Detector,translated
+CATEGORY,148,DEKFBN1N,Backflow Assembly,التدفق العكسي مجموعة,التدفق العكسي مجموعة | Backflow Assembly,translated
+NAME,149,LRRBWJTR,Double Check Valve,مزدوجة صمام عدم رجوع,مزدوجة صمام عدم رجوع | Double Check Valve,translated
+CATEGORY,149,LRRBWJTR,Backflow Assembly,التدفق العكسي مجموعة,التدفق العكسي مجموعة | Backflow Assembly,translated
+NAME,150,BJQXUIK7,Double Check Detector,مزدوجة حاجز,مزدوجة حاجز | Double Check Detector,translated
+CATEGORY,150,BJQXUIK7,Backflow Assembly,التدفق العكسي مجموعة,التدفق العكسي مجموعة | Backflow Assembly,translated
+NAME,151,DPLE02RN,WaterAssembly - Blow Off Assembly - Other,مياه مجموعة تنفيس أخرى,مياه مجموعة تنفيس أخرى | WaterAssembly - Blow Off Assembly - Other,translated
+CATEGORY,151,DPLE02RN,Blow Off Assembly,تنفيس مجموعة,تنفيس مجموعة | Blow Off Assembly,translated
+NAME,152,S28OPGP3,Blow Off Assembly - Unknown,تنفيس مجموعة مجهولة,تنفيس مجموعة مجهولة | Blow Off Assembly - Unknown,translated
+CATEGORY,152,S28OPGP3,Blow Off Assembly,تنفيس مجموعة,تنفيس مجموعة | Blow Off Assembly,translated
+NAME,153,BG17NG6B,Automatic,أوتوماتيكية,أوتوماتيكية | Automatic,translated
+CATEGORY,153,BG17NG6B,Blow Off Assembly,تنفيس مجموعة,تنفيس مجموعة | Blow Off Assembly,translated
+NAME,154,O7VBIKBE,Manual,يدوية,يدوية | Manual,translated
+CATEGORY,154,O7VBIKBE,Blow Off Assembly,تنفيس مجموعة,تنفيس مجموعة | Blow Off Assembly,translated
+NAME,155,VDZXCHKG,WaterAssembly - Meter Station - Other,مياه مجموعة محطة العدادات أخرى,مياه مجموعة محطة العدادات أخرى | WaterAssembly - Meter Station - Other,translated
+CATEGORY,155,VDZXCHKG,Meter Station,محطة العدادات,محطة العدادات | Meter Station,translated
+NAME,156,U3GPY5WA,Meter Station - Unknown,محطة العدادات مجهولة,محطة العدادات مجهولة | Meter Station - Unknown,translated
+CATEGORY,156,U3GPY5WA,Meter Station,محطة العدادات,محطة العدادات | Meter Station,translated
+NAME,157,USYV7R0B,Meter Station,محطة العدادات,محطة العدادات | Meter Station,translated
+CATEGORY,157,USYV7R0B,Meter Station,محطة العدادات,محطة العدادات | Meter Station,translated
+NAME,158,0RRYTACQ,WaterAssembly - Water Horizontal Valve Assembly - Other,مياه مجموعة أفقية مجموعة الصمام أخرى,مياه مجموعة أفقية مجموعة الصمام أخرى | WaterAssembly - Water Horizontal Valve Assembly - Other,translated
+CATEGORY,158,0RRYTACQ,Water Horizontal Valve Assembly,مياه أفقية مجموعة الصمام,مياه أفقية مجموعة الصمام | Water Horizontal Valve Assembly,translated
+NAME,159,K3J1EW3W,Water Horizontal Valve Assembly - Unknown,مياه أفقية مجموعة الصمام مجهولة,مياه أفقية مجموعة الصمام مجهولة | Water Horizontal Valve Assembly - Unknown,translated
+CATEGORY,159,K3J1EW3W,Water Horizontal Valve Assembly,مياه أفقية مجموعة الصمام,مياه أفقية مجموعة الصمام | Water Horizontal Valve Assembly,translated
+NAME,160,APJQDGQ8,Operator Nut,,Operator Nut,kept
+CATEGORY,160,APJQDGQ8,Water Horizontal Valve Assembly,مياه أفقية مجموعة الصمام,مياه أفقية مجموعة الصمام | Water Horizontal Valve Assembly,translated
+NAME,161,1MWCGPO1,Operator Nut and Bypass Valve,و ممر تحويلي صمام,و ممر تحويلي صمام | Operator Nut and Bypass Valve,translated
+CATEGORY,161,1MWCGPO1,Water Horizontal Valve Assembly,مياه أفقية مجموعة الصمام,مياه أفقية مجموعة الصمام | Water Horizontal Valve Assembly,translated
+NAME,162,XOACGDDD,WaterAssembly - Pressure Reducing Station - Other,مياه مجموعة محطة تخفيض الضغط أخرى,مياه مجموعة محطة تخفيض الضغط أخرى | WaterAssembly - Pressure Reducing Station - Other,translated
+CATEGORY,162,XOACGDDD,Pressure Reducing Station,محطة تخفيض الضغط,محطة تخفيض الضغط | Pressure Reducing Station,translated
+NAME,163,G22OH4RQ,Pressure Reducing Station - Unknown,محطة تخفيض الضغط مجهولة,محطة تخفيض الضغط مجهولة | Pressure Reducing Station - Unknown,translated
+CATEGORY,163,G22OH4RQ,Pressure Reducing Station,محطة تخفيض الضغط,محطة تخفيض الضغط | Pressure Reducing Station,translated
+NAME,164,C5YLA3DU,Pressure Reducing Station,محطة تخفيض الضغط,محطة تخفيض الضغط | Pressure Reducing Station,translated
+CATEGORY,164,C5YLA3DU,Pressure Reducing Station,محطة تخفيض الضغط,محطة تخفيض الضغط | Pressure Reducing Station,translated
+NAME,165,67A45WHP,WaterAssembly - Air Vacuum and Air Release Assembly - Other,مياه مجموعة تفريغ الهواء وتنفيسه أخرى,مياه مجموعة تفريغ الهواء وتنفيسه أخرى | WaterAssembly - Air Vacuum and Air Release Assembly - Other,translated
+CATEGORY,165,67A45WHP,Air Vacuum and Air Release Assembly,تفريغ الهواء وتنفيسه مجموعة,تفريغ الهواء وتنفيسه مجموعة | Air Vacuum and Air Release Assembly,translated
+NAME,166,4VYFHI5K,Air Vacuum and Air Release Assembly - Unknown,تفريغ الهواء وتنفيسه مجموعة مجهولة,تفريغ الهواء وتنفيسه مجموعة مجهولة | Air Vacuum and Air Release Assembly - Unknown,translated
+CATEGORY,166,4VYFHI5K,Air Vacuum and Air Release Assembly,تفريغ الهواء وتنفيسه مجموعة,تفريغ الهواء وتنفيسه مجموعة | Air Vacuum and Air Release Assembly,translated
+NAME,167,0OYEOALA,Air Vacuum and Air Release,تفريغ الهواء وتنفيسه,تفريغ الهواء وتنفيسه | Air Vacuum and Air Release,translated
+CATEGORY,167,0OYEOALA,Air Vacuum and Air Release Assembly,تفريغ الهواء وتنفيسه مجموعة,تفريغ الهواء وتنفيسه مجموعة | Air Vacuum and Air Release Assembly,translated
+NAME,168,JX5LZE1P,WaterAssembly - Hydrant Assembly - Other,مياه مجموعة حنفية أخرى,مياه مجموعة حنفية أخرى | WaterAssembly - Hydrant Assembly - Other,translated
+CATEGORY,168,JX5LZE1P,Hydrant Assembly,حنفية مجموعة,حنفية مجموعة | Hydrant Assembly,translated
+NAME,169,9A1HFEXE,Hydrant Assembly - Unknown,حنفية مجموعة مجهولة,حنفية مجموعة مجهولة | Hydrant Assembly - Unknown,translated
+CATEGORY,169,9A1HFEXE,Hydrant Assembly,حنفية مجموعة,حنفية مجموعة | Hydrant Assembly,translated
+NAME,170,9ULLRA5I,Fire Hydrant,حنفية حريق,حنفية حريق | Fire Hydrant,translated
+CATEGORY,170,9ULLRA5I,Hydrant Assembly,حنفية مجموعة,حنفية مجموعة | Hydrant Assembly,translated
+NAME,171,87T4HUG9,WaterJunction - Unknown,مياه عقدة مجهولة,مياه عقدة مجهولة | WaterJunction - Unknown,translated
+CATEGORY,171,87T4HUG9,Unknown,مجهولة,مجهولة | Unknown,translated
+NAME,172,EHEY5MJ8,WaterJunction - Fitting - Other,مياه عقدة قطعة ربط أخرى,مياه عقدة قطعة ربط أخرى | WaterJunction - Fitting - Other,translated
+CATEGORY,172,EHEY5MJ8,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,173,UO9VZU8P,Fitting - Unknown,قطعة ربط مجهولة,قطعة ربط مجهولة | Fitting - Unknown,translated
+CATEGORY,173,UO9VZU8P,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,174,509L4YBM,Coupling,وصلة ربط,وصلة ربط | Coupling,translated
+CATEGORY,174,509L4YBM,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,175,QNHF8JDQ,Elbow,,Elbow,kept
+CATEGORY,175,QNHF8JDQ,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,176,PUMGC9RT,End Cap,سدادة,سدادة | End Cap,translated
+CATEGORY,176,PUMGC9RT,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,177,OCF6KOCX,Expansion Joint,فاصل,فاصل | Expansion Joint,translated
+CATEGORY,177,OCF6KOCX,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,178,LJJAFNYU,Flange,شفة,شفة | Flange,translated
+CATEGORY,178,LJJAFNYU,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,179,NWPVOBY9,Reducer,مخفض,مخفض | Reducer,translated
+CATEGORY,179,NWPVOBY9,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,180,4N5F018R,Tee,وصلة ثلاثية,وصلة ثلاثية | Tee,translated
+CATEGORY,180,4N5F018R,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,181,63S5EP62,Transition,,Transition,kept
+CATEGORY,181,63S5EP62,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,182,4M805MWF,Weld,,Weld,kept
+CATEGORY,182,4M805MWF,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,183,CZ11OZLH,Screw,,Screw,kept
+CATEGORY,183,CZ11OZLH,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,184,DQE6LQAK,Tap,وصلة ربط,وصلة ربط | Tap,translated
+CATEGORY,184,DQE6LQAK,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,185,23WCDL45,Sleeve,جلبة,جلبة | Sleeve,translated
+CATEGORY,185,23WCDL45,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,186,2SD1TUIF,Reducing Cross,تقاطع,تقاطع | Reducing Cross,translated
+CATEGORY,186,2SD1TUIF,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,187,60A7XTCS,Reducing Tee,وصلة ثلاثية,وصلة ثلاثية | Reducing Tee,translated
+CATEGORY,187,60A7XTCS,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,188,HN6UQH4G,Plug,سدادة,سدادة | Plug,translated
+CATEGORY,188,HN6UQH4G,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,189,1LT7ASYA,Cross,تقاطع,تقاطع | Cross,translated
+CATEGORY,189,1LT7ASYA,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,190,62GBDVJB,Corporation Stop,محبس التوصيلة,محبس التوصيلة | Corporation Stop,translated
+CATEGORY,190,62GBDVJB,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,191,S0NBA0WT,Saddle,سرج,سرج | Saddle,translated
+CATEGORY,191,S0NBA0WT,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,192,GBLC4IOX,Tapping Saddle,سرج الربط,سرج الربط | Tapping Saddle,translated
+CATEGORY,192,GBLC4IOX,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,193,WEQS3TUM,Wye,وصلة Y,وصلة Y | Wye,translated
+CATEGORY,193,WEQS3TUM,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,194,DQ90WC86,Clamp,مشبك,مشبك | Clamp,translated
+CATEGORY,194,DQ90WC86,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,195,CJYH6CVE,Tapping Sleeve,جلبة الربط,جلبة الربط | Tapping Sleeve,translated
+CATEGORY,195,CJYH6CVE,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+NAME,196,FH4LGG1V,WaterJunction - Wire Junction - Other,مياه عقدة أخرى,مياه عقدة أخرى | WaterJunction - Wire Junction - Other,translated
+CATEGORY,196,FH4LGG1V,Wire Junction,عقدة,عقدة | Wire Junction,translated
+NAME,197,VFU14PWZ,Wire Junction - Unknown,عقدة مجهولة,عقدة مجهولة | Wire Junction - Unknown,translated
+CATEGORY,197,VFU14PWZ,Wire Junction,عقدة,عقدة | Wire Junction,translated
+NAME,198,22VECF74,Bond Junction,ضمان عقدة,ضمان عقدة | Bond Junction,translated
+CATEGORY,198,22VECF74,Wire Junction,عقدة,عقدة | Wire Junction,translated
+NAME,199,QDA9P01V,Test Lead,سلك الاختبار,سلك الاختبار | Test Lead,translated
+CATEGORY,199,QDA9P01V,Wire Junction,عقدة,عقدة | Wire Junction,translated
+NAME,200,U2FO2RK3,WaterJunction - Insulation Junction - Other,مياه عقدة عزل أخرى,مياه عقدة عزل أخرى | WaterJunction - Insulation Junction - Other,translated
+CATEGORY,200,U2FO2RK3,Insulation Junction,عزل عقدة,عزل عقدة | Insulation Junction,translated
+NAME,201,MXRIK82L,Insulation Junction - Unknown,عزل عقدة مجهولة,عزل عقدة مجهولة | Insulation Junction - Unknown,translated
+CATEGORY,201,MXRIK82L,Insulation Junction,عزل عقدة,عزل عقدة | Insulation Junction,translated
+NAME,202,664DVGR8,Flange Insert,شفة,شفة | Flange Insert,translated
+CATEGORY,202,664DVGR8,Insulation Junction,عزل عقدة,عزل عقدة | Insulation Junction,translated
+NAME,203,3VKWWZKG,StructureJunction - Unknown,عقدة المنشأ مجهولة,عقدة المنشأ مجهولة | StructureJunction - Unknown,translated
+CATEGORY,203,3VKWWZKG,Unknown,مجهولة,مجهولة | Unknown,translated
+NAME,204,JG3TJ18L,StructureJunction - Pipe Anchor - Other,عقدة المنشأ أنبوب مثبت أخرى,عقدة المنشأ أنبوب مثبت أخرى | StructureJunction - Pipe Anchor - Other,translated
+CATEGORY,204,JG3TJ18L,Pipe Anchor,أنبوب مثبت,أنبوب مثبت | Pipe Anchor,translated
+NAME,205,5HCJ9GNB,Pipe Anchor - Unknown,أنبوب مثبت مجهولة,أنبوب مثبت مجهولة | Pipe Anchor - Unknown,translated
+CATEGORY,205,5HCJ9GNB,Pipe Anchor,أنبوب مثبت,أنبوب مثبت | Pipe Anchor,translated
+NAME,206,GMMG1JRO,Anchor,مثبت,مثبت | Anchor,translated
+CATEGORY,206,GMMG1JRO,Pipe Anchor,أنبوب مثبت,أنبوب مثبت | Pipe Anchor,translated
+NAME,207,KHQ1XJP1,StructureJunction - Pipe Support - Other,عقدة المنشأ أنبوب أخرى,عقدة المنشأ أنبوب أخرى | StructureJunction - Pipe Support - Other,translated
+CATEGORY,207,KHQ1XJP1,Pipe Support,أنبوب,أنبوب | Pipe Support,translated
+NAME,208,BRMS79S9,Pipe Support - Unknown,أنبوب مجهولة,أنبوب مجهولة | Pipe Support - Unknown,translated
+CATEGORY,208,BRMS79S9,Pipe Support,أنبوب,أنبوب | Pipe Support,translated
+NAME,209,GJVJ8JM7,Pipe Stand,أنبوب,أنبوب | Pipe Stand,translated
+CATEGORY,209,GJVJ8JM7,Pipe Support,أنبوب,أنبوب | Pipe Support,translated
+NAME,210,2YSQY4MH,Roller,,Roller,kept
+CATEGORY,210,2YSQY4MH,Pipe Support,أنبوب,أنبوب | Pipe Support,translated
+NAME,211,ZQ1W2AIH,StructureJunction - Pipe Hanger - Other,عقدة المنشأ أنبوب أخرى,عقدة المنشأ أنبوب أخرى | StructureJunction - Pipe Hanger - Other,translated
+CATEGORY,211,ZQ1W2AIH,Pipe Hanger,أنبوب,أنبوب | Pipe Hanger,translated
+NAME,212,4RGESCVC,Pipe Hanger - Unknown,أنبوب مجهولة,أنبوب مجهولة | Pipe Hanger - Unknown,translated
+CATEGORY,212,4RGESCVC,Pipe Hanger,أنبوب,أنبوب | Pipe Hanger,translated
+NAME,213,BWRJ3A1V,Constant Spring,ينبوع,ينبوع | Constant Spring,translated
+CATEGORY,213,BWRJ3A1V,Pipe Hanger,أنبوب,أنبوب | Pipe Hanger,translated
+NAME,214,GNQ3ULJ9,Rigid,,Rigid,kept
+CATEGORY,214,GNQ3ULJ9,Pipe Hanger,أنبوب,أنبوب | Pipe Hanger,translated
+NAME,215,TXI4H27T,Variable Spring,زنبرك متغير,زنبرك متغير | Variable Spring,translated
+CATEGORY,215,TXI4H27T,Pipe Hanger,أنبوب,أنبوب | Pipe Hanger,translated
+NAME,216,0G2WRR58,StructureJunction - Pipe Access Point - Other,عقدة المنشأ أنبوب وصول نقطة أخرى,عقدة المنشأ أنبوب وصول نقطة أخرى | StructureJunction - Pipe Access Point - Other,translated
+CATEGORY,216,0G2WRR58,Pipe Access Point,أنبوب وصول نقطة,أنبوب وصول نقطة | Pipe Access Point,translated
+NAME,217,2IJBU3VY,Pipe Access Point - Unknown,أنبوب وصول نقطة مجهولة,أنبوب وصول نقطة مجهولة | Pipe Access Point - Unknown,translated
+CATEGORY,217,2IJBU3VY,Pipe Access Point,أنبوب وصول نقطة,أنبوب وصول نقطة | Pipe Access Point,translated
+NAME,218,2MYWBFB7,Manhole Cover,غرفة تفتيش غطاء,غرفة تفتيش غطاء | Manhole Cover,translated
+CATEGORY,218,2MYWBFB7,Pipe Access Point,أنبوب وصول نقطة,أنبوب وصول نقطة | Pipe Access Point,translated
+NAME,219,AZZKX9PS,Door,,Door,kept
+CATEGORY,219,AZZKX9PS,Pipe Access Point,أنبوب وصول نقطة,أنبوب وصول نقطة | Pipe Access Point,translated
+NAME,220,6QKB38E7,Grate,,Grate,kept
+CATEGORY,220,6QKB38E7,Pipe Access Point,أنبوب وصول نقطة,أنبوب وصول نقطة | Pipe Access Point,translated
+NAME,221,KPZ2TLC9,Hand Hole,فتحة يدوية,فتحة يدوية | Hand Hole,translated
+CATEGORY,221,KPZ2TLC9,Pipe Access Point,أنبوب وصول نقطة,أنبوب وصول نقطة | Pipe Access Point,translated
+NAME,222,YRE0PV2S,Lid,,Lid,kept
+CATEGORY,222,YRE0PV2S,Pipe Access Point,أنبوب وصول نقطة,أنبوب وصول نقطة | Pipe Access Point,translated
+NAME,223,XRCH48XB,StructureJunction - Pipe Vault - Other,عقدة المنشأ حجرة الأنابيب أخرى,عقدة المنشأ حجرة الأنابيب أخرى | StructureJunction - Pipe Vault - Other,translated
+CATEGORY,223,XRCH48XB,Pipe Vault,حجرة الأنابيب,حجرة الأنابيب | Pipe Vault,translated
+NAME,224,2YKCNBXO,Pipe Vault - Unknown,حجرة الأنابيب مجهولة,حجرة الأنابيب مجهولة | Pipe Vault - Unknown,translated
+CATEGORY,224,2YKCNBXO,Pipe Vault,حجرة الأنابيب,حجرة الأنابيب | Pipe Vault,translated
+NAME,225,CE6CFMT3,Vault,حجرة,حجرة | Vault,translated
+CATEGORY,225,CE6CFMT3,Pipe Vault,حجرة الأنابيب,حجرة الأنابيب | Pipe Vault,translated
+NAME,226,Y42JJJ61,Air Release,هواء تحرير,هواء تحرير | Air Release,translated
+CATEGORY,226,Y42JJJ61,Pipe Vault,حجرة الأنابيب,حجرة الأنابيب | Pipe Vault,translated
+NAME,227,YXQ2AUTB,Manhole,غرفة تفتيش,غرفة تفتيش | Manhole,translated
+CATEGORY,227,YXQ2AUTB,Pipe Vault,حجرة الأنابيب,حجرة الأنابيب | Pipe Vault,translated
+NAME,228,U5VVN4T9,StructureJunction - Pipe Box - Other,عقدة المنشأ أنبوب صندوق أخرى,عقدة المنشأ أنبوب صندوق أخرى | StructureJunction - Pipe Box - Other,translated
+CATEGORY,228,U5VVN4T9,Pipe Box,أنبوب صندوق,أنبوب صندوق | Pipe Box,translated
+NAME,229,UGG4VWNG,Pipe Box - Unknown,أنبوب صندوق مجهولة,أنبوب صندوق مجهولة | Pipe Box - Unknown,translated
+CATEGORY,229,UGG4VWNG,Pipe Box,أنبوب صندوق,أنبوب صندوق | Pipe Box,translated
+NAME,230,RUMBRSU0,Curb Box,صندوق,صندوق | Curb Box,translated
+CATEGORY,230,RUMBRSU0,Pipe Box,أنبوب صندوق,أنبوب صندوق | Pipe Box,translated
+NAME,231,3ZR666EW,Curb Box with Stationary Rod,صندوق مع,صندوق مع | Curb Box with Stationary Rod,translated
+CATEGORY,231,3ZR666EW,Pipe Box,أنبوب صندوق,أنبوب صندوق | Pipe Box,translated
+NAME,232,2H2JETVI,Roadway,,Roadway,kept
+CATEGORY,232,2H2JETVI,Pipe Box,أنبوب صندوق,أنبوب صندوق | Pipe Box,translated
+NAME,233,O45RA877,Valve Box,صندوق الصمام,صندوق الصمام | Valve Box,translated
+CATEGORY,233,O45RA877,Pipe Box,أنبوب صندوق,أنبوب صندوق | Pipe Box,translated
+NAME,234,MG7MBTB5,Meter Box,عداد صندوق,عداد صندوق | Meter Box,translated
+CATEGORY,234,MG7MBTB5,Pipe Box,أنبوب صندوق,أنبوب صندوق | Pipe Box,translated
+NAME,235,IB4SSS4I,Blow Off,تنفيس,تنفيس | Blow Off,translated
+CATEGORY,235,IB4SSS4I,Pipe Box,أنبوب صندوق,أنبوب صندوق | Pipe Box,translated
+NAME,236,MTZQ374A,WaterLine - Unknown,مياه خط مجهولة,مياه خط مجهولة | WaterLine - Unknown,translated
+CATEGORY,236,MTZQ374A,Unknown,مجهولة,مجهولة | Unknown,translated
+NAME,237,8F4WKP00,WaterLine - Bonding Line - Other,مياه خط ربط أخرى,مياه خط ربط أخرى | WaterLine - Bonding Line - Other,translated
+CATEGORY,237,8F4WKP00,Bonding Line,ربط خط,ربط خط | Bonding Line,translated
+NAME,238,0YC7U1NH,Bonding Line - Unknown,ربط خط مجهولة,ربط خط مجهولة | Bonding Line - Unknown,translated
+CATEGORY,238,0YC7U1NH,Bonding Line,ربط خط,ربط خط | Bonding Line,translated
+NAME,239,1M77UZPT,Wire,,Wire,kept
+CATEGORY,239,1M77UZPT,Bonding Line,ربط خط,ربط خط | Bonding Line,translated
+NAME,240,BQLXTRDS,Strap,,Strap,kept
+CATEGORY,240,BQLXTRDS,Bonding Line,ربط خط,ربط خط | Bonding Line,translated
+NAME,241,P7XS40D4,WaterLine - Test Lead Wire - Other,مياه خط سلك اختبار التوصيل أخرى,مياه خط سلك اختبار التوصيل أخرى | WaterLine - Test Lead Wire - Other,translated
+CATEGORY,241,P7XS40D4,Test Lead Wire,سلك اختبار التوصيل,سلك اختبار التوصيل | Test Lead Wire,translated
+NAME,242,Q4PI2ORB,Test Lead Wire - Unknown,سلك اختبار التوصيل مجهولة,سلك اختبار التوصيل مجهولة | Test Lead Wire - Unknown,translated
+CATEGORY,242,Q4PI2ORB,Test Lead Wire,سلك اختبار التوصيل,سلك اختبار التوصيل | Test Lead Wire,translated
+NAME,243,OXTJTSZA,Aqua,,Aqua,kept
+CATEGORY,243,OXTJTSZA,Test Lead Wire,سلك اختبار التوصيل,سلك اختبار التوصيل | Test Lead Wire,translated
+NAME,244,8F6VMR56,Blue,أزرق,أزرق | Blue,translated
+CATEGORY,244,8F6VMR56,Test Lead Wire,سلك اختبار التوصيل,سلك اختبار التوصيل | Test Lead Wire,translated
+NAME,245,E4WCRPLV,Forest,غابة,غابة | Forest,translated
+CATEGORY,245,E4WCRPLV,Test Lead Wire,سلك اختبار التوصيل,سلك اختبار التوصيل | Test Lead Wire,translated
+NAME,246,A50S1K9H,Green,أخضر,أخضر | Green,translated
+CATEGORY,246,A50S1K9H,Test Lead Wire,سلك اختبار التوصيل,سلك اختبار التوصيل | Test Lead Wire,translated
+NAME,247,SWLYEA4M,Lavender,,Lavender,kept
+CATEGORY,247,SWLYEA4M,Test Lead Wire,سلك اختبار التوصيل,سلك اختبار التوصيل | Test Lead Wire,translated
+NAME,248,A182CMAD,Orange,برتقالي,برتقالي | Orange,translated
+CATEGORY,248,A182CMAD,Test Lead Wire,سلك اختبار التوصيل,سلك اختبار التوصيل | Test Lead Wire,translated
+NAME,249,MY87NI1Z,Pink,وردي,وردي | Pink,translated
+CATEGORY,249,MY87NI1Z,Test Lead Wire,سلك اختبار التوصيل,سلك اختبار التوصيل | Test Lead Wire,translated
+NAME,250,MVE2DNAA,Red,أحمر,أحمر | Red,translated
+CATEGORY,250,MVE2DNAA,Test Lead Wire,سلك اختبار التوصيل,سلك اختبار التوصيل | Test Lead Wire,translated
+NAME,251,NCDPYEUR,Yellow,أصفر,أصفر | Yellow,translated
+CATEGORY,251,NCDPYEUR,Test Lead Wire,سلك اختبار التوصيل,سلك اختبار التوصيل | Test Lead Wire,translated
+NAME,252,EPQJX7T9,Purple,بنفسجي,بنفسجي | Purple,translated
+CATEGORY,252,EPQJX7T9,Test Lead Wire,سلك اختبار التوصيل,سلك اختبار التوصيل | Test Lead Wire,translated
+NAME,253,E5X6XP86,WaterLine - Water Main - Other,مياه خط خط مياه رئيسي أخرى,مياه خط خط مياه رئيسي أخرى | WaterLine - Water Main - Other,translated
+CATEGORY,253,E5X6XP86,Water Main,خط مياه رئيسي,خط مياه رئيسي | Water Main,translated
+NAME,254,31EW3Z9F,Water Main - Unknown,خط مياه رئيسي مجهولة,خط مياه رئيسي مجهولة | Water Main - Unknown,translated
+CATEGORY,254,31EW3Z9F,Water Main,خط مياه رئيسي,خط مياه رئيسي | Water Main,translated
+NAME,255,A6L4SUD4,Transmission Main,خط النقل الرئيسي,خط النقل الرئيسي | Transmission Main,translated
+CATEGORY,255,A6L4SUD4,Water Main,خط مياه رئيسي,خط مياه رئيسي | Water Main,translated
+NAME,256,09RIRZPA,Distribution Main,خط التوزيع الرئيسي,خط التوزيع الرئيسي | Distribution Main,translated
+CATEGORY,256,09RIRZPA,Water Main,خط مياه رئيسي,خط مياه رئيسي | Water Main,translated
+NAME,257,XQW587NV,Production,إنتاج,إنتاج | Production,translated
+CATEGORY,257,XQW587NV,Water Main,خط مياه رئيسي,خط مياه رئيسي | Water Main,translated
+NAME,258,B6U3X09M,Overflow,تدفق زائد,تدفق زائد | Overflow,translated
+CATEGORY,258,B6U3X09M,Water Main,خط مياه رئيسي,خط مياه رئيسي | Water Main,translated
+NAME,259,U4P0ER6M,Drain,مصرف,مصرف | Drain,translated
+CATEGORY,259,U4P0ER6M,Water Main,خط مياه رئيسي,خط مياه رئيسي | Water Main,translated
+NAME,260,E0XY2VRB,WaterLine - Service - Other,مياه خط خدمة أخرى,مياه خط خدمة أخرى | WaterLine - Service - Other,translated
+CATEGORY,260,E0XY2VRB,Service,خدمة,خدمة | Service,translated
+NAME,261,OXZTWECU,Service - Unknown,خدمة مجهولة,خدمة مجهولة | Service - Unknown,translated
+CATEGORY,261,OXZTWECU,Service,خدمة,خدمة | Service,translated
+NAME,262,1DWTHR9E,Residential Service,سكنية خدمة,سكنية خدمة | Residential Service,translated
+CATEGORY,262,1DWTHR9E,Service,خدمة,خدمة | Service,translated
+NAME,263,MYZK20RI,Commercial Service,تجارية خدمة,تجارية خدمة | Commercial Service,translated
+CATEGORY,263,MYZK20RI,Service,خدمة,خدمة | Service,translated
+NAME,264,4GC2YY8V,Industrial Service,صناعية خدمة,صناعية خدمة | Industrial Service,translated
+CATEGORY,264,4GC2YY8V,Service,خدمة,خدمة | Service,translated
+NAME,265,OYFJRJV5,Fire Service,خدمة الإطفاء,خدمة الإطفاء | Fire Service,translated
+CATEGORY,265,OYFJRJV5,Service,خدمة,خدمة | Service,translated
+NAME,266,25RYQ5OG,Hydrant Service,حنفية خدمة,حنفية خدمة | Hydrant Service,translated
+CATEGORY,266,25RYQ5OG,Service,خدمة,خدمة | Service,translated
+NAME,267,3SX8D31L,Irrigation Service,ري خدمة,ري خدمة | Irrigation Service,translated
+CATEGORY,267,3SX8D31L,Service,خدمة,خدمة | Service,translated
+NAME,268,S72BEOKS,Sampling Service,أخذ العينات خدمة,أخذ العينات خدمة | Sampling Service,translated
+CATEGORY,268,S72BEOKS,Service,خدمة,خدمة | Service,translated
+NAME,269,MTGVQW49,Blow Off Service,تنفيس خدمة,تنفيس خدمة | Blow Off Service,translated
+CATEGORY,269,MTGVQW49,Service,خدمة,خدمة | Service,translated
+NAME,270,96R9BVVY,Air and Vacuum Service,هواء و خدمة,هواء و خدمة | Air and Vacuum Service,translated
+CATEGORY,270,96R9BVVY,Service,خدمة,خدمة | Service,translated
+NAME,271,97EH6JFC,WaterLine - Rectifier Cable - Other,مياه خط مقوم كابل أخرى,مياه خط مقوم كابل أخرى | WaterLine - Rectifier Cable - Other,translated
+CATEGORY,271,97EH6JFC,Rectifier Cable,مقوم كابل,مقوم كابل | Rectifier Cable,translated
+NAME,272,8XX58OKU,Rectifier Cable - Unknown,مقوم كابل مجهولة,مقوم كابل مجهولة | Rectifier Cable - Unknown,translated
+CATEGORY,272,8XX58OKU,Rectifier Cable,مقوم كابل,مقوم كابل | Rectifier Cable,translated
+NAME,273,WT9LUX00,Rectifier Cable,مقوم كابل,مقوم كابل | Rectifier Cable,translated
+CATEGORY,273,WT9LUX00,Rectifier Cable,مقوم كابل,مقوم كابل | Rectifier Cable,translated
+NAME,274,0B8YOY4D,StructureLine - Unknown,خط المنشأ مجهولة,خط المنشأ مجهولة | StructureLine - Unknown,translated
+CATEGORY,274,0B8YOY4D,Unknown,مجهولة,مجهولة | Unknown,translated
+NAME,275,ECGEQIUO,StructureLine - Pipe Casing - Other,خط المنشأ أنبوب غلاف أخرى,خط المنشأ أنبوب غلاف أخرى | StructureLine - Pipe Casing - Other,translated
+CATEGORY,275,ECGEQIUO,Pipe Casing,أنبوب غلاف,أنبوب غلاف | Pipe Casing,translated
+NAME,276,KAMUYZXC,Pipe Casing - Unknown,أنبوب غلاف مجهولة,أنبوب غلاف مجهولة | Pipe Casing - Unknown,translated
+CATEGORY,276,KAMUYZXC,Pipe Casing,أنبوب غلاف,أنبوب غلاف | Pipe Casing,translated
+NAME,277,33S9MTXA,Casing,غلاف,غلاف | Casing,translated
+CATEGORY,277,33S9MTXA,Pipe Casing,أنبوب غلاف,أنبوب غلاف | Pipe Casing,translated
+NAME,278,AHQ24K5F,WaterNetworks - Water Distribution System - Other,مياه منظومة أخرى,مياه منظومة أخرى | WaterNetworks - Water Distribution System - Other,translated
+CATEGORY,278,AHQ24K5F,Water Distribution System,مياه منظومة,مياه منظومة | Water Distribution System,translated
+NAME,279,YL9GV35V,Naperville Distribution,,Naperville Distribution,kept
+CATEGORY,279,YL9GV35V,Water Distribution System,مياه منظومة,مياه منظومة | Water Distribution System,translated
+NAME,280,8LL8G4FN,WaterNetworks - Water Distribution Pressure - Other,مياه ضغط أخرى,مياه ضغط أخرى | WaterNetworks - Water Distribution Pressure - Other,translated
+CATEGORY,280,8LL8G4FN,Water Distribution Pressure,مياه ضغط,مياه ضغط | Water Distribution Pressure,translated
+NAME,281,9J276I2Z,3000,,3000,kept
+CATEGORY,281,9J276I2Z,Water Distribution Pressure,مياه ضغط,مياه ضغط | Water Distribution Pressure,translated
+NAME,282,QRBJ7GS4,4900,,4900,kept
+CATEGORY,282,QRBJ7GS4,Water Distribution Pressure,مياه ضغط,مياه ضغط | Water Distribution Pressure,translated
+NAME,283,EJLTZTJ2,5000,,5000,kept
+CATEGORY,283,EJLTZTJ2,Water Distribution Pressure,مياه ضغط,مياه ضغط | Water Distribution Pressure,translated
+NAME,284,QC3ZNNO9,5200,,5200,kept
+CATEGORY,284,QC3ZNNO9,Water Distribution Pressure,مياه ضغط,مياه ضغط | Water Distribution Pressure,translated
+NAME,285,7R18G3FN,6500,,6500,kept
+CATEGORY,285,7R18G3FN,Water Distribution Pressure,مياه ضغط,مياه ضغط | Water Distribution Pressure,translated
+NAME,286,B6P7MP4N,9250,,9250,kept
+CATEGORY,286,B6P7MP4N,Water Distribution Pressure,مياه ضغط,مياه ضغط | Water Distribution Pressure,translated
+NAME,287,A1GHYLLM,WaterNetworks - Water Isolation - Other,مياه أخرى,مياه أخرى | WaterNetworks - Water Isolation - Other,translated
+CATEGORY,287,A1GHYLLM,Water Isolation,مياه,مياه | Water Isolation,translated
+NAME,288,H24064D5,Iso:755,,Iso:755,kept
+CATEGORY,288,H24064D5,Water Isolation,مياه,مياه | Water Isolation,translated
+NAME,289,GKV22X18,Iso:890,,Iso:890,kept
+CATEGORY,289,GKV22X18,Water Isolation,مياه,مياه | Water Isolation,translated
+NAME,290,FSFFEW4Z,Iso:895,,Iso:895,kept
+CATEGORY,290,FSFFEW4Z,Water Isolation,مياه,مياه | Water Isolation,translated
+NAME,291,4MSZYC2U,Iso:901,,Iso:901,kept
+CATEGORY,291,4MSZYC2U,Water Isolation,مياه,مياه | Water Isolation,translated
+NAME,292,YFY5A081,WaterNetworks - Water District Metered Areas (DMAs) - Other,مياه منطقة مناطق أخرى,مياه منطقة مناطق أخرى | WaterNetworks - Water District Metered Areas (DMAs) - Other,translated
+CATEGORY,292,YFY5A081,Water District Metered Areas (DMAs),مياه منطقة مناطق,مياه منطقة مناطق | Water District Metered Areas (DMAs),translated
+NAME,293,MWRQQPC2,DMA Zone 1,منطقة,منطقة | DMA Zone 1,translated
+CATEGORY,293,MWRQQPC2,Water District Metered Areas (DMAs),مياه منطقة مناطق,مياه منطقة مناطق | Water District Metered Areas (DMAs),translated
+NAME,294,BNFYLO6C,DMA Zone 2,منطقة,منطقة | DMA Zone 2,translated
+CATEGORY,294,BNFYLO6C,Water District Metered Areas (DMAs),مياه منطقة مناطق,مياه منطقة مناطق | Water District Metered Areas (DMAs),translated
+NAME,295,BF0H2LFC,WaterNetworks - Water Cathodic Protection - Other,مياه الحماية الكاثودية أخرى,مياه الحماية الكاثودية أخرى | WaterNetworks - Water Cathodic Protection - Other,translated
+CATEGORY,295,BF0H2LFC,Water Cathodic Protection,مياه الحماية الكاثودية,مياه الحماية الكاثودية | Water Cathodic Protection,translated
+NAME,296,6WY2DRS7,CP Area 1,منطقة,منطقة | CP Area 1,translated
+CATEGORY,296,6WY2DRS7,Water Cathodic Protection,مياه الحماية الكاثودية,مياه الحماية الكاثودية | Water Cathodic Protection,translated
+NAME,297,V3BOH7ZS,CP Area 2,منطقة,منطقة | CP Area 2,translated
+CATEGORY,297,V3BOH7ZS,Water Cathodic Protection,مياه الحماية الكاثودية,مياه الحماية الكاثودية | Water Cathodic Protection,translated
+NAME,298,8CK4F2TU,CP Area 3,منطقة,منطقة | CP Area 3,translated
+CATEGORY,298,8CK4F2TU,Water Cathodic Protection,مياه الحماية الكاثودية,مياه الحماية الكاثودية | Water Cathodic Protection,translated
+NAME,299,JJT6ED6U,StructureBoundary - Unknown,حد المنشأ مجهولة,حد المنشأ مجهولة | StructureBoundary - Unknown,translated
+CATEGORY,299,JJT6ED6U,Unknown,مجهولة,مجهولة | Unknown,translated
+NAME,300,V84P8K4T,StructureBoundary - Water Pump Station Boundary - Other,حد المنشأ مياه محطة الضخ حدود أخرى,حد المنشأ مياه محطة الضخ حدود أخرى | StructureBoundary - Water Pump Station Boundary - Other,translated
+CATEGORY,300,V84P8K4T,Water Pump Station Boundary,مياه محطة الضخ حدود,مياه محطة الضخ حدود | Water Pump Station Boundary,translated
+NAME,301,IRVDUWQM,Water Pump Station Boundary - Unknown,مياه محطة الضخ حدود مجهولة,مياه محطة الضخ حدود مجهولة | Water Pump Station Boundary - Unknown,translated
+CATEGORY,301,IRVDUWQM,Water Pump Station Boundary,مياه محطة الضخ حدود,مياه محطة الضخ حدود | Water Pump Station Boundary,translated
+NAME,302,IU551Z3H,Pump Station,محطة الضخ,محطة الضخ | Pump Station,translated
+CATEGORY,302,IU551Z3H,Water Pump Station Boundary,مياه محطة الضخ حدود,مياه محطة الضخ حدود | Water Pump Station Boundary,translated
+NAME,303,65MBLFZ3,Booster Station,تعزيز محطة,تعزيز محطة | Booster Station,translated
+CATEGORY,303,65MBLFZ3,Water Pump Station Boundary,مياه محطة الضخ حدود,مياه محطة الضخ حدود | Water Pump Station Boundary,translated
+NAME,304,3WDGT9WI,StructureBoundary - Water Storage Boundary - Other,حد المنشأ مياه تخزين حدود أخرى,حد المنشأ مياه تخزين حدود أخرى | StructureBoundary - Water Storage Boundary - Other,translated
+CATEGORY,304,3WDGT9WI,Water Storage Boundary,مياه تخزين حدود,مياه تخزين حدود | Water Storage Boundary,translated
+NAME,305,6IOU9K7Z,Water Storage Boundary - Unknown,مياه تخزين حدود مجهولة,مياه تخزين حدود مجهولة | Water Storage Boundary - Unknown,translated
+CATEGORY,305,6IOU9K7Z,Water Storage Boundary,مياه تخزين حدود,مياه تخزين حدود | Water Storage Boundary,translated
+NAME,306,16PVYJRA,Reservoir,خزان,خزان | Reservoir,translated
+CATEGORY,306,16PVYJRA,Water Storage Boundary,مياه تخزين حدود,مياه تخزين حدود | Water Storage Boundary,translated
+NAME,307,S90ZZSUB,Retention Area,استبقاء منطقة,استبقاء منطقة | Retention Area,translated
+CATEGORY,307,S90ZZSUB,Water Storage Boundary,مياه تخزين حدود,مياه تخزين حدود | Water Storage Boundary,translated
+NAME,308,PWXPW1DO,Storage Tank,خزان تخزين,خزان تخزين | Storage Tank,translated
+CATEGORY,308,PWXPW1DO,Water Storage Boundary,مياه تخزين حدود,مياه تخزين حدود | Water Storage Boundary,translated
+NAME,309,Z288F036,Tower,برج,برج | Tower,translated
+CATEGORY,309,Z288F036,Water Storage Boundary,مياه تخزين حدود,مياه تخزين حدود | Water Storage Boundary,translated
+NAME,310,TDF09HB5,Surge Tank,صدمة هيدروليكية خزان,صدمة هيدروليكية خزان | Surge Tank,translated
+CATEGORY,310,TDF09HB5,Water Storage Boundary,مياه تخزين حدود,مياه تخزين حدود | Water Storage Boundary,translated
+NAME,311,OQ68WMZY,Hydropneumatic Tank,خزان,خزان | Hydropneumatic Tank,translated
+CATEGORY,311,OQ68WMZY,Water Storage Boundary,مياه تخزين حدود,مياه تخزين حدود | Water Storage Boundary,translated
+NAME,312,TF5A7TSH,StructureBoundary - Water Supply Boundary - Other,حد المنشأ مياه إمداد حدود أخرى,حد المنشأ مياه إمداد حدود أخرى | StructureBoundary - Water Supply Boundary - Other,translated
+CATEGORY,312,TF5A7TSH,Water Supply Boundary,مياه إمداد حدود,مياه إمداد حدود | Water Supply Boundary,translated
+NAME,313,EGQDHC02,Water Supply Boundary - Unknown,مياه إمداد حدود مجهولة,مياه إمداد حدود مجهولة | Water Supply Boundary - Unknown,translated
+CATEGORY,313,EGQDHC02,Water Supply Boundary,مياه إمداد حدود,مياه إمداد حدود | Water Supply Boundary,translated
+NAME,314,HSRPOTB5,Well,بئر,بئر | Well,translated
+CATEGORY,314,HSRPOTB5,Water Supply Boundary,مياه إمداد حدود,مياه إمداد حدود | Water Supply Boundary,translated
+NAME,315,41OV4NPX,Treatment Plant,محطة المعالجة,محطة المعالجة | Treatment Plant,translated
+CATEGORY,315,41OV4NPX,Water Supply Boundary,مياه إمداد حدود,مياه إمداد حدود | Water Supply Boundary,translated
+NAME,316,VSHVZ85T,Interconnect,ربط بيني,ربط بيني | Interconnect,translated
+CATEGORY,316,VSHVZ85T,Water Supply Boundary,مياه إمداد حدود,مياه إمداد حدود | Water Supply Boundary,translated
+NAME,317,RLZ7B1XP,StructureBoundary - Pipe Vault Boundary - Other,حد المنشأ حجرة الأنابيب حدود أخرى,حد المنشأ حجرة الأنابيب حدود أخرى | StructureBoundary - Pipe Vault Boundary - Other,translated
+CATEGORY,317,RLZ7B1XP,Pipe Vault Boundary,حجرة الأنابيب حدود,حجرة الأنابيب حدود | Pipe Vault Boundary,translated
+NAME,318,UL71Y4PZ,Pipe Vault Boundary - Unknown,حجرة الأنابيب حدود مجهولة,حجرة الأنابيب حدود مجهولة | Pipe Vault Boundary - Unknown,translated
+CATEGORY,318,UL71Y4PZ,Pipe Vault Boundary,حجرة الأنابيب حدود,حجرة الأنابيب حدود | Pipe Vault Boundary,translated
+NAME,319,V5IQS8KE,Vault,حجرة,حجرة | Vault,translated
+CATEGORY,319,V5IQS8KE,Pipe Vault Boundary,حجرة الأنابيب حدود,حجرة الأنابيب حدود | Pipe Vault Boundary,translated
+NAME,320,MCI21YTH,Service Territory,نطاق الخدمة,نطاق الخدمة | Service Territory,translated
+CATEGORY,320,MCI21YTH,Service Territory,نطاق الخدمة,نطاق الخدمة | Service Territory,translated

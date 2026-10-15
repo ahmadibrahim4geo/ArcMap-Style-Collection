@@ -1,0 +1,49 @@
+مصدر الاستايلات - Source (جيولوجيا معيارية FGDC / GeMS)
+====================================================
+
+التخصص: جيولوجيا عامة - الرموز المعيارية الأمريكية (نقاط / خطوط / مضلعات + ألوان)
+
+المصدر الرئيسي:
+https://ngmdb.usgs.gov/Info/standards/GeMS/
+National Geologic Map Database - GeMS (Geologic Map Schema), USGS + AASG
+
+صفحة معيار الترميز:
+https://ngmdb.usgs.gov/fgdc_gds/
+FGDC Digital Cartographic Standard for Geologic Map Symbolization (FGDC-STD-013-2006)
+
+تاريخ التحميل: 28-09-2026
+
+----------------------------------------------------
+الملفات في هذا الفولدر:
+----------------------------------------------------
+1) FGDC_STYLX.zip (~8 MB)
+   https://ngmdb.usgs.gov/Info/standards/NCGMP09/docs/FGDC_STYLX.zip
+   التنفيذ الرسمي الكامل للمعيار في ArcGIS Pro (إعداد South Carolina Geological Survey
+   لصالح NGMDB) - يحتوي .stylx + توثيق. يتطلب تثبيت الخطوط أولاً.
+
+2) GSC_FGDC_GeologicMapSymbols_ArcMap.zip (~1 MB)
+   https://ngmdb.usgs.gov/Info/standards/GeMS/docs/GSC_FGDC_GeologicMapSymbols_ArcMap.zip
+   ستايل ArcMap يجمع FGDCcmyk + FGDC_GSC_20100414 (Geological Survey of Canada).
+
+3) GSC_FGDC_GeologicMapSymbols_ArcGISPro.zip (~1 MB)
+   https://ngmdb.usgs.gov/Info/standards/GeMS/docs/GSC_FGDC_GeologicMapSymbols_ArcGISPro.zip
+   نفس الستايل نسخة ArcGIS Pro.
+
+4) FGDCGeoSym_fonts.zip
+   https://ngmdb.usgs.gov/Info/standards/GeMS/docs/FGDCGeoSym_fonts.zip
+   خمس ملفات خط TrueType لرموز النقاط وتزيين الخطوط - إلزامية لعمل الستايلات.
+
+5) FGDCGeoAge.otf
+   https://ngmdb.usgs.gov/Info/standards/GeMS/docs/FGDCGeoAge.otf
+   خط OpenType للرموز الجيوزمنية الخاصة (مثل الحروف المميزة للعصور).
+
+----------------------------------------------------
+خطوات التركيب:
+----------------------------------------------------
+1. فك الضغط عن FGDC_STYLX.zip.
+2. ثبّت الخطوط: انسخ ملفات FGDCGeoSym*.ttf و FGDCGeoAge.otf إلى C:\Windows\Fonts
+   (ولو الرموز لا تظهر في ArcGIS Pro انسخها أيضاً إلى C:\Program Files\ArcGIS\Pro\Resources\Fonts).
+3. في ArcGIS Pro: Insert > Add Style وأضف ملف .stylx.
+4. في ArcMap: افتح Style Manager وأضف ملف .style.
+
+الحقوق: Public Domain (حكومة أمريكية - USGS/FGDC).

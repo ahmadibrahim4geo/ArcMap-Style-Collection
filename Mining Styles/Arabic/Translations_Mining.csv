@@ -1,0 +1,449 @@
+﻿field,id,key,original,arabic,new_value,status
+NAME,1,Ore 1,Ore 1,خام,خام | Ore 1,translated
+CATEGORY,1,Ore 1,Default,افتراضية,افتراضية | Default,translated
+NAME,2,Ore 2,Ore 2,خام,خام | Ore 2,translated
+CATEGORY,2,Ore 2,Default,افتراضية,افتراضية | Default,translated
+NAME,3,Ore 3,Ore 3,خام,خام | Ore 3,translated
+CATEGORY,3,Ore 3,Default,افتراضية,افتراضية | Default,translated
+NAME,4,Ore 4,Ore 4,خام,خام | Ore 4,translated
+CATEGORY,4,Ore 4,Default,افتراضية,افتراضية | Default,translated
+NAME,5,Ore 5,Ore 5,خام,خام | Ore 5,translated
+CATEGORY,5,Ore 5,Default,افتراضية,افتراضية | Default,translated
+NAME,6,Ore 6,Ore 6,خام,خام | Ore 6,translated
+CATEGORY,6,Ore 6,Default,افتراضية,افتراضية | Default,translated
+NAME,7,E.Proterozoic 1,E.Proterozoic 1,البروتيروزوي,البروتيروزوي | E.Proterozoic 1,translated
+CATEGORY,7,E.Proterozoic 1,Default,افتراضية,افتراضية | Default,translated
+NAME,8,E.Proterozoic 2,E.Proterozoic 2,البروتيروزوي,البروتيروزوي | E.Proterozoic 2,translated
+CATEGORY,8,E.Proterozoic 2,Default,افتراضية,افتراضية | Default,translated
+NAME,9,E.Proterozoic 3,E.Proterozoic 3,البروتيروزوي,البروتيروزوي | E.Proterozoic 3,translated
+CATEGORY,9,E.Proterozoic 3,Default,افتراضية,افتراضية | Default,translated
+NAME,10,Holocene,Holocene,الهولوسين,الهولوسين | Holocene,translated
+CATEGORY,10,Holocene,Default,افتراضية,افتراضية | Default,translated
+NAME,11,Lower Permian 1,Lower Permian 1,سفلية البرمي,سفلية البرمي | Lower Permian 1,translated
+CATEGORY,11,Lower Permian 1,Default,افتراضية,افتراضية | Default,translated
+NAME,12,Lower Permian 2,Lower Permian 2,سفلية البرمي,سفلية البرمي | Lower Permian 2,translated
+CATEGORY,12,Lower Permian 2,Default,افتراضية,افتراضية | Default,translated
+NAME,13,Mid Jurassic 1,Mid Jurassic 1,أوسط الجوراسي,أوسط الجوراسي | Mid Jurassic 1,translated
+CATEGORY,13,Mid Jurassic 1,Default,افتراضية,افتراضية | Default,translated
+NAME,14,Mid Jurassic 2,Mid Jurassic 2,أوسط الجوراسي,أوسط الجوراسي | Mid Jurassic 2,translated
+CATEGORY,14,Mid Jurassic 2,Default,افتراضية,افتراضية | Default,translated
+NAME,15,Mid Jurassic 3,Mid Jurassic 3,أوسط الجوراسي,أوسط الجوراسي | Mid Jurassic 3,translated
+CATEGORY,15,Mid Jurassic 3,Default,افتراضية,افتراضية | Default,translated
+NAME,16,Mid Pleistocene 1,Mid Pleistocene 1,أوسط البليستوسين,أوسط البليستوسين | Mid Pleistocene 1,translated
+CATEGORY,16,Mid Pleistocene 1,Default,افتراضية,افتراضية | Default,translated
+NAME,17,Mid Pleistocene 2,Mid Pleistocene 2,أوسط البليستوسين,أوسط البليستوسين | Mid Pleistocene 2,translated
+CATEGORY,17,Mid Pleistocene 2,Default,افتراضية,افتراضية | Default,translated
+NAME,18,Mid Proterozoic 1,Mid Proterozoic 1,أوسط البروتيروزوي,أوسط البروتيروزوي | Mid Proterozoic 1,translated
+CATEGORY,18,Mid Proterozoic 1,Default,افتراضية,افتراضية | Default,translated
+NAME,19,Mid Proterozoic 2,Mid Proterozoic 2,أوسط البروتيروزوي,أوسط البروتيروزوي | Mid Proterozoic 2,translated
+CATEGORY,19,Mid Proterozoic 2,Default,افتراضية,افتراضية | Default,translated
+NAME,20,Mid-Low Triassic,Mid-Low Triassic,أوسط منخفضة الترياسي,أوسط منخفضة الترياسي | Mid-Low Triassic,translated
+CATEGORY,20,Mid-Low Triassic,Default,افتراضية,افتراضية | Default,translated
+NAME,21,Mississipian,Mississipian,المسيسيبي,المسيسيبي | Mississipian,translated
+CATEGORY,21,Mississipian,Default,افتراضية,افتراضية | Default,translated
+NAME,22,Oligocene,Oligocene,الأوليغوسين,الأوليغوسين | Oligocene,translated
+CATEGORY,22,Oligocene,Default,افتراضية,افتراضية | Default,translated
+NAME,23,Pleistocene,Pleistocene,البليستوسين,البليستوسين | Pleistocene,translated
+CATEGORY,23,Pleistocene,Default,افتراضية,افتراضية | Default,translated
+NAME,24,Pleistocene to Low Holocene 1,Pleistocene to Low Holocene 1,البليستوسين إلى الهولوسين المبكر,البليستوسين إلى الهولوسين المبكر | Pleistocene to Low Holocene 1,translated
+CATEGORY,24,Pleistocene to Low Holocene 1,Default,افتراضية,افتراضية | Default,translated
+NAME,25,Pleistocene to Low Holocene 2,Pleistocene to Low Holocene 2,البليستوسين إلى الهولوسين المبكر,البليستوسين إلى الهولوسين المبكر | Pleistocene to Low Holocene 2,translated
+CATEGORY,25,Pleistocene to Low Holocene 2,Default,افتراضية,افتراضية | Default,translated
+NAME,26,Pleistocene to Low Holocene 3,Pleistocene to Low Holocene 3,البليستوسين إلى الهولوسين المبكر,البليستوسين إلى الهولوسين المبكر | Pleistocene to Low Holocene 3,translated
+CATEGORY,26,Pleistocene to Low Holocene 3,Default,افتراضية,افتراضية | Default,translated
+NAME,27,Precambrian,Precambrian,ما قبل الكمبري,ما قبل الكمبري | Precambrian,translated
+CATEGORY,27,Precambrian,Default,افتراضية,افتراضية | Default,translated
+NAME,28,Upper and Mid Permian 1,Upper and Mid Permian 1,علوية و أوسط البرمي,علوية و أوسط البرمي | Upper and Mid Permian 1,translated
+CATEGORY,28,Upper and Mid Permian 1,Default,افتراضية,افتراضية | Default,translated
+NAME,29,Upper and Mid Permian 2,Upper and Mid Permian 2,علوية و أوسط البرمي,علوية و أوسط البرمي | Upper and Mid Permian 2,translated
+CATEGORY,29,Upper and Mid Permian 2,Default,افتراضية,افتراضية | Default,translated
+NAME,30,Upper Cretaceous 1,Upper Cretaceous 1,علوية الطباشيري,علوية الطباشيري | Upper Cretaceous 1,translated
+CATEGORY,30,Upper Cretaceous 1,Default,افتراضية,افتراضية | Default,translated
+NAME,31,Upper Cretaceous 2,Upper Cretaceous 2,علوية الطباشيري,علوية الطباشيري | Upper Cretaceous 2,translated
+CATEGORY,31,Upper Cretaceous 2,Default,افتراضية,افتراضية | Default,translated
+NAME,32,Upper Cretaceous 3,Upper Cretaceous 3,علوية الطباشيري,علوية الطباشيري | Upper Cretaceous 3,translated
+CATEGORY,32,Upper Cretaceous 3,Default,افتراضية,افتراضية | Default,translated
+NAME,33,Upper Cretaceous 4,Upper Cretaceous 4,علوية الطباشيري,علوية الطباشيري | Upper Cretaceous 4,translated
+CATEGORY,33,Upper Cretaceous 4,Default,افتراضية,افتراضية | Default,translated
+NAME,34,Upper Cretaceous 5,Upper Cretaceous 5,علوية الطباشيري,علوية الطباشيري | Upper Cretaceous 5,translated
+CATEGORY,34,Upper Cretaceous 5,Default,افتراضية,افتراضية | Default,translated
+NAME,35,Upper Jurassic,Upper Jurassic,علوية الجوراسي,علوية الجوراسي | Upper Jurassic,translated
+CATEGORY,35,Upper Jurassic,Default,افتراضية,افتراضية | Default,translated
+NAME,36,Upper Miocene to Mid Pleistocene 1,Upper Miocene to Mid Pleistocene 1,علوية الميوسين إلى أوسط البليستوسين,علوية الميوسين إلى أوسط البليستوسين | Upper Miocene to Mid Pleistocene 1,translated
+CATEGORY,36,Upper Miocene to Mid Pleistocene 1,Default,افتراضية,افتراضية | Default,translated
+NAME,37,Upper Miocene to Mid Pleistocene 2,Upper Miocene to Mid Pleistocene 2,علوية الميوسين إلى أوسط البليستوسين,علوية الميوسين إلى أوسط البليستوسين | Upper Miocene to Mid Pleistocene 2,translated
+CATEGORY,37,Upper Miocene to Mid Pleistocene 2,Default,افتراضية,افتراضية | Default,translated
+NAME,38,Upper Miocene to Mid Pleistocene 3,Upper Miocene to Mid Pleistocene 3,علوية الميوسين إلى أوسط البليستوسين,علوية الميوسين إلى أوسط البليستوسين | Upper Miocene to Mid Pleistocene 3,translated
+CATEGORY,38,Upper Miocene to Mid Pleistocene 3,Default,افتراضية,افتراضية | Default,translated
+NAME,39,Upper Miocene to Pliocene,Upper Miocene to Pliocene,علوية الميوسين إلى البليوسين,علوية الميوسين إلى البليوسين | Upper Miocene to Pliocene,translated
+CATEGORY,39,Upper Miocene to Pliocene,Default,افتراضية,افتراضية | Default,translated
+NAME,40,Upper Permian 1,Upper Permian 1,علوية البرمي,علوية البرمي | Upper Permian 1,translated
+CATEGORY,40,Upper Permian 1,Default,افتراضية,افتراضية | Default,translated
+NAME,41,Upper Permian 2,Upper Permian 2,علوية البرمي,علوية البرمي | Upper Permian 2,translated
+CATEGORY,41,Upper Permian 2,Default,افتراضية,افتراضية | Default,translated
+NAME,42,Upper Pleistocene to Holocene 1,Upper Pleistocene to Holocene 1,علوية البليستوسين إلى الهولوسين,علوية البليستوسين إلى الهولوسين | Upper Pleistocene to Holocene 1,translated
+CATEGORY,42,Upper Pleistocene to Holocene 1,Default,افتراضية,افتراضية | Default,translated
+NAME,43,Upper Pleistocene to Holocene 2,Upper Pleistocene to Holocene 2,علوية البليستوسين إلى الهولوسين,علوية البليستوسين إلى الهولوسين | Upper Pleistocene to Holocene 2,translated
+CATEGORY,43,Upper Pleistocene to Holocene 2,Default,افتراضية,افتراضية | Default,translated
+NAME,44,Upper Pleistocene to Holocene 3,Upper Pleistocene to Holocene 3,علوية البليستوسين إلى الهولوسين,علوية البليستوسين إلى الهولوسين | Upper Pleistocene to Holocene 3,translated
+CATEGORY,44,Upper Pleistocene to Holocene 3,Default,افتراضية,افتراضية | Default,translated
+NAME,45,Upper Pleistocene to Holocene 4,Upper Pleistocene to Holocene 4,علوية البليستوسين إلى الهولوسين,علوية البليستوسين إلى الهولوسين | Upper Pleistocene to Holocene 4,translated
+CATEGORY,45,Upper Pleistocene to Holocene 4,Default,افتراضية,افتراضية | Default,translated
+NAME,46,Upper Triassic 1,Upper Triassic 1,علوية الترياسي,علوية الترياسي | Upper Triassic 1,translated
+CATEGORY,46,Upper Triassic 1,Default,افتراضية,افتراضية | Default,translated
+NAME,47,Upper Triassic 2,Upper Triassic 2,علوية الترياسي,علوية الترياسي | Upper Triassic 2,translated
+CATEGORY,47,Upper Triassic 2,Default,افتراضية,افتراضية | Default,translated
+NAME,48,Uppermost Pleistocene to L.Holocene,Uppermost Pleistocene to L.Holocene,الأعلى البليستوسين إلى الهولوسين المتأخر,الأعلى البليستوسين إلى الهولوسين المتأخر | Uppermost Pleistocene to L.Holocene,translated
+CATEGORY,48,Uppermost Pleistocene to L.Holocene,Default,افتراضية,افتراضية | Default,translated
+NAME,49,Pit Black,Pit Black,أسود الكربون,أسود الكربون | Pit Black,translated
+CATEGORY,49,Pit Black,Default,افتراضية,افتراضية | Default,translated
+NAME,50,Drill hole for mineral explore,Drill hole for mineral explore,ثقب الحفر لـ معدن,ثقب الحفر لـ معدن | Drill hole for mineral explore,translated
+CATEGORY,50,Drill hole for mineral explore,Default,افتراضية,افتراضية | Default,translated
+NAME,51,Inclined adit - entry,Inclined adit - entry,دهليز مائل - مدخل,دهليز مائل - مدخل | Inclined adit - entry,translated
+CATEGORY,51,Inclined adit - entry,Default,افتراضية,افتراضية | Default,translated
+NAME,52,Inclined adit - no access,Inclined adit - no access,دهليز مائل - بلا دخول,دهليز مائل - بلا دخول | Inclined adit - no access,translated
+CATEGORY,52,Inclined adit - no access,Default,افتراضية,افتراضية | Default,translated
+NAME,53,Portal,Portal,مدخل النفق,مدخل النفق | Portal,translated
+CATEGORY,53,Portal,Default,افتراضية,افتراضية | Default,translated
+NAME,54,Vertical mine shaft,Vertical mine shaft,بئر منجمية رأسية,بئر منجمية رأسية | Vertical mine shaft,translated
+CATEGORY,54,Vertical mine shaft,Default,افتراضية,افتراضية | Default,translated
+NAME,55,Vertical mine abandoned,Vertical mine abandoned,بئر منجمية رأسية مهجورة,بئر منجمية رأسية مهجورة | Vertical mine abandoned,translated
+CATEGORY,55,Vertical mine abandoned,Default,افتراضية,افتراضية | Default,translated
+NAME,56,Inclined mine shaft,Inclined mine shaft,بئر منجمية مائلة,بئر منجمية مائلة | Inclined mine shaft,translated
+CATEGORY,56,Inclined mine shaft,Default,افتراضية,افتراضية | Default,translated
+NAME,57,Inclined mine - abandoned,Inclined mine - abandoned,منجم مائل مهجور,منجم مائل مهجور | Inclined mine - abandoned,translated
+CATEGORY,57,Inclined mine - abandoned,Default,افتراضية,افتراضية | Default,translated
+NAME,58,Prospect,Prospect,موقع استكشاف,موقع استكشاف | Prospect,translated
+CATEGORY,58,Prospect,Default,افتراضية,افتراضية | Default,translated
+NAME,59,Sand pit,Sand pit,مقلع الرمل,مقلع الرمل | Sand pit,translated
+CATEGORY,59,Sand pit,Default,افتراضية,افتراضية | Default,translated
+NAME,60,Sand pit - abandoned,Sand pit - abandoned,مقلع الرمل مهجورة,مقلع الرمل مهجورة | Sand pit - abandoned,translated
+CATEGORY,60,Sand pit - abandoned,Default,افتراضية,افتراضية | Default,translated
+NAME,61,Open pit,Open pit,الحفرة المكشوفة,الحفرة المكشوفة | Open pit,translated
+CATEGORY,61,Open pit,Default,افتراضية,افتراضية | Default,translated
+NAME,62,Open pit - abandoned,Open pit - abandoned,الحفرة المكشوفة مهجورة,الحفرة المكشوفة مهجورة | Open pit - abandoned,translated
+CATEGORY,62,Open pit - abandoned,Default,افتراضية,افتراضية | Default,translated
+NAME,63,Mine shaft - above and below level,Mine shaft - above and below level,بئر منجمية - فوق وتحت المنسوب,بئر منجمية - فوق وتحت المنسوب | Mine shaft - above and below level,translated
+CATEGORY,63,Mine shaft - above and below level,Default,افتراضية,افتراضية | Default,translated
+NAME,64,Inclined mine shaft_1,Inclined mine shaft,بئر منجمية مائلة,بئر منجمية مائلة | Inclined mine shaft,translated
+CATEGORY,64,Inclined mine shaft_1,Default,افتراضية,افتراضية | Default,translated
+NAME,65,Raise or foot of winze,Raise or foot of winze,بئر صاعدة أو قاع البئر الداخلية,بئر صاعدة أو قاع البئر الداخلية | Raise or foot of winze,translated
+CATEGORY,65,Raise or foot of winze,Default,افتراضية,افتراضية | Default,translated
+NAME,66,Winze or head of raise,Winze or head of raise,بئر داخلية أو رأس البئر الصاعدة,بئر داخلية أو رأس البئر الصاعدة | Winze or head of raise,translated
+CATEGORY,66,Winze or head of raise,Default,افتراضية,افتراضية | Default,translated
+NAME,67,Water injection well,Water injection well,بئر حقن مياه,بئر حقن مياه | Water injection well,translated
+CATEGORY,67,Water injection well,Default,افتراضية,افتراضية | Default,translated
+NAME,68,Mining 01,Mining 01,تعدين,تعدين | Mining 01,translated
+CATEGORY,68,Mining 01,Default,افتراضية,افتراضية | Default,translated
+NAME,69,Mining 02,Mining 02,تعدين,تعدين | Mining 02,translated
+CATEGORY,69,Mining 02,Default,افتراضية,افتراضية | Default,translated
+NAME,70,Mining 03,Mining 03,تعدين,تعدين | Mining 03,translated
+CATEGORY,70,Mining 03,Default,افتراضية,افتراضية | Default,translated
+NAME,71,Mining 04,Mining 04,تعدين,تعدين | Mining 04,translated
+CATEGORY,71,Mining 04,Default,افتراضية,افتراضية | Default,translated
+NAME,72,Mining 05,Mining 05,تعدين,تعدين | Mining 05,translated
+CATEGORY,72,Mining 05,Default,افتراضية,افتراضية | Default,translated
+NAME,73,Mining 06,Mining 06,تعدين,تعدين | Mining 06,translated
+CATEGORY,73,Mining 06,Default,افتراضية,افتراضية | Default,translated
+NAME,74,Mining 07,Mining 07,تعدين,تعدين | Mining 07,translated
+CATEGORY,74,Mining 07,Default,افتراضية,افتراضية | Default,translated
+NAME,75,Mining 08,Mining 08,تعدين,تعدين | Mining 08,translated
+CATEGORY,75,Mining 08,Default,افتراضية,افتراضية | Default,translated
+NAME,76,Mining 09,Mining 09,تعدين,تعدين | Mining 09,translated
+CATEGORY,76,Mining 09,Default,افتراضية,افتراضية | Default,translated
+NAME,77,Mining 10,Mining 10,تعدين,تعدين | Mining 10,translated
+CATEGORY,77,Mining 10,Default,افتراضية,افتراضية | Default,translated
+NAME,78,Mining 11,Mining 11,تعدين,تعدين | Mining 11,translated
+CATEGORY,78,Mining 11,Default,افتراضية,افتراضية | Default,translated
+NAME,79,Mining 12,Mining 12,تعدين,تعدين | Mining 12,translated
+CATEGORY,79,Mining 12,Default,افتراضية,افتراضية | Default,translated
+NAME,80,Mining 13,Mining 13,تعدين,تعدين | Mining 13,translated
+CATEGORY,80,Mining 13,Default,افتراضية,افتراضية | Default,translated
+NAME,81,Mining 14,Mining 14,تعدين,تعدين | Mining 14,translated
+CATEGORY,81,Mining 14,Default,افتراضية,افتراضية | Default,translated
+NAME,82,Mining 15,Mining 15,تعدين,تعدين | Mining 15,translated
+CATEGORY,82,Mining 15,Default,افتراضية,افتراضية | Default,translated
+NAME,83,Mining 16,Mining 16,تعدين,تعدين | Mining 16,translated
+CATEGORY,83,Mining 16,Default,افتراضية,افتراضية | Default,translated
+NAME,84,Mining 17,Mining 17,تعدين,تعدين | Mining 17,translated
+CATEGORY,84,Mining 17,Default,افتراضية,افتراضية | Default,translated
+NAME,85,Mining 18,Mining 18,تعدين,تعدين | Mining 18,translated
+CATEGORY,85,Mining 18,Default,افتراضية,افتراضية | Default,translated
+NAME,86,Mining 19,Mining 19,تعدين,تعدين | Mining 19,translated
+CATEGORY,86,Mining 19,Default,افتراضية,افتراضية | Default,translated
+NAME,87,Mining 20,Mining 20,تعدين,تعدين | Mining 20,translated
+CATEGORY,87,Mining 20,Default,افتراضية,افتراضية | Default,translated
+NAME,88,Mining 21,Mining 21,تعدين,تعدين | Mining 21,translated
+CATEGORY,88,Mining 21,Default,افتراضية,افتراضية | Default,translated
+NAME,89,Mining 22,Mining 22,تعدين,تعدين | Mining 22,translated
+CATEGORY,89,Mining 22,Default,افتراضية,افتراضية | Default,translated
+NAME,90,Mining 23,Mining 23,تعدين,تعدين | Mining 23,translated
+CATEGORY,90,Mining 23,Default,افتراضية,افتراضية | Default,translated
+NAME,91,Mining 24,Mining 24,تعدين,تعدين | Mining 24,translated
+CATEGORY,91,Mining 24,Default,افتراضية,افتراضية | Default,translated
+NAME,92,Mine,Mine,منجم,منجم | Mine,translated
+CATEGORY,92,Mine,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,93,Surface mine,Surface mine,منجم سطحي,منجم سطحي | Surface mine,translated
+CATEGORY,93,Surface mine,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,94,Underground mine,Underground mine,منجم تحت أرضي,منجم تحت أرضي | Underground mine,translated
+CATEGORY,94,Underground mine,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,95,Beneficial operation,Beneficial operation,عملية إثراء,عملية إثراء | Beneficial operation,translated
+CATEGORY,95,Beneficial operation,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,96,Processing operation,Processing operation,عملية معالجة,عملية معالجة | Processing operation,translated
+CATEGORY,96,Processing operation,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,97,Integrated operation,Integrated operation,عملية متكاملة,عملية متكاملة | Integrated operation,translated
+CATEGORY,97,Integrated operation,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,98,Secondary operation,Secondary operation,عملية ثانوية,عملية ثانوية | Secondary operation,translated
+CATEGORY,98,Secondary operation,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,99,Consumer operations,Consumer operations,عمليات استهلاكية,عمليات استهلاكية | Consumer operations,translated
+CATEGORY,99,Consumer operations,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,100,"Abrasives, manufactured","Abrasives, manufactured",مواد كاشطة مصنعة,"مواد كاشطة مصنعة | Abrasives, manufactured",translated
+CATEGORY,100,"Abrasives, manufactured",Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,101,Alumina,Alumina,ألومينا,ألومينا | Alumina,translated
+CATEGORY,101,Alumina,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,102,Aluminum,Aluminum,ألمنيوم,ألمنيوم | Aluminum,translated
+CATEGORY,102,Aluminum,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,103,"Aluminum oxide, fused","Aluminum oxide, fused",أكسيد ألمنيوم منصهر,"أكسيد ألمنيوم منصهر | Aluminum oxide, fused",translated
+CATEGORY,103,"Aluminum oxide, fused",Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,104,Antimony,Antimony,أنتيمون,أنتيمون | Antimony,translated
+CATEGORY,104,Antimony,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,105,Arsenic,Arsenic,زرنيخ,زرنيخ | Arsenic,translated
+CATEGORY,105,Arsenic,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,106,Asbestos,Asbestos,أسبست,أسبست | Asbestos,translated
+CATEGORY,106,Asbestos,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,107,Barite,Barite,باريت,باريت | Barite,translated
+CATEGORY,107,Barite,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,108,Bauxite,Bauxite,بوكسيت,بوكسيت | Bauxite,translated
+CATEGORY,108,Bauxite,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,109,Beryllium,Beryllium,بيريليوم,بيريليوم | Beryllium,translated
+CATEGORY,109,Beryllium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,110,Bismuth,Bismuth,بزموت,بزموت | Bismuth,translated
+CATEGORY,110,Bismuth,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,111,Boron,Boron,بورون,بورون | Boron,translated
+CATEGORY,111,Boron,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,112,Bromine,Bromine,بروم,بروم | Bromine,translated
+CATEGORY,112,Bromine,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,113,Calcium,Calcium,كالسيوم,كالسيوم | Calcium,translated
+CATEGORY,113,Calcium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,114,Cadmium,Cadmium,كادميوم,كادميوم | Cadmium,translated
+CATEGORY,114,Cadmium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,115,Cement,Cement,أسمنت,أسمنت | Cement,translated
+CATEGORY,115,Cement,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,116,Cesium,Cesium,سيزيوم,سيزيوم | Cesium,translated
+CATEGORY,116,Cesium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,117,Chromium,Chromium,كروم,كروم | Chromium,translated
+CATEGORY,117,Chromium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,118,Clays,Clays,أطيان,أطيان | Clays,translated
+CATEGORY,118,Clays,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,119,Ball clay,Ball clay,طين كروي,طين كروي | Ball clay,translated
+CATEGORY,119,Ball clay,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,120,Bentonite,Bentonite,بنتونيت,بنتونيت | Bentonite,translated
+CATEGORY,120,Bentonite,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,121,Common clay,Common clay,طين شائع,طين شائع | Common clay,translated
+CATEGORY,121,Common clay,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,122,Fire clay,Fire clay,طين ناري,طين ناري | Fire clay,translated
+CATEGORY,122,Fire clay,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,123,Fuller’s earth,Fuller’s earth,,Fuller’s earth,kept
+CATEGORY,123,Fuller’s earth,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,124,Kaolin,Kaolin,كاولين,كاولين | Kaolin,translated
+CATEGORY,124,Kaolin,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,125,Cobalt,Cobalt,كوبالت,كوبالت | Cobalt,translated
+CATEGORY,125,Cobalt,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,126,Copper,Copper,نحاس,نحاس | Copper,translated
+CATEGORY,126,Copper,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,127,Corundum,Corundum,كوروند,كوروند | Corundum,translated
+CATEGORY,127,Corundum,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,128,Diamond,Diamond,ألماس,ألماس | Diamond,translated
+CATEGORY,128,Diamond,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,129,Diatomite,Diatomite,دياتوميت,دياتوميت | Diatomite,translated
+CATEGORY,129,Diatomite,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,130,Explosives,Explosives,متفجرات,متفجرات | Explosives,translated
+CATEGORY,130,Explosives,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,131,Feldspar,Feldspar,فلسبار,فلسبار | Feldspar,translated
+CATEGORY,131,Feldspar,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,132,Ferroalloys,Ferroalloys,سبائك حديدية,سبائك حديدية | Ferroalloys,translated
+CATEGORY,132,Ferroalloys,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,133,Fluorspar,Fluorspar,فلورسبار,فلورسبار | Fluorspar,translated
+CATEGORY,133,Fluorspar,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,134,Gallium,Gallium,غاليوم,غاليوم | Gallium,translated
+CATEGORY,134,Gallium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,135,Garnet,Garnet,عقيق,عقيق | Garnet,translated
+CATEGORY,135,Garnet,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,136,Gemstones,Gemstones,أحجار كريمة,أحجار كريمة | Gemstones,translated
+CATEGORY,136,Gemstones,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,137,Germanium,Germanium,جرمانيوم,جرمانيوم | Germanium,translated
+CATEGORY,137,Germanium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,138,Gold,Gold,ذهب,ذهب | Gold,translated
+CATEGORY,138,Gold,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,139,Graphite,Graphite,جرافيت,جرافيت | Graphite,translated
+CATEGORY,139,Graphite,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,140,Gypsum,Gypsum,جبس,جبس | Gypsum,translated
+CATEGORY,140,Gypsum,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,141,Hafnium,Hafnium,هافنيوم,هافنيوم | Hafnium,translated
+CATEGORY,141,Hafnium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,142,Indium,Indium,إنديوم,إنديوم | Indium,translated
+CATEGORY,142,Indium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,143,Iodine,Iodine,يود,يود | Iodine,translated
+CATEGORY,143,Iodine,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,144,Iron,Iron,حديد,حديد | Iron,translated
+CATEGORY,144,Iron,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,145,Iron ore,Iron ore,خام الحديد,خام الحديد | Iron ore,translated
+CATEGORY,145,Iron ore,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,146,Iron oxide pigments,Iron oxide pigments,خضب أكسيد الحديد,خضب أكسيد الحديد | Iron oxide pigments,translated
+CATEGORY,146,Iron oxide pigments,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,147,Iron and steel slag,Iron and steel slag,خبث الحديد والفولاذ,خبث الحديد والفولاذ | Iron and steel slag,translated
+CATEGORY,147,Iron and steel slag,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,148,Kyanite,Kyanite,كيانيت,كيانيت | Kyanite,translated
+CATEGORY,148,Kyanite,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,149,Lead,Lead,رصاص,رصاص | Lead,translated
+CATEGORY,149,Lead,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,150,Lime,Lime,جير,جير | Lime,translated
+CATEGORY,150,Lime,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,151,Lithium,Lithium,ليثيوم,ليثيوم | Lithium,translated
+CATEGORY,151,Lithium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,152,Magnesium,Magnesium,مغنيسيوم,مغنيسيوم | Magnesium,translated
+CATEGORY,152,Magnesium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,153,Magnesium compounds,Magnesium compounds,مركبات المغنيسيوم,مركبات المغنيسيوم | Magnesium compounds,translated
+CATEGORY,153,Magnesium compounds,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,154,Manganese,Manganese,منغنيز,منغنيز | Manganese,translated
+CATEGORY,154,Manganese,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,155,Mercury,Mercury,زئبق,زئبق | Mercury,translated
+CATEGORY,155,Mercury,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,156,Mica,Mica,ميكا,ميكا | Mica,translated
+CATEGORY,156,Mica,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,157,Molybdenum,Molybdenum,موليبدنوم,موليبدنوم | Molybdenum,translated
+CATEGORY,157,Molybdenum,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,158,Mullite,Mullite,موليت,موليت | Mullite,translated
+CATEGORY,158,Mullite,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,159,Nepheline syenite,Nepheline syenite,سيانيت نفليني,سيانيت نفليني | Nepheline syenite,translated
+CATEGORY,159,Nepheline syenite,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,160,Wollastonite,Wollastonite,ولاستونيت,ولاستونيت | Wollastonite,translated
+CATEGORY,160,Wollastonite,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,161,Nickel,Nickel,نيكل,نيكل | Nickel,translated
+CATEGORY,161,Nickel,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,162,Niobium (Columbium),Niobium (Columbium),نيوبيوم (كولومبيوم),نيوبيوم (كولومبيوم) | Niobium (Columbium),translated
+CATEGORY,162,Niobium (Columbium),Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,163,Nitrogen,Nitrogen,نيتروجين,نيتروجين | Nitrogen,translated
+CATEGORY,163,Nitrogen,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,164,Olivine,Olivine,أوليفين,أوليفين | Olivine,translated
+CATEGORY,164,Olivine,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,165,Peat,Peat,خث,خث | Peat,translated
+CATEGORY,165,Peat,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,166,Perlite,Perlite,بيرلايت,بيرلايت | Perlite,translated
+CATEGORY,166,Perlite,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,167,Phosphate rock,Phosphate rock,صخر الفوسفات,صخر الفوسفات | Phosphate rock,translated
+CATEGORY,167,Phosphate rock,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,168,Platinum-group metals,Platinum-group metals,معادن مجموعة البلاتين,معادن مجموعة البلاتين | Platinum-group metals,translated
+CATEGORY,168,Platinum-group metals,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,169,Potash,Potash,بوتاس,بوتاس | Potash,translated
+CATEGORY,169,Potash,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,170,Pumice,Pumice,خفاف,خفاف | Pumice,translated
+CATEGORY,170,Pumice,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,171,Pyrophyllite,Pyrophyllite,بيروفيليت,بيروفيليت | Pyrophyllite,translated
+CATEGORY,171,Pyrophyllite,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,172,Quartz crystal,Quartz crystal,بلورة المرو,بلورة المرو | Quartz crystal,translated
+CATEGORY,172,Quartz crystal,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,173,Rare earths,Rare earths,أتربة نادرة,أتربة نادرة | Rare earths,translated
+CATEGORY,173,Rare earths,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,174,Rhenium,Rhenium,رينيوم,رينيوم | Rhenium,translated
+CATEGORY,174,Rhenium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,175,Rubidium,Rubidium,روبيديوم,روبيديوم | Rubidium,translated
+CATEGORY,175,Rubidium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,176,Salt,Salt,ملح,ملح | Salt,translated
+CATEGORY,176,Salt,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,177,"Sand and gravel, construction","Sand and gravel, construction",الرمل والحصى,"الرمل والحصى | Sand and gravel, construction",translated
+CATEGORY,177,"Sand and gravel, construction",Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,178,"Sand and gravel, industrial","Sand and gravel, industrial",الرمل والحصى صناعية,"الرمل والحصى صناعية | Sand and gravel, industrial",translated
+CATEGORY,178,"Sand and gravel, industrial",Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,179,Scandium,Scandium,سكانديوم,سكانديوم | Scandium,translated
+CATEGORY,179,Scandium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,180,Selenium,Selenium,سيلينيوم,سيلينيوم | Selenium,translated
+CATEGORY,180,Selenium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,181,Silica,Silica,سيليكا,سيليكا | Silica,translated
+CATEGORY,181,Silica,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,182,Silicon,Silicon,سيليكون,سيليكون | Silicon,translated
+CATEGORY,182,Silicon,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,183,Silicon carbide,Silicon carbide,كربيد السيليكون,كربيد السيليكون | Silicon carbide,translated
+CATEGORY,183,Silicon carbide,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,184,Silver,Silver,فضة,فضة | Silver,translated
+CATEGORY,184,Silver,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,185,Soda ash (Sodium carbonate),Soda ash (Sodium carbonate),رماد الصودا كربونات الصوديوم,رماد الصودا كربونات الصوديوم | Soda ash (Sodium carbonate),translated
+CATEGORY,185,Soda ash (Sodium carbonate),Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,186,Sodium sulfate,Sodium sulfate,كبريتات الصوديوم,كبريتات الصوديوم | Sodium sulfate,translated
+CATEGORY,186,Sodium sulfate,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,187,Staurolite,Staurolite,ستوروليت,ستوروليت | Staurolite,translated
+CATEGORY,187,Staurolite,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,188,Steel,Steel,فولاذ,فولاذ | Steel,translated
+CATEGORY,188,Steel,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,189,"Stone, crushed","Stone, crushed",حجر مكسر,"حجر مكسر | Stone, crushed",translated
+CATEGORY,189,"Stone, crushed",Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,190,Calcium carbonate (Limestone),Calcium carbonate (Limestone),كالسيوم كربوناتية حجر جيري,كالسيوم كربوناتية حجر جيري | Calcium carbonate (Limestone),translated
+CATEGORY,190,Calcium carbonate (Limestone),Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,191,Dolomite,Dolomite,دولوميت,دولوميت | Dolomite,translated
+CATEGORY,191,Dolomite,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,192,Marble,Marble,رخام,رخام | Marble,translated
+CATEGORY,192,Marble,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,193,Calcareous marl,Calcareous marl,جيرية مارل,جيرية مارل | Calcareous marl,translated
+CATEGORY,193,Calcareous marl,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,194,Shell,Shell,أصداف,أصداف | Shell,translated
+CATEGORY,194,Shell,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,195,Granite,Granite,جرانيت,جرانيت | Granite,translated
+CATEGORY,195,Granite,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,196,Traprock,Traprock,صخر طرقي,صخر طرقي | Traprock,translated
+CATEGORY,196,Traprock,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,197,Sandstone,Sandstone,حجر رملي,حجر رملي | Sandstone,translated
+CATEGORY,197,Sandstone,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,198,Quartzite,Quartzite,كوارتزيت,كوارتزيت | Quartzite,translated
+CATEGORY,198,Quartzite,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,199,Slate,Slate,أردواز,أردواز | Slate,translated
+CATEGORY,199,Slate,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,200,Volcanic cinder,Volcanic cinder,رماد بركاني خبثي,رماد بركاني خبثي | Volcanic cinder,translated
+CATEGORY,200,Volcanic cinder,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,201,Scoria,Scoria,سكوريا,سكوريا | Scoria,translated
+CATEGORY,201,Scoria,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,202,"Stone, dimension","Stone, dimension",حجر البناء,"حجر البناء | Stone, dimension",translated
+CATEGORY,202,"Stone, dimension",Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,203,Strontium,Strontium,سترونتيوم,سترونتيوم | Strontium,translated
+CATEGORY,203,Strontium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,204,Sulfur,Sulfur,كبريت,كبريت | Sulfur,translated
+CATEGORY,204,Sulfur,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,205,Talc,Talc,تلك,تلك | Talc,translated
+CATEGORY,205,Talc,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,206,Tantalum,Tantalum,تانتالوم,تانتالوم | Tantalum,translated
+CATEGORY,206,Tantalum,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,207,Tellurium,Tellurium,تيلوريوم,تيلوريوم | Tellurium,translated
+CATEGORY,207,Tellurium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,208,Thallium,Thallium,ثاليوم,ثاليوم | Thallium,translated
+CATEGORY,208,Thallium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,209,Thorium,Thorium,ثوريوم,ثوريوم | Thorium,translated
+CATEGORY,209,Thorium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,210,Tin,Tin,قصدير,قصدير | Tin,translated
+CATEGORY,210,Tin,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,211,Titanium,Titanium,تيتانيوم,تيتانيوم | Titanium,translated
+CATEGORY,211,Titanium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,212,Ilmenite,Ilmenite,إلمينيت,إلمينيت | Ilmenite,translated
+CATEGORY,212,Ilmenite,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,213,Rutile,Rutile,روتيل,روتيل | Rutile,translated
+CATEGORY,213,Rutile,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,214,Titanium pigment,Titanium pigment,خضاب التيتانيوم,خضاب التيتانيوم | Titanium pigment,translated
+CATEGORY,214,Titanium pigment,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,215,Titanium metal,Titanium metal,فلز التيتانيوم,فلز التيتانيوم | Titanium metal,translated
+CATEGORY,215,Titanium metal,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,216,Tripoli,Tripoli,حجر طرابلس,حجر طرابلس | Tripoli,translated
+CATEGORY,216,Tripoli,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,217,Tungsten,Tungsten,تنجستن,تنجستن | Tungsten,translated
+CATEGORY,217,Tungsten,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,218,Uranium,Uranium,يورانيوم,يورانيوم | Uranium,translated
+CATEGORY,218,Uranium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,219,Vanadium,Vanadium,فاناديوم,فاناديوم | Vanadium,translated
+CATEGORY,219,Vanadium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,220,Vermiculite,Vermiculite,فيرميكوليت,فيرميكوليت | Vermiculite,translated
+CATEGORY,220,Vermiculite,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,221,Yttrium,Yttrium,إتريوم,إتريوم | Yttrium,translated
+CATEGORY,221,Yttrium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,222,Zeolites,Zeolites,زيوليت,زيوليت | Zeolites,translated
+CATEGORY,222,Zeolites,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,223,Zinc,Zinc,زنك,زنك | Zinc,translated
+CATEGORY,223,Zinc,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated
+NAME,224,Zirconium,Zirconium,زركونيوم,زركونيوم | Zirconium,translated
+CATEGORY,224,Zirconium,Commodities,الخامات المعدنية,الخامات المعدنية | Commodities,translated

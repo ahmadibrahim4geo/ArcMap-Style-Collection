@@ -1,0 +1,45 @@
+﻿field,id,key,original,arabic,new_value,status
+NAME,1,10 Cropland rainfed,10 Cropland rainfed,أراض زراعية مطرية,أراض زراعية مطرية | 10 Cropland rainfed,translated
+CATEGORY,1,10 Cropland rainfed,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,2,20 Cropland irrigated,20 Cropland irrigated,أراض زراعية مروية,أراض زراعية مروية | 20 Cropland irrigated,translated
+CATEGORY,2,20 Cropland irrigated,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,3,30 Mosaic cropland over 50,30 Mosaic cropland over 50,فسيفساء زراعية فوق 50%,فسيفساء زراعية فوق 50% | 30 Mosaic cropland over 50,translated
+CATEGORY,3,30 Mosaic cropland over 50,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,4,40 Mosaic natural over 50,40 Mosaic natural over 50,فسيفساء طبيعية فوق 50%,فسيفساء طبيعية فوق 50% | 40 Mosaic natural over 50,translated
+CATEGORY,4,40 Mosaic natural over 50,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,5,50 Tree broadleaved evergreen,50 Tree broadleaved evergreen,غابة عريضة دائمة,غابة عريضة دائمة | 50 Tree broadleaved evergreen,translated
+CATEGORY,5,50 Tree broadleaved evergreen,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,6,60 Tree broadleaved deciduous,60 Tree broadleaved deciduous,غابة عريضة متساقطة,غابة عريضة متساقطة | 60 Tree broadleaved deciduous,translated
+CATEGORY,6,60 Tree broadleaved deciduous,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,7,70 Tree needleleaved evergreen,70 Tree needleleaved evergreen,غابة إبرية دائمة,غابة إبرية دائمة | 70 Tree needleleaved evergreen,translated
+CATEGORY,7,70 Tree needleleaved evergreen,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,8,80 Tree needleleaved deciduous,80 Tree needleleaved deciduous,غابة إبرية متساقطة,غابة إبرية متساقطة | 80 Tree needleleaved deciduous,translated
+CATEGORY,8,80 Tree needleleaved deciduous,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,9,90 Tree mixed leaf,90 Tree mixed leaf,غابة مختلطة,غابة مختلطة | 90 Tree mixed leaf,translated
+CATEGORY,9,90 Tree mixed leaf,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,10,100 Mosaic tree shrub over 50,100 Mosaic tree shrub over 50,فسيفساء أشجار وشجيرات,فسيفساء أشجار وشجيرات | 100 Mosaic tree shrub over 50,translated
+CATEGORY,10,100 Mosaic tree shrub over 50,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,11,110 Mosaic herbaceous over 50,110 Mosaic herbaceous over 50,فسيفساء عشبية,فسيفساء عشبية | 110 Mosaic herbaceous over 50,translated
+CATEGORY,11,110 Mosaic herbaceous over 50,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,12,120 Shrubland,120 Shrubland,شجيرات,شجيرات | 120 Shrubland,translated
+CATEGORY,12,120 Shrubland,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,13,130 Grassland,130 Grassland,مراع طبيعية,مراع طبيعية | 130 Grassland,translated
+CATEGORY,13,130 Grassland,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,14,140 Lichens mosses,140 Lichens mosses,أشنات وطحالب,أشنات وطحالب | 140 Lichens mosses,translated
+CATEGORY,14,140 Lichens mosses,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,15,150 Sparse vegetation,150 Sparse vegetation,غطاء متفرق,غطاء متفرق | 150 Sparse vegetation,translated
+CATEGORY,15,150 Sparse vegetation,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,16,160 Tree flooded fresh,160 Tree flooded fresh,غابة مغمورة عذبة,غابة مغمورة عذبة | 160 Tree flooded fresh,translated
+CATEGORY,16,160 Tree flooded fresh,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,17,170 Tree flooded saline,170 Tree flooded saline,غابة مغمورة ملحية,غابة مغمورة ملحية | 170 Tree flooded saline,translated
+CATEGORY,17,170 Tree flooded saline,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,18,180 Shrub herb flooded,180 Shrub herb flooded,شجيرات وأعشاب مغمورة,شجيرات وأعشاب مغمورة | 180 Shrub herb flooded,translated
+CATEGORY,18,180 Shrub herb flooded,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,19,190 Urban areas,190 Urban areas,مناطق حضرية,مناطق حضرية | 190 Urban areas,translated
+CATEGORY,19,190 Urban areas,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,20,200 Bare areas,200 Bare areas,أراض جرداء,أراض جرداء | 200 Bare areas,translated
+CATEGORY,20,200 Bare areas,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,21,210 Water bodies,210 Water bodies,مسطحات مائية,مسطحات مائية | 210 Water bodies,translated
+CATEGORY,21,210 Water bodies,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated
+NAME,22,220 Snow ice,220 Snow ice,ثلج وجليد دائم,ثلج وجليد دائم | 220 Snow ice,translated
+CATEGORY,22,220 Snow ice,FAO LCCS,فاو LCCS,فاو LCCS | FAO LCCS,translated

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MailingLabelStyles Version="1.0">
+	<MailingLabelStyle Name="Avery 5160" UserStyle="False">
+		<ColumnCount>3</ColumnCount>
+		<FieldLabelWidth>2.59</FieldLabelWidth>
+		<FieldLabelHeight>0.19</FieldLabelHeight>
+		<LabelWidth>2.625</LabelWidth>
+		<LabelHeight>1.0</LabelHeight>
+		<HorizontalGap>0.15</HorizontalGap>
+		<VerticalGap>0</VerticalGap>
+		<MarginTop>0.5</MarginTop>
+		<MarginBottom>0.5</MarginBottom>
+		<MarginLeft>0.188</MarginLeft>
+		<MarginRight>0.188</MarginRight>
+	</MailingLabelStyle>
+	<MailingLabelStyle Name="Avery 5261" UserStyle="False">
+		<ColumnCount>2</ColumnCount>
+		<FieldLabelWidth>2.59</FieldLabelWidth>
+		<FieldLabelHeight>0.19</FieldLabelHeight>
+		<LabelWidth>4.0</LabelWidth>
+		<LabelHeight>1.0</LabelHeight>
+		<HorizontalGap>0.188</HorizontalGap>
+		<VerticalGap>0.0</VerticalGap>
+		<MarginTop>0.5</MarginTop>
+		<MarginBottom>0.5</MarginBottom>
+		<MarginLeft>0.156</MarginLeft>
+		<MarginRight>0.156</MarginRight>
+	</MailingLabelStyle>
+</MailingLabelStyles>

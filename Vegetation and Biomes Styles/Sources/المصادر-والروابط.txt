@@ -1,0 +1,33 @@
+مصادر الاستايلات - Source (النبات - مؤسسات ومنتديات، ليس ESRI)
+====================================================
+التخصص: غطاءات وأقاليم نباتية لخريطة العالم
+
+1) WWF - Terrestrial Ecoregions of the World (Olson et al. 2001, BioScience 51:933-938)
+   الصفحة: https://www.worldwildlife.org/publications/terrestrial-ecoregions-of-the-world
+   14 biome (القائمة المستخدمة هنا 01-14) + 867 إقليما.
+   تحديث RESOLVE 2017 (Dinerstein et al.): https://ecoregions2017.appspot.com/
+   نسخة سحابية: https://source.coop/cboettig/ecoregion/wwf-ecoregions-2017
+   مرجع تفاعلي: https://ecoregion.net/  |  نسخة GitHub: https://github.com/InvaHealth/WWFbioregions
+   الرخصة: CC BY 4.0 (One Earth Navigator).
+
+2) FAO - Global Ecological Zones 2010 (second edition, FRA)
+   Catalog: https://data.apps.fao.org/catalog/dataset/2fb209d0-fd34-4e5e-a3d8-a13c241eb61b
+   Shapefile: gez2010.zip  |  JPG: ecozones2010.jpg  |  PDF: https://www.fao.org/4/ap861e/ap861e00.pdf
+   الفئات المستخدمة: TAr TAwa TAwb TBSh TBWh TM SCf SCs SBSh SBWh SM TeDo TeDc TeBSk TeBWk TeM Ba Bb BM P (20).
+   Help: https://help.earthmap.org/datasets/climate/fao-global-ecological-zones-2010
+
+3) خرائط عالمية رائعة للتعلم (الأسلوب):
+   - Half Earth / One Earth Navigator (RESOLVE): أسلوب التباين الأحيائي العالمي
+   - FAO FRA 2010 map (Figure 4): توزيع الألوان المرجعي للـ GEZ
+   - ESA CCI Land Cover + Copernicus Global (للمقارنة غطاء-إقليم)
+
+4) منتديات ومؤسسات (نقاشات التصميم):
+   - GIS StackExchange (wwf, biomes, ecoregions): https://gis.stackexchange.com/
+   - Reddit r/gis, r/mapporn, r/ecology: مقارنات خرائط WWF العالمية
+   - ResearchGate: نقاشات Olson/Dinerstein حول حدود الأحيائية
+   - IUCN / UNEP-WCMC: أدلة النظم البيئية العالمية
+   - CartoTalk + Natural Earth (https://www.naturalearthdata.com/) لخطوط السواحل للعرض العالمي
+
+ملاحظة الألوان: ألوان WWF هنا مخصصة بعناية لتتوافق بصريا مع خرائط WWF/RESOLVE (خضر للغابات، ذهبي للسافانا، رملي للصحارى) لأن WWF لا تنشر RGB رسميا موحدا؛ أما أكواد وأسماء الـ 14 فهي الرسمية حرفيا. ألوان GEZ مبنية من تعاريف FAO.
+البيانات المقترحة: WWF TEOW shapefile + GEZ2010 shapefile + Natural Earth 1:110m coast.
+تاريخ البناء: 2026-09-29 | البناء محلي (ليس من ESRI).

@@ -1,0 +1,21 @@
+مصادر الاستايلات - Source (النقل - خارج ESRI)
+====================================================
+التخصص: نقل ومواصلات بشرية
+
+1) OpenStreetMap Wiki - Map Features (highway, railway, aeroway, route)
+   https://wiki.openstreetmap.org/wiki/Map_features
+   الرخصة: ODbL - رموز وألوان الطرق والسكة والمطارات والموانئ.
+
+2) reyemtm / openstreetmap-styles - OSM Simple Light.lyrx (ArcGIS Pro, MIT)
+   https://github.com/reyemtm/openstreetmap-styles
+   ملف: OSM Simple Light.lyrx - مرجع تصميم خطوط OSM في Pro.
+
+3) US FHWA MUTCD - Manual on Uniform Traffic Control Devices (Public Domain)
+   https://mutcd.fhwa.dot.gov/
+   رموز الإشارات المرورية الأمريكية - مجال عام.
+
+4) Geofabrik OSM Downloads (shapefiles للتجربة)
+   http://download.geofabrik.de/
+   بيانات تجريبية لتركيب الستايل عليها.
+
+تاريخ البناء: 2026-09-29 | البناء محلي من هذه المصادر (ليس من معرض ESRI).

@@ -1,0 +1,5 @@
+7/30/12
+
+This is a style that can be used to symbolize bathymetric data using colors or color ramps.  The colors are the same as those used in the Esri Ocean basemap.  The download includes two color ramps as well as the colors that were the used to create the ramps.  The download also includes a PDF of the class breaks and colors assigned when the basemap was symbolized using the classified renderer.
+
+Esri Mapping Team

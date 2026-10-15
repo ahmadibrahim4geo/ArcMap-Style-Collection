@@ -1,0 +1,6 @@
+دليل تركيب واستخدام ستايل الجيولوجيا 24K
+============================================
+- Geology-24K.stylx => ستايل الجيولوجيا بمقياس 24K (لـ Pro).
+- Geology 24K.style => النسخة المقابلة لـ ArcMap (من تثبيت ArcMap المحلي).
+- التركيب في Pro: Insert > Add Style. وفي ArcMap: Style Manager > Add Style to List.
+- المصدر: https://www.arcgis.com/home/item.html?id=96f711a17b824752b2521699c0722933

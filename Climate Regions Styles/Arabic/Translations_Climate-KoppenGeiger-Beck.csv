@@ -1,0 +1,157 @@
+﻿field,id,key,original,arabic,new_value,status
+Fill Symbols.Name,17,,Af Tropical rainforest,Af استوائي مطير,Af استوائي مطير | Af Tropical rainforest,translated
+Fill Symbols.Category,17,,Tropical,مداري,مداري | Tropical,translated
+Fill Symbols.Name,18,,Am Tropical monsoon,Am مداري موسمي,Am مداري موسمي | Am Tropical monsoon,translated
+Fill Symbols.Category,18,,Tropical,مداري,مداري | Tropical,translated
+Fill Symbols.Name,19,,Aw Tropical savannah,Aw مداري سافانا,Aw مداري سافانا | Aw Tropical savannah,translated
+Fill Symbols.Category,19,,Tropical,مداري,مداري | Tropical,translated
+Fill Symbols.Name,20,,BWh Arid desert hot,BWh صحراوي حار,BWh صحراوي حار | BWh Arid desert hot,translated
+Fill Symbols.Category,20,,Arid,جاف,جاف | Arid,translated
+Fill Symbols.Name,21,,BWk Arid desert cold,BWk صحراوي بارد,BWk صحراوي بارد | BWk Arid desert cold,translated
+Fill Symbols.Category,21,,Arid,جاف,جاف | Arid,translated
+Fill Symbols.Name,22,,BSh Arid steppe hot,BSh سهبي حار,BSh سهبي حار | BSh Arid steppe hot,translated
+Fill Symbols.Category,22,,Arid,جاف,جاف | Arid,translated
+Fill Symbols.Name,23,,BSk Arid steppe cold,BSk سهبي بارد,BSk سهبي بارد | BSk Arid steppe cold,translated
+Fill Symbols.Category,23,,Arid,جاف,جاف | Arid,translated
+Fill Symbols.Name,24,,Csa Temperate dry summer hot,Csa معتدل صيف جاف حار,Csa معتدل صيف جاف حار | Csa Temperate dry summer hot,translated
+Fill Symbols.Category,24,,Temperate,معتدل,معتدل | Temperate,translated
+Fill Symbols.Name,25,,Csb Temperate dry summer warm,Csb معتدل صيف جاف دافئ,Csb معتدل صيف جاف دافئ | Csb Temperate dry summer warm,translated
+Fill Symbols.Category,25,,Temperate,معتدل,معتدل | Temperate,translated
+Fill Symbols.Name,26,,Csc Temperate dry summer cold,Csc معتدل صيف جاف بارد,Csc معتدل صيف جاف بارد | Csc Temperate dry summer cold,translated
+Fill Symbols.Category,26,,Temperate,معتدل,معتدل | Temperate,translated
+Fill Symbols.Name,27,,Cwa Temperate dry winter hot,Cwa معتدل شتاء جاف حار,Cwa معتدل شتاء جاف حار | Cwa Temperate dry winter hot,translated
+Fill Symbols.Category,27,,Temperate,معتدل,معتدل | Temperate,translated
+Fill Symbols.Name,28,,Cwb Temperate dry winter warm,Cwb معتدل شتاء جاف دافئ,Cwb معتدل شتاء جاف دافئ | Cwb Temperate dry winter warm,translated
+Fill Symbols.Category,28,,Temperate,معتدل,معتدل | Temperate,translated
+Fill Symbols.Name,29,,Cwc Temperate dry winter cold,Cwc معتدل شتاء جاف بارد,Cwc معتدل شتاء جاف بارد | Cwc Temperate dry winter cold,translated
+Fill Symbols.Category,29,,Temperate,معتدل,معتدل | Temperate,translated
+Fill Symbols.Name,30,,Cfa Temperate no dry hot,Cfa معتدل رطب حار,Cfa معتدل رطب حار | Cfa Temperate no dry hot,translated
+Fill Symbols.Category,30,,Temperate,معتدل,معتدل | Temperate,translated
+Fill Symbols.Name,31,,Cfb Temperate no dry warm,Cfb معتدل رطب دافئ,Cfb معتدل رطب دافئ | Cfb Temperate no dry warm,translated
+Fill Symbols.Category,31,,Temperate,معتدل,معتدل | Temperate,translated
+Fill Symbols.Name,32,,Cfc Temperate no dry cold,Cfc معتدل رطب بارد,Cfc معتدل رطب بارد | Cfc Temperate no dry cold,translated
+Fill Symbols.Category,32,,Temperate,معتدل,معتدل | Temperate,translated
+Fill Symbols.Name,33,,Dsa Cold dry summer hot,Dsa بارد صيف جاف حار,Dsa بارد صيف جاف حار | Dsa Cold dry summer hot,translated
+Fill Symbols.Category,33,,Cold,بارد,بارد | Cold,translated
+Fill Symbols.Name,34,,Dsb Cold dry summer warm,Dsb بارد صيف جاف دافئ,Dsb بارد صيف جاف دافئ | Dsb Cold dry summer warm,translated
+Fill Symbols.Category,34,,Cold,بارد,بارد | Cold,translated
+Fill Symbols.Name,35,,Dsc Cold dry summer cold,Dsc بارد صيف جاف بارد,Dsc بارد صيف جاف بارد | Dsc Cold dry summer cold,translated
+Fill Symbols.Category,35,,Cold,بارد,بارد | Cold,translated
+Fill Symbols.Name,36,,Dsd Cold dry summer very cold,Dsd بارد صيف جاف شديد البرودة,Dsd بارد صيف جاف شديد البرودة | Dsd Cold dry summer very cold,translated
+Fill Symbols.Category,36,,Cold,بارد,بارد | Cold,translated
+Fill Symbols.Name,37,,Dwa Cold dry winter hot,Dwa بارد شتاء جاف حار,Dwa بارد شتاء جاف حار | Dwa Cold dry winter hot,translated
+Fill Symbols.Category,37,,Cold,بارد,بارد | Cold,translated
+Fill Symbols.Name,38,,Dwb Cold dry winter warm,Dwb بارد شتاء جاف دافئ,Dwb بارد شتاء جاف دافئ | Dwb Cold dry winter warm,translated
+Fill Symbols.Category,38,,Cold,بارد,بارد | Cold,translated
+Fill Symbols.Name,39,,Dwc Cold dry winter cold,Dwc بارد شتاء جاف بارد,Dwc بارد شتاء جاف بارد | Dwc Cold dry winter cold,translated
+Fill Symbols.Category,39,,Cold,بارد,بارد | Cold,translated
+Fill Symbols.Name,40,,Dwd Cold dry winter very cold,Dwd بارد شتاء جاف شديد البرودة,Dwd بارد شتاء جاف شديد البرودة | Dwd Cold dry winter very cold,translated
+Fill Symbols.Category,40,,Cold,بارد,بارد | Cold,translated
+Fill Symbols.Name,41,,Dfa Cold no dry hot,Dfa بارد رطب حار,Dfa بارد رطب حار | Dfa Cold no dry hot,translated
+Fill Symbols.Category,41,,Cold,بارد,بارد | Cold,translated
+Fill Symbols.Name,42,,Dfb Cold no dry warm,Dfb بارد رطب دافئ,Dfb بارد رطب دافئ | Dfb Cold no dry warm,translated
+Fill Symbols.Category,42,,Cold,بارد,بارد | Cold,translated
+Fill Symbols.Name,43,,Dfc Cold no dry cold,Dfc بارد رطب بارد,Dfc بارد رطب بارد | Dfc Cold no dry cold,translated
+Fill Symbols.Category,43,,Cold,بارد,بارد | Cold,translated
+Fill Symbols.Name,44,,Dfd Cold no dry very cold,Dfd بارد رطب شديد البرودة,Dfd بارد رطب شديد البرودة | Dfd Cold no dry very cold,translated
+Fill Symbols.Category,44,,Cold,بارد,بارد | Cold,translated
+Fill Symbols.Name,45,,ET Polar tundra,ET قطبي تندرا,ET قطبي تندرا | ET Polar tundra,translated
+Fill Symbols.Category,45,,Polar,قطبي,قطبي | Polar,translated
+Fill Symbols.Name,46,,EF Polar frost,EF قطبي جليدي,EF قطبي جليدي | EF Polar frost,translated
+Fill Symbols.Category,46,,Polar,قطبي,قطبي | Polar,translated
+Colors.Name,49,,Af Tropical rainforest,Af استوائي مطير,Af استوائي مطير | Af Tropical rainforest,translated
+Colors.Category,49,,Tropical,مداري,مداري | Tropical,translated
+Colors.Name,50,,Am Tropical monsoon,Am مداري موسمي,Am مداري موسمي | Am Tropical monsoon,translated
+Colors.Category,50,,Tropical,مداري,مداري | Tropical,translated
+Colors.Name,51,,Aw Tropical savannah,Aw مداري سافانا,Aw مداري سافانا | Aw Tropical savannah,translated
+Colors.Category,51,,Tropical,مداري,مداري | Tropical,translated
+Colors.Name,52,,BWh Arid desert hot,BWh صحراوي حار,BWh صحراوي حار | BWh Arid desert hot,translated
+Colors.Category,52,,Arid,جاف,جاف | Arid,translated
+Colors.Name,53,,BWk Arid desert cold,BWk صحراوي بارد,BWk صحراوي بارد | BWk Arid desert cold,translated
+Colors.Category,53,,Arid,جاف,جاف | Arid,translated
+Colors.Name,54,,BSh Arid steppe hot,BSh سهبي حار,BSh سهبي حار | BSh Arid steppe hot,translated
+Colors.Category,54,,Arid,جاف,جاف | Arid,translated
+Colors.Name,55,,BSk Arid steppe cold,BSk سهبي بارد,BSk سهبي بارد | BSk Arid steppe cold,translated
+Colors.Category,55,,Arid,جاف,جاف | Arid,translated
+Colors.Name,56,,Csa Temperate dry summer hot,Csa معتدل صيف جاف حار,Csa معتدل صيف جاف حار | Csa Temperate dry summer hot,translated
+Colors.Category,56,,Temperate,معتدل,معتدل | Temperate,translated
+Colors.Name,57,,Csb Temperate dry summer warm,Csb معتدل صيف جاف دافئ,Csb معتدل صيف جاف دافئ | Csb Temperate dry summer warm,translated
+Colors.Category,57,,Temperate,معتدل,معتدل | Temperate,translated
+Colors.Name,58,,Csc Temperate dry summer cold,Csc معتدل صيف جاف بارد,Csc معتدل صيف جاف بارد | Csc Temperate dry summer cold,translated
+Colors.Category,58,,Temperate,معتدل,معتدل | Temperate,translated
+Colors.Name,59,,Cwa Temperate dry winter hot,Cwa معتدل شتاء جاف حار,Cwa معتدل شتاء جاف حار | Cwa Temperate dry winter hot,translated
+Colors.Category,59,,Temperate,معتدل,معتدل | Temperate,translated
+Colors.Name,60,,Cwb Temperate dry winter warm,Cwb معتدل شتاء جاف دافئ,Cwb معتدل شتاء جاف دافئ | Cwb Temperate dry winter warm,translated
+Colors.Category,60,,Temperate,معتدل,معتدل | Temperate,translated
+Colors.Name,61,,Cwc Temperate dry winter cold,Cwc معتدل شتاء جاف بارد,Cwc معتدل شتاء جاف بارد | Cwc Temperate dry winter cold,translated
+Colors.Category,61,,Temperate,معتدل,معتدل | Temperate,translated
+Colors.Name,62,,Cfa Temperate no dry hot,Cfa معتدل رطب حار,Cfa معتدل رطب حار | Cfa Temperate no dry hot,translated
+Colors.Category,62,,Temperate,معتدل,معتدل | Temperate,translated
+Colors.Name,63,,Cfb Temperate no dry warm,Cfb معتدل رطب دافئ,Cfb معتدل رطب دافئ | Cfb Temperate no dry warm,translated
+Colors.Category,63,,Temperate,معتدل,معتدل | Temperate,translated
+Colors.Name,64,,Cfc Temperate no dry cold,Cfc معتدل رطب بارد,Cfc معتدل رطب بارد | Cfc Temperate no dry cold,translated
+Colors.Category,64,,Temperate,معتدل,معتدل | Temperate,translated
+Colors.Name,65,,Dsa Cold dry summer hot,Dsa بارد صيف جاف حار,Dsa بارد صيف جاف حار | Dsa Cold dry summer hot,translated
+Colors.Category,65,,Cold,بارد,بارد | Cold,translated
+Colors.Name,66,,Dsb Cold dry summer warm,Dsb بارد صيف جاف دافئ,Dsb بارد صيف جاف دافئ | Dsb Cold dry summer warm,translated
+Colors.Category,66,,Cold,بارد,بارد | Cold,translated
+Colors.Name,67,,Dsc Cold dry summer cold,Dsc بارد صيف جاف بارد,Dsc بارد صيف جاف بارد | Dsc Cold dry summer cold,translated
+Colors.Category,67,,Cold,بارد,بارد | Cold,translated
+Colors.Name,68,,Dsd Cold dry summer very cold,Dsd بارد صيف جاف شديد البرودة,Dsd بارد صيف جاف شديد البرودة | Dsd Cold dry summer very cold,translated
+Colors.Category,68,,Cold,بارد,بارد | Cold,translated
+Colors.Name,69,,Dwa Cold dry winter hot,Dwa بارد شتاء جاف حار,Dwa بارد شتاء جاف حار | Dwa Cold dry winter hot,translated
+Colors.Category,69,,Cold,بارد,بارد | Cold,translated
+Colors.Name,70,,Dwb Cold dry winter warm,Dwb بارد شتاء جاف دافئ,Dwb بارد شتاء جاف دافئ | Dwb Cold dry winter warm,translated
+Colors.Category,70,,Cold,بارد,بارد | Cold,translated
+Colors.Name,71,,Dwc Cold dry winter cold,Dwc بارد شتاء جاف بارد,Dwc بارد شتاء جاف بارد | Dwc Cold dry winter cold,translated
+Colors.Category,71,,Cold,بارد,بارد | Cold,translated
+Colors.Name,72,,Dwd Cold dry winter very cold,Dwd بارد شتاء جاف شديد البرودة,Dwd بارد شتاء جاف شديد البرودة | Dwd Cold dry winter very cold,translated
+Colors.Category,72,,Cold,بارد,بارد | Cold,translated
+Colors.Name,73,,Dfa Cold no dry hot,Dfa بارد رطب حار,Dfa بارد رطب حار | Dfa Cold no dry hot,translated
+Colors.Category,73,,Cold,بارد,بارد | Cold,translated
+Colors.Name,74,,Dfb Cold no dry warm,Dfb بارد رطب دافئ,Dfb بارد رطب دافئ | Dfb Cold no dry warm,translated
+Colors.Category,74,,Cold,بارد,بارد | Cold,translated
+Colors.Name,75,,Dfc Cold no dry cold,Dfc بارد رطب بارد,Dfc بارد رطب بارد | Dfc Cold no dry cold,translated
+Colors.Category,75,,Cold,بارد,بارد | Cold,translated
+Colors.Name,76,,Dfd Cold no dry very cold,Dfd بارد رطب شديد البرودة,Dfd بارد رطب شديد البرودة | Dfd Cold no dry very cold,translated
+Colors.Category,76,,Cold,بارد,بارد | Cold,translated
+Colors.Name,77,,ET Polar tundra,ET قطبي تندرا,ET قطبي تندرا | ET Polar tundra,translated
+Colors.Category,77,,Polar,قطبي,قطبي | Polar,translated
+Colors.Name,78,,EF Polar frost,EF قطبي جليدي,EF قطبي جليدي | EF Polar frost,translated
+Colors.Category,78,,Polar,قطبي,قطبي | Polar,translated
+Colors.Name,79,,Color 31,,Color 31,kept
+Colors.Category,79,,Colors,,Colors,kept
+Colors.Name,80,,Color 32,,Color 32,kept
+Colors.Category,80,,Colors,,Colors,kept
+Colors.Name,81,,Color 33,,Color 33,kept
+Colors.Category,81,,Colors,,Colors,kept
+Colors.Name,82,,Color 34,,Color 34,kept
+Colors.Category,82,,Colors,,Colors,kept
+Colors.Name,83,,Color 35,,Color 35,kept
+Colors.Category,83,,Colors,,Colors,kept
+Colors.Name,84,,Color 36,,Color 36,kept
+Colors.Category,84,,Colors,,Colors,kept
+Colors.Name,85,,Color 37,,Color 37,kept
+Colors.Category,85,,Colors,,Colors,kept
+Colors.Name,86,,Color 38,,Color 38,kept
+Colors.Category,86,,Colors,,Colors,kept
+Colors.Name,87,,Color 39,,Color 39,kept
+Colors.Category,87,,Colors,,Colors,kept
+Colors.Name,88,,Color 40,,Color 40,kept
+Colors.Category,88,,Colors,,Colors,kept
+Colors.Name,89,,Color 41,,Color 41,kept
+Colors.Category,89,,Colors,,Colors,kept
+Colors.Name,90,,Color 42,,Color 42,kept
+Colors.Category,90,,Colors,,Colors,kept
+Colors.Name,91,,Color 43,,Color 43,kept
+Colors.Category,91,,Colors,,Colors,kept
+Colors.Name,92,,Color 44,,Color 44,kept
+Colors.Category,92,,Colors,,Colors,kept
+Colors.Name,93,,Color 45,,Color 45,kept
+Colors.Category,93,,Colors,,Colors,kept
+Colors.Name,94,,Color 46,,Color 46,kept
+Colors.Category,94,,Colors,,Colors,kept
+Colors.Name,95,,Color 47,,Color 47,kept
+Colors.Category,95,,Colors,,Colors,kept
+Colors.Name,96,,Color 48,,Color 48,kept
+Colors.Category,96,,Colors,,Colors,kept

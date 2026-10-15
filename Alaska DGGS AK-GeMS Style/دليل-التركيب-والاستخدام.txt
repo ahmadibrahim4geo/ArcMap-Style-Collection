@@ -1,0 +1,24 @@
+دليل تركيب واستخدام ستايل Alaska DGGS AK-GeMS
+====================================================
+1) المحتويات
+------------
+- AK_GeMS_symbology_ver_1.style => نسخة ArcMap (تشتغل مباشرة).
+- AK_GeMS_symbology_ver_2.stylx => نسخة ArcGIS Pro (الأحدث v2 - يُفضل استخدامها في Pro).
+- Originals\ => الحزمتان الأصليتان المضغوطتان (mp169 + mp169v2).
+- Docs\ => تقريرا الإصدارين PDF + جدولا التوثيق Excel لكل رمز.
+- Sources\ => ملف المصادر والروابط.
+
+2) التركيب
+----------
+- في ArcMap: Customize > Style Manager > Styles... > Add Style to List > اختر نسخة ver_1.style.
+- في Pro: Insert > Add Style > اختر نسخة ver_2.stylx.
+- للتفعيل الدائم في ArcMap انسخ الـ .style إلى C:\Program Files (x86)\ArcGIS\Desktop10.8\Styles\
+
+3) الاستخدام
+------------
+- يشمل كل رموز FGDC الأصلية + رموز مخصصة لألاسكا + ألوان وحدات الخريطة المقترحة من USGS (كود CMYK رباعي مثل 40X0).
+- راجع ملفي Excel في Docs\ لمعرفة كود كل رمز ولونه.
+
+4) ملاحظة
+---------
+- لا يوجد تحويل .stylx إلى .style، لذلك v2 متاحة لـ Pro فقط، وv1 هي نسخة ArcMap.

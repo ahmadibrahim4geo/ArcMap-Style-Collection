@@ -1,0 +1,35 @@
+﻿en,ar,R,G,B,category_en,category_ar
+01 Tropical moist broadleaf forests,01 غابات مدارية رطبة عريضة,0,100,0,WWF Biomes,أحيائية WWF
+02 Tropical dry broadleaf forests,02 غابات مدارية جافة عريضة,51,153,51,WWF Biomes,أحيائية WWF
+03 Tropical coniferous forests,03 غابات مدارية إبرية,102,170,102,WWF Biomes,أحيائية WWF
+04 Temperate broadleaf mixed forests,04 غابات معتدلة عريضة ومختلطة,34,139,34,WWF Biomes,أحيائية WWF
+05 Temperate coniferous forests,05 غابات معتدلة إبرية,46,139,87,WWF Biomes,أحيائية WWF
+06 Boreal taiga,06 تايغا شمالية,11,102,35,WWF Biomes,أحيائية WWF
+07 Tropical grasslands savannas,07 سافانا وحشائش مدارية,255,215,0,WWF Biomes,أحيائية WWF
+08 Temperate grasslands savannas,08 سهوب معتدلة,212,201,90,WWF Biomes,أحيائية WWF
+09 Flooded grasslands savannas,09 حشائش مغمورة,102,205,170,WWF Biomes,أحيائية WWF
+10 Montane grasslands shrublands,10 حشائش وشجيرات جبلية,169,169,106,WWF Biomes,أحيائية WWF
+11 Tundra,11 تندرا,173,216,230,WWF Biomes,أحيائية WWF
+12 Mediterranean woodlands scrub,12 متوسطية,255,140,0,WWF Biomes,أحيائية WWF
+13 Deserts xeric shrublands,13 صحارى وشجيرات جافة,245,222,179,WWF Biomes,أحيائية WWF
+14 Mangroves,14 مانغروف,0,206,209,WWF Biomes,أحيائية WWF
+TAr Tropical rainforest GEZ,TAr نطاق مطير استوائي,0,64,0,FAO GEZ,نطاقات فاو
+TAwa Tropical moist deciduous,TAwa نطاق رطب متساقط,26,140,26,FAO GEZ,نطاقات فاو
+TAwb Tropical dry forest,TAwb نطاق جاف استوائي,140,184,75,FAO GEZ,نطاقات فاو
+TBSh Tropical shrubland,TBSh شجيرات استوائية,193,154,107,FAO GEZ,نطاقات فاو
+TBWh Tropical desert,TBWh صحراء استوائية,245,222,179,FAO GEZ,نطاقات فاو
+TM Tropical mountain,TM جبال استوائية,139,115,85,FAO GEZ,نطاقات فاو
+SCf Subtropical humid forest,SCf غابة شبه مدارية رطبة,46,139,87,FAO GEZ,نطاقات فاو
+SCs Subtropical dry forest,SCs غابة شبه مدارية جافة,107,142,35,FAO GEZ,نطاقات فاو
+SBSh Subtropical steppe,SBSh سهب شبه مداري,189,183,107,FAO GEZ,نطاقات فاو
+SBWh Subtropical desert,SBWh صحراء شبه مدارية,238,232,170,FAO GEZ,نطاقات فاو
+SM Subtropical mountain,SM جبال شبه مدارية,160,158,120,FAO GEZ,نطاقات فاو
+TeDo Temperate oceanic forest,TeDo غابة معتدلة محيطية,34,139,34,FAO GEZ,نطاقات فاو
+TeDc Temperate continental forest,TeDc غابة معتدلة قارية,85,107,47,FAO GEZ,نطاقات فاو
+TeBSk Temperate steppe,TeBSk سهب معتدل,212,201,90,FAO GEZ,نطاقات فاو
+TeBWk Temperate desert,TeBWk صحراء معتدلة,210,205,170,FAO GEZ,نطاقات فاو
+TeM Temperate mountain,TeM جبال معتدلة,128,128,105,FAO GEZ,نطاقات فاو
+Ba Boreal coniferous,Ba غابة شمالية إبرية,11,102,35,FAO GEZ,نطاقات فاو
+Bb Boreal tundra woodland,Bb تندرا شمالية,176,196,222,FAO GEZ,نطاقات فاو
+BM Boreal mountain,BM جبال شمالية,105,125,110,FAO GEZ,نطاقات فاو
+P Polar,P قطبي,220,220,220,FAO GEZ,نطاقات فاو

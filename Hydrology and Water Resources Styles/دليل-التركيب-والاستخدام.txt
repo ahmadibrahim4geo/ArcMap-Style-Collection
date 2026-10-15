@@ -1,0 +1,20 @@
+دليل تركيب واستخدام ستايلات الهيدرولوجيا والمياه
+==================================================
+1) المحتويات
+------------
+- Water-Distribution-Utility-Network.stylx => ستايل شبكات توزيع المياه (Utility Network) لـ Pro.
+- Water-Distribution-Editor.stylx => ستايل محرر شبكات المياه لـ Pro.
+- Water Wastewater.style => بديل ArcMap لشبكات المياه والصرف.
+- Utilities.style => ستايل المرافق العامة (مياه/كهرباء/صرف) لـ ArcMap.
+- Sources\ => ملف المصادر + روابط بيانات NHD.
+
+2) التركيب
+----------
+- في Pro: Insert > Add Style > اختر ملف .stylx.
+- في ArcMap: Style Manager > Add Style to List > اختر Water Wastewater.style أو Utilities.style
+  (لا يوجد تحويل مباشر من .stylx إلى .style).
+
+3) البيانات المكملة
+--------------------
+- شبكة الصرف الأمريكية NHD (أنهار/بحيرات/سدود): حمّلها من The National Map Download Client
+  أو استخدم خدمة https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer

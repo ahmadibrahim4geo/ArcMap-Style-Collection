@@ -1,0 +1,722 @@
+﻿field,id,key,original,arabic,new_value,status
+NAME,1,Quaternary 1,Quaternary 1,الرباعي,الرباعي | Quaternary 1,translated
+CATEGORY,1,Quaternary 1,Default,افتراضية,افتراضية | Default,translated
+NAME,2,Quaternary 2,Quaternary 2,الرباعي,الرباعي | Quaternary 2,translated
+CATEGORY,2,Quaternary 2,Default,افتراضية,افتراضية | Default,translated
+NAME,3,Quaternary 3,Quaternary 3,الرباعي,الرباعي | Quaternary 3,translated
+CATEGORY,3,Quaternary 3,Default,افتراضية,افتراضية | Default,translated
+NAME,4,Quaternary 4,Quaternary 4,الرباعي,الرباعي | Quaternary 4,translated
+CATEGORY,4,Quaternary 4,Default,افتراضية,افتراضية | Default,translated
+NAME,5,Tertiary 1,Tertiary 1,الثلاثي,الثلاثي | Tertiary 1,translated
+CATEGORY,5,Tertiary 1,Default,افتراضية,افتراضية | Default,translated
+NAME,6,Tertiary 2,Tertiary 2,الثلاثي,الثلاثي | Tertiary 2,translated
+CATEGORY,6,Tertiary 2,Default,افتراضية,افتراضية | Default,translated
+NAME,7,Tertiary 3,Tertiary 3,الثلاثي,الثلاثي | Tertiary 3,translated
+CATEGORY,7,Tertiary 3,Default,افتراضية,افتراضية | Default,translated
+NAME,8,Tertiary 4,Tertiary 4,الثلاثي,الثلاثي | Tertiary 4,translated
+CATEGORY,8,Tertiary 4,Default,افتراضية,افتراضية | Default,translated
+NAME,9,Tertiary 5,Tertiary 5,الثلاثي,الثلاثي | Tertiary 5,translated
+CATEGORY,9,Tertiary 5,Default,افتراضية,افتراضية | Default,translated
+NAME,10,Tertiary 6,Tertiary 6,الثلاثي,الثلاثي | Tertiary 6,translated
+CATEGORY,10,Tertiary 6,Default,افتراضية,افتراضية | Default,translated
+NAME,11,Tertiary 7,Tertiary 7,الثلاثي,الثلاثي | Tertiary 7,translated
+CATEGORY,11,Tertiary 7,Default,افتراضية,افتراضية | Default,translated
+NAME,12,Tertiary 8,Tertiary 8,الثلاثي,الثلاثي | Tertiary 8,translated
+CATEGORY,12,Tertiary 8,Default,افتراضية,افتراضية | Default,translated
+NAME,13,Cretaceous 1,Cretaceous 1,الطباشيري,الطباشيري | Cretaceous 1,translated
+CATEGORY,13,Cretaceous 1,Default,افتراضية,افتراضية | Default,translated
+NAME,14,Cretaceous 2,Cretaceous 2,الطباشيري,الطباشيري | Cretaceous 2,translated
+CATEGORY,14,Cretaceous 2,Default,افتراضية,افتراضية | Default,translated
+NAME,15,Cretaceous 3,Cretaceous 3,الطباشيري,الطباشيري | Cretaceous 3,translated
+CATEGORY,15,Cretaceous 3,Default,افتراضية,افتراضية | Default,translated
+NAME,16,Cretaceous 4,Cretaceous 4,الطباشيري,الطباشيري | Cretaceous 4,translated
+CATEGORY,16,Cretaceous 4,Default,افتراضية,افتراضية | Default,translated
+NAME,17,Cretaceous 5,Cretaceous 5,الطباشيري,الطباشيري | Cretaceous 5,translated
+CATEGORY,17,Cretaceous 5,Default,افتراضية,افتراضية | Default,translated
+NAME,18,Cretaceous 6,Cretaceous 6,الطباشيري,الطباشيري | Cretaceous 6,translated
+CATEGORY,18,Cretaceous 6,Default,افتراضية,افتراضية | Default,translated
+NAME,19,Jurassic 1,Jurassic 1,الجوراسي,الجوراسي | Jurassic 1,translated
+CATEGORY,19,Jurassic 1,Default,افتراضية,افتراضية | Default,translated
+NAME,20,Jurassic 2,Jurassic 2,الجوراسي,الجوراسي | Jurassic 2,translated
+CATEGORY,20,Jurassic 2,Default,افتراضية,افتراضية | Default,translated
+NAME,21,Jurassic 3,Jurassic 3,الجوراسي,الجوراسي | Jurassic 3,translated
+CATEGORY,21,Jurassic 3,Default,افتراضية,افتراضية | Default,translated
+NAME,22,Jurassic 4,Jurassic 4,الجوراسي,الجوراسي | Jurassic 4,translated
+CATEGORY,22,Jurassic 4,Default,افتراضية,افتراضية | Default,translated
+NAME,23,Jurassic 5,Jurassic 5,الجوراسي,الجوراسي | Jurassic 5,translated
+CATEGORY,23,Jurassic 5,Default,افتراضية,افتراضية | Default,translated
+NAME,24,Triassic 1,Triassic 1,الترياسي,الترياسي | Triassic 1,translated
+CATEGORY,24,Triassic 1,Default,افتراضية,افتراضية | Default,translated
+NAME,25,Triassic 2,Triassic 2,الترياسي,الترياسي | Triassic 2,translated
+CATEGORY,25,Triassic 2,Default,افتراضية,افتراضية | Default,translated
+NAME,26,Triassic 3,Triassic 3,الترياسي,الترياسي | Triassic 3,translated
+CATEGORY,26,Triassic 3,Default,افتراضية,افتراضية | Default,translated
+NAME,27,Triassic 4,Triassic 4,الترياسي,الترياسي | Triassic 4,translated
+CATEGORY,27,Triassic 4,Default,افتراضية,افتراضية | Default,translated
+NAME,28,Triassic 5,Triassic 5,الترياسي,الترياسي | Triassic 5,translated
+CATEGORY,28,Triassic 5,Default,افتراضية,افتراضية | Default,translated
+NAME,29,Permian 1,Permian 1,البرمي,البرمي | Permian 1,translated
+CATEGORY,29,Permian 1,Default,افتراضية,افتراضية | Default,translated
+NAME,30,Permian 2,Permian 2,البرمي,البرمي | Permian 2,translated
+CATEGORY,30,Permian 2,Default,افتراضية,افتراضية | Default,translated
+NAME,31,Permian 3,Permian 3,البرمي,البرمي | Permian 3,translated
+CATEGORY,31,Permian 3,Default,افتراضية,افتراضية | Default,translated
+NAME,32,Permian 4,Permian 4,البرمي,البرمي | Permian 4,translated
+CATEGORY,32,Permian 4,Default,افتراضية,افتراضية | Default,translated
+NAME,33,Pennsylvanian 1,Pennsylvanian 1,البنسلفاني,البنسلفاني | Pennsylvanian 1,translated
+CATEGORY,33,Pennsylvanian 1,Default,افتراضية,افتراضية | Default,translated
+NAME,34,Pennsylvanian 2,Pennsylvanian 2,البنسلفاني,البنسلفاني | Pennsylvanian 2,translated
+CATEGORY,34,Pennsylvanian 2,Default,افتراضية,افتراضية | Default,translated
+NAME,35,Pennsylvanian 3,Pennsylvanian 3,البنسلفاني,البنسلفاني | Pennsylvanian 3,translated
+CATEGORY,35,Pennsylvanian 3,Default,افتراضية,افتراضية | Default,translated
+NAME,36,Pennsylvanian 4,Pennsylvanian 4,البنسلفاني,البنسلفاني | Pennsylvanian 4,translated
+CATEGORY,36,Pennsylvanian 4,Default,افتراضية,افتراضية | Default,translated
+NAME,37,Pennsylvanian 5,Pennsylvanian 5,البنسلفاني,البنسلفاني | Pennsylvanian 5,translated
+CATEGORY,37,Pennsylvanian 5,Default,افتراضية,افتراضية | Default,translated
+NAME,38,Mississippian 1,Mississippian 1,المسيسيبي,المسيسيبي | Mississippian 1,translated
+CATEGORY,38,Mississippian 1,Default,افتراضية,افتراضية | Default,translated
+NAME,39,Mississippian 2,Mississippian 2,المسيسيبي,المسيسيبي | Mississippian 2,translated
+CATEGORY,39,Mississippian 2,Default,افتراضية,افتراضية | Default,translated
+NAME,40,Mississippian 3,Mississippian 3,المسيسيبي,المسيسيبي | Mississippian 3,translated
+CATEGORY,40,Mississippian 3,Default,افتراضية,افتراضية | Default,translated
+NAME,41,Mississippian 4,Mississippian 4,المسيسيبي,المسيسيبي | Mississippian 4,translated
+CATEGORY,41,Mississippian 4,Default,افتراضية,افتراضية | Default,translated
+NAME,42,Mississippian 5,Mississippian 5,المسيسيبي,المسيسيبي | Mississippian 5,translated
+CATEGORY,42,Mississippian 5,Default,افتراضية,افتراضية | Default,translated
+NAME,43,Devonian 1,Devonian 1,الديفوني,الديفوني | Devonian 1,translated
+CATEGORY,43,Devonian 1,Default,افتراضية,افتراضية | Default,translated
+NAME,44,Devonian 2,Devonian 2,الديفوني,الديفوني | Devonian 2,translated
+CATEGORY,44,Devonian 2,Default,افتراضية,افتراضية | Default,translated
+NAME,45,Devonian 3,Devonian 3,الديفوني,الديفوني | Devonian 3,translated
+CATEGORY,45,Devonian 3,Default,افتراضية,افتراضية | Default,translated
+NAME,46,Devonian 4,Devonian 4,الديفوني,الديفوني | Devonian 4,translated
+CATEGORY,46,Devonian 4,Default,افتراضية,افتراضية | Default,translated
+NAME,47,Devonian 5,Devonian 5,الديفوني,الديفوني | Devonian 5,translated
+CATEGORY,47,Devonian 5,Default,افتراضية,افتراضية | Default,translated
+NAME,48,Silurian 1,Silurian 1,السيلوري,السيلوري | Silurian 1,translated
+CATEGORY,48,Silurian 1,Default,افتراضية,افتراضية | Default,translated
+NAME,49,Silurian 2,Silurian 2,السيلوري,السيلوري | Silurian 2,translated
+CATEGORY,49,Silurian 2,Default,افتراضية,افتراضية | Default,translated
+NAME,50,Silurian 3,Silurian 3,السيلوري,السيلوري | Silurian 3,translated
+CATEGORY,50,Silurian 3,Default,افتراضية,افتراضية | Default,translated
+NAME,51,Silurian 4,Silurian 4,السيلوري,السيلوري | Silurian 4,translated
+CATEGORY,51,Silurian 4,Default,افتراضية,افتراضية | Default,translated
+NAME,52,Ordovician 1,Ordovician 1,الأوردوفيشي,الأوردوفيشي | Ordovician 1,translated
+CATEGORY,52,Ordovician 1,Default,افتراضية,افتراضية | Default,translated
+NAME,53,Ordovician 2,Ordovician 2,الأوردوفيشي,الأوردوفيشي | Ordovician 2,translated
+CATEGORY,53,Ordovician 2,Default,افتراضية,افتراضية | Default,translated
+NAME,54,Ordovician 3,Ordovician 3,الأوردوفيشي,الأوردوفيشي | Ordovician 3,translated
+CATEGORY,54,Ordovician 3,Default,افتراضية,افتراضية | Default,translated
+NAME,55,Ordovician 4,Ordovician 4,الأوردوفيشي,الأوردوفيشي | Ordovician 4,translated
+CATEGORY,55,Ordovician 4,Default,افتراضية,افتراضية | Default,translated
+NAME,56,Ordovician 5,Ordovician 5,الأوردوفيشي,الأوردوفيشي | Ordovician 5,translated
+CATEGORY,56,Ordovician 5,Default,افتراضية,افتراضية | Default,translated
+NAME,57,Cambrian 1,Cambrian 1,الكمبري,الكمبري | Cambrian 1,translated
+CATEGORY,57,Cambrian 1,Default,افتراضية,افتراضية | Default,translated
+NAME,58,Cambrian 2,Cambrian 2,الكمبري,الكمبري | Cambrian 2,translated
+CATEGORY,58,Cambrian 2,Default,افتراضية,افتراضية | Default,translated
+NAME,59,Cambrian 3,Cambrian 3,الكمبري,الكمبري | Cambrian 3,translated
+CATEGORY,59,Cambrian 3,Default,افتراضية,افتراضية | Default,translated
+NAME,60,Cambrian 4,Cambrian 4,الكمبري,الكمبري | Cambrian 4,translated
+CATEGORY,60,Cambrian 4,Default,افتراضية,افتراضية | Default,translated
+NAME,61,Cambrian 5,Cambrian 5,الكمبري,الكمبري | Cambrian 5,translated
+CATEGORY,61,Cambrian 5,Default,افتراضية,افتراضية | Default,translated
+NAME,62,Precambrian 1,Precambrian 1,ما قبل الكمبري,ما قبل الكمبري | Precambrian 1,translated
+CATEGORY,62,Precambrian 1,Default,افتراضية,افتراضية | Default,translated
+NAME,63,Precambrian 2,Precambrian 2,ما قبل الكمبري,ما قبل الكمبري | Precambrian 2,translated
+CATEGORY,63,Precambrian 2,Default,افتراضية,افتراضية | Default,translated
+NAME,64,Precambrian 3,Precambrian 3,ما قبل الكمبري,ما قبل الكمبري | Precambrian 3,translated
+CATEGORY,64,Precambrian 3,Default,افتراضية,افتراضية | Default,translated
+NAME,65,Precambrian 4,Precambrian 4,ما قبل الكمبري,ما قبل الكمبري | Precambrian 4,translated
+CATEGORY,65,Precambrian 4,Default,افتراضية,افتراضية | Default,translated
+NAME,66,Precambrian 5,Precambrian 5,ما قبل الكمبري,ما قبل الكمبري | Precambrian 5,translated
+CATEGORY,66,Precambrian 5,Default,افتراضية,افتراضية | Default,translated
+NAME,67,Precambrian 6,Precambrian 6,ما قبل الكمبري,ما قبل الكمبري | Precambrian 6,translated
+CATEGORY,67,Precambrian 6,Default,افتراضية,افتراضية | Default,translated
+NAME,68,Precambrian 7,Precambrian 7,ما قبل الكمبري,ما قبل الكمبري | Precambrian 7,translated
+CATEGORY,68,Precambrian 7,Default,افتراضية,افتراضية | Default,translated
+NAME,69,Precambrian 8,Precambrian 8,ما قبل الكمبري,ما قبل الكمبري | Precambrian 8,translated
+CATEGORY,69,Precambrian 8,Default,افتراضية,افتراضية | Default,translated
+NAME,70,Precambrian 9,Precambrian 9,ما قبل الكمبري,ما قبل الكمبري | Precambrian 9,translated
+CATEGORY,70,Precambrian 9,Default,افتراضية,افتراضية | Default,translated
+NAME,71,Precambrian 10,Precambrian 10,ما قبل الكمبري,ما قبل الكمبري | Precambrian 10,translated
+CATEGORY,71,Precambrian 10,Default,افتراضية,افتراضية | Default,translated
+NAME,72,Precambrian 11,Precambrian 11,ما قبل الكمبري,ما قبل الكمبري | Precambrian 11,translated
+CATEGORY,72,Precambrian 11,Default,افتراضية,افتراضية | Default,translated
+NAME,73,Precambrian 12,Precambrian 12,ما قبل الكمبري,ما قبل الكمبري | Precambrian 12,translated
+CATEGORY,73,Precambrian 12,Default,افتراضية,افتراضية | Default,translated
+NAME,74,Precambrian 13,Precambrian 13,ما قبل الكمبري,ما قبل الكمبري | Precambrian 13,translated
+CATEGORY,74,Precambrian 13,Default,افتراضية,افتراضية | Default,translated
+NAME,75,Precambrian 14,Precambrian 14,ما قبل الكمبري,ما قبل الكمبري | Precambrian 14,translated
+CATEGORY,75,Precambrian 14,Default,افتراضية,افتراضية | Default,translated
+NAME,76,Precambrian 15,Precambrian 15,ما قبل الكمبري,ما قبل الكمبري | Precambrian 15,translated
+CATEGORY,76,Precambrian 15,Default,افتراضية,افتراضية | Default,translated
+NAME,77,Precambrian 16,Precambrian 16,ما قبل الكمبري,ما قبل الكمبري | Precambrian 16,translated
+CATEGORY,77,Precambrian 16,Default,افتراضية,افتراضية | Default,translated
+NAME,78,Precambrian 17,Precambrian 17,ما قبل الكمبري,ما قبل الكمبري | Precambrian 17,translated
+CATEGORY,78,Precambrian 17,Default,افتراضية,افتراضية | Default,translated
+NAME,79,Precambrian 18,Precambrian 18,ما قبل الكمبري,ما قبل الكمبري | Precambrian 18,translated
+CATEGORY,79,Precambrian 18,Default,افتراضية,افتراضية | Default,translated
+NAME,80,Precambrian 19,Precambrian 19,ما قبل الكمبري,ما قبل الكمبري | Precambrian 19,translated
+CATEGORY,80,Precambrian 19,Default,افتراضية,افتراضية | Default,translated
+NAME,81,Precambrian 20,Precambrian 20,ما قبل الكمبري,ما قبل الكمبري | Precambrian 20,translated
+CATEGORY,81,Precambrian 20,Default,افتراضية,افتراضية | Default,translated
+NAME,82,Precambrian 21,Precambrian 21,ما قبل الكمبري,ما قبل الكمبري | Precambrian 21,translated
+CATEGORY,82,Precambrian 21,Default,افتراضية,افتراضية | Default,translated
+NAME,83,Precambrian 22,Precambrian 22,ما قبل الكمبري,ما قبل الكمبري | Precambrian 22,translated
+CATEGORY,83,Precambrian 22,Default,افتراضية,افتراضية | Default,translated
+NAME,84,Volcanic 1,Volcanic 1,بركانية,بركانية | Volcanic 1,translated
+CATEGORY,84,Volcanic 1,Default,افتراضية,افتراضية | Default,translated
+NAME,85,Volcanic 2,Volcanic 2,بركانية,بركانية | Volcanic 2,translated
+CATEGORY,85,Volcanic 2,Default,افتراضية,افتراضية | Default,translated
+NAME,86,Volcanic 3,Volcanic 3,بركانية,بركانية | Volcanic 3,translated
+CATEGORY,86,Volcanic 3,Default,افتراضية,افتراضية | Default,translated
+NAME,87,Volcanic 4,Volcanic 4,بركانية,بركانية | Volcanic 4,translated
+CATEGORY,87,Volcanic 4,Default,افتراضية,افتراضية | Default,translated
+NAME,88,Volcanic 5,Volcanic 5,بركانية,بركانية | Volcanic 5,translated
+CATEGORY,88,Volcanic 5,Default,افتراضية,افتراضية | Default,translated
+NAME,89,Volcanic 6,Volcanic 6,بركانية,بركانية | Volcanic 6,translated
+CATEGORY,89,Volcanic 6,Default,افتراضية,افتراضية | Default,translated
+NAME,90,Volcanic 7,Volcanic 7,بركانية,بركانية | Volcanic 7,translated
+CATEGORY,90,Volcanic 7,Default,افتراضية,افتراضية | Default,translated
+NAME,91,Volcanic 8,Volcanic 8,بركانية,بركانية | Volcanic 8,translated
+CATEGORY,91,Volcanic 8,Default,افتراضية,افتراضية | Default,translated
+NAME,92,Volcanic 9,Volcanic 9,بركانية,بركانية | Volcanic 9,translated
+CATEGORY,92,Volcanic 9,Default,افتراضية,افتراضية | Default,translated
+NAME,93,Quaternary,Quaternary,الرباعي,الرباعي | Quaternary,translated
+CATEGORY,93,Quaternary,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+NAME,94,Tertiary,Tertiary,الثلاثي,الثلاثي | Tertiary,translated
+CATEGORY,94,Tertiary,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+NAME,95,Cretaceous,Cretaceous,الطباشيري,الطباشيري | Cretaceous,translated
+CATEGORY,95,Cretaceous,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+NAME,96,Jurassic,Jurassic,الجوراسي,الجوراسي | Jurassic,translated
+CATEGORY,96,Jurassic,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+NAME,97,Triassic,Triassic,الترياسي,الترياسي | Triassic,translated
+CATEGORY,97,Triassic,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+NAME,98,Permian,Permian,البرمي,البرمي | Permian,translated
+CATEGORY,98,Permian,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+NAME,99,Pennsylvanian,Pennsylvanian,البنسلفاني,البنسلفاني | Pennsylvanian,translated
+CATEGORY,99,Pennsylvanian,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+NAME,100,Mississippian,Mississippian,المسيسيبي,المسيسيبي | Mississippian,translated
+CATEGORY,100,Mississippian,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+NAME,101,Devonian,Devonian,الديفوني,الديفوني | Devonian,translated
+CATEGORY,101,Devonian,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+NAME,102,Silurian,Silurian,السيلوري,السيلوري | Silurian,translated
+CATEGORY,102,Silurian,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+NAME,103,Ordovician,Ordovician,الأوردوفيشي,الأوردوفيشي | Ordovician,translated
+CATEGORY,103,Ordovician,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+NAME,104,Cambrian,Cambrian,الكمبري,الكمبري | Cambrian,translated
+CATEGORY,104,Cambrian,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+NAME,105,Precambrian,Precambrian,ما قبل الكمبري,ما قبل الكمبري | Precambrian,translated
+CATEGORY,105,Precambrian,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+NAME,106,Volcanic,Volcanic,بركانية,بركانية | Volcanic,translated
+CATEGORY,106,Volcanic,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+NAME,107,Minor Dome,Minor Dome,صغيرة قبة,صغيرة قبة | Minor Dome,translated
+CATEGORY,107,Minor Dome,Default,افتراضية,افتراضية | Default,translated
+NAME,108,Minor Basin,Minor Basin,صغيرة حوض,صغيرة حوض | Minor Basin,translated
+CATEGORY,108,Minor Basin,Default,افتراضية,افتراضية | Default,translated
+NAME,109,Horizontal bedding,Horizontal bedding,أفقية تطبق,أفقية تطبق | Horizontal bedding,translated
+CATEGORY,109,Horizontal bedding,Default,افتراضية,افتراضية | Default,translated
+NAME,110,Inclined bedding--Showing strike and direction of dip,Inclined bedding--Showing strike and direction of dip,تطبق يُظهر المضرب و اتجاه الميل,تطبق يُظهر المضرب و اتجاه الميل | Inclined bedding--Showing strike and direction of dip,translated
+CATEGORY,110,Inclined bedding--Showing strike and direction of dip,Default,افتراضية,افتراضية | Default,translated
+NAME,111,Inclined bedding--Showing approximate strike and direction of dip,Inclined bedding--Showing approximate strike and direction of dip,تطبق مضرب و اتجاه الميل,تطبق مضرب و اتجاه الميل | Inclined bedding--Showing approximate strike and direction of dip,translated
+CATEGORY,111,Inclined bedding--Showing approximate strike and direction of dip,Default,افتراضية,افتراضية | Default,translated
+NAME,112,Inclined and crenulated or warped bedding--Showing approximate strike and dip,Inclined and crenulated or warped bedding--Showing approximate strike and dip,و أو تطبق مضرب ميل,و أو تطبق مضرب ميل | Inclined and crenulated or warped bedding--Showing approximate strike and dip,translated
+CATEGORY,112,Inclined and crenulated or warped bedding--Showing approximate strike and dip,Default,افتراضية,افتراضية | Default,translated
+NAME,113,Inclined beds--Showing strike and dip. Top of beds known from local features,Inclined beds--Showing strike and dip. Top of beds known from local features,طبقات يُظهر المضرب و ميل علوي من الظواهر المحلية,طبقات يُظهر المضرب و ميل علوي من الظواهر المحلية | Inclined beds--Showing strike and dip. Top of beds known from local features,translated
+CATEGORY,113,Inclined beds--Showing strike and dip. Top of beds known from local features,Default,افتراضية,افتراضية | Default,translated
+NAME,114,Overturned bedding--Showing strike and dip,Overturned bedding--Showing strike and dip,مقلوبة تطبق يُظهر المضرب و ميل,مقلوبة تطبق يُظهر المضرب و ميل | Overturned bedding--Showing strike and dip,translated
+CATEGORY,114,Overturned bedding--Showing strike and dip,Default,افتراضية,افتراضية | Default,translated
+NAME,115,Overturned bedding--Showing strike and dip. Top direction of beds known from local features,Overturned bedding--Showing strike and dip. Top direction of beds known from local features,مقلوبة تطبق يُظهر المضرب و ميل علوي اتجاه طبقات من الظواهر المحلية,مقلوبة تطبق يُظهر المضرب و ميل علوي اتجاه طبقات من الظواهر المحلية | Overturned bedding--Showing strike and dip. Top direction of beds known from local features,translated
+CATEGORY,115,Overturned bedding--Showing strike and dip. Top direction of beds known from local features,Default,افتراضية,افتراضية | Default,translated
+NAME,116,Bedding overturned more than 180 degrees--Showing strike and dip,Bedding overturned more than 180 degrees--Showing strike and dip,تطبق مقلوبة يُظهر المضرب و ميل,تطبق مقلوبة يُظهر المضرب و ميل | Bedding overturned more than 180 degrees--Showing strike and dip,translated
+CATEGORY,116,Bedding overturned more than 180 degrees--Showing strike and dip,Default,افتراضية,افتراضية | Default,translated
+NAME,117,Vertical bedding--Showing strike,Vertical bedding--Showing strike,تطبق يُظهر المضرب,تطبق يُظهر المضرب | Vertical bedding--Showing strike,translated
+CATEGORY,117,Vertical bedding--Showing strike,Default,افتراضية,افتراضية | Default,translated
+NAME,118,Vertical bedding--Showing strike and direction of top beds; top known from local features,Vertical bedding--Showing strike and direction of top beds; top known from local features,تطبق يُظهر المضرب و اتجاه القمة طبقات القمة معروفة من الظواهر المحلية,تطبق يُظهر المضرب و اتجاه القمة طبقات القمة معروفة من الظواهر المحلية | Vertical bedding--Showing strike and direction of top beds; top known from local features,translated
+CATEGORY,118,Vertical bedding--Showing strike and direction of top beds; top known from local features,Default,افتراضية,افتراضية | Default,translated
+NAME,119,Graded bedding,Graded bedding,تطبق متدرج,تطبق متدرج | Graded bedding,translated
+CATEGORY,119,Graded bedding,Default,افتراضية,افتراضية | Default,translated
+NAME,120,Overturned graded bedding,Overturned graded bedding,مقلوبة تطبق متدرج,مقلوبة تطبق متدرج | Overturned graded bedding,translated
+CATEGORY,120,Overturned graded bedding,Default,افتراضية,افتراضية | Default,translated
+NAME,121,Inclined bedding in crossbedded rocks- showing approx strike and dip,Inclined bedding in crossbedded rocks- showing approx strike and dip,تطبق في يُظهر المضرب التقريبي و ميل,تطبق في يُظهر المضرب التقريبي و ميل | Inclined bedding in crossbedded rocks- showing approx strike and dip,translated
+CATEGORY,121,Inclined bedding in crossbedded rocks- showing approx strike and dip,Default,افتراضية,افتراضية | Default,translated
+NAME,122,Overturned bedding in crossbedded rocks--showing approx strike and dip,Overturned bedding in crossbedded rocks--showing approx strike and dip,مقلوبة تطبق في يُظهر المضرب التقريبي و ميل,مقلوبة تطبق في يُظهر المضرب التقريبي و ميل | Overturned bedding in crossbedded rocks--showing approx strike and dip,translated
+CATEGORY,122,Overturned bedding in crossbedded rocks--showing approx strike and dip,Default,افتراضية,افتراضية | Default,translated
+NAME,123,"Horizontal bedding, determined from aerial photographs","Horizontal bedding, determined from aerial photographs",أفقية تطبق حُددت من الصور الجوية,"أفقية تطبق حُددت من الصور الجوية | Horizontal bedding, determined from aerial photographs",translated
+CATEGORY,123,"Horizontal bedding, determined from aerial photographs",Default,افتراضية,افتراضية | Default,translated
+NAME,124,"Gently inclined bedding, determined from aerial photographs--showing approx strike and direction of dip","Gently inclined bedding, determined from aerial photographs--showing approx strike and direction of dip",تطبق حُددت من الصور الجوية يُظهر المضرب التقريبي و اتجاه الميل,"تطبق حُددت من الصور الجوية يُظهر المضرب التقريبي و اتجاه الميل | Gently inclined bedding, determined from aerial photographs--showing approx strike and direction of dip",translated
+CATEGORY,124,"Gently inclined bedding, determined from aerial photographs--showing approx strike and direction of dip",Default,افتراضية,افتراضية | Default,translated
+NAME,125,"Moderately inclined bedding, determined from aerial photographs--showing approx strike and direction of dip","Moderately inclined bedding, determined from aerial photographs--showing approx strike and direction of dip",تطبق حُددت من الصور الجوية يُظهر المضرب التقريبي و اتجاه الميل,"تطبق حُددت من الصور الجوية يُظهر المضرب التقريبي و اتجاه الميل | Moderately inclined bedding, determined from aerial photographs--showing approx strike and direction of dip",translated
+CATEGORY,125,"Moderately inclined bedding, determined from aerial photographs--showing approx strike and direction of dip",Default,افتراضية,افتراضية | Default,translated
+NAME,126,"Steeply inclined bedding, determined from aerial photographs--showing approx strike and direction of dip","Steeply inclined bedding, determined from aerial photographs--showing approx strike and direction of dip",تطبق حُددت من الصور الجوية يُظهر المضرب التقريبي و اتجاه الميل,"تطبق حُددت من الصور الجوية يُظهر المضرب التقريبي و اتجاه الميل | Steeply inclined bedding, determined from aerial photographs--showing approx strike and direction of dip",translated
+CATEGORY,126,"Steeply inclined bedding, determined from aerial photographs--showing approx strike and direction of dip",Default,افتراضية,افتراضية | Default,translated
+NAME,127,"Vertical or near-vertical bedding, determined from aerial photographs--showing approx strike","Vertical or near-vertical bedding, determined from aerial photographs--showing approx strike",رأسية أو شبه رأسية تطبق حُددت من الصور الجوية يُظهر المضرب التقريبي,"رأسية أو شبه رأسية تطبق حُددت من الصور الجوية يُظهر المضرب التقريبي | Vertical or near-vertical bedding, determined from aerial photographs--showing approx strike",translated
+CATEGORY,127,"Vertical or near-vertical bedding, determined from aerial photographs--showing approx strike",Default,افتراضية,افتراضية | Default,translated
+NAME,128,"Photo-interpreted bedding: Strike and dip of strata, dip 5 to 15","Photo-interpreted bedding: Strike and dip of strata, dip 5 to 15",تطبق مضرب و ميل طبقات إلى,"تطبق مضرب و ميل طبقات إلى | Photo-interpreted bedding: Strike and dip of strata, dip 5 to 15",translated
+CATEGORY,128,"Photo-interpreted bedding: Strike and dip of strata, dip 5 to 15",Default,افتراضية,افتراضية | Default,translated
+NAME,129,"Photo-interpreted bedding: Strike and dip of strata, dip 15 to 45","Photo-interpreted bedding: Strike and dip of strata, dip 15 to 45",تطبق مضرب و ميل طبقات إلى,"تطبق مضرب و ميل طبقات إلى | Photo-interpreted bedding: Strike and dip of strata, dip 15 to 45",translated
+CATEGORY,129,"Photo-interpreted bedding: Strike and dip of strata, dip 15 to 45",Default,افتراضية,افتراضية | Default,translated
+NAME,130,"Photo-interpreted bedding: Strike and dip of strata, dip greater than 45","Photo-interpreted bedding: Strike and dip of strata, dip greater than 45",تطبق مضرب و ميل طبقات,"تطبق مضرب و ميل طبقات | Photo-interpreted bedding: Strike and dip of strata, dip greater than 45",translated
+CATEGORY,130,"Photo-interpreted bedding: Strike and dip of strata, dip greater than 45",Default,افتراضية,افتراضية | Default,translated
+NAME,131,"Photo-interpreted bedding: Strike and dip of strata, dip not estimated","Photo-interpreted bedding: Strike and dip of strata, dip not estimated",تطبق مضرب و ميل طبقات مقدرة,"تطبق مضرب و ميل طبقات مقدرة | Photo-interpreted bedding: Strike and dip of strata, dip not estimated",translated
+CATEGORY,131,"Photo-interpreted bedding: Strike and dip of strata, dip not estimated",Default,افتراضية,افتراضية | Default,translated
+NAME,132,Horizontal Strata,Horizontal Strata,أفقية طبقات,أفقية طبقات | Horizontal Strata,translated
+CATEGORY,132,Horizontal Strata,Default,افتراضية,افتراضية | Default,translated
+NAME,133,Vertical Strata,Vertical Strata,طبقات,طبقات | Vertical Strata,translated
+CATEGORY,133,Vertical Strata,Default,افتراضية,افتراضية | Default,translated
+NAME,134,Massive igneous rock,Massive igneous rock,كتلية صخر ناري,كتلية صخر ناري | Massive igneous rock,translated
+CATEGORY,134,Massive igneous rock,Default,افتراضية,افتراضية | Default,translated
+NAME,135,Horizontal foliation in igneous rock,Horizontal foliation in igneous rock,أفقية تورق في صخر ناري,أفقية تورق في صخر ناري | Horizontal foliation in igneous rock,translated
+CATEGORY,135,Horizontal foliation in igneous rock,Default,افتراضية,افتراضية | Default,translated
+NAME,136,Horizontal foliation in igneous rock--Showing strike and dip,Horizontal foliation in igneous rock--Showing strike and dip,أفقية تورق في صخر ناري و يُظهر المضرب ميل,أفقية تورق في صخر ناري و يُظهر المضرب ميل | Horizontal foliation in igneous rock--Showing strike and dip,translated
+CATEGORY,136,Horizontal foliation in igneous rock--Showing strike and dip,Default,افتراضية,افتراضية | Default,translated
+NAME,137,Crinkled or deformed foliation in igneous rock--Showing strike and dip,Crinkled or deformed foliation in igneous rock--Showing strike and dip,أو تورق في صخر ناري يُظهر المضرب و ميل,أو تورق في صخر ناري يُظهر المضرب و ميل | Crinkled or deformed foliation in igneous rock--Showing strike and dip,translated
+CATEGORY,137,Crinkled or deformed foliation in igneous rock--Showing strike and dip,Default,افتراضية,افتراضية | Default,translated
+NAME,138,Vertical foliation in igneous rock--Showing strike,Vertical foliation in igneous rock--Showing strike,تورق في صخر ناري يُظهر المضرب,تورق في صخر ناري يُظهر المضرب | Vertical foliation in igneous rock--Showing strike,translated
+CATEGORY,138,Vertical foliation in igneous rock--Showing strike,Default,افتراضية,افتراضية | Default,translated
+NAME,139,Vertical or near-vertical crinkled or deformed foliation in igneous rock--Showing approx strike,Vertical or near-vertical crinkled or deformed foliation in igneous rock--Showing approx strike,رأسية أو شبه رأسية أو تورق في صخر ناري يُظهر المضرب التقريبي,رأسية أو شبه رأسية أو تورق في صخر ناري يُظهر المضرب التقريبي | Vertical or near-vertical crinkled or deformed foliation in igneous rock--Showing approx strike,translated
+CATEGORY,139,Vertical or near-vertical crinkled or deformed foliation in igneous rock--Showing approx strike,Default,افتراضية,افتراضية | Default,translated
+NAME,140,Horizontal cumulate foliation in layered igneous rock,Horizontal cumulate foliation in layered igneous rock,أفقية تورق تراكمي في صخر ناري,أفقية تورق تراكمي في صخر ناري | Horizontal cumulate foliation in layered igneous rock,translated
+CATEGORY,140,Horizontal cumulate foliation in layered igneous rock,Default,افتراضية,افتراضية | Default,translated
+NAME,141,Inclined cumulate foliation in layered igneous rock--Showing strike and dip,Inclined cumulate foliation in layered igneous rock--Showing strike and dip,تورق تراكمي في صخر ناري يُظهر المضرب و ميل,تورق تراكمي في صخر ناري يُظهر المضرب و ميل | Inclined cumulate foliation in layered igneous rock--Showing strike and dip,translated
+CATEGORY,141,Inclined cumulate foliation in layered igneous rock--Showing strike and dip,Default,افتراضية,افتراضية | Default,translated
+NAME,142,Crinkled or deformed cumulate foliation in layered igneous rock--Showing approx strike and dip,Crinkled or deformed cumulate foliation in layered igneous rock--Showing approx strike and dip,أو تورق تراكمي في صخر ناري يُظهر المضرب التقريبي و ميل,أو تورق تراكمي في صخر ناري يُظهر المضرب التقريبي و ميل | Crinkled or deformed cumulate foliation in layered igneous rock--Showing approx strike and dip,translated
+CATEGORY,142,Crinkled or deformed cumulate foliation in layered igneous rock--Showing approx strike and dip,Default,افتراضية,افتراضية | Default,translated
+NAME,143,Inclined cumulate foliation parallel to upright layering in igneous rock--Showing strike and dip,Inclined cumulate foliation parallel to upright layering in igneous rock--Showing strike and dip,تورق تراكمي دائرة عرض إلى قائمة في صخر ناري يُظهر المضرب و ميل,تورق تراكمي دائرة عرض إلى قائمة في صخر ناري يُظهر المضرب و ميل | Inclined cumulate foliation parallel to upright layering in igneous rock--Showing strike and dip,translated
+CATEGORY,143,Inclined cumulate foliation parallel to upright layering in igneous rock--Showing strike and dip,Default,افتراضية,افتراضية | Default,translated
+NAME,144,Inclined cumulate foliation parallel to overturned layering in igneous rock--Showing strike and dip,Inclined cumulate foliation parallel to overturned layering in igneous rock--Showing strike and dip,تورق تراكمي دائرة عرض إلى مقلوبة في صخر ناري يُظهر المضرب و ميل,تورق تراكمي دائرة عرض إلى مقلوبة في صخر ناري يُظهر المضرب و ميل | Inclined cumulate foliation parallel to overturned layering in igneous rock--Showing strike and dip,translated
+CATEGORY,144,Inclined cumulate foliation parallel to overturned layering in igneous rock--Showing strike and dip,Default,افتراضية,افتراضية | Default,translated
+NAME,145,Vertical cumulate foliation or layering in igneous rock--Showing strike,Vertical cumulate foliation or layering in igneous rock--Showing strike,تورق أو تطبق تراكمي في صخر ناري يُظهر المضرب,تورق أو تطبق تراكمي في صخر ناري يُظهر المضرب | Vertical cumulate foliation or layering in igneous rock--Showing strike,translated
+CATEGORY,145,Vertical cumulate foliation or layering in igneous rock--Showing strike,Default,افتراضية,افتراضية | Default,translated
+NAME,146,Vertical cumulate foliation in igneous rock--Showing strike and direction of top layers,Vertical cumulate foliation in igneous rock--Showing strike and direction of top layers,تورق تراكمي في صخر ناري يُظهر المضرب و اتجاه القمة,تورق تراكمي في صخر ناري يُظهر المضرب و اتجاه القمة | Vertical cumulate foliation in igneous rock--Showing strike and direction of top layers,translated
+CATEGORY,146,Vertical cumulate foliation in igneous rock--Showing strike and direction of top layers,Default,افتراضية,افتراضية | Default,translated
+NAME,147,Vertical or near-vertical crinkled or deformed cumulate foliation or layering in igneous rock,Vertical or near-vertical crinkled or deformed cumulate foliation or layering in igneous rock,رأسية أو شبه رأسية أو تورق أو تطبق تراكمي في صخر ناري,رأسية أو شبه رأسية أو تورق أو تطبق تراكمي في صخر ناري | Vertical or near-vertical crinkled or deformed cumulate foliation or layering in igneous rock,translated
+CATEGORY,147,Vertical or near-vertical crinkled or deformed cumulate foliation or layering in igneous rock,Default,افتراضية,افتراضية | Default,translated
+NAME,148,Horizontal compaction foliation in ash-flow tuff,Horizontal compaction foliation in ash-flow tuff,أفقية تورق في طف التدفق الرمادي,أفقية تورق في طف التدفق الرمادي | Horizontal compaction foliation in ash-flow tuff,translated
+CATEGORY,148,Horizontal compaction foliation in ash-flow tuff,Default,افتراضية,افتراضية | Default,translated
+NAME,149,Inclined foliation in ash-flow tuff,Inclined foliation in ash-flow tuff,تورق في طف التدفق الرمادي,تورق في طف التدفق الرمادي | Inclined foliation in ash-flow tuff,translated
+CATEGORY,149,Inclined foliation in ash-flow tuff,Default,افتراضية,افتراضية | Default,translated
+NAME,150,Crinkled or deformed compaction foliation in ash-flow tuff--Showing approximate strike,Crinkled or deformed compaction foliation in ash-flow tuff--Showing approximate strike,أو تورق في طف التدفق الرمادي مضرب,أو تورق في طف التدفق الرمادي مضرب | Crinkled or deformed compaction foliation in ash-flow tuff--Showing approximate strike,translated
+CATEGORY,150,Crinkled or deformed compaction foliation in ash-flow tuff--Showing approximate strike,Default,افتراضية,افتراضية | Default,translated
+NAME,151,Vertical or near vertical compaction foliation in ash-flow tuff--Showing strike,Vertical or near vertical compaction foliation in ash-flow tuff--Showing strike,أو تورق في طف التدفق الرمادي يُظهر المضرب,أو تورق في طف التدفق الرمادي يُظهر المضرب | Vertical or near vertical compaction foliation in ash-flow tuff--Showing strike,translated
+CATEGORY,151,Vertical or near vertical compaction foliation in ash-flow tuff--Showing strike,Default,افتراضية,افتراضية | Default,translated
+NAME,152,Horizontal foliation in layered gneiss,Horizontal foliation in layered gneiss,أفقية تورق في نايس مطبق,أفقية تورق في نايس مطبق | Horizontal foliation in layered gneiss,translated
+CATEGORY,152,Horizontal foliation in layered gneiss,Default,افتراضية,افتراضية | Default,translated
+NAME,153,Horizontal foliation parallel to bedding in layered gneiss,Horizontal foliation parallel to bedding in layered gneiss,أفقية تورق دائرة عرض إلى تطبق في نايس مطبق,أفقية تورق دائرة عرض إلى تطبق في نايس مطبق | Horizontal foliation parallel to bedding in layered gneiss,translated
+CATEGORY,153,Horizontal foliation parallel to bedding in layered gneiss,Default,افتراضية,افتراضية | Default,translated
+NAME,154,Inclined foliation in layered gneiss--Showing strike and dip,Inclined foliation in layered gneiss--Showing strike and dip,تورق في نايس مطبق يُظهر المضرب و ميل,تورق في نايس مطبق يُظهر المضرب و ميل | Inclined foliation in layered gneiss--Showing strike and dip,translated
+CATEGORY,154,Inclined foliation in layered gneiss--Showing strike and dip,Default,افتراضية,افتراضية | Default,translated
+NAME,155,Crinkled or deformed foliation in layered gneiss--Showing approximate strike and dip,Crinkled or deformed foliation in layered gneiss--Showing approximate strike and dip,أو تورق في نايس مطبق مضرب و ميل,أو تورق في نايس مطبق مضرب و ميل | Crinkled or deformed foliation in layered gneiss--Showing approximate strike and dip,translated
+CATEGORY,155,Crinkled or deformed foliation in layered gneiss--Showing approximate strike and dip,Default,افتراضية,افتراضية | Default,translated
+NAME,156,Inclined foliation parallel to upright beds in layered gneiss--Showing strike and dip,Inclined foliation parallel to upright beds in layered gneiss--Showing strike and dip,تورق دائرة عرض إلى قائمة طبقات في نايس مطبق يُظهر المضرب و ميل,تورق دائرة عرض إلى قائمة طبقات في نايس مطبق يُظهر المضرب و ميل | Inclined foliation parallel to upright beds in layered gneiss--Showing strike and dip,translated
+CATEGORY,156,Inclined foliation parallel to upright beds in layered gneiss--Showing strike and dip,Default,افتراضية,افتراضية | Default,translated
+NAME,157,Inclined foliation parallel to overturned beds in layered gneiss--Showing strike and dip,Inclined foliation parallel to overturned beds in layered gneiss--Showing strike and dip,تورق دائرة عرض إلى مقلوبة طبقات في نايس مطبق يُظهر المضرب و ميل,تورق دائرة عرض إلى مقلوبة طبقات في نايس مطبق يُظهر المضرب و ميل | Inclined foliation parallel to overturned beds in layered gneiss--Showing strike and dip,translated
+CATEGORY,157,Inclined foliation parallel to overturned beds in layered gneiss--Showing strike and dip,Default,افتراضية,افتراضية | Default,translated
+NAME,158,Vertical foliation in layered gneiss--Showing strike,Vertical foliation in layered gneiss--Showing strike,تورق في نايس مطبق يُظهر المضرب,تورق في نايس مطبق يُظهر المضرب | Vertical foliation in layered gneiss--Showing strike,translated
+CATEGORY,158,Vertical foliation in layered gneiss--Showing strike,Default,افتراضية,افتراضية | Default,translated
+NAME,159,Vertical foliation in layered gneiss--Showing strike and direction of dip,Vertical foliation in layered gneiss--Showing strike and direction of dip,تورق في نايس مطبق يُظهر المضرب و اتجاه الميل,تورق في نايس مطبق يُظهر المضرب و اتجاه الميل | Vertical foliation in layered gneiss--Showing strike and direction of dip,translated
+CATEGORY,159,Vertical foliation in layered gneiss--Showing strike and direction of dip,Default,افتراضية,افتراضية | Default,translated
+NAME,160,Vertical or near-vertical crinkled or deformed foliation in layered gneiss,Vertical or near-vertical crinkled or deformed foliation in layered gneiss,رأسية أو شبه رأسية أو تورق في نايس مطبق,رأسية أو شبه رأسية أو تورق في نايس مطبق | Vertical or near-vertical crinkled or deformed foliation in layered gneiss,translated
+CATEGORY,160,Vertical or near-vertical crinkled or deformed foliation in layered gneiss,Default,افتراضية,افتراضية | Default,translated
+NAME,161,"Horizontal joint, type 2","Horizontal joint, type 2",أفقية فاصل نوع,"أفقية فاصل نوع | Horizontal joint, type 2",translated
+CATEGORY,161,"Horizontal joint, type 2",Default,افتراضية,افتراضية | Default,translated
+NAME,162,"Horizontal joint, type 1","Horizontal joint, type 1",أفقية فاصل نوع,"أفقية فاصل نوع | Horizontal joint, type 1",translated
+CATEGORY,162,"Horizontal joint, type 1",Default,افتراضية,افتراضية | Default,translated
+NAME,163,"Inclined joint, type 1 --showing strike and dip","Inclined joint, type 1 --showing strike and dip",فاصل نوع يُظهر المضرب و ميل,"فاصل نوع يُظهر المضرب و ميل | Inclined joint, type 1 --showing strike and dip",translated
+CATEGORY,163,"Inclined joint, type 1 --showing strike and dip",Default,افتراضية,افتراضية | Default,translated
+NAME,164,"Inclined joint, type 2 showing strike and dip","Inclined joint, type 2 showing strike and dip",فاصل نوع يُظهر المضرب و ميل,"فاصل نوع يُظهر المضرب و ميل | Inclined joint, type 2 showing strike and dip",translated
+CATEGORY,164,"Inclined joint, type 2 showing strike and dip",Default,افتراضية,افتراضية | Default,translated
+NAME,165,"Vertical or near-vertical joint, type 1 --showing strike","Vertical or near-vertical joint, type 1 --showing strike",رأسية أو شبه رأسية فاصل نوع يُظهر المضرب,"رأسية أو شبه رأسية فاصل نوع يُظهر المضرب | Vertical or near-vertical joint, type 1 --showing strike",translated
+CATEGORY,165,"Vertical or near-vertical joint, type 1 --showing strike",Default,افتراضية,افتراضية | Default,translated
+NAME,166,"Vertical or near-vertical joint, type 2 --showing strike","Vertical or near-vertical joint, type 2 --showing strike",رأسية أو شبه رأسية فاصل نوع يُظهر المضرب,"رأسية أو شبه رأسية فاصل نوع يُظهر المضرب | Vertical or near-vertical joint, type 2 --showing strike",translated
+CATEGORY,166,"Vertical or near-vertical joint, type 2 --showing strike",Default,افتراضية,افتراضية | Default,translated
+NAME,167,"Horizontal cleavage, type 1","Horizontal cleavage, type 1",أفقية انفصام نوع,"أفقية انفصام نوع | Horizontal cleavage, type 1",translated
+CATEGORY,167,"Horizontal cleavage, type 1",Default,افتراضية,افتراضية | Default,translated
+NAME,168,Horizontal cleavage type 2,Horizontal cleavage type 2,أفقية انفصام نوع,أفقية انفصام نوع | Horizontal cleavage type 2,translated
+CATEGORY,168,Horizontal cleavage type 2,Default,افتراضية,افتراضية | Default,translated
+NAME,169,Inclined cleavage--Showing strike and dip,Inclined cleavage--Showing strike and dip,انفصام يُظهر المضرب و ميل,انفصام يُظهر المضرب و ميل | Inclined cleavage--Showing strike and dip,translated
+CATEGORY,169,Inclined cleavage--Showing strike and dip,Default,افتراضية,افتراضية | Default,translated
+NAME,170,Inclined cleavage--Showing strike and dip type 2,Inclined cleavage--Showing strike and dip type 2,انفصام يُظهر المضرب و ميل نوع,انفصام يُظهر المضرب و ميل نوع | Inclined cleavage--Showing strike and dip type 2,translated
+CATEGORY,170,Inclined cleavage--Showing strike and dip type 2,Default,افتراضية,افتراضية | Default,translated
+NAME,171,Vertical cleavage--Showing strike,Vertical cleavage--Showing strike,انفصام يُظهر المضرب,انفصام يُظهر المضرب | Vertical cleavage--Showing strike,translated
+CATEGORY,171,Vertical cleavage--Showing strike,Default,افتراضية,افتراضية | Default,translated
+NAME,172,Vertical cleavage--Showing strike type 2,Vertical cleavage--Showing strike type 2,انفصام يُظهر المضرب نوع,انفصام يُظهر المضرب نوع | Vertical cleavage--Showing strike type 2,translated
+CATEGORY,172,Vertical cleavage--Showing strike type 2,Default,افتراضية,افتراضية | Default,translated
+NAME,173,Minor antiform--Inclined axial surface,Minor antiform--Inclined axial surface,صغيرة شبه محدبة محورية,صغيرة شبه محدبة محورية | Minor antiform--Inclined axial surface,translated
+CATEGORY,173,Minor antiform--Inclined axial surface,Default,افتراضية,افتراضية | Default,translated
+NAME,174,Minor antiform--Vertical axial surface,Minor antiform--Vertical axial surface,صغيرة شبه محدبة محورية,صغيرة شبه محدبة محورية | Minor antiform--Vertical axial surface,translated
+CATEGORY,174,Minor antiform--Vertical axial surface,Default,افتراضية,افتراضية | Default,translated
+NAME,175,Minor anticline--Inclined axial surface,Minor anticline--Inclined axial surface,صغيرة طية محدبة محورية,صغيرة طية محدبة محورية | Minor anticline--Inclined axial surface,translated
+CATEGORY,175,Minor anticline--Inclined axial surface,Default,افتراضية,افتراضية | Default,translated
+NAME,176,Minor anticline--Vertical axial surface,Minor anticline--Vertical axial surface,صغيرة طية محدبة محورية,صغيرة طية محدبة محورية | Minor anticline--Vertical axial surface,translated
+CATEGORY,176,Minor anticline--Vertical axial surface,Default,افتراضية,افتراضية | Default,translated
+NAME,177,Minor overturned anticline--Inclined axial surface,Minor overturned anticline--Inclined axial surface,صغيرة مقلوبة طية محدبة محورية,صغيرة مقلوبة طية محدبة محورية | Minor overturned anticline--Inclined axial surface,translated
+CATEGORY,177,Minor overturned anticline--Inclined axial surface,Default,افتراضية,افتراضية | Default,translated
+NAME,178,Minor synform--Inclined axial surface,Minor synform--Inclined axial surface,صغيرة شبه مقعرة محورية,صغيرة شبه مقعرة محورية | Minor synform--Inclined axial surface,translated
+CATEGORY,178,Minor synform--Inclined axial surface,Default,افتراضية,افتراضية | Default,translated
+NAME,179,Minor synform--Vertical or near-vertical axial surface,Minor synform--Vertical or near-vertical axial surface,صغيرة شبه مقعرة رأسية أو شبه رأسية محورية,صغيرة شبه مقعرة رأسية أو شبه رأسية محورية | Minor synform--Vertical or near-vertical axial surface,translated
+CATEGORY,179,Minor synform--Vertical or near-vertical axial surface,Default,افتراضية,افتراضية | Default,translated
+NAME,180,Minor syncline--Inclined axial surface showing strike and dip,Minor syncline--Inclined axial surface showing strike and dip,صغيرة طية مقعرة محورية يُظهر المضرب و ميل,صغيرة طية مقعرة محورية يُظهر المضرب و ميل | Minor syncline--Inclined axial surface showing strike and dip,translated
+CATEGORY,180,Minor syncline--Inclined axial surface showing strike and dip,Default,افتراضية,افتراضية | Default,translated
+NAME,181,Minor syncline--Vertical or near vertical axial surface showing strike,Minor syncline--Vertical or near vertical axial surface showing strike,صغيرة طية مقعرة أو محورية يُظهر المضرب,صغيرة طية مقعرة أو محورية يُظهر المضرب | Minor syncline--Vertical or near vertical axial surface showing strike,translated
+CATEGORY,181,Minor syncline--Vertical or near vertical axial surface showing strike,Default,افتراضية,افتراضية | Default,translated
+NAME,182,Minor overturned syncline--Inclined axial surface showing strike and dip,Minor overturned syncline--Inclined axial surface showing strike and dip,صغيرة مقلوبة طية مقعرة محورية يُظهر المضرب و ميل,صغيرة مقلوبة طية مقعرة محورية يُظهر المضرب و ميل | Minor overturned syncline--Inclined axial surface showing strike and dip,translated
+CATEGORY,182,Minor overturned syncline--Inclined axial surface showing strike and dip,Default,افتراضية,افتراضية | Default,translated
+NAME,183,Horizontal minor fold axis showing bearing,Horizontal minor fold axis showing bearing,أفقية صغيرة طية سمت,أفقية صغيرة طية سمت | Horizontal minor fold axis showing bearing,translated
+CATEGORY,183,Horizontal minor fold axis showing bearing,Default,افتراضية,افتراضية | Default,translated
+NAME,184,Inclined minor fold axis showing bearing and plunge,Inclined minor fold axis showing bearing and plunge,صغيرة طية السمت والغطس,صغيرة طية السمت والغطس | Inclined minor fold axis showing bearing and plunge,translated
+CATEGORY,184,Inclined minor fold axis showing bearing and plunge,Default,افتراضية,افتراضية | Default,translated
+NAME,185,Vertical minor fold axis,Vertical minor fold axis,صغيرة طية,صغيرة طية | Vertical minor fold axis,translated
+CATEGORY,185,Vertical minor fold axis,Default,افتراضية,افتراضية | Default,translated
+NAME,186,Minor anticline--Showing bearing and plunge,Minor anticline--Showing bearing and plunge,صغيرة طية محدبة السمت والغطس,صغيرة طية محدبة السمت والغطس | Minor anticline--Showing bearing and plunge,translated
+CATEGORY,186,Minor anticline--Showing bearing and plunge,Default,افتراضية,افتراضية | Default,translated
+NAME,187,Minor syncline--Showing bearing and plunge,Minor syncline--Showing bearing and plunge,صغيرة طية مقعرة السمت والغطس,صغيرة طية مقعرة السمت والغطس | Minor syncline--Showing bearing and plunge,translated
+CATEGORY,187,Minor syncline--Showing bearing and plunge,Default,افتراضية,افتراضية | Default,translated
+NAME,188,"Minor fold, dextral rotation sense--Showing bearing and plunge","Minor fold, dextral rotation sense--Showing bearing and plunge",صغيرة طية السمت والغطس,"صغيرة طية السمت والغطس | Minor fold, dextral rotation sense--Showing bearing and plunge",translated
+CATEGORY,188,"Minor fold, dextral rotation sense--Showing bearing and plunge",Default,افتراضية,افتراضية | Default,translated
+NAME,189,"Minor fold, sinistral rotation sense--Showing bearing and plunge","Minor fold, sinistral rotation sense--Showing bearing and plunge",صغيرة طية السمت والغطس,"صغيرة طية السمت والغطس | Minor fold, sinistral rotation sense--Showing bearing and plunge",translated
+CATEGORY,189,"Minor fold, sinistral rotation sense--Showing bearing and plunge",Default,افتراضية,افتراضية | Default,translated
+NAME,190,Minor folds--Showing bearing and plunge,Minor folds--Showing bearing and plunge,طيات صغيرة السمت والغطس,طيات صغيرة السمت والغطس | Minor folds--Showing bearing and plunge,translated
+CATEGORY,190,Minor folds--Showing bearing and plunge,Default,افتراضية,افتراضية | Default,translated
+NAME,191,Boudinage--Showing bearing and plunge,Boudinage--Showing bearing and plunge,السمت والغطس,السمت والغطس | Boudinage--Showing bearing and plunge,translated
+CATEGORY,191,Boudinage--Showing bearing and plunge,Default,افتراضية,افتراضية | Default,translated
+NAME,192,Lineation--Showing bearing and plunge,Lineation--Showing bearing and plunge,تخطط السمت والغطس,تخطط السمت والغطس | Lineation--Showing bearing and plunge,translated
+CATEGORY,192,Lineation--Showing bearing and plunge,Default,افتراضية,افتراضية | Default,translated
+NAME,193,Horizontal lineation,Horizontal lineation,أفقية تخطط,أفقية تخطط | Horizontal lineation,translated
+CATEGORY,193,Horizontal lineation,Default,افتراضية,افتراضية | Default,translated
+NAME,194,Vertical lineation,Vertical lineation,تخطط,تخطط | Vertical lineation,translated
+CATEGORY,194,Vertical lineation,Default,افتراضية,افتراضية | Default,translated
+NAME,195,"Lineation, minerals on foliation surface","Lineation, minerals on foliation surface",تخطط معادن على تورق,"تخطط معادن على تورق | Lineation, minerals on foliation surface",translated
+CATEGORY,195,"Lineation, minerals on foliation surface",Default,افتراضية,افتراضية | Default,translated
+NAME,196,"Lineation, mineral streaks","Lineation, mineral streaks",تخطط معدن,"تخطط معدن | Lineation, mineral streaks",translated
+CATEGORY,196,"Lineation, mineral streaks",Default,افتراضية,افتراضية | Default,translated
+NAME,197,Slip lineation,Slip lineation,تخطط انزلاقي,تخطط انزلاقي | Slip lineation,translated
+CATEGORY,197,Slip lineation,Default,افتراضية,افتراضية | Default,translated
+NAME,198,Flow lineation,Flow lineation,تدفق تخطط,تدفق تخطط | Flow lineation,translated
+CATEGORY,198,Flow lineation,Default,افتراضية,افتراضية | Default,translated
+NAME,199,"Lineation, flow folds","Lineation, flow folds",تخطط تدفق طيات,"تخطط تدفق طيات | Lineation, flow folds",translated
+CATEGORY,199,"Lineation, flow folds",Default,افتراضية,افتراضية | Default,translated
+NAME,200,Flow direction,Flow direction,تدفق اتجاه,تدفق اتجاه | Flow direction,translated
+CATEGORY,200,Flow direction,Default,افتراضية,افتراضية | Default,translated
+NAME,201,Lineation--Aligned mineral grains in cumulate rocks,Lineation--Aligned mineral grains in cumulate rocks,تخطط معدن في,تخطط معدن في | Lineation--Aligned mineral grains in cumulate rocks,translated
+CATEGORY,201,Lineation--Aligned mineral grains in cumulate rocks,Default,افتراضية,افتراضية | Default,translated
+NAME,202,Lineation--Trough banding in cumulate rocks,Lineation--Trough banding in cumulate rocks,تخطط حوض شرب في,تخطط حوض شرب في | Lineation--Trough banding in cumulate rocks,translated
+CATEGORY,202,Lineation--Trough banding in cumulate rocks,Default,افتراضية,افتراضية | Default,translated
+NAME,203,Lineation--Flow direction in ash-flow tuff,Lineation--Flow direction in ash-flow tuff,تخطط تدفق اتجاه في طف التدفق الرمادي,تخطط تدفق اتجاه في طف التدفق الرمادي | Lineation--Flow direction in ash-flow tuff,translated
+CATEGORY,203,Lineation--Flow direction in ash-flow tuff,Default,افتراضية,افتراضية | Default,translated
+NAME,204,Lineation--Minor folds normal to flow in ash-flow tuff,Lineation--Minor folds normal to flow in ash-flow tuff,تخطط طيات صغيرة إلى تدفق في طف التدفق الرمادي,تخطط طيات صغيرة إلى تدفق في طف التدفق الرمادي | Lineation--Minor folds normal to flow in ash-flow tuff,translated
+CATEGORY,204,Lineation--Minor folds normal to flow in ash-flow tuff,Default,افتراضية,افتراضية | Default,translated
+NAME,205,Lineation at intersection of bedding and cleavage--Showing bearing and plunge,Lineation at intersection of bedding and cleavage--Showing bearing and plunge,تخطط عند تطبق و انفصام السمت والغطس,تخطط عند تطبق و انفصام السمت والغطس | Lineation at intersection of bedding and cleavage--Showing bearing and plunge,translated
+CATEGORY,205,Lineation at intersection of bedding and cleavage--Showing bearing and plunge,Default,افتراضية,افتراضية | Default,translated
+NAME,206,Lineation at intersection of foliation and cleavage--Showing bearing and plunge,Lineation at intersection of foliation and cleavage--Showing bearing and plunge,تخطط عند تورق و انفصام السمت والغطس,تخطط عند تورق و انفصام السمت والغطس | Lineation at intersection of foliation and cleavage--Showing bearing and plunge,translated
+CATEGORY,206,Lineation at intersection of foliation and cleavage--Showing bearing and plunge,Default,افتراضية,افتراضية | Default,translated
+NAME,207,Lineation on cleavage surface--Showing bearing and plunge,Lineation on cleavage surface--Showing bearing and plunge,تخطط على انفصام السمت والغطس,تخطط على انفصام السمت والغطس | Lineation on cleavage surface--Showing bearing and plunge,translated
+CATEGORY,207,Lineation on cleavage surface--Showing bearing and plunge,Default,افتراضية,افتراضية | Default,translated
+NAME,208,Slip lineation on a fault or shear surface--Showing bearing and plunge,Slip lineation on a fault or shear surface--Showing bearing and plunge,تخطط انزلاقي على سطح فالق أو قص السمت والغطس,تخطط انزلاقي على سطح فالق أو قص السمت والغطس | Slip lineation on a fault or shear surface--Showing bearing and plunge,translated
+CATEGORY,208,Slip lineation on a fault or shear surface--Showing bearing and plunge,Default,افتراضية,افتراضية | Default,translated
+NAME,209,Penetrative lineation--Showing bearing and plunge in combination with foliation symbol,Penetrative lineation--Showing bearing and plunge in combination with foliation symbol,تخطط السمت والغطس في تركيبة مع تورق رمز,تخطط السمت والغطس في تركيبة مع تورق رمز | Penetrative lineation--Showing bearing and plunge in combination with foliation symbol,translated
+CATEGORY,209,Penetrative lineation--Showing bearing and plunge in combination with foliation symbol,Default,افتراضية,افتراضية | Default,translated
+NAME,210,Pingo,Pingo,,Pingo,kept
+CATEGORY,210,Pingo,Default,افتراضية,افتراضية | Default,translated
+NAME,211,Kettle,Kettle,,Kettle,kept
+CATEGORY,211,Kettle,Default,افتراضية,افتراضية | Default,translated
+NAME,212,Sediment transport direction--Determined from dune forms,Sediment transport direction--Determined from dune forms,اتجاه نقل الرسوبيات من أشكال الكثبان,اتجاه نقل الرسوبيات من أشكال الكثبان | Sediment transport direction--Determined from dune forms,translated
+CATEGORY,212,Sediment transport direction--Determined from dune forms,Default,افتراضية,افتراضية | Default,translated
+NAME,213,Sediment transport direction--Determined from eolian crossbedding in vertical section,Sediment transport direction--Determined from eolian crossbedding in vertical section,اتجاه نقل الرسوبيات من التطبق المتقاطع الريحي في قطاع رأسي,اتجاه نقل الرسوبيات من التطبق المتقاطع الريحي في قطاع رأسي | Sediment transport direction--Determined from eolian crossbedding in vertical section,translated
+CATEGORY,213,Sediment transport direction--Determined from eolian crossbedding in vertical section,Default,افتراضية,افتراضية | Default,translated
+NAME,214,Sediment transport direction--Determined from dune bedding in horizontal section,Sediment transport direction--Determined from dune bedding in horizontal section,اتجاه نقل الرسوبيات من تطبق الكثبان في قطاع أفقي,اتجاه نقل الرسوبيات من تطبق الكثبان في قطاع أفقي | Sediment transport direction--Determined from dune bedding in horizontal section,translated
+CATEGORY,214,Sediment transport direction--Determined from dune bedding in horizontal section,Default,افتراضية,افتراضية | Default,translated
+NAME,215,Contact - Certain,Contact - Certain,تماس,تماس | Contact - Certain,translated
+NAME,216,Contact - Approximately located,Contact - Approximately located,تماس محددة تقريباً,تماس محددة تقريباً | Contact - Approximately located,translated
+NAME,217,"Contact - Approximately located, queried","Contact - Approximately located, queried",تماس محددة تقريباً,"تماس محددة تقريباً | Contact - Approximately located, queried",translated
+NAME,218,Contact - Inferred,Contact - Inferred,تماس,تماس | Contact - Inferred,translated
+NAME,219,"Contact - Inferred, queried","Contact - Inferred, queried",تماس,"تماس | Contact - Inferred, queried",translated
+NAME,220,Contact - Concealed,Contact - Concealed,تماس,تماس | Contact - Concealed,translated
+NAME,221,"Contact - Concealed, queried","Contact - Concealed, queried",تماس,"تماس | Contact - Concealed, queried",translated
+NAME,222,Gradational contact - Certain,Gradational contact - Certain,تماس,تماس | Gradational contact - Certain,translated
+NAME,223,Gradational contact - Approximately located,Gradational contact - Approximately located,تماس محددة تقريباً,تماس محددة تقريباً | Gradational contact - Approximately located,translated
+NAME,224,"Gradational contact - Approximately located, queried","Gradational contact - Approximately located, queried",تماس محددة تقريباً,"تماس محددة تقريباً | Gradational contact - Approximately located, queried",translated
+NAME,225,Boundary - Located by geophysical methods,Boundary - Located by geophysical methods,حدود بواسطة,حدود بواسطة | Boundary - Located by geophysical methods,translated
+NAME,226,Geophysical data collection line - Accurately located,Geophysical data collection line - Accurately located,خط,خط | Geophysical data collection line - Accurately located,translated
+NAME,227,Geophysical data collection line - Aerial survey,Geophysical data collection line - Aerial survey,خط جوية,خط جوية | Geophysical data collection line - Aerial survey,translated
+NAME,228,Coal bed - Certain,Coal bed - Certain,فحم طبقة,فحم طبقة | Coal bed - Certain,translated
+NAME,229,Clay bed - Approximately located,Clay bed - Approximately located,طين طبقة محددة تقريباً,طين طبقة محددة تقريباً | Clay bed - Approximately located,translated
+NAME,230,"Clay bed - Approximately located, queried","Clay bed - Approximately located, queried",طين طبقة محددة تقريباً,"طين طبقة محددة تقريباً | Clay bed - Approximately located, queried",translated
+NAME,231,Clay bed - Concealed,Clay bed - Concealed,طين طبقة,طين طبقة | Clay bed - Concealed,translated
+NAME,232,"Clay bed - Concealed, queried","Clay bed - Concealed, queried",طين طبقة,"طين طبقة | Clay bed - Concealed, queried",translated
+NAME,233,Dike 1 - Certain,Dike 1 - Certain,قاطع ناري,قاطع ناري | Dike 1 - Certain,translated
+NAME,234,Dike 1 - Approximately located,Dike 1 - Approximately located,قاطع ناري محددة تقريباً,قاطع ناري محددة تقريباً | Dike 1 - Approximately located,translated
+NAME,235,Dike 2 - Certain,Dike 2 - Certain,قاطع ناري,قاطع ناري | Dike 2 - Certain,translated
+NAME,236,Dike 2 - Approximately located,Dike 2 - Approximately located,قاطع ناري محددة تقريباً,قاطع ناري محددة تقريباً | Dike 2 - Approximately located,translated
+NAME,237,Dike 3 - Certain,Dike 3 - Certain,قاطع ناري,قاطع ناري | Dike 3 - Certain,translated
+NAME,238,Dike 3 - Approximately located,Dike 3 - Approximately located,قاطع ناري محددة تقريباً,قاطع ناري محددة تقريباً | Dike 3 - Approximately located,translated
+NAME,239,Fault - Certain,Fault - Certain,فالق,فالق | Fault - Certain,translated
+NAME,240,Fault - Approximately located,Fault - Approximately located,فالق محددة تقريباً,فالق محددة تقريباً | Fault - Approximately located,translated
+NAME,241,"Fault - Approximately located, queried","Fault - Approximately located, queried",فالق محددة تقريباً,"فالق محددة تقريباً | Fault - Approximately located, queried",translated
+NAME,242,Fault - Inferred,Fault - Inferred,فالق,فالق | Fault - Inferred,translated
+NAME,243,"Fault - Inferred, queried","Fault - Inferred, queried",فالق,"فالق | Fault - Inferred, queried",translated
+NAME,244,Fault - Concealed,Fault - Concealed,فالق,فالق | Fault - Concealed,translated
+NAME,245,"Fault - Concealed, queried","Fault - Concealed, queried",فالق,"فالق | Fault - Concealed, queried",translated
+NAME,246,Fault - Located by geophysical methods,Fault - Located by geophysical methods,فالق بواسطة,فالق بواسطة | Fault - Located by geophysical methods,translated
+NAME,247,Normal fault - Certain,Normal fault - Certain,فالق عادي,فالق عادي | Normal fault - Certain,translated
+NAME,248,Normal fault - Approximately located,Normal fault - Approximately located,فالق عادي محددة تقريباً,فالق عادي محددة تقريباً | Normal fault - Approximately located,translated
+NAME,249,"Normal fault - Approximately located, queried","Normal fault - Approximately located, queried",فالق عادي محددة تقريباً,"فالق عادي محددة تقريباً | Normal fault - Approximately located, queried",translated
+NAME,250,Normal fault - Inferred,Normal fault - Inferred,فالق عادي,فالق عادي | Normal fault - Inferred,translated
+NAME,251,"Normal fault - Inferred, queried","Normal fault - Inferred, queried",فالق عادي,"فالق عادي | Normal fault - Inferred, queried",translated
+NAME,252,Normal fault - Concealed,Normal fault - Concealed,فالق عادي,فالق عادي | Normal fault - Concealed,translated
+NAME,253,"Normal fault - Concealed, queried","Normal fault - Concealed, queried",فالق عادي,"فالق عادي | Normal fault - Concealed, queried",translated
+NAME,254,"Strike-slip fault, right lateral - Certain","Strike-slip fault, right lateral - Certain",فالق مضربي يميني الإزاحة,"فالق مضربي يميني الإزاحة | Strike-slip fault, right lateral - Certain",translated
+NAME,255,"Strike-slip fault, right lateral - Approximately located","Strike-slip fault, right lateral - Approximately located",فالق مضربي يميني الإزاحة محددة تقريباً,"فالق مضربي يميني الإزاحة محددة تقريباً | Strike-slip fault, right lateral - Approximately located",translated
+NAME,256,"Strike-slip fault, right lateral - Approximately located, queried","Strike-slip fault, right lateral - Approximately located, queried",فالق مضربي يميني الإزاحة محددة تقريباً,"فالق مضربي يميني الإزاحة محددة تقريباً | Strike-slip fault, right lateral - Approximately located, queried",translated
+NAME,257,"Strike-slip fault, right lateral - Inferred","Strike-slip fault, right lateral - Inferred",فالق مضربي يميني الإزاحة,"فالق مضربي يميني الإزاحة | Strike-slip fault, right lateral - Inferred",translated
+NAME,258,"Strike-slip fault, right lateral - Inferred, queried","Strike-slip fault, right lateral - Inferred, queried",فالق مضربي يميني الإزاحة,"فالق مضربي يميني الإزاحة | Strike-slip fault, right lateral - Inferred, queried",translated
+NAME,259,"Strike-slip fault, right lateral - Concealed","Strike-slip fault, right lateral - Concealed",فالق مضربي يميني الإزاحة,"فالق مضربي يميني الإزاحة | Strike-slip fault, right lateral - Concealed",translated
+NAME,260,"Strike-slip fault, right lateral - Concealed, queried","Strike-slip fault, right lateral - Concealed, queried",فالق مضربي يميني الإزاحة,"فالق مضربي يميني الإزاحة | Strike-slip fault, right lateral - Concealed, queried",translated
+NAME,261,"Strike-slip fault, left lateral - Certain","Strike-slip fault, left lateral - Certain",فالق مضربي يساري الإزاحة,"فالق مضربي يساري الإزاحة | Strike-slip fault, left lateral - Certain",translated
+NAME,262,"Strike-slip fault, left lateral - Approximately located","Strike-slip fault, left lateral - Approximately located",فالق مضربي يساري الإزاحة محددة تقريباً,"فالق مضربي يساري الإزاحة محددة تقريباً | Strike-slip fault, left lateral - Approximately located",translated
+NAME,263,"Strike-slip fault, left lateral - Approximately located, queried","Strike-slip fault, left lateral - Approximately located, queried",فالق مضربي يساري الإزاحة محددة تقريباً,"فالق مضربي يساري الإزاحة محددة تقريباً | Strike-slip fault, left lateral - Approximately located, queried",translated
+NAME,264,"Strike-slip fault, left lateral - Inferred","Strike-slip fault, left lateral - Inferred",فالق مضربي يساري الإزاحة,"فالق مضربي يساري الإزاحة | Strike-slip fault, left lateral - Inferred",translated
+NAME,265,"Strike-slip fault, left lateral - Inferred, queried","Strike-slip fault, left lateral - Inferred, queried",فالق مضربي يساري الإزاحة,"فالق مضربي يساري الإزاحة | Strike-slip fault, left lateral - Inferred, queried",translated
+NAME,266,"Strike-slip fault, left lateral - Concealed","Strike-slip fault, left lateral - Concealed",فالق مضربي يساري الإزاحة,"فالق مضربي يساري الإزاحة | Strike-slip fault, left lateral - Concealed",translated
+NAME,267,"Strike-slip fault, left lateral - Concealed, queried","Strike-slip fault, left lateral - Concealed, queried",فالق مضربي يساري الإزاحة,"فالق مضربي يساري الإزاحة | Strike-slip fault, left lateral - Concealed, queried",translated
+NAME,268,"Thrust fault, 1st generation - Certain","Thrust fault, 1st generation - Certain",فالق زاحف الأول,"فالق زاحف الأول | Thrust fault, 1st generation - Certain",translated
+NAME,269,"Thrust fault, 1st generation - Approximately located","Thrust fault, 1st generation - Approximately located",فالق زاحف الأول محددة تقريباً,"فالق زاحف الأول محددة تقريباً | Thrust fault, 1st generation - Approximately located",translated
+NAME,270,"Thrust fault, 1st generation - Approximately located, queried","Thrust fault, 1st generation - Approximately located, queried",فالق زاحف الأول محددة تقريباً,"فالق زاحف الأول محددة تقريباً | Thrust fault, 1st generation - Approximately located, queried",translated
+NAME,271,"Thrust fault, 1st generation - Inferred","Thrust fault, 1st generation - Inferred",فالق زاحف الأول,"فالق زاحف الأول | Thrust fault, 1st generation - Inferred",translated
+NAME,272,"Thrust fault, 1st generation - Inferred, queried","Thrust fault, 1st generation - Inferred, queried",فالق زاحف الأول,"فالق زاحف الأول | Thrust fault, 1st generation - Inferred, queried",translated
+NAME,273,"Thrust fault, 1st generation - Concealed","Thrust fault, 1st generation - Concealed",فالق زاحف الأول,"فالق زاحف الأول | Thrust fault, 1st generation - Concealed",translated
+NAME,274,"Thrust fault, 1st generation - Concealed, queried","Thrust fault, 1st generation - Concealed, queried",فالق زاحف الأول,"فالق زاحف الأول | Thrust fault, 1st generation - Concealed, queried",translated
+NAME,275,"Thrust fault, 2nd generation - Certain","Thrust fault, 2nd generation - Certain",فالق زاحف الثاني,"فالق زاحف الثاني | Thrust fault, 2nd generation - Certain",translated
+NAME,276,"Thrust fault, 2nd generation - Approximately located","Thrust fault, 2nd generation - Approximately located",فالق زاحف الثاني محددة تقريباً,"فالق زاحف الثاني محددة تقريباً | Thrust fault, 2nd generation - Approximately located",translated
+NAME,277,"Thrust fault, 2nd generation - Approximately located, queried","Thrust fault, 2nd generation - Approximately located, queried",فالق زاحف الثاني محددة تقريباً,"فالق زاحف الثاني محددة تقريباً | Thrust fault, 2nd generation - Approximately located, queried",translated
+NAME,278,"Thrust fault, 2nd generation - Inferred","Thrust fault, 2nd generation - Inferred",فالق زاحف الثاني,"فالق زاحف الثاني | Thrust fault, 2nd generation - Inferred",translated
+NAME,279,"Thrust fault, 2nd generation - Inferred, queried","Thrust fault, 2nd generation - Inferred, queried",فالق زاحف الثاني,"فالق زاحف الثاني | Thrust fault, 2nd generation - Inferred, queried",translated
+NAME,280,"Thrust fault, 2nd generation - Concealed","Thrust fault, 2nd generation - Concealed",فالق زاحف الثاني,"فالق زاحف الثاني | Thrust fault, 2nd generation - Concealed",translated
+NAME,281,"Thrust fault, 2nd generation - Concealed, queried","Thrust fault, 2nd generation - Concealed, queried",فالق زاحف الثاني,"فالق زاحف الثاني | Thrust fault, 2nd generation - Concealed, queried",translated
+NAME,282,"Thrust fault, 3rd generation - Certain","Thrust fault, 3rd generation - Certain",فالق زاحف الثالث,"فالق زاحف الثالث | Thrust fault, 3rd generation - Certain",translated
+NAME,283,"Thrust fault, 3rd generation - Approximately located","Thrust fault, 3rd generation - Approximately located",فالق زاحف الثالث محددة تقريباً,"فالق زاحف الثالث محددة تقريباً | Thrust fault, 3rd generation - Approximately located",translated
+NAME,284,"Thrust fault, 3rd generation - Approximately located, queried","Thrust fault, 3rd generation - Approximately located, queried",فالق زاحف الثالث محددة تقريباً,"فالق زاحف الثالث محددة تقريباً | Thrust fault, 3rd generation - Approximately located, queried",translated
+NAME,285,"Thrust fault, 3rd generation - Inferred","Thrust fault, 3rd generation - Inferred",فالق زاحف الثالث,"فالق زاحف الثالث | Thrust fault, 3rd generation - Inferred",translated
+NAME,286,"Thrust fault, 3rd generation - Inferred, queried","Thrust fault, 3rd generation - Inferred, queried",فالق زاحف الثالث,"فالق زاحف الثالث | Thrust fault, 3rd generation - Inferred, queried",translated
+NAME,287,"Thrust fault, 3rd generation - Concealed","Thrust fault, 3rd generation - Concealed",فالق زاحف الثالث,"فالق زاحف الثالث | Thrust fault, 3rd generation - Concealed",translated
+NAME,288,"Thrust fault, 3rd generation - Concealed, queried","Thrust fault, 3rd generation - Concealed, queried",فالق زاحف الثالث,"فالق زاحف الثالث | Thrust fault, 3rd generation - Concealed, queried",translated
+NAME,289,"Overturned thrust fault, 1st generation - Certain","Overturned thrust fault, 1st generation - Certain",مقلوبة فالق زاحف الأول,"مقلوبة فالق زاحف الأول | Overturned thrust fault, 1st generation - Certain",translated
+NAME,290,"Overturned thrust fault, 1st generation - Approximately located","Overturned thrust fault, 1st generation - Approximately located",مقلوبة فالق زاحف الأول محددة تقريباً,"مقلوبة فالق زاحف الأول محددة تقريباً | Overturned thrust fault, 1st generation - Approximately located",translated
+NAME,291,"Overturned thrust fault, 1st generation - Approximately located, queried","Overturned thrust fault, 1st generation - Approximately located, queried",مقلوبة فالق زاحف الأول محددة تقريباً,"مقلوبة فالق زاحف الأول محددة تقريباً | Overturned thrust fault, 1st generation - Approximately located, queried",translated
+NAME,292,"Overturned thrust fault, 1st generation - Inferred","Overturned thrust fault, 1st generation - Inferred",مقلوبة فالق زاحف الأول,"مقلوبة فالق زاحف الأول | Overturned thrust fault, 1st generation - Inferred",translated
+NAME,293,"Overturned thrust fault, 1st generation - Inferred, queried","Overturned thrust fault, 1st generation - Inferred, queried",مقلوبة فالق زاحف الأول,"مقلوبة فالق زاحف الأول | Overturned thrust fault, 1st generation - Inferred, queried",translated
+NAME,294,"Overturned thrust fault, 1st generation - Concealed","Overturned thrust fault, 1st generation - Concealed",مقلوبة فالق زاحف الأول,"مقلوبة فالق زاحف الأول | Overturned thrust fault, 1st generation - Concealed",translated
+NAME,295,"Overturned thrust fault, 1st generation - Concealed, queried","Overturned thrust fault, 1st generation - Concealed, queried",مقلوبة فالق زاحف الأول,"مقلوبة فالق زاحف الأول | Overturned thrust fault, 1st generation - Concealed, queried",translated
+NAME,296,"Overturned thrust fault, 2nd generation - Certain","Overturned thrust fault, 2nd generation - Certain",مقلوبة فالق زاحف الثاني,"مقلوبة فالق زاحف الثاني | Overturned thrust fault, 2nd generation - Certain",translated
+NAME,297,"Overturned thrust fault, 2nd generation - Approximately located","Overturned thrust fault, 2nd generation - Approximately located",مقلوبة فالق زاحف الثاني محددة تقريباً,"مقلوبة فالق زاحف الثاني محددة تقريباً | Overturned thrust fault, 2nd generation - Approximately located",translated
+NAME,298,"Overturned thrust fault, 2nd generation - Approximately located, queried","Overturned thrust fault, 2nd generation - Approximately located, queried",مقلوبة فالق زاحف الثاني محددة تقريباً,"مقلوبة فالق زاحف الثاني محددة تقريباً | Overturned thrust fault, 2nd generation - Approximately located, queried",translated
+NAME,299,"Overturned thrust fault, 2nd generation - Inferred","Overturned thrust fault, 2nd generation - Inferred",مقلوبة فالق زاحف الثاني,"مقلوبة فالق زاحف الثاني | Overturned thrust fault, 2nd generation - Inferred",translated
+NAME,300,"Overturned thrust fault, 2nd generation - Inferred, queried","Overturned thrust fault, 2nd generation - Inferred, queried",مقلوبة فالق زاحف الثاني,"مقلوبة فالق زاحف الثاني | Overturned thrust fault, 2nd generation - Inferred, queried",translated
+NAME,301,"Overturned thrust fault, 2nd generation - Concealed","Overturned thrust fault, 2nd generation - Concealed",مقلوبة فالق زاحف الثاني,"مقلوبة فالق زاحف الثاني | Overturned thrust fault, 2nd generation - Concealed",translated
+NAME,302,"Overturned thrust fault, 2nd generation - Concealed, queried","Overturned thrust fault, 2nd generation - Concealed, queried",مقلوبة فالق زاحف الثاني,"مقلوبة فالق زاحف الثاني | Overturned thrust fault, 2nd generation - Concealed, queried",translated
+NAME,303,"Overturned thrust fault, 3rd generation - Certain","Overturned thrust fault, 3rd generation - Certain",مقلوبة فالق زاحف الثالث,"مقلوبة فالق زاحف الثالث | Overturned thrust fault, 3rd generation - Certain",translated
+NAME,304,"Overturned thrust fault, 3rd generation - Approximately located","Overturned thrust fault, 3rd generation - Approximately located",مقلوبة فالق زاحف الثالث محددة تقريباً,"مقلوبة فالق زاحف الثالث محددة تقريباً | Overturned thrust fault, 3rd generation - Approximately located",translated
+NAME,305,"Overturned thrust fault, 3rd generation - Approximately located, queried","Overturned thrust fault, 3rd generation - Approximately located, queried",مقلوبة فالق زاحف الثالث محددة تقريباً,"مقلوبة فالق زاحف الثالث محددة تقريباً | Overturned thrust fault, 3rd generation - Approximately located, queried",translated
+NAME,306,"Overturned thrust fault, 3rd generation - Inferred","Overturned thrust fault, 3rd generation - Inferred",مقلوبة فالق زاحف الثالث,"مقلوبة فالق زاحف الثالث | Overturned thrust fault, 3rd generation - Inferred",translated
+NAME,307,"Overturned thrust fault, 3rd generation - Inferred, queried","Overturned thrust fault, 3rd generation - Inferred, queried",مقلوبة فالق زاحف الثالث,"مقلوبة فالق زاحف الثالث | Overturned thrust fault, 3rd generation - Inferred, queried",translated
+NAME,308,"Overturned thrust fault, 3rd generation - Concealed","Overturned thrust fault, 3rd generation - Concealed",مقلوبة فالق زاحف الثالث,"مقلوبة فالق زاحف الثالث | Overturned thrust fault, 3rd generation - Concealed",translated
+NAME,309,"Overturned thrust fault, 3rd generation - Concealed, queried","Overturned thrust fault, 3rd generation - Concealed, queried",مقلوبة فالق زاحف الثالث,"مقلوبة فالق زاحف الثالث | Overturned thrust fault, 3rd generation - Concealed, queried",translated
+NAME,310,"Detachment fault, 1st generation - Certain","Detachment fault, 1st generation - Certain",فالق انفصالي الأول,"فالق انفصالي الأول | Detachment fault, 1st generation - Certain",translated
+NAME,311,"Detachment fault, 1st generation - Approximately located","Detachment fault, 1st generation - Approximately located",فالق انفصالي الأول محددة تقريباً,"فالق انفصالي الأول محددة تقريباً | Detachment fault, 1st generation - Approximately located",translated
+NAME,312,"Detachment fault, 1st generation - Approximately located, queried","Detachment fault, 1st generation - Approximately located, queried",فالق انفصالي الأول محددة تقريباً,"فالق انفصالي الأول محددة تقريباً | Detachment fault, 1st generation - Approximately located, queried",translated
+NAME,313,"Detachment fault, 1st generation - Inferred","Detachment fault, 1st generation - Inferred",فالق انفصالي الأول,"فالق انفصالي الأول | Detachment fault, 1st generation - Inferred",translated
+NAME,314,"Detachment fault, 1st generation - Inferred, queried","Detachment fault, 1st generation - Inferred, queried",فالق انفصالي الأول,"فالق انفصالي الأول | Detachment fault, 1st generation - Inferred, queried",translated
+NAME,315,"Detachment fault, 1st generation - Concealed","Detachment fault, 1st generation - Concealed",فالق انفصالي الأول,"فالق انفصالي الأول | Detachment fault, 1st generation - Concealed",translated
+NAME,316,"Detachment fault, 1st generation - Concealed, queried","Detachment fault, 1st generation - Concealed, queried",فالق انفصالي الأول,"فالق انفصالي الأول | Detachment fault, 1st generation - Concealed, queried",translated
+NAME,317,"Detachment fault, 2nd generation - Certain","Detachment fault, 2nd generation - Certain",فالق انفصالي الثاني,"فالق انفصالي الثاني | Detachment fault, 2nd generation - Certain",translated
+NAME,318,"Detachment fault, 2nd generation - Approximately located","Detachment fault, 2nd generation - Approximately located",فالق انفصالي الثاني محددة تقريباً,"فالق انفصالي الثاني محددة تقريباً | Detachment fault, 2nd generation - Approximately located",translated
+NAME,319,"Detachment fault, 2nd generation - Approximately located, queried","Detachment fault, 2nd generation - Approximately located, queried",فالق انفصالي الثاني محددة تقريباً,"فالق انفصالي الثاني محددة تقريباً | Detachment fault, 2nd generation - Approximately located, queried",translated
+NAME,320,"Detachment fault, 2nd generation - Inferred","Detachment fault, 2nd generation - Inferred",فالق انفصالي الثاني,"فالق انفصالي الثاني | Detachment fault, 2nd generation - Inferred",translated
+NAME,321,"Detachment fault, 2nd generation - Inferred, queried","Detachment fault, 2nd generation - Inferred, queried",فالق انفصالي الثاني,"فالق انفصالي الثاني | Detachment fault, 2nd generation - Inferred, queried",translated
+NAME,322,"Detachment fault, 2nd generation - Concealed","Detachment fault, 2nd generation - Concealed",فالق انفصالي الثاني,"فالق انفصالي الثاني | Detachment fault, 2nd generation - Concealed",translated
+NAME,323,"Detachment fault, 2nd generation - Concealed, queried","Detachment fault, 2nd generation - Concealed, queried",فالق انفصالي الثاني,"فالق انفصالي الثاني | Detachment fault, 2nd generation - Concealed, queried",translated
+NAME,324,"Detachment fault, 3rd generation - Certain","Detachment fault, 3rd generation - Certain",فالق انفصالي الثالث,"فالق انفصالي الثالث | Detachment fault, 3rd generation - Certain",translated
+NAME,325,"Detachment fault, 3rd generation - Approximately located","Detachment fault, 3rd generation - Approximately located",فالق انفصالي الثالث محددة تقريباً,"فالق انفصالي الثالث محددة تقريباً | Detachment fault, 3rd generation - Approximately located",translated
+NAME,326,"Detachment fault, 3rd generation - Approximately located, queried","Detachment fault, 3rd generation - Approximately located, queried",فالق انفصالي الثالث محددة تقريباً,"فالق انفصالي الثالث محددة تقريباً | Detachment fault, 3rd generation - Approximately located, queried",translated
+NAME,327,"Detachment fault, 3rd generation - Inferred","Detachment fault, 3rd generation - Inferred",فالق انفصالي الثالث,"فالق انفصالي الثالث | Detachment fault, 3rd generation - Inferred",translated
+NAME,328,"Detachment fault, 3rd generation - Inferred, queried","Detachment fault, 3rd generation - Inferred, queried",فالق انفصالي الثالث,"فالق انفصالي الثالث | Detachment fault, 3rd generation - Inferred, queried",translated
+NAME,329,"Detachment fault, 3rd generation - Concealed","Detachment fault, 3rd generation - Concealed",فالق انفصالي الثالث,"فالق انفصالي الثالث | Detachment fault, 3rd generation - Concealed",translated
+NAME,330,"Detachment fault, 3rd generation - Concealed, queried","Detachment fault, 3rd generation - Concealed, queried",فالق انفصالي الثالث,"فالق انفصالي الثالث | Detachment fault, 3rd generation - Concealed, queried",translated
+NAME,331,Lineament,Lineament,ملمح خطي,ملمح خطي | Lineament,translated
+NAME,332,Vein - Certain,Vein - Certain,عرق,عرق | Vein - Certain,translated
+NAME,333,Vein - Approximately located,Vein - Approximately located,عرق محددة تقريباً,عرق محددة تقريباً | Vein - Approximately located,translated
+NAME,334,"Vein - Approximately located, queried","Vein - Approximately located, queried",عرق محددة تقريباً,"عرق محددة تقريباً | Vein - Approximately located, queried",translated
+NAME,335,Vein - Concealed,Vein - Concealed,عرق,عرق | Vein - Concealed,translated
+NAME,336,"Vein - Concealed, queried","Vein - Concealed, queried",عرق,"عرق | Vein - Concealed, queried",translated
+NAME,337,Anticline - Certain,Anticline - Certain,طية محدبة,طية محدبة | Anticline - Certain,translated
+NAME,338,Anticline - Approximately located,Anticline - Approximately located,طية محدبة محددة تقريباً,طية محدبة محددة تقريباً | Anticline - Approximately located,translated
+NAME,339,Anticline - Inferred,Anticline - Inferred,طية محدبة,طية محدبة | Anticline - Inferred,translated
+NAME,340,Anticline - Concealed,Anticline - Concealed,طية محدبة,طية محدبة | Anticline - Concealed,translated
+NAME,341,"Anticline - Approximately located, queried","Anticline - Approximately located, queried",طية محدبة محددة تقريباً,"طية محدبة محددة تقريباً | Anticline - Approximately located, queried",translated
+NAME,342,"Anticline - Inferred, queried","Anticline - Inferred, queried",طية محدبة,"طية محدبة | Anticline - Inferred, queried",translated
+NAME,343,"Anticline - Concealed, queried","Anticline - Concealed, queried",طية محدبة,"طية محدبة | Anticline - Concealed, queried",translated
+NAME,344,Overturned anticline - Certain,Overturned anticline - Certain,مقلوبة طية محدبة,مقلوبة طية محدبة | Overturned anticline - Certain,translated
+NAME,345,Overturned anticline - Approximately located,Overturned anticline - Approximately located,مقلوبة طية محدبة محددة تقريباً,مقلوبة طية محدبة محددة تقريباً | Overturned anticline - Approximately located,translated
+NAME,346,Overturned anticline - Inferred,Overturned anticline - Inferred,مقلوبة طية محدبة,مقلوبة طية محدبة | Overturned anticline - Inferred,translated
+NAME,347,Overturned anticline - Concealed,Overturned anticline - Concealed,مقلوبة طية محدبة,مقلوبة طية محدبة | Overturned anticline - Concealed,translated
+NAME,348,"Overturned anticline - Approximately located, queried","Overturned anticline - Approximately located, queried",مقلوبة طية محدبة محددة تقريباً,"مقلوبة طية محدبة محددة تقريباً | Overturned anticline - Approximately located, queried",translated
+NAME,349,"Overturned anticline - Inferred, queried","Overturned anticline - Inferred, queried",مقلوبة طية محدبة,"مقلوبة طية محدبة | Overturned anticline - Inferred, queried",translated
+NAME,350,"Overturned anticline - Concealed, queried","Overturned anticline - Concealed, queried",مقلوبة طية محدبة,"مقلوبة طية محدبة | Overturned anticline - Concealed, queried",translated
+NAME,351,Inverted Anticline - Certain,Inverted Anticline - Certain,معكوسة طية محدبة,معكوسة طية محدبة | Inverted Anticline - Certain,translated
+NAME,352,Inverted Anticline - Approximately located,Inverted Anticline - Approximately located,معكوسة طية محدبة محددة تقريباً,معكوسة طية محدبة محددة تقريباً | Inverted Anticline - Approximately located,translated
+NAME,353,Inverted Anticline - Inferred,Inverted Anticline - Inferred,معكوسة طية محدبة,معكوسة طية محدبة | Inverted Anticline - Inferred,translated
+NAME,354,Inverted Anticline - Concealed,Inverted Anticline - Concealed,معكوسة طية محدبة,معكوسة طية محدبة | Inverted Anticline - Concealed,translated
+NAME,355,"Inverted Anticline - Approximately located, queried","Inverted Anticline - Approximately located, queried",معكوسة طية محدبة محددة تقريباً,"معكوسة طية محدبة محددة تقريباً | Inverted Anticline - Approximately located, queried",translated
+NAME,356,"Inverted Anticline - Inferred, queried","Inverted Anticline - Inferred, queried",معكوسة طية محدبة,"معكوسة طية محدبة | Inverted Anticline - Inferred, queried",translated
+NAME,357,"Inverted Anticline - Concealed, queried","Inverted Anticline - Concealed, queried",معكوسة طية محدبة,"معكوسة طية محدبة | Inverted Anticline - Concealed, queried",translated
+NAME,358,Syncline - Certain,Syncline - Certain,طية مقعرة,طية مقعرة | Syncline - Certain,translated
+NAME,359,Syncline - Approximately located,Syncline - Approximately located,طية مقعرة محددة تقريباً,طية مقعرة محددة تقريباً | Syncline - Approximately located,translated
+NAME,360,Syncline - Inferred,Syncline - Inferred,طية مقعرة,طية مقعرة | Syncline - Inferred,translated
+NAME,361,Syncline - Concealed,Syncline - Concealed,طية مقعرة,طية مقعرة | Syncline - Concealed,translated
+NAME,362,"Syncline - Approximately located, queried","Syncline - Approximately located, queried",طية مقعرة محددة تقريباً,"طية مقعرة محددة تقريباً | Syncline - Approximately located, queried",translated
+NAME,363,"Syncline - Inferred, queried","Syncline - Inferred, queried",طية مقعرة,"طية مقعرة | Syncline - Inferred, queried",translated
+NAME,364,"Syncline - Concealed, queried","Syncline - Concealed, queried",طية مقعرة,"طية مقعرة | Syncline - Concealed, queried",translated
+NAME,365,Overturned syncline - Certain,Overturned syncline - Certain,مقلوبة طية مقعرة,مقلوبة طية مقعرة | Overturned syncline - Certain,translated
+NAME,366,Overturned syncline - Approximately located,Overturned syncline - Approximately located,مقلوبة طية مقعرة محددة تقريباً,مقلوبة طية مقعرة محددة تقريباً | Overturned syncline - Approximately located,translated
+NAME,367,Overturned syncline - Inferred,Overturned syncline - Inferred,مقلوبة طية مقعرة,مقلوبة طية مقعرة | Overturned syncline - Inferred,translated
+NAME,368,Overturned syncline - Concealed,Overturned syncline - Concealed,مقلوبة طية مقعرة,مقلوبة طية مقعرة | Overturned syncline - Concealed,translated
+NAME,369,"Overturned syncline - Approximately located, queried","Overturned syncline - Approximately located, queried",مقلوبة طية مقعرة محددة تقريباً,"مقلوبة طية مقعرة محددة تقريباً | Overturned syncline - Approximately located, queried",translated
+NAME,370,"Overturned syncline - Inferred, queried","Overturned syncline - Inferred, queried",مقلوبة طية مقعرة,"مقلوبة طية مقعرة | Overturned syncline - Inferred, queried",translated
+NAME,371,"Overturned syncline - Concealed, queried","Overturned syncline - Concealed, queried",مقلوبة طية مقعرة,"مقلوبة طية مقعرة | Overturned syncline - Concealed, queried",translated
+NAME,372,Inverted syncline - Certain,Inverted syncline - Certain,معكوسة طية مقعرة,معكوسة طية مقعرة | Inverted syncline - Certain,translated
+NAME,373,Inverted syncline - Approximately located,Inverted syncline - Approximately located,معكوسة طية مقعرة محددة تقريباً,معكوسة طية مقعرة محددة تقريباً | Inverted syncline - Approximately located,translated
+NAME,374,Inverted syncline - Inferred,Inverted syncline - Inferred,معكوسة طية مقعرة,معكوسة طية مقعرة | Inverted syncline - Inferred,translated
+NAME,375,Inverted syncline - Concealed,Inverted syncline - Concealed,معكوسة طية مقعرة,معكوسة طية مقعرة | Inverted syncline - Concealed,translated
+NAME,376,"Inverted syncline - Approximately located, queried","Inverted syncline - Approximately located, queried",معكوسة طية مقعرة محددة تقريباً,"معكوسة طية مقعرة محددة تقريباً | Inverted syncline - Approximately located, queried",translated
+NAME,377,"Inverted syncline - Inferred, queried","Inverted syncline - Inferred, queried",معكوسة طية مقعرة,"معكوسة طية مقعرة | Inverted syncline - Inferred, queried",translated
+NAME,378,"Inverted syncline - Concealed, queried","Inverted syncline - Concealed, queried",معكوسة طية مقعرة,"معكوسة طية مقعرة | Inverted syncline - Concealed, queried",translated
+NAME,379,Monocline - Certain,Monocline - Certain,طية أحادية الميل,طية أحادية الميل | Monocline - Certain,translated
+NAME,380,Monocline - Approximately located,Monocline - Approximately located,طية أحادية الميل محددة تقريباً,طية أحادية الميل محددة تقريباً | Monocline - Approximately located,translated
+NAME,381,Monocline - Inferred,Monocline - Inferred,طية أحادية الميل,طية أحادية الميل | Monocline - Inferred,translated
+NAME,382,Monocline - Concealed,Monocline - Concealed,طية أحادية الميل,طية أحادية الميل | Monocline - Concealed,translated
+NAME,383,"Monocline - Approximately located, queried","Monocline - Approximately located, queried",طية أحادية الميل محددة تقريباً,"طية أحادية الميل محددة تقريباً | Monocline - Approximately located, queried",translated
+NAME,384,"Monocline - Inferred, queried","Monocline - Inferred, queried",طية أحادية الميل,"طية أحادية الميل | Monocline - Inferred, queried",translated
+NAME,385,"Monocline - Concealed, queried","Monocline - Concealed, queried",طية أحادية الميل,"طية أحادية الميل | Monocline - Concealed, queried",translated
+NAME,386,731 Vitrophyre,731 Vitrophyre,فيتروفير,فيتروفير | 731 Vitrophyre,translated
+CATEGORY,386,731 Vitrophyre,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,387,317 Igneous,317 Igneous,نارية,نارية | 317 Igneous,translated
+CATEGORY,387,317 Igneous,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,388,407 Igneous,407 Igneous,نارية,نارية | 407 Igneous,translated
+CATEGORY,388,407 Igneous,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,389,502 Periglacial,502 Periglacial,شبه جليدية,شبه جليدية | 502 Periglacial,translated
+CATEGORY,389,502 Periglacial,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,390,504 Periglacial,504 Periglacial,شبه جليدية,شبه جليدية | 504 Periglacial,translated
+CATEGORY,390,504 Periglacial,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,391,503 Periglacial,503 Periglacial,شبه جليدية,شبه جليدية | 503 Periglacial,translated
+CATEGORY,391,503 Periglacial,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,392,"601 Gravel, Open","601 Gravel, Open",حصى مفتوحة,"حصى مفتوحة | 601 Gravel, Open",translated
+CATEGORY,392,"601 Gravel, Open",Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,393,"602 Gravel, Closed","602 Gravel, Closed",حصى مغلقة,"حصى مغلقة | 602 Gravel, Closed",translated
+CATEGORY,393,"602 Gravel, Closed",Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,394,"605 Breccia, Open","605 Breccia, Open",بريشيا مفتوحة,"بريشيا مفتوحة | 605 Breccia, Open",translated
+CATEGORY,394,"605 Breccia, Open",Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,395,607 Sand,607 Sand,رمل,رمل | 607 Sand,translated
+CATEGORY,395,607 Sand,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,396,612 Argillaceous or Shaly Sandstone,612 Argillaceous or Shaly Sandstone,طينية أو صخر طيني حجر رملي,طينية أو صخر طيني حجر رملي | 612 Argillaceous or Shaly Sandstone,translated
+CATEGORY,396,612 Argillaceous or Shaly Sandstone,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,397,613 Calcareous Sandstone,613 Calcareous Sandstone,جيرية حجر رملي,جيرية حجر رملي | 613 Calcareous Sandstone,translated
+CATEGORY,397,613 Calcareous Sandstone,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,398,614 Dolomitic Sandstone,614 Dolomitic Sandstone,دولوميتية حجر رملي,دولوميتية حجر رملي | 614 Dolomitic Sandstone,translated
+CATEGORY,398,614 Dolomitic Sandstone,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,399,"616 Silt, Siltstone, or Silty Shale","616 Silt, Siltstone, or Silty Shale",غرين حجر غريني أو غرينية صخر طيني,"غرين حجر غريني أو غرينية صخر طيني | 616 Silt, Siltstone, or Silty Shale",translated
+CATEGORY,399,"616 Silt, Siltstone, or Silty Shale",Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,400,617 Calcareous Siltstone,617 Calcareous Siltstone,جيرية حجر غريني,جيرية حجر غريني | 617 Calcareous Siltstone,translated
+CATEGORY,400,617 Calcareous Siltstone,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,401,619 Sandy or Silty Shale,619 Sandy or Silty Shale,رملية أو غرينية صخر طيني,رملية أو غرينية صخر طيني | 619 Sandy or Silty Shale,translated
+CATEGORY,401,619 Sandy or Silty Shale,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,402,620 Clay or Clay Shale,620 Clay or Clay Shale,طين أو صخر طيني,طين أو صخر طيني | 620 Clay or Clay Shale,translated
+CATEGORY,402,620 Clay or Clay Shale,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,403,624 Carbonaceous Shale,624 Carbonaceous Shale,كربونية صخر طيني,كربونية صخر طيني | 624 Carbonaceous Shale,translated
+CATEGORY,403,624 Carbonaceous Shale,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,404,625 Oil Shale,625 Oil Shale,صخر زيتي,صخر زيتي | 625 Oil Shale,translated
+CATEGORY,404,625 Oil Shale,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,405,627 Limestone,627 Limestone,حجر جيري,حجر جيري | 627 Limestone,translated
+CATEGORY,405,627 Limestone,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,406,636 Sandy Limestone,636 Sandy Limestone,رملية حجر جيري,رملية حجر جيري | 636 Sandy Limestone,translated
+CATEGORY,406,636 Sandy Limestone,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,407,637 Silty Limestone,637 Silty Limestone,غرينية حجر جيري,غرينية حجر جيري | 637 Silty Limestone,translated
+CATEGORY,407,637 Silty Limestone,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,408,638 Argillaceous Limestone,638 Argillaceous Limestone,طينية حجر جيري,طينية حجر جيري | 638 Argillaceous Limestone,translated
+CATEGORY,408,638 Argillaceous Limestone,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,409,642 Dolomite,642 Dolomite,دولوميت,دولوميت | 642 Dolomite,translated
+CATEGORY,409,642 Dolomite,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,410,658 Coal,658 Coal,فحم,فحم | 658 Coal,translated
+CATEGORY,410,658 Coal,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,411,661 Flint Clay,661 Flint Clay,صوان طين,صوان طين | 661 Flint Clay,translated
+CATEGORY,411,661 Flint Clay,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,412,667 Gypsum,667 Gypsum,جبس,جبس | 667 Gypsum,translated
+CATEGORY,412,667 Gypsum,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,413,668 Salt,668 Salt,ملح,ملح | 668 Salt,translated
+CATEGORY,413,668 Salt,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,414,669 Interbedded Sandstone and Siltstone,669 Interbedded Sandstone and Siltstone,حجر رملي و حجر غريني,حجر رملي و حجر غريني | 669 Interbedded Sandstone and Siltstone,translated
+CATEGORY,414,669 Interbedded Sandstone and Siltstone,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,415,702 Quartzite,702 Quartzite,كوارتزيت,كوارتزيت | 702 Quartzite,translated
+CATEGORY,415,702 Quartzite,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,416,711 Tuffaceous Rock,711 Tuffaceous Rock,طفية صخر,طفية صخر | 711 Tuffaceous Rock,translated
+CATEGORY,416,711 Tuffaceous Rock,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,417,712 Crystal Tuff,712 Crystal Tuff,بلورة طف بركاني,بلورة طف بركاني | 712 Crystal Tuff,translated
+CATEGORY,417,712 Crystal Tuff,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,418,713 Devitrified Tuff,713 Devitrified Tuff,طف بركاني,طف بركاني | 713 Devitrified Tuff,translated
+CATEGORY,418,713 Devitrified Tuff,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,419,716 Zeolitic Rock,716 Zeolitic Rock,صخر,صخر | 716 Zeolitic Rock,translated
+CATEGORY,419,716 Zeolitic Rock,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,420,721 Massive Igneous Rock 1,721 Massive Igneous Rock 1,كتلية صخر ناري,كتلية صخر ناري | 721 Massive Igneous Rock 1,translated
+CATEGORY,420,721 Massive Igneous Rock 1,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,421,723 Massive Igneous Rock 3,723 Massive Igneous Rock 3,كتلية صخر ناري,كتلية صخر ناري | 723 Massive Igneous Rock 3,translated
+CATEGORY,421,723 Massive Igneous Rock 3,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,422,724 Massive Igneous Rock 4,724 Massive Igneous Rock 4,كتلية صخر ناري,كتلية صخر ناري | 724 Massive Igneous Rock 4,translated
+CATEGORY,422,724 Massive Igneous Rock 4,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,423,725 Massive Igneous Rock 5,725 Massive Igneous Rock 5,كتلية صخر ناري,كتلية صخر ناري | 725 Massive Igneous Rock 5,translated
+CATEGORY,423,725 Massive Igneous Rock 5,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,424,728 Massive Igneous Rock 8,728 Massive Igneous Rock 8,كتلية صخر ناري,كتلية صخر ناري | 728 Massive Igneous Rock 8,translated
+CATEGORY,424,728 Massive Igneous Rock 8,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,425,Quadrangle Name,Quadrangle Name,لوحة,لوحة | Quadrangle Name,translated
+CATEGORY,425,Quadrangle Name,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,426,State Name,State Name,ولاية,ولاية | State Name,translated
+CATEGORY,426,State Name,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,427,Mapping Organization,Mapping Organization,تخريط منظمة,تخريط منظمة | Mapping Organization,translated
+CATEGORY,427,Mapping Organization,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,428,Adjacent (Quadrangle),Adjacent (Quadrangle),لوحة,لوحة | Adjacent (Quadrangle),translated
+CATEGORY,428,Adjacent (Quadrangle),Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,429,Organization Credits,Organization Credits,منظمة شكر,منظمة شكر | Organization Credits,translated
+CATEGORY,429,Organization Credits,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,430,Magnetic North Description,Magnetic North Description,شمال,شمال | Magnetic North Description,translated
+CATEGORY,430,Magnetic North Description,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,431,Funding Credits,Funding Credits,شكر,شكر | Funding Credits,translated
+CATEGORY,431,Funding Credits,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,432,Map Title,Map Title,خريطة عنوان,خريطة عنوان | Map Title,translated
+CATEGORY,432,Map Title,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,433,Date,Date,,Date,kept
+CATEGORY,433,Date,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,434,Authors,Authors,,Authors,kept
+CATEGORY,434,Authors,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,435,Nomenclature/Ref #,Nomenclature/Ref #,,Nomenclature/Ref #,kept
+CATEGORY,435,Nomenclature/Ref #,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,436,Projection Information,Projection Information,مسقط معلومات,مسقط معلومات | Projection Information,translated
+CATEGORY,436,Projection Information,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,437,Reference Map Title,Reference Map Title,مرجع خريطة عنوان,مرجع خريطة عنوان | Reference Map Title,translated
+CATEGORY,437,Reference Map Title,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,438,Feet Scale Bar,Feet Scale Bar,مقياس خطي,مقياس خطي | Feet Scale Bar,translated
+CATEGORY,438,Feet Scale Bar,HollowScaleBar,مقياس خطي,مقياس خطي | HollowScaleBar,translated
+NAME,439,Mile Scale Bar,Mile Scale Bar,مقياس خطي,مقياس خطي | Mile Scale Bar,translated
+CATEGORY,439,Mile Scale Bar,HollowScaleBar,مقياس خطي,مقياس خطي | HollowScaleBar,translated
+NAME,440,Kilometer Scale Bar,Kilometer Scale Bar,مقياس خطي,مقياس خطي | Kilometer Scale Bar,translated
+CATEGORY,440,Kilometer Scale Bar,HollowScaleBar,مقياس خطي,مقياس خطي | HollowScaleBar,translated
+NAME,441,Strike or Dip,Strike or Dip,مضرب أو ميل,مضرب أو ميل | Strike or Dip,translated
+CATEGORY,441,Strike or Dip,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,442,Strike or Dip_1,Strike or Dip,مضرب أو ميل,مضرب أو ميل | Strike or Dip,translated
+CATEGORY,442,Strike or Dip_1,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,443,Fault Name,Fault Name,فالق,فالق | Fault Name,translated
+CATEGORY,443,Fault Name,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,444,Fault Name_1,Fault Name,فالق,فالق | Fault Name,translated
+CATEGORY,444,Fault Name_1,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,445,Bedrock Geology Type,Bedrock Geology Type,جيولوجية صخر الأساس نوع,جيولوجية صخر الأساس نوع | Bedrock Geology Type,translated
+CATEGORY,445,Bedrock Geology Type,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+NAME,446,Bedrock Geology Type_1,Bedrock Geology Type,جيولوجية صخر الأساس نوع,جيولوجية صخر الأساس نوع | Bedrock Geology Type,translated
+CATEGORY,446,Bedrock Geology Type_1,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated

@@ -1,0 +1,21 @@
+دليل تركيب واستخدام رموز FGDC-GeMS الجيولوجية المعيارية
+============================================================
+1) المحتويات
+------------
+- GSC_FGDC_GeologicMapSymbols_ArcMap\ => ستايل ArcMap (ملف .style + ملف .ldb + شارت PDF + readme).
+- GSC_FGDC_GeologicMapSymbols_ArcGISPro\ => نفس الستايل نسخة Pro (ملف .stylx).
+- Originals\ => الحزم الأصلية: FGDC_STYLX.zip (التنفيذ الكامل للمعيار) + حزمتا GSC + حزمة الخطوط.
+- Fonts\ => خط FGDCGeoAge.otf (وباقي الخطوط داخل FGDCGeoSym_fonts.zip في Originals\).
+- Sources\ => ملف المصادر والروابط.
+
+2) التركيب (مهم: ثبّت الخطوط أولاً)
+------------------------------------
+1. انسخ ملفات FGDCGeoSym*.ttf و FGDCGeoAge.otf إلى C:\Windows\Fonts
+   (ولو الرموز لا تظهر في Pro انسخها أيضاً إلى C:\Program Files\ArcGIS\Pro\Resources\Fonts).
+2. في ArcMap: Style Manager > Add Style to List > اختر ملف .style.
+3. في Pro: Insert > Add Style > اختر ملف .stylx.
+
+3) الاستخدام
+------------
+- الرموز المعيارية الأمريكية: نقاط / خطوط / مضلعات + ألوان جيولوجية.
+- الشارت FGDC_GSC_Style_Chart_201004.pdf داخل كل مجلد مستخرج يوضح كل رمز.

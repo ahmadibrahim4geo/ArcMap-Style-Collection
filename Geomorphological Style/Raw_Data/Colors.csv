@@ -1,0 +1,33 @@
+ID,Name_AR,Name_EN,R,G,B,Tags
+1,بني الجبال,Mountain Brown,139,90,43,color;mountain
+2,بني فاتح الهضاب,Plateau Tan,215,185,140,color;plateau
+3,أخضر السهول الفيضية,Floodplain Green,185,225,170,color;floodplain
+4,أصفر الساحل,Coastal Yellow,240,230,180,color;coastal
+5,رملي العرق,Erg Sand,245,210,130,color;erg;sand
+6,برتقالي الكثبان,Dune Orange,220,130,40,color;dune
+7,أبيض السبخة,Sabkha White,235,240,240,color;sabkha
+8,أزرق اللاجونا,Lagoon Blue,180,215,230,color;lagoon
+9,أزرق الوادي,Wadi Blue,0,100,200,color;wadi
+10,رمادي الحمادة,Hamada Grey,150,140,130,color;hamada
+11,رمادي الرق,Reg Grey,195,185,165,color;reg
+12,أخضر الواحة,Oasis Green,170,210,140,color;oasis
+13,أخضر الدلتا,Delta Green,190,215,150,color;delta
+14,رمادي الكارست,Karst Grey,200,200,190,color;karst
+15,داكن الحرة,Lava Dark,80,70,70,color;lava
+16,بني البركان,Volcano Brown,120,80,70,color;volcano
+17,بني الحافة,Escarpment Brown,120,70,30,color;escarpment
+18,أحمر الصدوع,Fault Red,200,0,0,color;fault
+19,بنفسجي التقسيم,Divide Purple,150,0,150,color;divide
+20,أسود الجرف,Cliff Black,40,40,40,color;cliff
+21,بني الشاطئ,Beach Brown,150,110,60,color;beach
+22,رمادي الحدود,Boundary Grey,125,125,128,color;boundary
+23,رمادي الركام الجليدي,Till Grey,150,160,170,color;till
+24,فاتح الساندر,Sandur Pale,215,225,230,color;sandur
+25,أخضر المستنقع,Marsh Green,150,195,180,color;marsh
+26,أخضر المانجروف,Mangrove Green,60,130,100,color;mangrove
+27,رمادي الركام,Talus Grey,190,175,150,color;talus
+28,بني الانزلاق,Landslide Brown,200,150,120,color;landslide
+29,أحمر التيرا روسا,Terra Rossa Red,170,90,70,color;terrarossa
+30,رمادي الرماد,Ash Grey,190,185,180,color;ash
+31,داكن البازلت,Basalt Dark,95,95,100,color;basalt
+32,أبيض البلايا,Playa White,240,240,235,color;playa

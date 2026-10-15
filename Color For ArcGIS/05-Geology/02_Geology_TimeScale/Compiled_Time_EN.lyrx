@@ -1,0 +1,7016 @@
+{
+ "layerDefinitions": [
+  {
+   "name": "Compiled_Time_EN",
+   "renderer": {
+    "type": "CIMUniqueValueRenderer",
+    "fields": [
+     "Category_EN"
+    ],
+    "uniqueValueGroups": [
+     {
+      "heading": "Compiled_Time_EN",
+      "classes": [
+       {
+        "label": "Aalenian",
+        "description": "Fill #74C6F2",
+        "values": [
+         {
+          "fieldValues": [
+           "Aalenian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              116,
+              198,
+              242,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              69,
+              118,
+              145,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Aeronian",
+        "description": "Fill #96D6C7",
+        "values": [
+         {
+          "fieldValues": [
+           "Aeronian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              150,
+              214,
+              199,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              90,
+              128,
+              119,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Albian",
+        "description": "Fill #2DB573",
+        "values": [
+         {
+          "fieldValues": [
+           "Albian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              45,
+              181,
+              115,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              27,
+              108,
+              69,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Anisian",
+        "description": "Fill #AF99C9",
+        "values": [
+         {
+          "fieldValues": [
+           "Anisian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              175,
+              153,
+              201,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              105,
+              91,
+              120,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Aptian",
+        "description": "Fill #2DB573",
+        "values": [
+         {
+          "fieldValues": [
+           "Aptian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              45,
+              181,
+              115,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              27,
+              108,
+              69,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Aquitanian",
+        "description": "Fill #FFF200",
+        "values": [
+         {
+          "fieldValues": [
+           "Aquitanian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              242,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              145,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Archean",
+        "description": "Fill #ED028B",
+        "values": [
+         {
+          "fieldValues": [
+           "Archean"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              237,
+              2,
+              139,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              142,
+              1,
+              83,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Artinskian",
+        "description": "Fill #CC6462",
+        "values": [
+         {
+          "fieldValues": [
+           "Artinskian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              204,
+              100,
+              98,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              122,
+              60,
+              58,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Asselian",
+        "description": "Fill #CC6462",
+        "values": [
+         {
+          "fieldValues": [
+           "Asselian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              204,
+              100,
+              98,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              122,
+              60,
+              58,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Bajocian",
+        "description": "Fill #74C6F2",
+        "values": [
+         {
+          "fieldValues": [
+           "Bajocian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              116,
+              198,
+              242,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              69,
+              118,
+              145,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Barremian",
+        "description": "Fill #2DB573",
+        "values": [
+         {
+          "fieldValues": [
+           "Barremian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              45,
+              181,
+              115,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              27,
+              108,
+              69,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Bartonian",
+        "description": "Fill #FFCE5C",
+        "values": [
+         {
+          "fieldValues": [
+           "Bartonian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              206,
+              92,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              123,
+              55,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Bashkirian",
+        "description": "Fill #95C5C7",
+        "values": [
+         {
+          "fieldValues": [
+           "Bashkirian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              149,
+              197,
+              199,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              89,
+              118,
+              119,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Bathonian",
+        "description": "Fill #74C6F2",
+        "values": [
+         {
+          "fieldValues": [
+           "Bathonian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              116,
+              198,
+              242,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              69,
+              118,
+              145,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Berriasian",
+        "description": "Fill #2DB573",
+        "values": [
+         {
+          "fieldValues": [
+           "Berriasian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              45,
+              181,
+              115,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              27,
+              108,
+              69,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Burdigalian",
+        "description": "Fill #FFF200",
+        "values": [
+         {
+          "fieldValues": [
+           "Burdigalian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              242,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              145,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Callovian",
+        "description": "Fill #74C6F2",
+        "values": [
+         {
+          "fieldValues": [
+           "Callovian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              116,
+              198,
+              242,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              69,
+              118,
+              145,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Calymmian",
+        "description": "Fill #FCBD88",
+        "values": [
+         {
+          "fieldValues": [
+           "Calymmian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              252,
+              189,
+              136,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              151,
+              113,
+              81,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Cambrian",
+        "description": "Fill #4F9946",
+        "values": [
+         {
+          "fieldValues": [
+           "Cambrian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              79,
+              153,
+              70,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              47,
+              91,
+              42,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Campanian",
+        "description": "Fill #E7EDAD",
+        "values": [
+         {
+          "fieldValues": [
+           "Campanian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              231,
+              237,
+              173,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              138,
+              142,
+              103,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Capitanian",
+        "description": "Fill #EDA372",
+        "values": [
+         {
+          "fieldValues": [
+           "Capitanian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              237,
+              163,
+              114,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              142,
+              97,
+              68,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Carboniferous",
+        "description": "Fill #63B5B8",
+        "values": [
+         {
+          "fieldValues": [
+           "Carboniferous"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              99,
+              181,
+              184,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              59,
+              108,
+              110,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Carnian",
+        "description": "Fill #E0CCE3",
+        "values": [
+         {
+          "fieldValues": [
+           "Carnian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              224,
+              204,
+              227,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              134,
+              122,
+              136,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Cenomanian",
+        "description": "Fill #E7EDAD",
+        "values": [
+         {
+          "fieldValues": [
+           "Cenomanian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              231,
+              237,
+              173,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              138,
+              142,
+              103,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Cenozoic",
+        "description": "Fill #FAED00",
+        "values": [
+         {
+          "fieldValues": [
+           "Cenozoic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              250,
+              237,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              150,
+              142,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Changhsingian",
+        "description": "Fill #FAAAAF",
+        "values": [
+         {
+          "fieldValues": [
+           "Changhsingian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              250,
+              170,
+              175,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              150,
+              102,
+              105,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Chattian",
+        "description": "Fill #FFDAA3",
+        "values": [
+         {
+          "fieldValues": [
+           "Chattian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              218,
+              163,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              130,
+              97,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Cisuralian",
+        "description": "Fill #CC6462",
+        "values": [
+         {
+          "fieldValues": [
+           "Cisuralian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              204,
+              100,
+              98,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              122,
+              60,
+              58,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Coniacian",
+        "description": "Fill #E7EDAD",
+        "values": [
+         {
+          "fieldValues": [
+           "Coniacian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              231,
+              237,
+              173,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              138,
+              142,
+              103,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Cretaceous",
+        "description": "Fill #C7DE6A",
+        "values": [
+         {
+          "fieldValues": [
+           "Cretaceous"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              199,
+              222,
+              106,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              119,
+              133,
+              63,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Cryogenian",
+        "description": "Fill #FCBA62",
+        "values": [
+         {
+          "fieldValues": [
+           "Cryogenian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              252,
+              186,
+              98,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              151,
+              111,
+              58,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Danian",
+        "description": "Fill #E3BE8A",
+        "values": [
+         {
+          "fieldValues": [
+           "Danian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              227,
+              190,
+              138,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              136,
+              114,
+              82,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Darriwilian",
+        "description": "Fill #36A888",
+        "values": [
+         {
+          "fieldValues": [
+           "Darriwilian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              54,
+              168,
+              136,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              32,
+              100,
+              81,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Devonian",
+        "description": "Fill #CF9C59",
+        "values": [
+         {
+          "fieldValues": [
+           "Devonian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              207,
+              156,
+              89,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              124,
+              93,
+              53,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Ectasian",
+        "description": "Fill #FCBD88",
+        "values": [
+         {
+          "fieldValues": [
+           "Ectasian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              252,
+              189,
+              136,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              151,
+              113,
+              81,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Ediacaran",
+        "description": "Fill #FCBA62",
+        "values": [
+         {
+          "fieldValues": [
+           "Ediacaran"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              252,
+              186,
+              98,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              151,
+              111,
+              58,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Eifelian",
+        "description": "Fill #A1AB89",
+        "values": [
+         {
+          "fieldValues": [
+           "Eifelian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              161,
+              171,
+              137,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              96,
+              102,
+              82,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Emsian",
+        "description": "Fill #A6A16A",
+        "values": [
+         {
+          "fieldValues": [
+           "Emsian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              166,
+              161,
+              106,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              99,
+              96,
+              63,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Eoarchean",
+        "description": "Fill #DB098B",
+        "values": [
+         {
+          "fieldValues": [
+           "Eoarchean"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              219,
+              9,
+              139,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              131,
+              5,
+              83,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Eocene",
+        "description": "Fill #FFCE5C",
+        "values": [
+         {
+          "fieldValues": [
+           "Eocene"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              206,
+              92,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              123,
+              55,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Famennian",
+        "description": "Fill #CDD1B4",
+        "values": [
+         {
+          "fieldValues": [
+           "Famennian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              205,
+              209,
+              180,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              123,
+              125,
+              108,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Frasnian",
+        "description": "Fill #CDD1B4",
+        "values": [
+         {
+          "fieldValues": [
+           "Frasnian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              205,
+              209,
+              180,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              123,
+              125,
+              108,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Furongian",
+        "description": "Fill #D9D8B8",
+        "values": [
+         {
+          "fieldValues": [
+           "Furongian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              217,
+              216,
+              184,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              130,
+              129,
+              110,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Gelasian",
+        "description": "Fill #FFF8AD",
+        "values": [
+         {
+          "fieldValues": [
+           "Gelasian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              248,
+              173,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              148,
+              103,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Givetian",
+        "description": "Fill #A1AB89",
+        "values": [
+         {
+          "fieldValues": [
+           "Givetian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              161,
+              171,
+              137,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              96,
+              102,
+              82,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Gorstian",
+        "description": "Fill #E1F0E7",
+        "values": [
+         {
+          "fieldValues": [
+           "Gorstian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              225,
+              240,
+              231,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              135,
+              144,
+              138,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Guadalupian",
+        "description": "Fill #EDA372",
+        "values": [
+         {
+          "fieldValues": [
+           "Guadalupian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              237,
+              163,
+              114,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              142,
+              97,
+              68,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Gzhelian (Gzelian Kasimovian)",
+        "description": "Fill #95C5C7",
+        "values": [
+         {
+          "fieldValues": [
+           "Gzhelian (Gzelian Kasimovian)"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              149,
+              197,
+              199,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              89,
+              118,
+              119,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Hauterivian",
+        "description": "Fill #2DB573",
+        "values": [
+         {
+          "fieldValues": [
+           "Hauterivian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              45,
+              181,
+              115,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              27,
+              108,
+              69,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Hettangian",
+        "description": "Fill #00B0F0",
+        "values": [
+         {
+          "fieldValues": [
+           "Hettangian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              176,
+              240,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              105,
+              144,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Hirnantian",
+        "description": "Fill #5EC4B0",
+        "values": [
+         {
+          "fieldValues": [
+           "Hirnantian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              94,
+              196,
+              176,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              56,
+              117,
+              105,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Holocene",
+        "description": "Fill #FFFCF5",
+        "values": [
+         {
+          "fieldValues": [
+           "Holocene"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              252,
+              245,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              151,
+              147,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Homerian",
+        "description": "Fill #CAE6D1",
+        "values": [
+         {
+          "fieldValues": [
+           "Homerian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              202,
+              230,
+              209,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              121,
+              138,
+              125,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Induan",
+        "description": "Fill #A05DA6",
+        "values": [
+         {
+          "fieldValues": [
+           "Induan"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              160,
+              93,
+              166,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              96,
+              55,
+              99,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Jurassic",
+        "description": "Fill #E6F2E9",
+        "values": [
+         {
+          "fieldValues": [
+           "Jurassic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              230,
+              242,
+              233,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              138,
+              145,
+              139,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Kasimovian",
+        "description": "Fill #95C5C7",
+        "values": [
+         {
+          "fieldValues": [
+           "Kasimovian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              149,
+              197,
+              199,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              89,
+              118,
+              119,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Kimmeridgian",
+        "description": "Fill #A7E0EB",
+        "values": [
+         {
+          "fieldValues": [
+           "Kimmeridgian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              167,
+              224,
+              235,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              100,
+              134,
+              141,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Kungurian",
+        "description": "Fill #CC6462",
+        "values": [
+         {
+          "fieldValues": [
+           "Kungurian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              204,
+              100,
+              98,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              122,
+              60,
+              58,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Ladinian",
+        "description": "Fill #AF99C9",
+        "values": [
+         {
+          "fieldValues": [
+           "Ladinian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              175,
+              153,
+              201,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              105,
+              91,
+              120,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Langhian",
+        "description": "Fill #FFF200",
+        "values": [
+         {
+          "fieldValues": [
+           "Langhian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              242,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              145,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Llandovery (Llandoverian)",
+        "description": "Fill #96D6C7",
+        "values": [
+         {
+          "fieldValues": [
+           "Llandovery (Llandoverian)"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              150,
+              214,
+              199,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              90,
+              128,
+              119,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Lochkovian",
+        "description": "Fill #A6A16A",
+        "values": [
+         {
+          "fieldValues": [
+           "Lochkovian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              166,
+              161,
+              106,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              99,
+              96,
+              63,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Lopingian",
+        "description": "Fill #FAAAAF",
+        "values": [
+         {
+          "fieldValues": [
+           "Lopingian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              250,
+              170,
+              175,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              150,
+              102,
+              105,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Lower (Early) Cambrian",
+        "description": "Fill #72B06D",
+        "values": [
+         {
+          "fieldValues": [
+           "Lower (Early) Cambrian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              114,
+              176,
+              109,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              68,
+              105,
+              65,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Lower (Early) Cretaceous",
+        "description": "Fill #2DB573",
+        "values": [
+         {
+          "fieldValues": [
+           "Lower (Early) Cretaceous"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              45,
+              181,
+              115,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              27,
+              108,
+              69,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Lower (Early) Devonian",
+        "description": "Fill #A6A16A",
+        "values": [
+         {
+          "fieldValues": [
+           "Lower (Early) Devonian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              166,
+              161,
+              106,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              99,
+              96,
+              63,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Lower (Early) Jurassic",
+        "description": "Fill #00B0F0",
+        "values": [
+         {
+          "fieldValues": [
+           "Lower (Early) Jurassic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              176,
+              240,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              105,
+              144,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Lower (Early) Mississippian",
+        "description": "Fill #729E8A",
+        "values": [
+         {
+          "fieldValues": [
+           "Lower (Early) Mississippian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              114,
+              158,
+              138,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              68,
+              94,
+              82,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Lower (Early) Ordovician",
+        "description": "Fill #009C6F",
+        "values": [
+         {
+          "fieldValues": [
+           "Lower (Early) Ordovician"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              156,
+              111,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              93,
+              66,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Lower (Early) Pennsylvanian",
+        "description": "Fill #95C5C7",
+        "values": [
+         {
+          "fieldValues": [
+           "Lower (Early) Pennsylvanian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              149,
+              197,
+              199,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              89,
+              118,
+              119,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Lower (Early) Pleistocene",
+        "description": "Fill #FFEEBD",
+        "values": [
+         {
+          "fieldValues": [
+           "Lower (Early) Pleistocene"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              238,
+              189,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              142,
+              113,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Lower (Early) Triassic",
+        "description": "Fill #A05DA6",
+        "values": [
+         {
+          "fieldValues": [
+           "Lower (Early) Triassic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              160,
+              93,
+              166,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              96,
+              55,
+              99,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Ludfordian",
+        "description": "Fill #E1F0E7",
+        "values": [
+         {
+          "fieldValues": [
+           "Ludfordian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              225,
+              240,
+              231,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              135,
+              144,
+              138,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Ludlow (Ludlovian)",
+        "description": "Fill #E1F0E7",
+        "values": [
+         {
+          "fieldValues": [
+           "Ludlow (Ludlovian)"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              225,
+              240,
+              231,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              135,
+              144,
+              138,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Lutetian",
+        "description": "Fill #FFCE5C",
+        "values": [
+         {
+          "fieldValues": [
+           "Lutetian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              206,
+              92,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              123,
+              55,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Maastrichtian",
+        "description": "Fill #E7EDAD",
+        "values": [
+         {
+          "fieldValues": [
+           "Maastrichtian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              231,
+              237,
+              173,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              138,
+              142,
+              103,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Mesoarchean",
+        "description": "Fill #E884B9",
+        "values": [
+         {
+          "fieldValues": [
+           "Mesoarchean"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              232,
+              132,
+              185,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              139,
+              79,
+              111,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Mesoproterozoic",
+        "description": "Fill #FCBD88",
+        "values": [
+         {
+          "fieldValues": [
+           "Mesoproterozoic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              252,
+              189,
+              136,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              151,
+              113,
+              81,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Mesozoic",
+        "description": "Fill #4FC8E0",
+        "values": [
+         {
+          "fieldValues": [
+           "Mesozoic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              79,
+              200,
+              224,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              47,
+              120,
+              134,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Messinian",
+        "description": "Fill #FFF200",
+        "values": [
+         {
+          "fieldValues": [
+           "Messinian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              242,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              145,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Middle Cambrian",
+        "description": "Fill #BAB28D",
+        "values": [
+         {
+          "fieldValues": [
+           "Middle Cambrian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              186,
+              178,
+              141,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              111,
+              106,
+              84,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Middle Devonian",
+        "description": "Fill #A1AB89",
+        "values": [
+         {
+          "fieldValues": [
+           "Middle Devonian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              161,
+              171,
+              137,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              96,
+              102,
+              82,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Middle Jurassic",
+        "description": "Fill #74C6F2",
+        "values": [
+         {
+          "fieldValues": [
+           "Middle Jurassic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              116,
+              198,
+              242,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              69,
+              118,
+              145,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Middle Mississippian",
+        "description": "Fill #729E8A",
+        "values": [
+         {
+          "fieldValues": [
+           "Middle Mississippian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              114,
+              158,
+              138,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              68,
+              94,
+              82,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Middle Ordovician",
+        "description": "Fill #36A888",
+        "values": [
+         {
+          "fieldValues": [
+           "Middle Ordovician"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              54,
+              168,
+              136,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              32,
+              100,
+              81,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Middle Pennsylvanian",
+        "description": "Fill #95C5C7",
+        "values": [
+         {
+          "fieldValues": [
+           "Middle Pennsylvanian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              149,
+              197,
+              199,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              89,
+              118,
+              119,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Middle Pleistocene",
+        "description": "Fill #FFEEBD",
+        "values": [
+         {
+          "fieldValues": [
+           "Middle Pleistocene"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              238,
+              189,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              142,
+              113,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Middle Triassic",
+        "description": "Fill #AF99C9",
+        "values": [
+         {
+          "fieldValues": [
+           "Middle Triassic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              175,
+              153,
+              201,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              105,
+              91,
+              120,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Miocene",
+        "description": "Fill #FFF200",
+        "values": [
+         {
+          "fieldValues": [
+           "Miocene"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              242,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              145,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Mississippian",
+        "description": "Fill #729E8A",
+        "values": [
+         {
+          "fieldValues": [
+           "Mississippian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              114,
+              158,
+              138,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              68,
+              94,
+              82,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Moscovian",
+        "description": "Fill #95C5C7",
+        "values": [
+         {
+          "fieldValues": [
+           "Moscovian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              149,
+              197,
+              199,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              89,
+              118,
+              119,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Neoarchean",
+        "description": "Fill #F7A8BF",
+        "values": [
+         {
+          "fieldValues": [
+           "Neoarchean"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              247,
+              168,
+              191,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              148,
+              100,
+              114,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Neogene",
+        "description": "Fill #FFDD03",
+        "values": [
+         {
+          "fieldValues": [
+           "Neogene"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              221,
+              3,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              132,
+              1,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Neoproterozoic",
+        "description": "Fill #FCBA62",
+        "values": [
+         {
+          "fieldValues": [
+           "Neoproterozoic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              252,
+              186,
+              98,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              151,
+              111,
+              58,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Norian",
+        "description": "Fill #E0CCE3",
+        "values": [
+         {
+          "fieldValues": [
+           "Norian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              224,
+              204,
+              227,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              134,
+              122,
+              136,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Olenekian",
+        "description": "Fill #A05DA6",
+        "values": [
+         {
+          "fieldValues": [
+           "Olenekian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              160,
+              93,
+              166,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              96,
+              55,
+              99,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Oligocene",
+        "description": "Fill #FFDAA3",
+        "values": [
+         {
+          "fieldValues": [
+           "Oligocene"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              218,
+              163,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              130,
+              97,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Ordovician",
+        "description": "Fill #02A88F",
+        "values": [
+         {
+          "fieldValues": [
+           "Ordovician"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              2,
+              168,
+              143,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              1,
+              100,
+              85,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Orosirian",
+        "description": "Fill #F26881",
+        "values": [
+         {
+          "fieldValues": [
+           "Orosirian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              242,
+              104,
+              129,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              145,
+              62,
+              77,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Oxfordian",
+        "description": "Fill #A7E0EB",
+        "values": [
+         {
+          "fieldValues": [
+           "Oxfordian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              167,
+              224,
+              235,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              100,
+              134,
+              141,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Paibian",
+        "description": "Fill #D9D8B8",
+        "values": [
+         {
+          "fieldValues": [
+           "Paibian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              217,
+              216,
+              184,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              130,
+              129,
+              110,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Paleoarchean",
+        "description": "Fill #F067A5",
+        "values": [
+         {
+          "fieldValues": [
+           "Paleoarchean"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              240,
+              103,
+              165,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              144,
+              61,
+              99,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Paleocene",
+        "description": "Fill #E3BE8A",
+        "values": [
+         {
+          "fieldValues": [
+           "Paleocene"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              227,
+              190,
+              138,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              136,
+              114,
+              82,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Paleogene",
+        "description": "Fill #FAA770",
+        "values": [
+         {
+          "fieldValues": [
+           "Paleogene"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              250,
+              167,
+              112,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              150,
+              100,
+              67,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Paleoproterozoic",
+        "description": "Fill #F26881",
+        "values": [
+         {
+          "fieldValues": [
+           "Paleoproterozoic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              242,
+              104,
+              129,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              145,
+              62,
+              77,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Paleozoic",
+        "description": "Fill #9DC2A5",
+        "values": [
+         {
+          "fieldValues": [
+           "Paleozoic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              157,
+              194,
+              165,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              94,
+              116,
+              99,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Pennsylvanian",
+        "description": "Fill #95C5C7",
+        "values": [
+         {
+          "fieldValues": [
+           "Pennsylvanian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              149,
+              197,
+              199,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              89,
+              118,
+              119,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Permian",
+        "description": "Fill #E8674A",
+        "values": [
+         {
+          "fieldValues": [
+           "Permian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              232,
+              103,
+              74,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              139,
+              61,
+              44,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Phanerozoic",
+        "description": "Fill #8BD7F7",
+        "values": [
+         {
+          "fieldValues": [
+           "Phanerozoic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              139,
+              215,
+              247,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              83,
+              129,
+              148,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Piacenzian",
+        "description": "Fill #FFF8AD",
+        "values": [
+         {
+          "fieldValues": [
+           "Piacenzian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              248,
+              173,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              148,
+              103,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Pleistocene",
+        "description": "Fill #FFEEBD",
+        "values": [
+         {
+          "fieldValues": [
+           "Pleistocene"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              238,
+              189,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              142,
+              113,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Pliensbachian",
+        "description": "Fill #00B0F0",
+        "values": [
+         {
+          "fieldValues": [
+           "Pliensbachian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              176,
+              240,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              105,
+              144,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Pliocene",
+        "description": "Fill #FFF8AD",
+        "values": [
+         {
+          "fieldValues": [
+           "Pliocene"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              248,
+              173,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              148,
+              103,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Pragian",
+        "description": "Fill #A6A16A",
+        "values": [
+         {
+          "fieldValues": [
+           "Pragian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              166,
+              161,
+              106,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              99,
+              96,
+              63,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Precambrian",
+        "description": "Fill #F26881",
+        "values": [
+         {
+          "fieldValues": [
+           "Precambrian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              242,
+              104,
+              129,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              145,
+              62,
+              77,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Priabonian",
+        "description": "Fill #FFCE5C",
+        "values": [
+         {
+          "fieldValues": [
+           "Priabonian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              206,
+              92,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              123,
+              55,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Pridoli (Pridolian)",
+        "description": "Fill #F0F7F0",
+        "values": [
+         {
+          "fieldValues": [
+           "Pridoli (Pridolian)"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              240,
+              247,
+              240,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              144,
+              148,
+              144,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Proterozoic",
+        "description": "Fill #FAAAA0",
+        "values": [
+         {
+          "fieldValues": [
+           "Proterozoic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              250,
+              170,
+              160,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              150,
+              102,
+              96,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Rhaetian",
+        "description": "Fill #E0CCE3",
+        "values": [
+         {
+          "fieldValues": [
+           "Rhaetian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              224,
+              204,
+              227,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              134,
+              122,
+              136,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Rhuddanian",
+        "description": "Fill #96D6C7",
+        "values": [
+         {
+          "fieldValues": [
+           "Rhuddanian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              150,
+              214,
+              199,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              90,
+              128,
+              119,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Rhyacian",
+        "description": "Fill #F26881",
+        "values": [
+         {
+          "fieldValues": [
+           "Rhyacian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              242,
+              104,
+              129,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              145,
+              62,
+              77,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Roadian",
+        "description": "Fill #EDA372",
+        "values": [
+         {
+          "fieldValues": [
+           "Roadian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              237,
+              163,
+              114,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              142,
+              97,
+              68,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Rupelian",
+        "description": "Fill #FFDAA3",
+        "values": [
+         {
+          "fieldValues": [
+           "Rupelian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              218,
+              163,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              130,
+              97,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Sakmarian (Asselian)",
+        "description": "Fill #CC6462",
+        "values": [
+         {
+          "fieldValues": [
+           "Sakmarian (Asselian)"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              204,
+              100,
+              98,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              122,
+              60,
+              58,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Santonian",
+        "description": "Fill #E7EDAD",
+        "values": [
+         {
+          "fieldValues": [
+           "Santonian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              231,
+              237,
+              173,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              138,
+              142,
+              103,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Selandian",
+        "description": "Fill #E3BE8A",
+        "values": [
+         {
+          "fieldValues": [
+           "Selandian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              227,
+              190,
+              138,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              136,
+              114,
+              82,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Serpukhovian",
+        "description": "Fill #729E8A",
+        "values": [
+         {
+          "fieldValues": [
+           "Serpukhovian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              114,
+              158,
+              138,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              68,
+              94,
+              82,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Serravallian",
+        "description": "Fill #FFF200",
+        "values": [
+         {
+          "fieldValues": [
+           "Serravallian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              242,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              145,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Sheinwoodian",
+        "description": "Fill #CAE6D1",
+        "values": [
+         {
+          "fieldValues": [
+           "Sheinwoodian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              202,
+              230,
+              209,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              121,
+              138,
+              125,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Siderian",
+        "description": "Fill #F26881",
+        "values": [
+         {
+          "fieldValues": [
+           "Siderian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              242,
+              104,
+              129,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              145,
+              62,
+              77,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Silurian",
+        "description": "Fill #AFDEDC",
+        "values": [
+         {
+          "fieldValues": [
+           "Silurian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              175,
+              222,
+              220,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              105,
+              133,
+              132,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Sinemurian",
+        "description": "Fill #00B0F0",
+        "values": [
+         {
+          "fieldValues": [
+           "Sinemurian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              176,
+              240,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              105,
+              144,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Statherian",
+        "description": "Fill #F26881",
+        "values": [
+         {
+          "fieldValues": [
+           "Statherian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              242,
+              104,
+              129,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              145,
+              62,
+              77,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Stenian",
+        "description": "Fill #FCBD88",
+        "values": [
+         {
+          "fieldValues": [
+           "Stenian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              252,
+              189,
+              136,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              151,
+              113,
+              81,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Telychian",
+        "description": "Fill #96D6C7",
+        "values": [
+         {
+          "fieldValues": [
+           "Telychian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              150,
+              214,
+              199,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              90,
+              128,
+              119,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Thanetian",
+        "description": "Fill #E3BE8A",
+        "values": [
+         {
+          "fieldValues": [
+           "Thanetian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              227,
+              190,
+              138,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              136,
+              114,
+              82,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Tithonian",
+        "description": "Fill #A7E0EB",
+        "values": [
+         {
+          "fieldValues": [
+           "Tithonian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              167,
+              224,
+              235,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              100,
+              134,
+              141,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Toarcian",
+        "description": "Fill #00B0F0",
+        "values": [
+         {
+          "fieldValues": [
+           "Toarcian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              176,
+              240,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              105,
+              144,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Tonian",
+        "description": "Fill #FCBA62",
+        "values": [
+         {
+          "fieldValues": [
+           "Tonian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              252,
+              186,
+              98,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              151,
+              111,
+              58,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Tortonian",
+        "description": "Fill #FFF200",
+        "values": [
+         {
+          "fieldValues": [
+           "Tortonian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              242,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              145,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Tournaisian",
+        "description": "Fill #729E8A",
+        "values": [
+         {
+          "fieldValues": [
+           "Tournaisian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              114,
+              158,
+              138,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              68,
+              94,
+              82,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Tremadocian",
+        "description": "Fill #009C6F",
+        "values": [
+         {
+          "fieldValues": [
+           "Tremadocian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              156,
+              111,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              93,
+              66,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Triassic",
+        "description": "Fill #81298F",
+        "values": [
+         {
+          "fieldValues": [
+           "Triassic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              129,
+              41,
+              143,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              77,
+              24,
+              85,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Turonian",
+        "description": "Fill #E7EDAD",
+        "values": [
+         {
+          "fieldValues": [
+           "Turonian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              231,
+              237,
+              173,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              138,
+              142,
+              103,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Upper (Late) Cretaceous",
+        "description": "Fill #E7EDAD",
+        "values": [
+         {
+          "fieldValues": [
+           "Upper (Late) Cretaceous"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              231,
+              237,
+              173,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              138,
+              142,
+              103,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Upper (Late) Devonian",
+        "description": "Fill #CDD1B4",
+        "values": [
+         {
+          "fieldValues": [
+           "Upper (Late) Devonian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              205,
+              209,
+              180,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              123,
+              125,
+              108,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Upper (Late) Jurassic",
+        "description": "Fill #A7E0EB",
+        "values": [
+         {
+          "fieldValues": [
+           "Upper (Late) Jurassic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              167,
+              224,
+              235,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              100,
+              134,
+              141,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Upper (Late) Mississippian",
+        "description": "Fill #729E8A",
+        "values": [
+         {
+          "fieldValues": [
+           "Upper (Late) Mississippian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              114,
+              158,
+              138,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              68,
+              94,
+              82,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Upper (Late) Ordovician",
+        "description": "Fill #5EC4B0",
+        "values": [
+         {
+          "fieldValues": [
+           "Upper (Late) Ordovician"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              94,
+              196,
+              176,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              56,
+              117,
+              105,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Upper (Late) Pennsylvanian",
+        "description": "Fill #95C5C7",
+        "values": [
+         {
+          "fieldValues": [
+           "Upper (Late) Pennsylvanian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              149,
+              197,
+              199,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              89,
+              118,
+              119,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Upper (Late) Pleistocene",
+        "description": "Fill #FFEEBD",
+        "values": [
+         {
+          "fieldValues": [
+           "Upper (Late) Pleistocene"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              238,
+              189,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              142,
+              113,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Upper (Late) Triassic",
+        "description": "Fill #E0CCE3",
+        "values": [
+         {
+          "fieldValues": [
+           "Upper (Late) Triassic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              224,
+              204,
+              227,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              134,
+              122,
+              136,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Valanginian",
+        "description": "Fill #2DB573",
+        "values": [
+         {
+          "fieldValues": [
+           "Valanginian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              45,
+              181,
+              115,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              27,
+              108,
+              69,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Visean",
+        "description": "Fill #729E8A",
+        "values": [
+         {
+          "fieldValues": [
+           "Visean"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              114,
+              158,
+              138,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              68,
+              94,
+              82,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Wenlock (Wenlockian)",
+        "description": "Fill #CAE6D1",
+        "values": [
+         {
+          "fieldValues": [
+           "Wenlock (Wenlockian)"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              202,
+              230,
+              209,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              121,
+              138,
+              125,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Wordian",
+        "description": "Fill #EDA372",
+        "values": [
+         {
+          "fieldValues": [
+           "Wordian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              237,
+              163,
+              114,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              142,
+              97,
+              68,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Wuchiapingian",
+        "description": "Fill #FAAAAF",
+        "values": [
+         {
+          "fieldValues": [
+           "Wuchiapingian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              250,
+              170,
+              175,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              150,
+              102,
+              105,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Ypresian",
+        "description": "Fill #FFCE5C",
+        "values": [
+         {
+          "fieldValues": [
+           "Ypresian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              206,
+              92,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              123,
+              55,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "Zanclean",
+        "description": "Fill #FFF8AD",
+        "values": [
+         {
+          "fieldValues": [
+           "Zanclean"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              248,
+              173,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              148,
+              103,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

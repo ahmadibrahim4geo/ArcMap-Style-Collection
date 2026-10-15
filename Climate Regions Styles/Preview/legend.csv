@@ -1,0 +1,31 @@
+﻿en,ar,R,G,B,category_en,category_ar
+Af Tropical rainforest,Af استوائي مطير,0,0,255,Tropical,مداري
+Am Tropical monsoon,Am مداري موسمي,0,120,255,Tropical,مداري
+Aw Tropical savannah,Aw مداري سافانا,70,170,250,Tropical,مداري
+BWh Arid desert hot,BWh صحراوي حار,255,0,0,Arid,جاف
+BWk Arid desert cold,BWk صحراوي بارد,255,150,150,Arid,جاف
+BSh Arid steppe hot,BSh سهبي حار,245,165,0,Arid,جاف
+BSk Arid steppe cold,BSk سهبي بارد,255,220,100,Arid,جاف
+Csa Temperate dry summer hot,Csa معتدل صيف جاف حار,255,255,0,Temperate,معتدل
+Csb Temperate dry summer warm,Csb معتدل صيف جاف دافئ,200,200,0,Temperate,معتدل
+Csc Temperate dry summer cold,Csc معتدل صيف جاف بارد,150,150,0,Temperate,معتدل
+Cwa Temperate dry winter hot,Cwa معتدل شتاء جاف حار,150,255,150,Temperate,معتدل
+Cwb Temperate dry winter warm,Cwb معتدل شتاء جاف دافئ,100,200,100,Temperate,معتدل
+Cwc Temperate dry winter cold,Cwc معتدل شتاء جاف بارد,50,150,50,Temperate,معتدل
+Cfa Temperate no dry hot,Cfa معتدل رطب حار,200,255,80,Temperate,معتدل
+Cfb Temperate no dry warm,Cfb معتدل رطب دافئ,100,255,80,Temperate,معتدل
+Cfc Temperate no dry cold,Cfc معتدل رطب بارد,50,200,0,Temperate,معتدل
+Dsa Cold dry summer hot,Dsa بارد صيف جاف حار,255,0,255,Cold,بارد
+Dsb Cold dry summer warm,Dsb بارد صيف جاف دافئ,200,0,200,Cold,بارد
+Dsc Cold dry summer cold,Dsc بارد صيف جاف بارد,150,50,150,Cold,بارد
+Dsd Cold dry summer very cold,Dsd بارد صيف جاف شديد البرودة,150,100,150,Cold,بارد
+Dwa Cold dry winter hot,Dwa بارد شتاء جاف حار,170,175,255,Cold,بارد
+Dwb Cold dry winter warm,Dwb بارد شتاء جاف دافئ,90,120,220,Cold,بارد
+Dwc Cold dry winter cold,Dwc بارد شتاء جاف بارد,75,80,180,Cold,بارد
+Dwd Cold dry winter very cold,Dwd بارد شتاء جاف شديد البرودة,50,0,135,Cold,بارد
+Dfa Cold no dry hot,Dfa بارد رطب حار,0,255,255,Cold,بارد
+Dfb Cold no dry warm,Dfb بارد رطب دافئ,55,200,255,Cold,بارد
+Dfc Cold no dry cold,Dfc بارد رطب بارد,0,125,125,Cold,بارد
+Dfd Cold no dry very cold,Dfd بارد رطب شديد البرودة,0,70,95,Cold,بارد
+ET Polar tundra,ET قطبي تندرا,178,178,178,Polar,قطبي
+EF Polar frost,EF قطبي جليدي,102,102,102,Polar,قطبي

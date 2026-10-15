@@ -1,0 +1,647 @@
+﻿field,id,key,original,arabic,new_value,status
+NAME,1,Primary Forest,Primary Forest,الغابة الأولية,الغابة الأولية | Primary Forest,translated
+CATEGORY,1,Primary Forest,Land Regulation,تنظيم الأراضي,تنظيم الأراضي | Land Regulation,translated
+NAME,2,Primary Forest-Wilderness,Primary Forest-Wilderness,الغابة الأولية - برية,الغابة الأولية - برية | Primary Forest-Wilderness,translated
+CATEGORY,2,Primary Forest-Wilderness,Land Regulation,تنظيم الأراضي,تنظيم الأراضي | Land Regulation,translated
+NAME,3,Land Admin by Other NF,Land Admin by Other NF,أراضٍ تديرها غابة وطنية أخرى,أراضٍ تديرها غابة وطنية أخرى | Land Admin by Other NF,translated
+CATEGORY,3,Land Admin by Other NF,Land Regulation,تنظيم الأراضي,تنظيم الأراضي | Land Regulation,translated
+NAME,4,BLM,BLM,,BLM,kept
+CATEGORY,4,BLM,Land Regulation,تنظيم الأراضي,تنظيم الأراضي | Land Regulation,translated
+NAME,5,Indian Reservations,Indian Reservations,محميات الهنود,محميات الهنود | Indian Reservations,translated
+CATEGORY,5,Indian Reservations,Land Regulation,تنظيم الأراضي,تنظيم الأراضي | Land Regulation,translated
+NAME,6,NPS and Federal,NPS and Federal,المتنزهات والفيدرالية,المتنزهات والفيدرالية | NPS and Federal,translated
+CATEGORY,6,NPS and Federal,Land Regulation,تنظيم الأراضي,تنظيم الأراضي | Land Regulation,translated
+NAME,7,State Public Use Land,State Public Use Land,أراضي الولاية للاستخدام العام,أراضي الولاية للاستخدام العام | State Public Use Land,translated
+CATEGORY,7,State Public Use Land,Land Regulation,تنظيم الأراضي,تنظيم الأراضي | Land Regulation,translated
+NAME,8,State Land Subj to Lease,State Land Subj to Lease,أراضي الولاية الخاضعة للتأجير,أراضي الولاية الخاضعة للتأجير | State Land Subj to Lease,translated
+CATEGORY,8,State Land Subj to Lease,Land Regulation,تنظيم الأراضي,تنظيم الأراضي | Land Regulation,translated
+NAME,9,Undesignated Exterior Area,Undesignated Exterior Area,منطقة,منطقة | Undesignated Exterior Area,translated
+CATEGORY,9,Undesignated Exterior Area,Land Regulation,تنظيم الأراضي,تنظيم الأراضي | Land Regulation,translated
+NAME,10,Brown Features and Type,Brown Features and Type,بني ظواهر و نوع,بني ظواهر و نوع | Brown Features and Type,translated
+CATEGORY,10,Brown Features and Type,Feature,ظاهرة,ظاهرة | Feature,translated
+NAME,11,Red Features and Type,Red Features and Type,أحمر ظواهر و نوع,أحمر ظواهر و نوع | Red Features and Type,translated
+CATEGORY,11,Red Features and Type,Feature,ظاهرة,ظاهرة | Feature,translated
+NAME,12,Black Features and Type,Black Features and Type,أسود ظواهر و نوع,أسود ظواهر و نوع | Black Features and Type,translated
+CATEGORY,12,Black Features and Type,Feature,ظاهرة,ظاهرة | Feature,translated
+NAME,13,Blue Features and Type,Blue Features and Type,أزرق ظواهر و نوع,أزرق ظواهر و نوع | Blue Features and Type,translated
+CATEGORY,13,Blue Features and Type,Feature,ظاهرة,ظاهرة | Feature,translated
+NAME,14,Water Areas,Water Areas,مناطق مائية,مناطق مائية | Water Areas,translated
+CATEGORY,14,Water Areas,Feature,ظاهرة,ظاهرة | Feature,translated
+NAME,15,Dark Green Route Overprint,Dark Green Route Overprint,داكن أخضر مسار,داكن أخضر مسار | Dark Green Route Overprint,translated
+CATEGORY,15,Dark Green Route Overprint,Feature,ظاهرة,ظاهرة | Feature,translated
+NAME,16,Light Green Route Overprint,Light Green Route Overprint,فاتح أخضر مسار,فاتح أخضر مسار | Light Green Route Overprint,translated
+CATEGORY,16,Light Green Route Overprint,Feature,ظاهرة,ظاهرة | Feature,translated
+NAME,17,Orange Route Overprint,Orange Route Overprint,برتقالي مسار,برتقالي مسار | Orange Route Overprint,translated
+CATEGORY,17,Orange Route Overprint,Feature,ظاهرة,ظاهرة | Feature,translated
+NAME,18,FT White-Red-Jack Pine,FT White-Red-Jack Pine,أبيض أحمر دفع صنوبر,أبيض أحمر دفع صنوبر | FT White-Red-Jack Pine,translated
+CATEGORY,18,FT White-Red-Jack Pine,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,19,FT Spruce-Fir,FT Spruce-Fir,,FT Spruce-Fir,kept
+CATEGORY,19,FT Spruce-Fir,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,20,FT Longleaf-Slash Pine,FT Longleaf-Slash Pine,مخلفات القطع صنوبر,مخلفات القطع صنوبر | FT Longleaf-Slash Pine,translated
+CATEGORY,20,FT Longleaf-Slash Pine,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,21,FT Loblolly-Shortleaf Pine,FT Loblolly-Shortleaf Pine,صنوبر,صنوبر | FT Loblolly-Shortleaf Pine,translated
+CATEGORY,21,FT Loblolly-Shortleaf Pine,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,22,FT Oak-Pine,FT Oak-Pine,صنوبر,صنوبر | FT Oak-Pine,translated
+CATEGORY,22,FT Oak-Pine,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,23,FT Oak-Hickory,FT Oak-Hickory,,FT Oak-Hickory,kept
+CATEGORY,23,FT Oak-Hickory,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,24,FT Oak-Gum-Cypress,FT Oak-Gum-Cypress,,FT Oak-Gum-Cypress,kept
+CATEGORY,24,FT Oak-Gum-Cypress,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,25,FT Elm-Ash-Cottonwood,FT Elm-Ash-Cottonwood,رماد,رماد | FT Elm-Ash-Cottonwood,translated
+CATEGORY,25,FT Elm-Ash-Cottonwood,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,26,FT Maple-Beech-Birch,FT Maple-Beech-Birch,,FT Maple-Beech-Birch,kept
+CATEGORY,26,FT Maple-Beech-Birch,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,27,FT Aspen-Birch,FT Aspen-Birch,,FT Aspen-Birch,kept
+CATEGORY,27,FT Aspen-Birch,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,28,FT Douglas-Fir,FT Douglas-Fir,,FT Douglas-Fir,kept
+CATEGORY,28,FT Douglas-Fir,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,29,FT Hemlock-Sitka Spruce,FT Hemlock-Sitka Spruce,,FT Hemlock-Sitka Spruce,kept
+CATEGORY,29,FT Hemlock-Sitka Spruce,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,30,FT Ponderosa Pine,FT Ponderosa Pine,صنوبر,صنوبر | FT Ponderosa Pine,translated
+CATEGORY,30,FT Ponderosa Pine,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,31,FT Western White Pine,FT Western White Pine,أبيض صنوبر,أبيض صنوبر | FT Western White Pine,translated
+CATEGORY,31,FT Western White Pine,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,32,FT Lodgepole Pine,FT Lodgepole Pine,صنوبر,صنوبر | FT Lodgepole Pine,translated
+CATEGORY,32,FT Lodgepole Pine,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,33,FT Larch,FT Larch,,FT Larch,kept
+CATEGORY,33,FT Larch,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,34,FT Fir-Spruce,FT Fir-Spruce,,FT Fir-Spruce,kept
+CATEGORY,34,FT Fir-Spruce,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,35,FT Redwood,FT Redwood,,FT Redwood,kept
+CATEGORY,35,FT Redwood,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,36,FT Chaparral,FT Chaparral,,FT Chaparral,kept
+CATEGORY,36,FT Chaparral,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,37,FT Pinyon-Juniper,FT Pinyon-Juniper,,FT Pinyon-Juniper,kept
+CATEGORY,37,FT Pinyon-Juniper,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,38,FT Western Hardwoods,FT Western Hardwoods,,FT Western Hardwoods,kept
+CATEGORY,38,FT Western Hardwoods,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,39,FT Aspen-Birch-Pine,FT Aspen-Birch-Pine,صنوبر,صنوبر | FT Aspen-Birch-Pine,translated
+CATEGORY,39,FT Aspen-Birch-Pine,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,40,FT Unforested,FT Unforested,,FT Unforested,kept
+CATEGORY,40,FT Unforested,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+NAME,41,Zeta Red,Zeta Red,أحمر,أحمر | Zeta Red,translated
+CATEGORY,41,Zeta Red,Other,أخرى,أخرى | Other,translated
+NAME,42,Hot Spot Red,Hot Spot Red,أحمر,أحمر | Hot Spot Red,translated
+CATEGORY,42,Hot Spot Red,Other,أخرى,أخرى | Other,translated
+NAME,43,Helispot Blue,Helispot Blue,مهبط مروحية أزرق,مهبط مروحية أزرق | Helispot Blue,translated
+CATEGORY,43,Helispot Blue,Other,أخرى,أخرى | Other,translated
+NAME,44,Base Blue,Base Blue,أزرق,أزرق | Base Blue,translated
+CATEGORY,44,Base Blue,Other,أخرى,أخرى | Other,translated
+NAME,45,Incident Blue,Incident Blue,أزرق,أزرق | Incident Blue,translated
+CATEGORY,45,Incident Blue,Other,أخرى,أخرى | Other,translated
+NAME,46,Free Diving Violet Blue,Free Diving Violet Blue,حرة الغوص أزرق,حرة الغوص أزرق | Free Diving Violet Blue,translated
+CATEGORY,46,Free Diving Violet Blue,Other,أخرى,أخرى | Other,translated
+NAME,47,Marker Red,Marker Red,علامة أحمر,علامة أحمر | Marker Red,translated
+CATEGORY,47,Marker Red,Other,أخرى,أخرى | Other,translated
+NAME,48,White,White,أبيض,أبيض | White,translated
+CATEGORY,48,White,Other,أخرى,أخرى | Other,translated
+NAME,49,Airport,Airport,مطار,مطار | Airport,translated
+CATEGORY,49,Airport,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,50,All Terrain Vehicle,All Terrain Vehicle,تضاريس مركبة,تضاريس مركبة | All Terrain Vehicle,translated
+CATEGORY,50,All Terrain Vehicle,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,51,Amphitheater 1,Amphitheater 1,مدرج,مدرج | Amphitheater 1,translated
+CATEGORY,51,Amphitheater 1,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,52,Archeological Site,Archeological Site,أثرية موقع,أثرية موقع | Archeological Site,translated
+CATEGORY,52,Archeological Site,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,53,ATV Trail 1,ATV Trail 1,مركبة رباعية درب,مركبة رباعية درب | ATV Trail 1,translated
+CATEGORY,53,ATV Trail 1,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,54,ATV Trail 2,ATV Trail 2,مركبة رباعية درب,مركبة رباعية درب | ATV Trail 2,translated
+CATEGORY,54,ATV Trail 2,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,55,Barrier Free Facilities,Barrier Free Facilities,بدون عوائق منشآت,بدون عوائق منشآت | Barrier Free Facilities,translated
+CATEGORY,55,Barrier Free Facilities,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,56,Bear Viewing Point,Bear Viewing Point,نقطة مشاهدة الدببة,نقطة مشاهدة الدببة | Bear Viewing Point,translated
+CATEGORY,56,Bear Viewing Point,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,57,Bicycle Trail,Bicycle Trail,دراجة درب,دراجة درب | Bicycle Trail,translated
+CATEGORY,57,Bicycle Trail,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,58,Bird Viewing,Bird Viewing,مشاهدة الطيور,مشاهدة الطيور | Bird Viewing,translated
+CATEGORY,58,Bird Viewing,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,59,Birdwatching Area,Birdwatching Area,منطقة,منطقة | Birdwatching Area,translated
+CATEGORY,59,Birdwatching Area,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,60,Boat Launch Ramp,Boat Launch Ramp,قارب إنزال منزلق,قارب إنزال منزلق | Boat Launch Ramp,translated
+CATEGORY,60,Boat Launch Ramp,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,61,Bus,Bus,حافلة,حافلة | Bus,translated
+CATEGORY,61,Bus,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,62,Campground,Campground,مخيم,مخيم | Campground,translated
+CATEGORY,62,Campground,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,63,Campground Fee,Campground Fee,مخيم رسم,مخيم رسم | Campground Fee,translated
+CATEGORY,63,Campground Fee,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,64,Campground Resident,Campground Resident,مخيم,مخيم | Campground Resident,translated
+CATEGORY,64,Campground Resident,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,65,Canoeing,Canoeing,,Canoeing,kept
+CATEGORY,65,Canoeing,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,66,Caution: Squirrels,Caution: Squirrels,,Caution: Squirrels,kept
+CATEGORY,66,Caution: Squirrels,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,67,Coniferous Trees,Coniferous Trees,صنوبرية أشجار,صنوبرية أشجار | Coniferous Trees,translated
+CATEGORY,67,Coniferous Trees,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,68,Cross Country Skiing,Cross Country Skiing,تقاطع التزلج,تقاطع التزلج | Cross Country Skiing,translated
+CATEGORY,68,Cross Country Skiing,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,69,Dam,Dam,سد,سد | Dam,translated
+CATEGORY,69,Dam,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,70,Danger,Danger,خطر,خطر | Danger,translated
+CATEGORY,70,Danger,Warning,تحذير,تحذير | Warning,translated
+NAME,71,Deer Viewing,Deer Viewing,المشاهدة,المشاهدة | Deer Viewing,translated
+CATEGORY,71,Deer Viewing,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,72,Diving,Diving,الغوص,الغوص | Diving,translated
+CATEGORY,72,Diving,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,73,Dog Area,Dog Area,منطقة,منطقة | Dog Area,translated
+CATEGORY,73,Dog Area,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,74,Downhill Skiing,Downhill Skiing,التزلج,التزلج | Downhill Skiing,translated
+CATEGORY,74,Downhill Skiing,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,75,Drinking Water,Drinking Water,مياه الشرب,مياه الشرب | Drinking Water,translated
+CATEGORY,75,Drinking Water,Facilities,منشآت,منشآت | Facilities,translated
+NAME,76,Environmental Study Area,Environmental Study Area,منطقة,منطقة | Environmental Study Area,translated
+CATEGORY,76,Environmental Study Area,Warning,تحذير,تحذير | Warning,translated
+NAME,77,Falling Rocks,Falling Rocks,,Falling Rocks,kept
+CATEGORY,77,Falling Rocks,Warning,تحذير,تحذير | Warning,translated
+NAME,78,Fee Area 1,Fee Area 1,رسم منطقة,رسم منطقة | Fee Area 1,translated
+CATEGORY,78,Fee Area 1,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,79,Fee Area 2,Fee Area 2,رسم منطقة,رسم منطقة | Fee Area 2,translated
+CATEGORY,79,Fee Area 2,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,80,Fire,Fire,حريق,حريق | Fire,translated
+CATEGORY,80,Fire,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,81,Firearms,Firearms,أسلحة نارية,أسلحة نارية | Firearms,translated
+CATEGORY,81,Firearms,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,82,Firewood,Firewood,,Firewood,kept
+CATEGORY,82,Firewood,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,83,Firewood Gathering Area,Firewood Gathering Area,تجميع منطقة,تجميع منطقة | Firewood Gathering Area,translated
+CATEGORY,83,Firewood Gathering Area,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,84,First Aid 1,First Aid 1,الأول,الأول | First Aid 1,translated
+CATEGORY,84,First Aid 1,Facilities,منشآت,منشآت | Facilities,translated
+NAME,85,First Aid 2,First Aid 2,الأول,الأول | First Aid 2,translated
+CATEGORY,85,First Aid 2,Facilities,منشآت,منشآت | Facilities,translated
+NAME,86,Fish Hatchery,Fish Hatchery,أسماك,أسماك | Fish Hatchery,translated
+CATEGORY,86,Fish Hatchery,Facilities,منشآت,منشآت | Facilities,translated
+NAME,87,Fishing Area,Fishing Area,صيد الأسماك منطقة,صيد الأسماك منطقة | Fishing Area,translated
+CATEGORY,87,Fishing Area,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,88,Freediving,Freediving,,Freediving,kept
+CATEGORY,88,Freediving,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,89,Gasoline Station,Gasoline Station,محطة,محطة | Gasoline Station,translated
+CATEGORY,89,Gasoline Station,Facilities,منشآت,منشآت | Facilities,translated
+NAME,90,"Gasoline, Diesel","Gasoline, Diesel",,"Gasoline, Diesel",kept
+CATEGORY,90,"Gasoline, Diesel",Facilities,منشآت,منشآت | Facilities,translated
+NAME,91,Grocery Store,Grocery Store,متجر,متجر | Grocery Store,translated
+CATEGORY,91,Grocery Store,Facilities,منشآت,منشآت | Facilities,translated
+NAME,92,Hangliding,Hangliding,,Hangliding,kept
+CATEGORY,92,Hangliding,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,93,Heliport,Heliport,مهبط مروحيات,مهبط مروحيات | Heliport,translated
+CATEGORY,93,Heliport,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,94,Hiking Trail,Hiking Trail,المشي درب,المشي درب | Hiking Trail,translated
+CATEGORY,94,Hiking Trail,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,95,Historical Site,Historical Site,تاريخية موقع,تاريخية موقع | Historical Site,translated
+CATEGORY,95,Historical Site,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,96,Horse Area,Horse Area,خيل منطقة,خيل منطقة | Horse Area,translated
+CATEGORY,96,Horse Area,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,97,Horse Boarding,Horse Boarding,خيل,خيل | Horse Boarding,translated
+CATEGORY,97,Horse Boarding,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,98,Horse Trail,Horse Trail,خيل درب,خيل درب | Horse Trail,translated
+CATEGORY,98,Horse Trail,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,99,Horseback Riding Trail,Horseback Riding Trail,درب,درب | Horseback Riding Trail,translated
+CATEGORY,99,Horseback Riding Trail,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,100,Ice Skating,Ice Skating,جليد تزلج على الجليد,جليد تزلج على الجليد | Ice Skating,translated
+CATEGORY,100,Ice Skating,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,101,Information 1,Information 1,معلومات,معلومات | Information 1,translated
+CATEGORY,101,Information 1,Facilities,منشآت,منشآت | Facilities,translated
+NAME,102,Information 2,Information 2,معلومات,معلومات | Information 2,translated
+CATEGORY,102,Information 2,Facilities,منشآت,منشآت | Facilities,translated
+NAME,103,Inner Tube,Inner Tube,أنبوب داخلي,أنبوب داخلي | Inner Tube,translated
+CATEGORY,103,Inner Tube,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,104,Interpretive Auto Trail,Interpretive Auto Trail,توعوي درب,توعوي درب | Interpretive Auto Trail,translated
+CATEGORY,104,Interpretive Auto Trail,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,105,Interpretive Trail,Interpretive Trail,توعوي درب,توعوي درب | Interpretive Trail,translated
+CATEGORY,105,Interpretive Trail,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,106,Kayaking,Kayaking,,Kayaking,kept
+CATEGORY,106,Kayaking,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,107,Kennel,Kennel,,Kennel,kept
+CATEGORY,107,Kennel,Facilities,منشآت,منشآت | Facilities,translated
+NAME,108,Laundry Facilities,Laundry Facilities,منشآت,منشآت | Laundry Facilities,translated
+CATEGORY,108,Laundry Facilities,Facilities,منشآت,منشآت | Facilities,translated
+NAME,109,Lighthouse,Lighthouse,منارة,منارة | Lighthouse,translated
+CATEGORY,109,Lighthouse,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,110,Lockers,Lockers,,Lockers,kept
+CATEGORY,110,Lockers,Facilities,منشآت,منشآت | Facilities,translated
+NAME,111,Lodging,Lodging,,Lodging,kept
+CATEGORY,111,Lodging,Facilities,منشآت,منشآت | Facilities,translated
+NAME,112,Lookout Tower,Lookout Tower,برج مراقبة برج,برج مراقبة برج | Lookout Tower,translated
+CATEGORY,112,Lookout Tower,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,113,Maintained Trail,Maintained Trail,درب,درب | Maintained Trail,translated
+CATEGORY,113,Maintained Trail,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,114,Marina,Marina,مرسى,مرسى | Marina,translated
+CATEGORY,114,Marina,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,115,Mechanic,Mechanic,,Mechanic,kept
+CATEGORY,115,Mechanic,Facilities,منشآت,منشآت | Facilities,translated
+NAME,116,Mining Area,Mining Area,تعدين منطقة,تعدين منطقة | Mining Area,translated
+CATEGORY,116,Mining Area,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,117,Motorboating,Motorboating,,Motorboating,kept
+CATEGORY,117,Motorboating,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,118,NO All Terrain Vehicle,NO All Terrain Vehicle,تضاريس مركبة,تضاريس مركبة | NO All Terrain Vehicle,translated
+CATEGORY,118,NO All Terrain Vehicle,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,119,NO Diving,NO Diving,الغوص,الغوص | NO Diving,translated
+CATEGORY,119,NO Diving,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,120,NO Dogs,NO Dogs,,NO Dogs,kept
+CATEGORY,120,NO Dogs,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,121,NO Drinking Water,NO Drinking Water,مياه الشرب,مياه الشرب | NO Drinking Water,translated
+CATEGORY,121,NO Drinking Water,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,122,NO Firearms,NO Firearms,أسلحة نارية,أسلحة نارية | NO Firearms,translated
+CATEGORY,122,NO Firearms,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,123,NO Fires,NO Fires,,NO Fires,kept
+CATEGORY,123,NO Fires,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,124,NO Fishing,NO Fishing,صيد الأسماك,صيد الأسماك | NO Fishing,translated
+CATEGORY,124,NO Fishing,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,125,NO Parking,NO Parking,موقف,موقف | NO Parking,translated
+CATEGORY,125,NO Parking,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,126,NO Smoking Area,NO Smoking Area,منطقة,منطقة | NO Smoking Area,translated
+CATEGORY,126,NO Smoking Area,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,127,NO Swimming,NO Swimming,السباحة,السباحة | NO Swimming,translated
+CATEGORY,127,NO Swimming,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,128,NO Wading,NO Wading,الخوض,الخوض | NO Wading,translated
+CATEGORY,128,NO Wading,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,129,Off Road Motorcycle Parking,Off Road Motorcycle Parking,طريق موقف,طريق موقف | Off Road Motorcycle Parking,translated
+CATEGORY,129,Off Road Motorcycle Parking,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,130,Off Road Motorcycle Trail,Off Road Motorcycle Trail,طريق درب,طريق درب | Off Road Motorcycle Trail,translated
+CATEGORY,130,Off Road Motorcycle Trail,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,131,Off Road Vehicle,Off Road Vehicle,طريق مركبة,طريق مركبة | Off Road Vehicle,translated
+CATEGORY,131,Off Road Vehicle,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,132,Parasailing,Parasailing,,Parasailing,kept
+CATEGORY,132,Parasailing,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,133,Parking 1,Parking 1,موقف,موقف | Parking 1,translated
+CATEGORY,133,Parking 1,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,134,Parking 2,Parking 2,موقف,موقف | Parking 2,translated
+CATEGORY,134,Parking 2,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,135,Picnic Area,Picnic Area,منطقة نزهة,منطقة نزهة | Picnic Area,translated
+CATEGORY,135,Picnic Area,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,136,Picnic Shelter,Picnic Shelter,نزهة مأوى,نزهة مأوى | Picnic Shelter,translated
+CATEGORY,136,Picnic Shelter,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,137,Point of Interest 1,Point of Interest 1,نقطة,نقطة | Point of Interest 1,translated
+CATEGORY,137,Point of Interest 1,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,138,Point of Interest 2,Point of Interest 2,نقطة,نقطة | Point of Interest 2,translated
+CATEGORY,138,Point of Interest 2,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,139,Post Office,Post Office,مكتب بريد,مكتب بريد | Post Office,translated
+CATEGORY,139,Post Office,Facilities,منشآت,منشآت | Facilities,translated
+NAME,140,Radio,Radio,,Radio,kept
+CATEGORY,140,Radio,Facilities,منشآت,منشآت | Facilities,translated
+NAME,141,Rafting 1,Rafting 1,,Rafting 1,kept
+CATEGORY,141,Rafting 1,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,142,Ranger Station,Ranger Station,مركز الحراسة,مركز الحراسة | Ranger Station,translated
+CATEGORY,142,Ranger Station,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,143,Raptors,Raptors,,Raptors,kept
+CATEGORY,143,Raptors,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,144,Refuse,Refuse,,Refuse,kept
+CATEGORY,144,Refuse,Facilities,منشآت,منشآت | Facilities,translated
+NAME,145,Restaurant / Food,Restaurant / Food,مطعم,مطعم | Restaurant / Food,translated
+CATEGORY,145,Restaurant / Food,Facilities,منشآت,منشآت | Facilities,translated
+NAME,146,"Restroom, Men","Restroom, Men",دورات مياه رجال,"دورات مياه رجال | Restroom, Men",translated
+CATEGORY,146,"Restroom, Men",Facilities,منشآت,منشآت | Facilities,translated
+NAME,147,"Restroom, Women","Restroom, Women",دورات مياه نساء,"دورات مياه نساء | Restroom, Women",translated
+CATEGORY,147,"Restroom, Women",Facilities,منشآت,منشآت | Facilities,translated
+NAME,148,Restrooms,Restrooms,,Restrooms,kept
+CATEGORY,148,Restrooms,Facilities,منشآت,منشآت | Facilities,translated
+NAME,149,Rock Climbing,Rock Climbing,تسلق الصخور,تسلق الصخور | Rock Climbing,translated
+CATEGORY,149,Rock Climbing,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,150,Rock Collecting,Rock Collecting,صخر,صخر | Rock Collecting,translated
+CATEGORY,150,Rock Collecting,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,151,Rowboating,Rowboating,,Rowboating,kept
+CATEGORY,151,Rowboating,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,152,Sailing,Sailing,,Sailing,kept
+CATEGORY,152,Sailing,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,153,Scuba Diving,Scuba Diving,الغوص,الغوص | Scuba Diving,translated
+CATEGORY,153,Scuba Diving,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,154,Shooting Range,Shooting Range,رماية مرعى,رماية مرعى | Shooting Range,translated
+CATEGORY,154,Shooting Range,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,155,Shower,Shower,دش,دش | Shower,translated
+CATEGORY,155,Shower,Facilities,منشآت,منشآت | Facilities,translated
+NAME,156,Ski Bobbing,Ski Bobbing,تزلج,تزلج | Ski Bobbing,translated
+CATEGORY,156,Ski Bobbing,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,157,Ski Jumping,Ski Jumping,تزلج,تزلج | Ski Jumping,translated
+CATEGORY,157,Ski Jumping,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,158,Ski Racing,Ski Racing,تزلج سباق,تزلج سباق | Ski Racing,translated
+CATEGORY,158,Ski Racing,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,159,Sledding,Sledding,الزلاجات,الزلاجات | Sledding,translated
+CATEGORY,159,Sledding,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,160,Sleeping Shelter,Sleeping Shelter,مأوى النوم,مأوى النوم | Sleeping Shelter,translated
+CATEGORY,160,Sleeping Shelter,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,161,Smoking Area,Smoking Area,منطقة,منطقة | Smoking Area,translated
+CATEGORY,161,Smoking Area,Facilities,منشآت,منشآت | Facilities,translated
+NAME,162,Snomobile Parking,Snomobile Parking,موقف,موقف | Snomobile Parking,translated
+CATEGORY,162,Snomobile Parking,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,163,Snow Shoeing,Snow Shoeing,المشي بالأحذية الثلجية,المشي بالأحذية الثلجية | Snow Shoeing,translated
+CATEGORY,163,Snow Shoeing,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,164,Snowmobile Trail,Snowmobile Trail,عربة ثلجية درب,عربة ثلجية درب | Snowmobile Trail,translated
+CATEGORY,164,Snowmobile Trail,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,165,Spelunking or Caves,Spelunking or Caves,استكشاف الكهوف,استكشاف الكهوف | Spelunking or Caves,translated
+CATEGORY,165,Spelunking or Caves,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,166,Steep Bicycle Trail,Steep Bicycle Trail,درب دراجات شديد الانحدار,درب دراجات شديد الانحدار | Steep Bicycle Trail,translated
+CATEGORY,166,Steep Bicycle Trail,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,167,Surfing,Surfing,ركوب الأمواج,ركوب الأمواج | Surfing,translated
+CATEGORY,167,Surfing,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,168,Swimming,Swimming,السباحة,السباحة | Swimming,translated
+CATEGORY,168,Swimming,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,169,Technical Rock Climbing,Technical Rock Climbing,التسلق الصخري الفني,التسلق الصخري الفني | Technical Rock Climbing,translated
+CATEGORY,169,Technical Rock Climbing,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,170,Telephone 1,Telephone 1,هاتف,هاتف | Telephone 1,translated
+CATEGORY,170,Telephone 1,Facilities,منشآت,منشآت | Facilities,translated
+NAME,171,Tent,Tent,خيمة,خيمة | Tent,translated
+CATEGORY,171,Tent,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,172,Trail Shelter,Trail Shelter,مأوى الدرب,مأوى الدرب | Trail Shelter,translated
+CATEGORY,172,Trail Shelter,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,173,Trail Sign,Trail Sign,لافتة الدرب,لافتة الدرب | Trail Sign,translated
+CATEGORY,173,Trail Sign,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,174,Trailer Sanitary Station,Trailer Sanitary Station,المحطة الصحية للمقطورات,المحطة الصحية للمقطورات | Trailer Sanitary Station,translated
+CATEGORY,174,Trailer Sanitary Station,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,175,Trailer Sites,Trailer Sites,مواقع المقطورات,مواقع المقطورات | Trailer Sites,translated
+CATEGORY,175,Trailer Sites,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,176,Trailhead (left),Trailhead (left),بداية الدرب يسار,بداية الدرب يسار | Trailhead (left),translated
+CATEGORY,176,Trailhead (left),Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,177,Trailhead (right),Trailhead (right),بداية الدرب يمين,بداية الدرب يمين | Trailhead (right),translated
+CATEGORY,177,Trailhead (right),Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,178,Tramway,Tramway,,Tramway,kept
+CATEGORY,178,Tramway,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,179,Tree Conservation Area,Tree Conservation Area,منطقة صون الأشجار,منطقة صون الأشجار | Tree Conservation Area,translated
+CATEGORY,179,Tree Conservation Area,Warning,تحذير,تحذير | Warning,translated
+NAME,180,Trucks,Trucks,شاحنات,شاحنات | Trucks,translated
+CATEGORY,180,Trucks,Warning,تحذير,تحذير | Warning,translated
+NAME,181,Tunnel,Tunnel,نفق,نفق | Tunnel,translated
+CATEGORY,181,Tunnel,Warning,تحذير,تحذير | Warning,translated
+NAME,182,Vehicle Ferry,Vehicle Ferry,مركبة عبارة,مركبة عبارة | Vehicle Ferry,translated
+CATEGORY,182,Vehicle Ferry,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,183,Vehicles,Vehicles,مركبات,مركبات | Vehicles,translated
+CATEGORY,183,Vehicles,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,184,Viewing Area 1,Viewing Area 1,منطقة مشاهدة,منطقة مشاهدة | Viewing Area 1,translated
+CATEGORY,184,Viewing Area 1,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,185,"Viewing Area, Photo Spot","Viewing Area, Photo Spot",منطقة مشاهدة، موقع تصوير,"منطقة مشاهدة، موقع تصوير | Viewing Area, Photo Spot",translated
+CATEGORY,185,"Viewing Area, Photo Spot",Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,186,Wading,Wading,الخوض,الخوض | Wading,translated
+CATEGORY,186,Wading,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,187,Water Bucket,Water Bucket,دلو المياه,دلو المياه | Water Bucket,translated
+CATEGORY,187,Water Bucket,Facilities,منشآت,منشآت | Facilities,translated
+NAME,188,Water Recreation,Water Recreation,الترفيه المائي,الترفيه المائي | Water Recreation,translated
+CATEGORY,188,Water Recreation,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,189,Water Skiing,Water Skiing,التزلج المائي,التزلج المائي | Water Skiing,translated
+CATEGORY,189,Water Skiing,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,190,Wind Racing,Wind Racing,رياح سباق,رياح سباق | Wind Racing,translated
+CATEGORY,190,Wind Racing,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,191,Wind Surfing,Wind Surfing,ركوب الشراع,ركوب الشراع | Wind Surfing,translated
+CATEGORY,191,Wind Surfing,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,192,Winter Recreation,Winter Recreation,الترفيه الشتوي,الترفيه الشتوي | Winter Recreation,translated
+CATEGORY,192,Winter Recreation,Recreation,ترفيه,ترفيه | Recreation,translated
+NAME,193,Fire Origin,Fire Origin,حريق,حريق | Fire Origin,translated
+CATEGORY,193,Fire Origin,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,194,Incident Command Post,Incident Command Post,بعد,بعد | Incident Command Post,translated
+CATEGORY,194,Incident Command Post,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,195,Incident Base,Incident Base,,Incident Base,kept
+CATEGORY,195,Incident Base,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,196,Camp,Camp,مخيم,مخيم | Camp,translated
+CATEGORY,196,Camp,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,197,Helibase,Helibase,,Helibase,kept
+CATEGORY,197,Helibase,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,198,"Repeater, Mobile Relay","Repeater, Mobile Relay",,"Repeater, Mobile Relay",kept
+CATEGORY,198,"Repeater, Mobile Relay",Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,199,Telephone,Telephone,هاتف,هاتف | Telephone,translated
+CATEGORY,199,Telephone,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,200,Fire Station,Fire Station,محطة إطفاء,محطة إطفاء | Fire Station,translated
+CATEGORY,200,Fire Station,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,201,Water Source,Water Source,مصدر مياه,مصدر مياه | Water Source,translated
+CATEGORY,201,Water Source,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,202,Mobile Weather Unit,Mobile Weather Unit,وحدة,وحدة | Mobile Weather Unit,translated
+CATEGORY,202,Mobile Weather Unit,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,203,IR Down Link,IR Down Link,وصلة,وصلة | IR Down Link,translated
+CATEGORY,203,IR Down Link,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,204,Staging Area,Staging Area,منطقة التجميع,منطقة التجميع | Staging Area,translated
+CATEGORY,204,Staging Area,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,205,Spot Fire,Spot Fire,حريق بؤري,حريق بؤري | Spot Fire,translated
+CATEGORY,205,Spot Fire,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,206,"Specified Bridge, B (T) 5.2","Specified Bridge, B (T) 5.2",جسر,"جسر | Specified Bridge, B (T) 5.2",translated
+CATEGORY,206,"Specified Bridge, B (T) 5.2",Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,207,Hot Spot,Hot Spot,,Hot Spot,kept
+CATEGORY,207,Hot Spot,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,208,Specified Cattleguard,Specified Cattleguard,حاجز الماشية المحدد,حاجز الماشية المحدد | Specified Cattleguard,translated
+CATEGORY,208,Specified Cattleguard,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,209,Wind Speed Direction,Wind Speed Direction,اتجاه سرعة الرياح,اتجاه سرعة الرياح | Wind Speed Direction,translated
+CATEGORY,209,Wind Speed Direction,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,210,First Aid Station,First Aid Station,الأول محطة,الأول محطة | First Aid Station,translated
+CATEGORY,210,First Aid Station,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,211,Helispot,Helispot,مهبط مروحية,مهبط مروحية | Helispot,translated
+CATEGORY,211,Helispot,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,212,Branches,Branches,,Branches,kept
+CATEGORY,212,Branches,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+NAME,213,T01 Payment Unit Number,T01 Payment Unit Number,وحدة,وحدة | T01 Payment Unit Number,translated
+CATEGORY,213,T01 Payment Unit Number,Timber,أخشاب,أخشاب | Timber,translated
+NAME,214,T02 Material Sources,T02 Material Sources,مواد,مواد | T02 Material Sources,translated
+CATEGORY,214,T02 Material Sources,Timber,أخشاب,أخشاب | Timber,translated
+NAME,215,T03 Required Logging Equipment,T03 Required Logging Equipment,معدات قطع الأشجار المطلوبة,معدات قطع الأشجار المطلوبة | T03 Required Logging Equipment,translated
+CATEGORY,215,T03 Required Logging Equipment,Timber,أخشاب,أخشاب | Timber,translated
+NAME,216,T04 Logging Equipment Prohibited,T04 Logging Equipment Prohibited,معدات قطع الأشجار محظورة,معدات قطع الأشجار محظورة | T04 Logging Equipment Prohibited,translated
+CATEGORY,216,T04 Logging Equipment Prohibited,Timber,أخشاب,أخشاب | Timber,translated
+NAME,217,T05 Directional Felling Required,T05 Directional Felling Required,القطع الاتجاهي,القطع الاتجاهي | T05 Directional Felling Required,translated
+CATEGORY,217,T05 Directional Felling Required,Timber,أخشاب,أخشاب | Timber,translated
+NAME,218,T06 Slash Treatment,T06 Slash Treatment,معالجة مخلفات القطع,معالجة مخلفات القطع | T06 Slash Treatment,translated
+CATEGORY,218,T06 Slash Treatment,Timber,أخشاب,أخشاب | Timber,translated
+NAME,219,T07 Lop and Scatter,T07 Lop and Scatter,التقطيع والنثر,التقطيع والنثر | T07 Lop and Scatter,translated
+CATEGORY,219,T07 Lop and Scatter,Timber,أخشاب,أخشاب | Timber,translated
+NAME,220,T08 Slash Disposal at RCW,T08 Slash Disposal at RCW,التخلص من مخلفات القطع عند,التخلص من مخلفات القطع عند | T08 Slash Disposal at RCW,translated
+CATEGORY,220,T08 Slash Disposal at RCW,Timber,أخشاب,أخشاب | Timber,translated
+NAME,221,T09 Other Designated Areas,T09 Other Designated Areas,أخرى مناطق,أخرى مناطق | T09 Other Designated Areas,translated
+CATEGORY,221,T09 Other Designated Areas,Timber,أخشاب,أخشاب | Timber,translated
+NAME,222,T10 Wetlands Protection,T10 Wetlands Protection,حماية الأراضي الرطبة,حماية الأراضي الرطبة | T10 Wetlands Protection,translated
+CATEGORY,222,T10 Wetlands Protection,Timber,أخشاب,أخشاب | Timber,translated
+NAME,223,T11 Cable Yarding Required 1,T11 Cable Yarding Required 1,السحب بالكابلات,السحب بالكابلات | T11 Cable Yarding Required 1,translated
+CATEGORY,223,T11 Cable Yarding Required 1,Timber,أخشاب,أخشاب | Timber,translated
+NAME,224,T12 F,T12 F,,T12 F,kept
+CATEGORY,224,T12 F,Timber,أخشاب,أخشاب | Timber,translated
+NAME,225,T13 Specific Road Clearing Units,T13 Specific Road Clearing Units,تطهير الطريق,تطهير الطريق | T13 Specific Road Clearing Units,translated
+CATEGORY,225,T13 Specific Road Clearing Units,Timber,أخشاب,أخشاب | Timber,translated
+NAME,226,T14 Protection of Improvements,T14 Protection of Improvements,حماية المنشآت,حماية المنشآت | T14 Protection of Improvements,translated
+CATEGORY,226,T14 Protection of Improvements,Timber,أخشاب,أخشاب | Timber,translated
+NAME,227,T15 Protection of Special Areas,T15 Protection of Special Areas,حماية المناطق الخاصة,حماية المناطق الخاصة | T15 Protection of Special Areas,translated
+CATEGORY,227,T15 Protection of Special Areas,Timber,أخشاب,أخشاب | Timber,translated
+NAME,228,T16 Protection of Cultural Resources,T16 Protection of Cultural Resources,حماية الموارد الثقافية,حماية الموارد الثقافية | T16 Protection of Cultural Resources,translated
+CATEGORY,228,T16 Protection of Cultural Resources,Timber,أخشاب,أخشاب | Timber,translated
+NAME,229,T17 Protection of Habitat or Species,T17 Protection of Habitat or Species,حماية الموطن أو الأنواع,حماية الموطن أو الأنواع | T17 Protection of Habitat or Species,translated
+CATEGORY,229,T17 Protection of Habitat or Species,Timber,أخشاب,أخشاب | Timber,translated
+NAME,230,T18 Protect Known Survey Mon.,T18 Protect Known Survey Mon.,علامة مساحية معروفة,علامة مساحية معروفة | T18 Protect Known Survey Mon.,translated
+CATEGORY,230,T18 Protect Known Survey Mon.,Timber,أخشاب,أخشاب | Timber,translated
+NAME,231,T19 Protect RCW Colony,T19 Protect RCW Colony,حماية مستعمرة RCW,حماية مستعمرة RCW | T19 Protect RCW Colony,translated
+CATEGORY,231,T19 Protect RCW Colony,Timber,أخشاب,أخشاب | Timber,translated
+NAME,232,T20 Reserve Trees,T20 Reserve Trees,أشجار مُبقاة,أشجار مُبقاة | T20 Reserve Trees,translated
+CATEGORY,232,T20 Reserve Trees,Timber,أخشاب,أخشاب | Timber,translated
+NAME,233,T21 Traffic Control Devices,T21 Traffic Control Devices,أجهزة ضبط المرور,أجهزة ضبط المرور | T21 Traffic Control Devices,translated
+CATEGORY,233,T21 Traffic Control Devices,Timber,أخشاب,أخشاب | Timber,translated
+NAME,234,T22 Winching Required,T22 Winching Required,,T22 Winching Required,kept
+CATEGORY,234,T22 Winching Required,Timber,أخشاب,أخشاب | Timber,translated
+NAME,235,T23 Clearcutting Unit,T23 Clearcutting Unit,وحدة القطع الشامل,وحدة القطع الشامل | T23 Clearcutting Unit,translated
+CATEGORY,235,T23 Clearcutting Unit,Timber,أخشاب,أخشاب | Timber,translated
+NAME,236,T24 Cut Tree Marking Unit,T24 Cut Tree Marking Unit,وسم الأشجار المقطوعة وحدة,وسم الأشجار المقطوعة وحدة | T24 Cut Tree Marking Unit,translated
+CATEGORY,236,T24 Cut Tree Marking Unit,Timber,أخشاب,أخشاب | Timber,translated
+NAME,237,T25 Leave Tree Marking Unit,T25 Leave Tree Marking Unit,وسم الأشجار المتروكة وحدة,وسم الأشجار المتروكة وحدة | T25 Leave Tree Marking Unit,translated
+CATEGORY,237,T25 Leave Tree Marking Unit,Timber,أخشاب,أخشاب | Timber,translated
+NAME,238,T26 Overstory Removal Unit,T26 Overstory Removal Unit,إزالة الطبقة العليا وحدة,إزالة الطبقة العليا وحدة | T26 Overstory Removal Unit,translated
+CATEGORY,238,T26 Overstory Removal Unit,Timber,أخشاب,أخشاب | Timber,translated
+NAME,239,T27 Understory Removal Unit,T27 Understory Removal Unit,وحدة إزالة الطبقة السفلية,وحدة إزالة الطبقة السفلية | T27 Understory Removal Unit,translated
+CATEGORY,239,T27 Understory Removal Unit,Timber,أخشاب,أخشاب | Timber,translated
+NAME,240,T28 Treatment of Residual Trees,T28 Treatment of Residual Trees,معالجة الأشجار المتبقية,معالجة الأشجار المتبقية | T28 Treatment of Residual Trees,translated
+CATEGORY,240,T28 Treatment of Residual Trees,Timber,أخشاب,أخشاب | Timber,translated
+NAME,241,T29 Area Designation Units,T29 Area Designation Units,تعيين المنطقة,تعيين المنطقة | T29 Area Designation Units,translated
+CATEGORY,241,T29 Area Designation Units,Timber,أخشاب,أخشاب | Timber,translated
+NAME,242,T30 Group Selection Units,T30 Group Selection Units,وحدات الاختيار المجموعي,وحدات الاختيار المجموعي | T30 Group Selection Units,translated
+CATEGORY,242,T30 Group Selection Units,Timber,أخشاب,أخشاب | Timber,translated
+NAME,243,T31 Group Selection - Designation,T31 Group Selection - Designation,الاختيار المجموعي,الاختيار المجموعي | T31 Group Selection - Designation,translated
+CATEGORY,243,T31 Group Selection - Designation,Timber,أخشاب,أخشاب | Timber,translated
+NAME,244,T32 Plantation Row Thinning,T32 Plantation Row Thinning,تخفيف صفوف المزرعة,تخفيف صفوف المزرعة | T32 Plantation Row Thinning,translated
+CATEGORY,244,T32 Plantation Row Thinning,Timber,أخشاب,أخشاب | Timber,translated
+NAME,245,T33 Designation by Description,T33 Designation by Description,بواسطة,بواسطة | T33 Designation by Description,translated
+CATEGORY,245,T33 Designation by Description,Timber,أخشاب,أخشاب | Timber,translated
+NAME,246,T34 Road Number,T34 Road Number,طريق,طريق | T34 Road Number,translated
+CATEGORY,246,T34 Road Number,Timber,أخشاب,أخشاب | Timber,translated
+NAME,247,T35 Prehaul Maintenance,T35 Prehaul Maintenance,قبل النقل صيانة,قبل النقل صيانة | T35 Prehaul Maintenance,translated
+CATEGORY,247,T35 Prehaul Maintenance,Timber,أخشاب,أخشاب | Timber,translated
+NAME,248,T36 Keep Open,T36 Keep Open,يُبقى مفتوحاً,يُبقى مفتوحاً | T36 Keep Open,translated
+CATEGORY,248,T36 Keep Open,Timber,أخشاب,أخشاب | Timber,translated
+NAME,249,T37 Protected Streamcourse,T37 Protected Streamcourse,محمية,محمية | T37 Protected Streamcourse,translated
+CATEGORY,249,T37 Protected Streamcourse,Timber,أخشاب,أخشاب | Timber,translated
+NAME,250,T38 Specified Gate,T38 Specified Gate,البوابة المحددة,البوابة المحددة | T38 Specified Gate,translated
+CATEGORY,250,T38 Specified Gate,Timber,أخشاب,أخشاب | Timber,translated
+NAME,251,T39 Specified Bridge Construction,T39 Specified Bridge Construction,إنشاء الجسر المحدد,إنشاء الجسر المحدد | T39 Specified Bridge Construction,translated
+CATEGORY,251,T39 Specified Bridge Construction,Timber,أخشاب,أخشاب | Timber,translated
+NAME,252,T40 Specified Exit Ramp,T40 Specified Exit Ramp,منحدر الخروج المحدد,منحدر الخروج المحدد | T40 Specified Exit Ramp,translated
+CATEGORY,252,T40 Specified Exit Ramp,Timber,أخشاب,أخشاب | Timber,translated
+NAME,253,T41 Bridge,T41 Bridge,جسر,جسر | T41 Bridge,translated
+CATEGORY,253,T41 Bridge,Timber,أخشاب,أخشاب | Timber,translated
+NAME,254,T42 Temp Rd to Remain Open,T42 Temp Rd to Remain Open,طريق مؤقت يبقى مفتوحاً,طريق مؤقت يبقى مفتوحاً | T42 Temp Rd to Remain Open,translated
+CATEGORY,254,T42 Temp Rd to Remain Open,Timber,أخشاب,أخشاب | Timber,translated
+NAME,255,T43 Shelter Wood,T43 Shelter Wood,القطع الظليلي,القطع الظليلي | T43 Shelter Wood,translated
+CATEGORY,255,T43 Shelter Wood,Timber,أخشاب,أخشاب | Timber,translated
+NAME,256,T44 Damaged Designated,T44 Damaged Designated,,T44 Damaged Designated,kept
+CATEGORY,256,T44 Damaged Designated,Timber,أخشاب,أخشاب | Timber,translated
+NAME,257,T45 Seed Tree Area,T45 Seed Tree Area,منطقة الأشجار البذرية,منطقة الأشجار البذرية | T45 Seed Tree Area,translated
+CATEGORY,257,T45 Seed Tree Area,Timber,أخشاب,أخشاب | Timber,translated
+NAME,258,T46 Cable Yarding Required 2,T46 Cable Yarding Required 2,السحب بالكابلات,السحب بالكابلات | T46 Cable Yarding Required 2,translated
+CATEGORY,258,T46 Cable Yarding Required 2,Timber,أخشاب,أخشاب | Timber,translated
+NAME,259,T47 Cable Yarding Required 3,T47 Cable Yarding Required 3,السحب بالكابلات,السحب بالكابلات | T47 Cable Yarding Required 3,translated
+CATEGORY,259,T47 Cable Yarding Required 3,Timber,أخشاب,أخشاب | Timber,translated
+NAME,260,T48 Cable Yarding Required 4,T48 Cable Yarding Required 4,السحب بالكابلات,السحب بالكابلات | T48 Cable Yarding Required 4,translated
+CATEGORY,260,T48 Cable Yarding Required 4,Timber,أخشاب,أخشاب | Timber,translated
+NAME,261,T49 Limited Use Road,T49 Limited Use Road,طريق محدود الاستخدام,طريق محدود الاستخدام | T49 Limited Use Road,translated
+CATEGORY,261,T49 Limited Use Road,Timber,أخشاب,أخشاب | Timber,translated
+NAME,262,T50 Open Wells,T50 Open Wells,آبار مفتوحة,آبار مفتوحة | T50 Open Wells,translated
+CATEGORY,262,T50 Open Wells,Timber,أخشاب,أخشاب | Timber,translated
+NAME,263,T51 Monitoring Wells,T51 Monitoring Wells,آبار المراقبة,آبار المراقبة | T51 Monitoring Wells,translated
+CATEGORY,263,T51 Monitoring Wells,Timber,أخشاب,أخشاب | Timber,translated
+NAME,264,T52 Operating Season Limitation,T52 Operating Season Limitation,تقييد موسم التشغيل,تقييد موسم التشغيل | T52 Operating Season Limitation,translated
+CATEGORY,264,T52 Operating Season Limitation,Timber,أخشاب,أخشاب | Timber,translated
+NAME,265,"Rights Limited, No Cutting","Rights Limited, No Cutting",,"Rights Limited, No Cutting",kept
+CATEGORY,265,"Rights Limited, No Cutting",Timber,أخشاب,أخشاب | Timber,translated
+NAME,266,Leave Dead Timber Standing,Leave Dead Timber Standing,أخشاب,أخشاب | Leave Dead Timber Standing,translated
+CATEGORY,266,Leave Dead Timber Standing,Timber,أخشاب,أخشاب | Timber,translated
+NAME,267,Leave Dead Timber Down,Leave Dead Timber Down,أخشاب,أخشاب | Leave Dead Timber Down,translated
+CATEGORY,267,Leave Dead Timber Down,Timber,أخشاب,أخشاب | Timber,translated
+NAME,268,Dead Timber Removed,Dead Timber Removed,أخشاب,أخشاب | Dead Timber Removed,translated
+CATEGORY,268,Dead Timber Removed,Timber,أخشاب,أخشاب | Timber,translated
+NAME,269,Leave Tree Marking,Leave Tree Marking,وسم الأشجار المتروكة,وسم الأشجار المتروكة | Leave Tree Marking,translated
+CATEGORY,269,Leave Tree Marking,Timber,أخشاب,أخشاب | Timber,translated
+NAME,270,Temp Rd Leave Open,Temp Rd Leave Open,طريق مؤقت يُترك مفتوحاً,طريق مؤقت يُترك مفتوحاً | Temp Rd Leave Open,translated
+CATEGORY,270,Temp Rd Leave Open,Timber,أخشاب,أخشاب | Timber,translated
+NAME,271,Wetlands Protection,Wetlands Protection,حماية الأراضي الرطبة,حماية الأراضي الرطبة | Wetlands Protection,translated
+CATEGORY,271,Wetlands Protection,Timber,أخشاب,أخشاب | Timber,translated
+NAME,272,Clearcutting Unit,Clearcutting Unit,وحدة القطع الشامل,وحدة القطع الشامل | Clearcutting Unit,translated
+CATEGORY,272,Clearcutting Unit,Timber,أخشاب,أخشاب | Timber,translated
+NAME,273,Overstory Removal,Overstory Removal,إزالة الطبقة العليا,إزالة الطبقة العليا | Overstory Removal,translated
+CATEGORY,273,Overstory Removal,Timber,أخشاب,أخشاب | Timber,translated
+NAME,274,Understory Removal,Understory Removal,إزالة الطبقة السفلية,إزالة الطبقة السفلية | Understory Removal,translated
+CATEGORY,274,Understory Removal,Timber,أخشاب,أخشاب | Timber,translated
+NAME,275,Specified Road Clearing Unit,Specified Road Clearing Unit,تطهير الطريق المحدد وحدة,تطهير الطريق المحدد وحدة | Specified Road Clearing Unit,translated
+CATEGORY,275,Specified Road Clearing Unit,Timber,أخشاب,أخشاب | Timber,translated
+NAME,276,Reserve Trees,Reserve Trees,أشجار مُبقاة,أشجار مُبقاة | Reserve Trees,translated
+CATEGORY,276,Reserve Trees,Timber,أخشاب,أخشاب | Timber,translated
+NAME,277,"Specified ""T"" Junction","Specified ""T"" Junction",عقدة,"عقدة | Specified ""T"" Junction",translated
+CATEGORY,277,"Specified ""T"" Junction",Timber,أخشاب,أخشاب | Timber,translated
+NAME,278,Traffic Control Device,Traffic Control Device,جهاز ضبط المرور,جهاز ضبط المرور | Traffic Control Device,translated
+CATEGORY,278,Traffic Control Device,Timber,أخشاب,أخشاب | Timber,translated
+NAME,279,"Protect Habitat, T&E Species","Protect Habitat, T&E Species",,"Protect Habitat, T&E Species",kept
+CATEGORY,279,"Protect Habitat, T&E Species",Timber,أخشاب,أخشاب | Timber,translated
+NAME,280,Lower Stump,Lower Stump,سفلية جذع مقطوع,سفلية جذع مقطوع | Lower Stump,translated
+CATEGORY,280,Lower Stump,Timber,أخشاب,أخشاب | Timber,translated
+NAME,281,Horse Skidding Specified,Horse Skidding Specified,خيل الجر,خيل الجر | Horse Skidding Specified,translated
+CATEGORY,281,Horse Skidding Specified,Timber,أخشاب,أخشاب | Timber,translated
+NAME,282,Tractor Skidding Specified,Tractor Skidding Specified,الجر بالجرار,الجر بالجرار | Tractor Skidding Specified,translated
+CATEGORY,282,Tractor Skidding Specified,Timber,أخشاب,أخشاب | Timber,translated
+NAME,283,Cable Yarding Specified,Cable Yarding Specified,السحب بالكابلات,السحب بالكابلات | Cable Yarding Specified,translated
+CATEGORY,283,Cable Yarding Specified,Timber,أخشاب,أخشاب | Timber,translated
+NAME,284,Skyline Yarding Specified,Skyline Yarding Specified,السحب بالخط العلوي,السحب بالخط العلوي | Skyline Yarding Specified,translated
+CATEGORY,284,Skyline Yarding Specified,Timber,أخشاب,أخشاب | Timber,translated
+NAME,285,Ballon Logging Specified,Ballon Logging Specified,قطع الأشجار,قطع الأشجار | Ballon Logging Specified,translated
+CATEGORY,285,Ballon Logging Specified,Timber,أخشاب,أخشاب | Timber,translated
+NAME,286,Utilizer Skidding Specified,Utilizer Skidding Specified,الجر,الجر | Utilizer Skidding Specified,translated
+CATEGORY,286,Utilizer Skidding Specified,Timber,أخشاب,أخشاب | Timber,translated
+NAME,287,Zeta,Zeta,,Zeta,kept
+CATEGORY,287,Zeta,Timber,أخشاب,أخشاب | Timber,translated
+NAME,288,AV1 Highlighted Geographic Feature,AV1 Highlighted Geographic Feature,ظاهرة,ظاهرة | AV1 Highlighted Geographic Feature,translated
+CATEGORY,288,AV1 Highlighted Geographic Feature,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,289,AV2 Manmade Feature,AV2 Manmade Feature,ظاهرة,ظاهرة | AV2 Manmade Feature,translated
+CATEGORY,289,AV2 Manmade Feature,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,290,AV3 Completed Dozer Line,AV3 Completed Dozer Line,مكتملة خط الجرافة,مكتملة خط الجرافة | AV3 Completed Dozer Line,translated
+CATEGORY,290,AV3 Completed Dozer Line,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,291,AV4 Compartment,AV4 Compartment,,AV4 Compartment,kept
+CATEGORY,291,AV4 Compartment,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,292,AV5 Protect Lake Shore 1,AV5 Protect Lake Shore 1,حماية شاطئ البحيرة,حماية شاطئ البحيرة | AV5 Protect Lake Shore 1,translated
+CATEGORY,292,AV5 Protect Lake Shore 1,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,293,AV6 Fire Break Planned,AV6 Fire Break Planned,حريق مخططة,حريق مخططة | AV6 Fire Break Planned,translated
+CATEGORY,293,AV6 Fire Break Planned,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,294,AV 7 Completed Line 2,AV 7 Completed Line 2,مكتملة خط,مكتملة خط | AV 7 Completed Line 2,translated
+CATEGORY,294,AV 7 Completed Line 2,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,295,T10 Protect Lake Shore 2,T10 Protect Lake Shore 2,حماية شاطئ البحيرة,حماية شاطئ البحيرة | T10 Protect Lake Shore 2,translated
+CATEGORY,295,T10 Protect Lake Shore 2,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,296,T22 Pipeline 1,T22 Pipeline 1,خط أنابيب,خط أنابيب | T22 Pipeline 1,translated
+CATEGORY,296,T22 Pipeline 1,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,297,T23 Pipeline 2,T23 Pipeline 2,خط أنابيب,خط أنابيب | T23 Pipeline 2,translated
+CATEGORY,297,T23 Pipeline 2,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,298,T24 Perennial Stream,T24 Perennial Stream,دائمة جدول,دائمة جدول | T24 Perennial Stream,translated
+CATEGORY,298,T24 Perennial Stream,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,299,T25 Intermittent Stream,T25 Intermittent Stream,متقطعة جدول,متقطعة جدول | T25 Intermittent Stream,translated
+CATEGORY,299,T25 Intermittent Stream,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,300,T26 Timber Railroad 1,T26 Timber Railroad 1,أخشاب سكة حديد,أخشاب سكة حديد | T26 Timber Railroad 1,translated
+CATEGORY,300,T26 Timber Railroad 1,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,301,T27 Timber Railroad 2,T27 Timber Railroad 2,أخشاب سكة حديد,أخشاب سكة حديد | T27 Timber Railroad 2,translated
+CATEGORY,301,T27 Timber Railroad 2,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,302,Line Break Completed,Line Break Completed,خط مكتملة,خط مكتملة | Line Break Completed,translated
+CATEGORY,302,Line Break Completed,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,303,AV8 Planned Fire Line,AV8 Planned Fire Line,مخططة حريق خط,مخططة حريق خط | AV8 Planned Fire Line,translated
+CATEGORY,303,AV8 Planned Fire Line,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,304,AV9 Planned Secondary Line,AV9 Planned Secondary Line,مخططة ثانوية خط,مخططة ثانوية خط | AV9 Planned Secondary Line,translated
+CATEGORY,304,AV9 Planned Secondary Line,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,305,Primary Forest Unit Restricted,Primary Forest Unit Restricted,الغابة الأولية وحدة مقيدة,الغابة الأولية وحدة مقيدة | Primary Forest Unit Restricted,translated
+CATEGORY,305,Primary Forest Unit Restricted,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,306,BLM Restricted,BLM Restricted,مقيدة,مقيدة | BLM Restricted,translated
+CATEGORY,306,BLM Restricted,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,307,State Public Use Land Restricted,State Public Use Land Restricted,أراضي الولاية للاستخدام العام مقيدة,أراضي الولاية للاستخدام العام مقيدة | State Public Use Land Restricted,translated
+CATEGORY,307,State Public Use Land Restricted,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,308,Reservoir,Reservoir,خزان,خزان | Reservoir,translated
+CATEGORY,308,Reservoir,Water Feature,مياه ظاهرة,مياه ظاهرة | Water Feature,translated
+NAME,309,Wetlands,Wetlands,أراضي رطبة,أراضي رطبة | Wetlands,translated
+CATEGORY,309,Wetlands,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,310,420 Marsh,420 Marsh,مستنقع,مستنقع | 420 Marsh,translated
+CATEGORY,310,420 Marsh,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,311,423 Rice,423 Rice,,423 Rice,kept
+CATEGORY,311,423 Rice,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,312,424 Mangrove,424 Mangrove,,424 Mangrove,kept
+CATEGORY,312,424 Mangrove,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,313,425 Bog,425 Bog,مستنقع خثي,مستنقع خثي | 425 Bog,translated
+CATEGORY,313,425 Bog,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,314,Palm Tree 1,Palm Tree 1,نخيل شجرة,نخيل شجرة | Palm Tree 1,translated
+CATEGORY,314,Palm Tree 1,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,315,Palm Tree 2,Palm Tree 2,نخيل شجرة,نخيل شجرة | Palm Tree 2,translated
+CATEGORY,315,Palm Tree 2,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,316,Pine Tree 1,Pine Tree 1,صنوبر شجرة,صنوبر شجرة | Pine Tree 1,translated
+CATEGORY,316,Pine Tree 1,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,317,Scrub 2,Scrub 2,,Scrub 2,kept
+CATEGORY,317,Scrub 2,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,318,Woodland,Woodland,أحراش,أحراش | Woodland,translated
+CATEGORY,318,Woodland,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,319,Scattered Trees 2,Scattered Trees 2,أشجار,أشجار | Scattered Trees 2,translated
+CATEGORY,319,Scattered Trees 2,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,320,Tailings,Tailings,مخلفات التعدين,مخلفات التعدين | Tailings,translated
+CATEGORY,320,Tailings,Forestry,الحراجة,الحراجة | Forestry,translated
+NAME,321,Forest North 1,Forest North 1,شمال الغابة,شمال الغابة | Forest North 1,translated
+CATEGORY,321,Forest North 1,Default,افتراضية,افتراضية | Default,translated
+NAME,322,Forest North 2,Forest North 2,شمال الغابة,شمال الغابة | Forest North 2,translated
+CATEGORY,322,Forest North 2,Default,افتراضية,افتراضية | Default,translated
+NAME,323,Forest North 3,Forest North 3,شمال الغابة,شمال الغابة | Forest North 3,translated
+CATEGORY,323,Forest North 3,Default,افتراضية,افتراضية | Default,translated

@@ -1,0 +1,23 @@
+ID,Name_AR,Name_EN,Category,R,G,B,Size_pt,MarkerType,GlyphIndex,Tags
+1,كهف,Cave Entrance,20-Peaks-Markers,0,0,0,10,simple-square,1,cave
+2,دولينة / بالوعة,Sinkhole / Doline,20-Peaks-Markers,0,100,200,10,simple-circle-hollow,0,sinkhole;doline
+3,بئر صحراوي,Desert Well,20-Peaks-Markers,0,120,200,8,simple-square,1,well
+4,فوهة بركانية,Crater / Vent,20-Peaks-Markers,200,0,0,10,simple-X,3,crater;vent
+5,موقع عينة,Sample Site,20-Peaks-Markers,0,0,0,9,simple-cross,2,sample
+6,شعاب مرجانية,Coral Reef,20-Peaks-Markers,0,150,120,8,simple-X,3,coral;reef
+7,مصب وادي,Wadi Mouth,20-Peaks-Markers,0,100,200,9,simple-diamond,4,wadi;mouth
+8,نقطة مساحة,Survey Point,20-Peaks-Markers,0,0,0,7,simple-diamond,4,survey
+9,منخفض مغلق (نقطة),Closed Depression (point),20-Peaks-Markers,100,140,160,12,simple-circle-hollow,0,depression
+10,علامة حافة,Escarpment Tick (point),20-Peaks-Markers,120,70,30,9,simple-square,1,escarpment
+11,سيرك جليدي,Cirque,20-Peaks-Markers,100,130,160,14,simple-circle-hollow,0,cirque
+12,درملن,Drumlin,20-Peaks-Markers,110,140,160,10,simple-diamond,4,drumlin
+13,ياردانج,Yardang,20-Peaks-Markers,200,170,110,9,simple-diamond-rot45,4,yardang
+14,صخرة عيش الغراب,Mushroom Rock,20-Peaks-Markers,190,160,120,10,simple-square,1,mushroom
+15,حصوة وجوه ريحية,Ventifact,20-Peaks-Markers,130,130,130,8,simple-diamond,4,ventifact
+16,غلاية جليدية,Kettle,20-Peaks-Markers,60,140,210,8,simple-circle-hollow,0,kettle
+17,ترافرتين,Travertine,20-Peaks-Markers,0,150,150,9,simple-cross,2,travertine
+18,سخان / عين حارة,Geyser / Hot Spring,20-Peaks-Markers,220,80,40,10,simple-circle-hollow,0,geyser;hotspring
+19,كهف حمم,Lava Tube Entrance,20-Peaks-Markers,50,45,45,10,simple-square,1,lavatube
+20,بوليه,Polje Center,20-Peaks-Markers,60,150,90,11,simple-circle-hollow,0,polje
+21,ممر جبلي,Mountain Pass / Col,20-Peaks-Markers,150,100,50,9,simple-diamond,4,pass;col
+22,صخرة شاردة,Erratic Boulder,20-Peaks-Markers,140,140,140,8,simple-square,1,erratic

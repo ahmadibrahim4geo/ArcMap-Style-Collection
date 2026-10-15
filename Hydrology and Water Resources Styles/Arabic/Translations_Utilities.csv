@@ -1,0 +1,1077 @@
+﻿field,id,key,original,arabic,new_value,status
+Fill Symbols.Name,1,,Gravity,,Gravity,kept
+Fill Symbols.Category,1,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,2,,Force,قوة,قوة | Force,translated
+Fill Symbols.Category,2,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,3,,Transmission,نقل,نقل | Transmission,translated
+Fill Symbols.Category,3,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,4,,Fire Service,خدمة الإطفاء,خدمة الإطفاء | Fire Service,translated
+Fill Symbols.Category,4,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,5,,Siphon,سيفون,سيفون | Siphon,translated
+Fill Symbols.Category,5,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,6,,Stub Out,مخرج مسدود,مخرج مسدود | Stub Out,translated
+Fill Symbols.Category,6,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,7,,Landscape Service,خدمة,خدمة | Landscape Service,translated
+Fill Symbols.Category,7,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,8,,Unknown,مجهولة,مجهولة | Unknown,translated
+Fill Symbols.Category,8,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,9,,Transmission,نقل,نقل | Transmission,translated
+Fill Symbols.Category,9,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,10,,Air Release,هواء تحرير,هواء تحرير | Air Release,translated
+Fill Symbols.Category,10,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,11,,Blow-off Area,منطقة,منطقة | Blow-off Area,translated
+Fill Symbols.Category,11,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,12,,Service,خدمة,خدمة | Service,translated
+Fill Symbols.Category,12,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,13,,Hydrant,حنفية,حنفية | Hydrant,translated
+Fill Symbols.Category,13,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,14,,OH Secondary,علوية ثانوية,علوية ثانوية | OH Secondary,translated
+Fill Symbols.Category,14,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,15,,UG Primary,أولية,أولية | UG Primary,translated
+Fill Symbols.Category,15,,Default,افتراضية,افتراضية | Default,translated
+Line Symbols.Name,1,,Parcel Line,قطعة خط,قطعة خط | Parcel Line,translated
+Line Symbols.Category,1,,Water,مياه,مياه | Water,translated
+Line Symbols.Name,2,,Street Centerline,شارع,شارع | Street Centerline,translated
+Line Symbols.Category,2,,Water,مياه,مياه | Water,translated
+Line Symbols.Name,3,,Gravity Main,خط الانحدار الرئيسي,خط الانحدار الرئيسي | Gravity Main,translated
+Line Symbols.Category,3,,Water,مياه,مياه | Water,translated
+Line Symbols.Name,4,,Force Main,خط الضغط الرئيسي,خط الضغط الرئيسي | Force Main,translated
+Line Symbols.Category,4,,Water,مياه,مياه | Water,translated
+Line Symbols.Name,5,,Distribution Main,خط التوزيع الرئيسي,خط التوزيع الرئيسي | Distribution Main,translated
+Line Symbols.Category,5,,Water,مياه,مياه | Water,translated
+Line Symbols.Name,6,,Transmission Main,خط النقل الرئيسي,خط النقل الرئيسي | Transmission Main,translated
+Line Symbols.Category,6,,Water,مياه,مياه | Water,translated
+Line Symbols.Name,7,,Private Main,خاصة رئيسية,خاصة رئيسية | Private Main,translated
+Line Symbols.Category,7,,Water,مياه,مياه | Water,translated
+Line Symbols.Name,8,,Service Line,خط الخدمة,خط الخدمة | Service Line,translated
+Line Symbols.Category,8,,Water,مياه,مياه | Water,translated
+Line Symbols.Name,9,,Fire Service,خدمة الإطفاء,خدمة الإطفاء | Fire Service,translated
+Line Symbols.Category,9,,Water,مياه,مياه | Water,translated
+Line Symbols.Name,10,,Siphon,سيفون,سيفون | Siphon,translated
+Line Symbols.Category,10,,Water,مياه,مياه | Water,translated
+Line Symbols.Name,11,,Stub Out,مخرج مسدود,مخرج مسدود | Stub Out,translated
+Line Symbols.Category,11,,Water,مياه,مياه | Water,translated
+Line Symbols.Name,12,,Landscape Service,خدمة,خدمة | Landscape Service,translated
+Line Symbols.Category,12,,Water,مياه,مياه | Water,translated
+Line Symbols.Name,13,,Unknown,مجهولة,مجهولة | Unknown,translated
+Line Symbols.Category,13,,Water,مياه,مياه | Water,translated
+Line Symbols.Name,14,,Air Release Line,هواء تحرير خط,هواء تحرير خط | Air Release Line,translated
+Line Symbols.Category,14,,Water,مياه,مياه | Water,translated
+Line Symbols.Name,15,,Blow-off Line,خط,خط | Blow-off Line,translated
+Line Symbols.Category,15,,Water,مياه,مياه | Water,translated
+Line Symbols.Name,16,,Service Lateral,الفرعية الخدمية,الفرعية الخدمية | Service Lateral,translated
+Line Symbols.Category,16,,Water,مياه,مياه | Water,translated
+Line Symbols.Name,17,,Hydrant Lateral,حنفية فرعية,حنفية فرعية | Hydrant Lateral,translated
+Line Symbols.Category,17,,Water,مياه,مياه | Water,translated
+Line Symbols.Name,18,,4 wire OH Primary,علوية أولية,علوية أولية | 4 wire OH Primary,translated
+Line Symbols.Category,18,,Electric,كهربائية,كهربائية | Electric,translated
+Line Symbols.Name,19,,3 wire OH Primary,علوية أولية,علوية أولية | 3 wire OH Primary,translated
+Line Symbols.Category,19,,Electric,كهربائية,كهربائية | Electric,translated
+Line Symbols.Name,20,,2 wire OH Primary,علوية أولية,علوية أولية | 2 wire OH Primary,translated
+Line Symbols.Category,20,,Electric,كهربائية,كهربائية | Electric,translated
+Line Symbols.Name,21,,4 wire OH Secondary,علوية ثانوية,علوية ثانوية | 4 wire OH Secondary,translated
+Line Symbols.Category,21,,Electric,كهربائية,كهربائية | Electric,translated
+Line Symbols.Name,22,,3 wire OH Secondary,علوية ثانوية,علوية ثانوية | 3 wire OH Secondary,translated
+Line Symbols.Category,22,,Electric,كهربائية,كهربائية | Electric,translated
+Line Symbols.Name,23,,2 wire OH Secondary,علوية ثانوية,علوية ثانوية | 2 wire OH Secondary,translated
+Line Symbols.Category,23,,Electric,كهربائية,كهربائية | Electric,translated
+Line Symbols.Name,24,,1 wire OH Secondary,علوية ثانوية,علوية ثانوية | 1 wire OH Secondary,translated
+Line Symbols.Category,24,,Electric,كهربائية,كهربائية | Electric,translated
+Line Symbols.Name,25,,UG Primary,أولية,أولية | UG Primary,translated
+Line Symbols.Category,25,,Electric,كهربائية,كهربائية | Electric,translated
+Line Symbols.Name,26,,UG Secondary,ثانوية,ثانوية | UG Secondary,translated
+Line Symbols.Category,26,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,1,,amfm electric 3,كهربائية,كهربائية | amfm electric 3,translated
+Marker Symbols.Category,1,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,2,,amfm electric 4,كهربائية,كهربائية | amfm electric 4,translated
+Marker Symbols.Category,2,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,3,,amfm electric 6,كهربائية,كهربائية | amfm electric 6,translated
+Marker Symbols.Category,3,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,4,,amfm electric 8,كهربائية,كهربائية | amfm electric 8,translated
+Marker Symbols.Category,4,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,5,,amfm electric 9,كهربائية,كهربائية | amfm electric 9,translated
+Marker Symbols.Category,5,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,6,,amfm electric 10,كهربائية,كهربائية | amfm electric 10,translated
+Marker Symbols.Category,6,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,7,,amfm electric 11,كهربائية,كهربائية | amfm electric 11,translated
+Marker Symbols.Category,7,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,8,,amfm electric 12,كهربائية,كهربائية | amfm electric 12,translated
+Marker Symbols.Category,8,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,9,,amfm electric 13,كهربائية,كهربائية | amfm electric 13,translated
+Marker Symbols.Category,9,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,10,,amfm electric 14,كهربائية,كهربائية | amfm electric 14,translated
+Marker Symbols.Category,10,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,11,,amfm electric 15,كهربائية,كهربائية | amfm electric 15,translated
+Marker Symbols.Category,11,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,12,,amfm electric 18,كهربائية,كهربائية | amfm electric 18,translated
+Marker Symbols.Category,12,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,13,,amfm electric 19,كهربائية,كهربائية | amfm electric 19,translated
+Marker Symbols.Category,13,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,14,,amfm electric 20,كهربائية,كهربائية | amfm electric 20,translated
+Marker Symbols.Category,14,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,15,,amfm electric 21,كهربائية,كهربائية | amfm electric 21,translated
+Marker Symbols.Category,15,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,16,,amfm electric 22,كهربائية,كهربائية | amfm electric 22,translated
+Marker Symbols.Category,16,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,17,,amfm electric 23,كهربائية,كهربائية | amfm electric 23,translated
+Marker Symbols.Category,17,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,18,,amfm electric 24,كهربائية,كهربائية | amfm electric 24,translated
+Marker Symbols.Category,18,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,19,,Address Location,عنوان موقع,عنوان موقع | Address Location,translated
+Marker Symbols.Category,19,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,20,,Elbow Arrestor,,Elbow Arrestor,kept
+Marker Symbols.Category,20,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,21,,Pad Mount,تركيب أرضي,تركيب أرضي | Pad Mount,translated
+Marker Symbols.Category,21,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,22,,OH Lighting Arrestor,علوية إضاءة,علوية إضاءة | OH Lighting Arrestor,translated
+Marker Symbols.Category,22,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,23,,CST,,CST,kept
+Marker Symbols.Category,23,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,24,,BTE,,BTE,kept
+Marker Symbols.Category,24,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,25,,PJC,,PJC,kept
+Marker Symbols.Category,25,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,26,,BSE,,BSE,kept
+Marker Symbols.Category,26,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,27,,Pullbox,,Pullbox,kept
+Marker Symbols.Category,27,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,28,,Service Box,خدمة صندوق,خدمة صندوق | Service Box,translated
+Marker Symbols.Category,28,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,29,,Fuse Cabinet,منصهر صندوق,منصهر صندوق | Fuse Cabinet,translated
+Marker Symbols.Category,29,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,30,,Junction Cabinet,عقدة صندوق,عقدة صندوق | Junction Cabinet,translated
+Marker Symbols.Category,30,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,31,,2 Compartment Switch Cabinet,مفتاح صندوق,مفتاح صندوق | 2 Compartment Switch Cabinet,translated
+Marker Symbols.Category,31,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,32,,4 Compartment Switch Cabinet,مفتاح صندوق,مفتاح صندوق | 4 Compartment Switch Cabinet,translated
+Marker Symbols.Category,32,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,33,,Empty Transformer Pad,محول,محول | Empty Transformer Pad,translated
+Marker Symbols.Category,33,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,34,,Pad Mount,تركيب أرضي,تركيب أرضي | Pad Mount,translated
+Marker Symbols.Category,34,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,35,,OH 1-Phase Transformer,علوية طور محول,علوية طور محول | OH 1-Phase Transformer,translated
+Marker Symbols.Category,35,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,36,,OH 2-Phase Transformer,علوية طور محول,علوية طور محول | OH 2-Phase Transformer,translated
+Marker Symbols.Category,36,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,37,,OH 3-Phase Transformer,علوية طور محول,علوية طور محول | OH 3-Phase Transformer,translated
+Marker Symbols.Category,37,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,38,,OH Capacitor Bank,علوية مكثف مجموعة,علوية مكثف مجموعة | OH Capacitor Bank,translated
+Marker Symbols.Category,38,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,39,,OH Circuit Tie (OHCTS),علوية دائرة,علوية دائرة | OH Circuit Tie (OHCTS),translated
+Marker Symbols.Category,39,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,40,,OH Fuse Cutout (OHFC),علوية فاصل منصهر,علوية فاصل منصهر | OH Fuse Cutout (OHFC),translated
+Marker Symbols.Category,40,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,41,,OH Pole Disconnect (OHD),علوية عمود,علوية عمود | OH Pole Disconnect (OHD),translated
+Marker Symbols.Category,41,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,42,,OH Switch,علوية مفتاح,علوية مفتاح | OH Switch,translated
+Marker Symbols.Category,42,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,43,,OH Gang Operated Air Bank,علوية جماعية مشغلة هواء مجموعة,علوية جماعية مشغلة هواء مجموعة | OH Gang Operated Air Bank,translated
+Marker Symbols.Category,43,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,44,,Fuse 1,منصهر,منصهر | Fuse 1,translated
+Marker Symbols.Category,44,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,45,,Fuse 2,منصهر,منصهر | Fuse 2,translated
+Marker Symbols.Category,45,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,46,,Fuse 3,منصهر,منصهر | Fuse 3,translated
+Marker Symbols.Category,46,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,47,,Ground,أرضية,أرضية | Ground,translated
+Marker Symbols.Category,47,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,48,,PM 3-Phase Single Unit Stp Trans,طور مفردة وحدة,طور مفردة وحدة | PM 3-Phase Single Unit Stp Trans,translated
+Marker Symbols.Category,48,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,49,,PM 1-Phase Step Transformer,طور محول,طور محول | PM 1-Phase Step Transformer,translated
+Marker Symbols.Category,49,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,50,,PM Capacitor Bank,مكثف مجموعة,مكثف مجموعة | PM Capacitor Bank,translated
+Marker Symbols.Category,50,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,51,,UG 3-Phase Delta-Delta Bank,طور دلتا مجموعة,طور دلتا مجموعة | UG 3-Phase Delta-Delta Bank,translated
+Marker Symbols.Category,51,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,52,,UG 3-Phase Y-Delta/Y-Y Transformer,طور دلتا محول,طور دلتا محول | UG 3-Phase Y-Delta/Y-Y Transformer,translated
+Marker Symbols.Category,52,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,53,,UG 1-Phase Transformer,طور محول,طور محول | UG 1-Phase Transformer,translated
+Marker Symbols.Category,53,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,54,,UG Blade Disconnect,,UG Blade Disconnect,kept
+Marker Symbols.Category,54,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,55,,UG Oil Switch,مفتاح زيتي,مفتاح زيتي | UG Oil Switch,translated
+Marker Symbols.Category,55,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,56,,Vault Manhole Enclosure,حجرة غرفة تفتيش حاوية,حجرة غرفة تفتيش حاوية | Vault Manhole Enclosure,translated
+Marker Symbols.Category,56,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,57,,Switch Enclosure,مفتاح حاوية,مفتاح حاوية | Switch Enclosure,translated
+Marker Symbols.Category,57,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,58,,Substation,محطة تحويل,محطة تحويل | Substation,translated
+Marker Symbols.Category,58,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,59,,Work in Progress,في,في | Work in Progress,translated
+Marker Symbols.Category,59,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,60,,Transformer,محول,محول | Transformer,translated
+Marker Symbols.Category,60,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,61,,Slab Box,صندوق,صندوق | Slab Box,translated
+Marker Symbols.Category,61,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,62,,Slab Box,صندوق,صندوق | Slab Box,translated
+Marker Symbols.Category,62,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,63,,Open Point,مفتوحة نقطة,مفتوحة نقطة | Open Point,translated
+Marker Symbols.Category,63,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,64,,Secondary Splice Box,ثانوية توصيلة صندوق,ثانوية توصيلة صندوق | Secondary Splice Box,translated
+Marker Symbols.Category,64,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,65,,Handhole,فتحة يدوية,فتحة يدوية | Handhole,translated
+Marker Symbols.Category,65,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,66,,Vault 1,حجرة,حجرة | Vault 1,translated
+Marker Symbols.Category,66,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,67,,Regulator 2,منظم,منظم | Regulator 2,translated
+Marker Symbols.Category,67,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,68,,Primary Ground,أولية أرضية,أولية أرضية | Primary Ground,translated
+Marker Symbols.Category,68,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,69,,Primary Meter,أولية عداد,أولية عداد | Primary Meter,translated
+Marker Symbols.Category,69,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,70,,Primary Pullbox,أولية,أولية | Primary Pullbox,translated
+Marker Symbols.Category,70,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,71,,Steel Pole,فولاذ عمود,فولاذ عمود | Steel Pole,translated
+Marker Symbols.Category,71,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,72,,Wood Pole,خشب عمود,خشب عمود | Wood Pole,translated
+Marker Symbols.Category,72,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,73,,Company Owned N-Wood Pole,خشب عمود,خشب عمود | Company Owned N-Wood Pole,translated
+Marker Symbols.Category,73,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,74,,Company Owned Wood Pole,خشب عمود,خشب عمود | Company Owned Wood Pole,translated
+Marker Symbols.Category,74,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,75,,Foreign Owned Wood Pole,خشب عمود,خشب عمود | Foreign Owned Wood Pole,translated
+Marker Symbols.Category,75,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,76,,Underground Breaker,تحت أرضية قاطع,تحت أرضية قاطع | Underground Breaker,translated
+Marker Symbols.Category,76,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,77,,Underground Disconnects,تحت أرضية,تحت أرضية | Underground Disconnects,translated
+Marker Symbols.Category,77,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,78,,Buried Switch Enclosure,مدفونة مفتاح حاوية,مدفونة مفتاح حاوية | Buried Switch Enclosure,translated
+Marker Symbols.Category,78,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,79,,Capacitor,مكثف,مكثف | Capacitor,translated
+Marker Symbols.Category,79,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,80,,Capacitor,مكثف,مكثف | Capacitor,translated
+Marker Symbols.Category,80,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,81,,200A Oil Switch w/o Tap Switch (OS3),مفتاح زيتي مع وصلة ربط مفتاح,مفتاح زيتي مع وصلة ربط مفتاح | 200A Oil Switch w/o Tap Switch (OS3),translated
+Marker Symbols.Category,81,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,82,,200A Oil Switch w/Tap Switch (OS3TS),مفتاح زيتي مع وصلة ربط مفتاح,مفتاح زيتي مع وصلة ربط مفتاح | 200A Oil Switch w/Tap Switch (OS3TS),translated
+Marker Symbols.Category,82,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,83,,Overhead Xfmer,علوية,علوية | Overhead Xfmer,translated
+Marker Symbols.Category,83,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,84,,Pad Mounted Switch (PMH-11),مفتاح,مفتاح | Pad Mounted Switch (PMH-11),translated
+Marker Symbols.Category,84,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,85,,Pad Mounted Switch (PMH-9),مفتاح,مفتاح | Pad Mounted Switch (PMH-9),translated
+Marker Symbols.Category,85,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,86,,Padmounted Fuse,منصهر,منصهر | Padmounted Fuse,translated
+Marker Symbols.Category,86,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,87,,Padmounted Termination Cabinet,صندوق,صندوق | Padmounted Termination Cabinet,translated
+Marker Symbols.Category,87,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,88,,Ornamental Light,فاتح,فاتح | Ornamental Light,translated
+Marker Symbols.Category,88,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,89,,Mastram Light,فاتح,فاتح | Mastram Light,translated
+Marker Symbols.Category,89,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,90,,Raincross Light,فاتح,فاتح | Raincross Light,translated
+Marker Symbols.Category,90,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,91,,Highway Light,طريق سريع فاتح,طريق سريع فاتح | Highway Light,translated
+Marker Symbols.Category,91,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,92,,Street Light,عمود إنارة,عمود إنارة | Street Light,translated
+Marker Symbols.Category,92,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,93,,Riser 1,قائم,قائم | Riser 1,translated
+Marker Symbols.Category,93,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,94,,Riser 2,قائم,قائم | Riser 2,translated
+Marker Symbols.Category,94,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,95,,Link Box 4 Way w/Bus Links,وصلة صندوق اتجاه حافلة مع وصلات,وصلة صندوق اتجاه حافلة مع وصلات | Link Box 4 Way w/Bus Links,translated
+Marker Symbols.Category,95,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,96,,Link Box 6 Way w/Bus Links,وصلة صندوق اتجاه حافلة مع وصلات,وصلة صندوق اتجاه حافلة مع وصلات | Link Box 6 Way w/Bus Links,translated
+Marker Symbols.Category,96,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,97,,Link Box 6 Way w/Bus Links,وصلة صندوق اتجاه حافلة مع وصلات,وصلة صندوق اتجاه حافلة مع وصلات | Link Box 6 Way w/Bus Links,translated
+Marker Symbols.Category,97,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,98,,Link Box 6 Way w/Bus Links,وصلة صندوق اتجاه حافلة مع وصلات,وصلة صندوق اتجاه حافلة مع وصلات | Link Box 6 Way w/Bus Links,translated
+Marker Symbols.Category,98,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,99,,NLB Elbox Livefront Closed,مغلقة,مغلقة | NLB Elbox Livefront Closed,translated
+Marker Symbols.Category,99,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,100,,NLB Elbox Livefront Open,مفتوحة,مفتوحة | NLB Elbox Livefront Open,translated
+Marker Symbols.Category,100,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,101,,RA Switch 5 Way (RA5),مفتاح اتجاه,مفتاح اتجاه | RA Switch 5 Way (RA5),translated
+Marker Symbols.Category,101,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,102,,Air Switch 4 Way (AS4WY),هواء مفتاح اتجاه,هواء مفتاح اتجاه | Air Switch 4 Way (AS4WY),translated
+Marker Symbols.Category,102,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,103,,Air Fused Switch (AIRFU),هواء مفتاح,هواء مفتاح | Air Fused Switch (AIRFU),translated
+Marker Symbols.Category,103,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,104,,600A w/200A Tap (OS2T),مع وصلة ربط,مع وصلة ربط | 600A w/200A Tap (OS2T),translated
+Marker Symbols.Category,104,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,105,,LB Elbox Deadfront Closed,مغلقة,مغلقة | LB Elbox Deadfront Closed,translated
+Marker Symbols.Category,105,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,106,,LB Elbox Deadfront Open,مفتوحة,مفتوحة | LB Elbox Deadfront Open,translated
+Marker Symbols.Category,106,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,107,,Fault Indicator,فالق,فالق | Fault Indicator,translated
+Marker Symbols.Category,107,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,108,,Anchor Guy 1,مثبت شداد,مثبت شداد | Anchor Guy 1,translated
+Marker Symbols.Category,108,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,109,,Anchor Guy 2,مثبت شداد,مثبت شداد | Anchor Guy 2,translated
+Marker Symbols.Category,109,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,110,,Breaker,قاطع,قاطع | Breaker,translated
+Marker Symbols.Category,110,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,111,,Manhole 2-Way,غرفة تفتيش اتجاه,غرفة تفتيش اتجاه | Manhole 2-Way,translated
+Marker Symbols.Category,111,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,112,,Manhole 3-Way,غرفة تفتيش اتجاه,غرفة تفتيش اتجاه | Manhole 3-Way,translated
+Marker Symbols.Category,112,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,113,,Manhole 4-Way,غرفة تفتيش اتجاه,غرفة تفتيش اتجاه | Manhole 4-Way,translated
+Marker Symbols.Category,113,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,114,,Recloser,,Recloser,kept
+Marker Symbols.Category,114,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,115,,Load Breaker Elbow,حمل قاطع,حمل قاطع | Load Breaker Elbow,translated
+Marker Symbols.Category,115,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,116,,Multiple Meter Service Point,متعددة عداد خدمة نقطة,متعددة عداد خدمة نقطة | Multiple Meter Service Point,translated
+Marker Symbols.Category,116,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,117,,Sectionalizer,,Sectionalizer,kept
+Marker Symbols.Category,117,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,118,,Single Meter Service Point,مفردة عداد خدمة نقطة,مفردة عداد خدمة نقطة | Single Meter Service Point,translated
+Marker Symbols.Category,118,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,119,,Automatic Reclosure Switch,أوتوماتيكية مفتاح,أوتوماتيكية مفتاح | Automatic Reclosure Switch,translated
+Marker Symbols.Category,119,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,120,,Oil Circuit Breaker,نفط قاطع الدائرة,نفط قاطع الدائرة | Oil Circuit Breaker,translated
+Marker Symbols.Category,120,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,121,,Tape Splice,توصيلة,توصيلة | Tape Splice,translated
+Marker Symbols.Category,121,,Electric,كهربائية,كهربائية | Electric,translated
+Marker Symbols.Name,122,,Analysis Station,محطة,محطة | Analysis Station,translated
+Marker Symbols.Category,122,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,123,,Anode,أنود,أنود | Anode,translated
+Marker Symbols.Category,123,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,124,,Bend Fitting,منعطف قطعة ربط,منعطف قطعة ربط | Bend Fitting,translated
+Marker Symbols.Category,124,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,125,,Cap Fitting,سدادة قطعة ربط,سدادة قطعة ربط | Cap Fitting,translated
+Marker Symbols.Category,125,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,126,,Cathodic Protection,الحماية الكاثودية,الحماية الكاثودية | Cathodic Protection,translated
+Marker Symbols.Category,126,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,127,,Change/Weld/Fusion,تغيير,تغيير | Change/Weld/Fusion,translated
+Marker Symbols.Category,127,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,128,,Coupling,وصلة ربط,وصلة ربط | Coupling,translated
+Marker Symbols.Category,128,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,129,,Cross Fitting,تقاطع قطعة ربط,تقاطع قطعة ربط | Cross Fitting,translated
+Marker Symbols.Category,129,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,130,,Distribution Valve,صمام,صمام | Distribution Valve,translated
+Marker Symbols.Category,130,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,131,,Drip,تنقيط,تنقيط | Drip,translated
+Marker Symbols.Category,131,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,132,,Emergency Valve,طوارئ صمام,طوارئ صمام | Emergency Valve,translated
+Marker Symbols.Category,132,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,133,,Expansion Joint,فاصل,فاصل | Expansion Joint,translated
+Marker Symbols.Category,133,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,134,,Farm Tap,وصلة ربط,وصلة ربط | Farm Tap,translated
+Marker Symbols.Category,134,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,135,,Flange,شفة,شفة | Flange,translated
+Marker Symbols.Category,135,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,136,,Highlight Circle,,Highlight Circle,kept
+Marker Symbols.Category,136,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,137,,Insulated Coupling,وصلة ربط,وصلة ربط | Insulated Coupling,translated
+Marker Symbols.Category,137,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,138,,Main Cap,رئيسية سدادة,رئيسية سدادة | Main Cap,translated
+Marker Symbols.Category,138,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,139,,Main Cross,رئيسية تقاطع,رئيسية تقاطع | Main Cross,translated
+Marker Symbols.Category,139,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,140,,N,,N,kept
+Marker Symbols.Category,140,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,141,,Odorization,,Odorization,kept
+Marker Symbols.Category,141,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,142,,Offset Fitting,قطعة ربط,قطعة ربط | Offset Fitting,translated
+Marker Symbols.Category,142,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,143,,Pipe Casing,أنبوب غلاف,أنبوب غلاف | Pipe Casing,translated
+Marker Symbols.Category,143,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,144,,Rectifier,مقوم,مقوم | Rectifier,translated
+Marker Symbols.Category,144,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,145,,Reducer 1,مخفض,مخفض | Reducer 1,translated
+Marker Symbols.Category,145,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,146,,Reducer Fitting,مخفض قطعة ربط,مخفض قطعة ربط | Reducer Fitting,translated
+Marker Symbols.Category,146,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,147,,Regulator 1,منظم,منظم | Regulator 1,translated
+Marker Symbols.Category,147,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,148,,Saddle Fitting,سرج قطعة ربط,سرج قطعة ربط | Saddle Fitting,translated
+Marker Symbols.Category,148,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,149,,Service Cap,خدمة سدادة,خدمة سدادة | Service Cap,translated
+Marker Symbols.Category,149,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,150,,Service Point,خدمة نقطة,خدمة نقطة | Service Point,translated
+Marker Symbols.Category,150,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,151,,Sleeve Fitting,جلبة قطعة ربط,جلبة قطعة ربط | Sleeve Fitting,translated
+Marker Symbols.Category,151,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,152,,Stopper,,Stopper,kept
+Marker Symbols.Category,152,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,153,,Tee Fitting,وصلة ثلاثية قطعة ربط,وصلة ثلاثية قطعة ربط | Tee Fitting,translated
+Marker Symbols.Category,153,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,154,,Town Border Station,بلدة إطار محطة,بلدة إطار محطة | Town Border Station,translated
+Marker Symbols.Category,154,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,155,,Transition Fitting,قطعة ربط,قطعة ربط | Transition Fitting,translated
+Marker Symbols.Category,155,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,156,,Warning Sign,تحذير لافتة,تحذير لافتة | Warning Sign,translated
+Marker Symbols.Category,156,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,157,,Wye Fitting,وصلة Y قطعة ربط,وصلة Y قطعة ربط | Wye Fitting,translated
+Marker Symbols.Category,157,,Gas,غاز,غاز | Gas,translated
+Marker Symbols.Name,158,,amfm telecom 01,اتصالات,اتصالات | amfm telecom 01,translated
+Marker Symbols.Category,158,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,159,,amfm telecom 02,اتصالات,اتصالات | amfm telecom 02,translated
+Marker Symbols.Category,159,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,160,,amfm telecom 03,اتصالات,اتصالات | amfm telecom 03,translated
+Marker Symbols.Category,160,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,161,,amfm telecom 04,اتصالات,اتصالات | amfm telecom 04,translated
+Marker Symbols.Category,161,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,162,,amfm telecom 05,اتصالات,اتصالات | amfm telecom 05,translated
+Marker Symbols.Category,162,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,163,,amfm telecom 06,اتصالات,اتصالات | amfm telecom 06,translated
+Marker Symbols.Category,163,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,164,,amfm telecom 07,اتصالات,اتصالات | amfm telecom 07,translated
+Marker Symbols.Category,164,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,165,,amfm telecom 08,اتصالات,اتصالات | amfm telecom 08,translated
+Marker Symbols.Category,165,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,166,,amfm telecom 09,اتصالات,اتصالات | amfm telecom 09,translated
+Marker Symbols.Category,166,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,167,,amfm telecom 10,اتصالات,اتصالات | amfm telecom 10,translated
+Marker Symbols.Category,167,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,168,,amfm telecom 11,اتصالات,اتصالات | amfm telecom 11,translated
+Marker Symbols.Category,168,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,169,,amfm telecom 12,اتصالات,اتصالات | amfm telecom 12,translated
+Marker Symbols.Category,169,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,170,,amfm telecom 13,اتصالات,اتصالات | amfm telecom 13,translated
+Marker Symbols.Category,170,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,171,,amfm telecom 14,اتصالات,اتصالات | amfm telecom 14,translated
+Marker Symbols.Category,171,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,172,,amfm telecom 15,اتصالات,اتصالات | amfm telecom 15,translated
+Marker Symbols.Category,172,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,173,,amfm telecom 16,اتصالات,اتصالات | amfm telecom 16,translated
+Marker Symbols.Category,173,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,174,,amfm telecom 17,اتصالات,اتصالات | amfm telecom 17,translated
+Marker Symbols.Category,174,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,175,,amfm telecom 18,اتصالات,اتصالات | amfm telecom 18,translated
+Marker Symbols.Category,175,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,176,,amfm telecom 19,اتصالات,اتصالات | amfm telecom 19,translated
+Marker Symbols.Category,176,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,177,,amfm telecom 20,اتصالات,اتصالات | amfm telecom 20,translated
+Marker Symbols.Category,177,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,178,,amfm telecom 21,اتصالات,اتصالات | amfm telecom 21,translated
+Marker Symbols.Category,178,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,179,,amfm telecom 22,اتصالات,اتصالات | amfm telecom 22,translated
+Marker Symbols.Category,179,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,180,,amfm telecom 23,اتصالات,اتصالات | amfm telecom 23,translated
+Marker Symbols.Category,180,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,181,,amfm telecom 24,اتصالات,اتصالات | amfm telecom 24,translated
+Marker Symbols.Category,181,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,182,,amfm telecom 25,اتصالات,اتصالات | amfm telecom 25,translated
+Marker Symbols.Category,182,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,183,,amfm telecom 26,اتصالات,اتصالات | amfm telecom 26,translated
+Marker Symbols.Category,183,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,184,,amfm telecom 27,اتصالات,اتصالات | amfm telecom 27,translated
+Marker Symbols.Category,184,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,185,,amfm telecom 28,اتصالات,اتصالات | amfm telecom 28,translated
+Marker Symbols.Category,185,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,186,,amfm telecom 29,اتصالات,اتصالات | amfm telecom 29,translated
+Marker Symbols.Category,186,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,187,,amfm telecom 30,اتصالات,اتصالات | amfm telecom 30,translated
+Marker Symbols.Category,187,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,188,,amfm telecom 31,اتصالات,اتصالات | amfm telecom 31,translated
+Marker Symbols.Category,188,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,189,,amfm telecom 32,اتصالات,اتصالات | amfm telecom 32,translated
+Marker Symbols.Category,189,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,190,,amfm telecom 33,اتصالات,اتصالات | amfm telecom 33,translated
+Marker Symbols.Category,190,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,191,,amfm telecom 34,اتصالات,اتصالات | amfm telecom 34,translated
+Marker Symbols.Category,191,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,192,,amfm telecom 35,اتصالات,اتصالات | amfm telecom 35,translated
+Marker Symbols.Category,192,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,193,,amfm telecom 36,اتصالات,اتصالات | amfm telecom 36,translated
+Marker Symbols.Category,193,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,194,,amfm telecom 37,اتصالات,اتصالات | amfm telecom 37,translated
+Marker Symbols.Category,194,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,195,,amfm telecom 38,اتصالات,اتصالات | amfm telecom 38,translated
+Marker Symbols.Category,195,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,196,,amfm telecom 39,اتصالات,اتصالات | amfm telecom 39,translated
+Marker Symbols.Category,196,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,197,,amfm telecom 40,اتصالات,اتصالات | amfm telecom 40,translated
+Marker Symbols.Category,197,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,198,,amfm telecom 41,اتصالات,اتصالات | amfm telecom 41,translated
+Marker Symbols.Category,198,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,199,,amfm telecom 42,اتصالات,اتصالات | amfm telecom 42,translated
+Marker Symbols.Category,199,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,200,,amfm telecom 43,اتصالات,اتصالات | amfm telecom 43,translated
+Marker Symbols.Category,200,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,201,,amfm telecom 44,اتصالات,اتصالات | amfm telecom 44,translated
+Marker Symbols.Category,201,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,202,,amfm telecom 45,اتصالات,اتصالات | amfm telecom 45,translated
+Marker Symbols.Category,202,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,203,,amfm telecom 46,اتصالات,اتصالات | amfm telecom 46,translated
+Marker Symbols.Category,203,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,204,,amfm telecom 47,اتصالات,اتصالات | amfm telecom 47,translated
+Marker Symbols.Category,204,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,205,,amfm telecom 48,اتصالات,اتصالات | amfm telecom 48,translated
+Marker Symbols.Category,205,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,206,,amfm telecom 49,اتصالات,اتصالات | amfm telecom 49,translated
+Marker Symbols.Category,206,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,207,,amfm telecom 50,اتصالات,اتصالات | amfm telecom 50,translated
+Marker Symbols.Category,207,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,208,,amfm telecom 51,اتصالات,اتصالات | amfm telecom 51,translated
+Marker Symbols.Category,208,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,209,,Apparatus Case,,Apparatus Case,kept
+Marker Symbols.Category,209,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,210,,Basic Fuse,قاعدية منصهر,قاعدية منصهر | Basic Fuse,translated
+Marker Symbols.Category,210,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,211,,Build-Out Capacitor,مكثف,مكثف | Build-Out Capacitor,translated
+Marker Symbols.Category,211,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,212,,Build-Out Lattice,,Build-Out Lattice,kept
+Marker Symbols.Category,212,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,213,,Buried Cable,مدفونة كابل,مدفونة كابل | Buried Cable,translated
+Marker Symbols.Category,213,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,214,,Cellular Phone 1,خلوي هاتف,خلوي هاتف | Cellular Phone 1,translated
+Marker Symbols.Category,214,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,215,,Cellular Phone 2,خلوي هاتف,خلوي هاتف | Cellular Phone 2,translated
+Marker Symbols.Category,215,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,216,,Cellular Phone 3,خلوي هاتف,خلوي هاتف | Cellular Phone 3,translated
+Marker Symbols.Category,216,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,217,,Copper Cable Splice,نحاس كابل توصيلة,نحاس كابل توصيلة | Copper Cable Splice,translated
+Marker Symbols.Category,217,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,218,,Cross Connect,تقاطع,تقاطع | Cross Connect,translated
+Marker Symbols.Category,218,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,219,,Fiber Cable,ألياف كابل,ألياف كابل | Fiber Cable,translated
+Marker Symbols.Category,219,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,220,,Fiber Cable Splice,ألياف كابل توصيلة,ألياف كابل توصيلة | Fiber Cable Splice,translated
+Marker Symbols.Category,220,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,221,,Gas Fused Switch,غاز مفتاح,غاز مفتاح | Gas Fused Switch,translated
+Marker Symbols.Category,221,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,222,,Gas Switch (GAS),غاز مفتاح,غاز مفتاح | Gas Switch (GAS),translated
+Marker Symbols.Category,222,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,223,,Handhole,فتحة يدوية,فتحة يدوية | Handhole,translated
+Marker Symbols.Category,223,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,224,,Inductor,,Inductor,kept
+Marker Symbols.Category,224,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,225,,LB Junction 3 Way,عقدة اتجاه,عقدة اتجاه | LB Junction 3 Way,translated
+Marker Symbols.Category,225,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,226,,LB Junction 4 Way,عقدة اتجاه,عقدة اتجاه | LB Junction 4 Way,translated
+Marker Symbols.Category,226,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,227,,Link Box 2 Way,وصلة صندوق اتجاه,وصلة صندوق اتجاه | Link Box 2 Way,translated
+Marker Symbols.Category,227,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,228,,Load Coil,حمل,حمل | Load Coil,translated
+Marker Symbols.Category,228,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,229,,Manhole 2,غرفة تفتيش,غرفة تفتيش | Manhole 2,translated
+Marker Symbols.Category,229,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,230,,Oil Switch 2 Way,مفتاح زيتي اتجاه,مفتاح زيتي اتجاه | Oil Switch 2 Way,translated
+Marker Symbols.Category,230,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,231,,Pedestal,ركيزة,ركيزة | Pedestal,translated
+Marker Symbols.Category,231,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,232,,RAC6,,RAC6,kept
+Marker Symbols.Category,232,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,233,,Ram Switch (RAM5),مفتاح,مفتاح | Ram Switch (RAM5),translated
+Marker Symbols.Category,233,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,234,,Regulator Phase 1,منظم طور,منظم طور | Regulator Phase 1,translated
+Marker Symbols.Category,234,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,235,,Regulator Phase 2,منظم طور,منظم طور | Regulator Phase 2,translated
+Marker Symbols.Category,235,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,236,,Splice Device 200A,توصيلة جهاز,توصيلة جهاز | Splice Device 200A,translated
+Marker Symbols.Category,236,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,237,,Splice Device 600A,توصيلة جهاز,توصيلة جهاز | Splice Device 600A,translated
+Marker Symbols.Category,237,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,238,,Tax Boundary,حدود,حدود | Tax Boundary,translated
+Marker Symbols.Category,238,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,239,,Telephone Pole 1,هاتف عمود,هاتف عمود | Telephone Pole 1,translated
+Marker Symbols.Category,239,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,240,,Telephone Pole 2,هاتف عمود,هاتف عمود | Telephone Pole 2,translated
+Marker Symbols.Category,240,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,241,,Telephone Pole 3,هاتف عمود,هاتف عمود | Telephone Pole 3,translated
+Marker Symbols.Category,241,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,242,,Terminal,محطة طرفية,محطة طرفية | Terminal,translated
+Marker Symbols.Category,242,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,243,,Tower,برج,برج | Tower,translated
+Marker Symbols.Category,243,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,244,,UG Oil Fused Cutout,نفط فاصل,نفط فاصل | UG Oil Fused Cutout,translated
+Marker Symbols.Category,244,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,245,,Wire Open Point,مفتوحة نقطة,مفتوحة نقطة | Wire Open Point,translated
+Marker Symbols.Category,245,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,246,,Wire Size Change,حجم تغيير,حجم تغيير | Wire Size Change,translated
+Marker Symbols.Category,246,,Telecom,اتصالات,اتصالات | Telecom,translated
+Marker Symbols.Name,247,,Abandoned water well,مهجورة بئر مياه,مهجورة بئر مياه | Abandoned water well,translated
+Marker Symbols.Category,247,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,248,,Artesian Well,ارتوازية بئر,ارتوازية بئر | Artesian Well,translated
+Marker Symbols.Category,248,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,249,,Destroyed water well,بئر مياه,بئر مياه | Destroyed water well,translated
+Marker Symbols.Category,249,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,250,,Direction ground-water flow-approx (dashed),اتجاه أرضية مياه تدفق متقطعة,اتجاه أرضية مياه تدفق متقطعة | Direction ground-water flow-approx (dashed),translated
+Marker Symbols.Category,250,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,251,,Direction ground-water flow-approx (solid),اتجاه أرضية مياه تدفق مصمتة,اتجاه أرضية مياه تدفق مصمتة | Direction ground-water flow-approx (solid),translated
+Marker Symbols.Category,251,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,252,,Direction of ground-water flow (hollow),اتجاه أرضية مياه تدفق,اتجاه أرضية مياه تدفق | Direction of ground-water flow (hollow),translated
+Marker Symbols.Category,252,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,253,,Direction of ground-water flow (solid),اتجاه أرضية مياه تدفق مصمتة,اتجاه أرضية مياه تدفق مصمتة | Direction of ground-water flow (solid),translated
+Marker Symbols.Category,253,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,254,,Discontinued gauging station,محطة,محطة | Discontinued gauging station,translated
+Marker Symbols.Category,254,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,255,,Dry hole-Water exploration,بئر جافة مياه استكشاف,بئر جافة مياه استكشاف | Dry hole-Water exploration,translated
+Marker Symbols.Category,255,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,256,,Extinct Spring,ينبوع,ينبوع | Extinct Spring,translated
+Marker Symbols.Category,256,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,257,,Gauging station,محطة,محطة | Gauging station,translated
+Marker Symbols.Category,257,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,258,,Gauging station - Collection of WQ data,محطة,محطة | Gauging station - Collection of WQ data,translated
+Marker Symbols.Category,258,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,259,,Gauging station - Continuous-record,محطة سجل,محطة سجل | Gauging station - Continuous-record,translated
+Marker Symbols.Category,259,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,260,,Gauging station - Partial record ,محطة جزئية سجل,محطة جزئية سجل | Gauging station - Partial record ,translated
+Marker Symbols.Category,260,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,261,,Gauging station - Telephone or Radio,محطة هاتف أو,محطة هاتف أو | Gauging station - Telephone or Radio,translated
+Marker Symbols.Category,261,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,262,,Low-flow measurement station,منخفضة تدفق محطة,منخفضة تدفق محطة | Low-flow measurement station,translated
+Marker Symbols.Category,262,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,263,,Measurement station without a gauge,محطة بدون مقياس,محطة بدون مقياس | Measurement station without a gauge,translated
+Marker Symbols.Category,263,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,264,,Mineral Spring,معدن ينبوع,معدن ينبوع | Mineral Spring,translated
+Marker Symbols.Category,264,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,265,,Non-flowing artesian well,ارتوازية بئر,ارتوازية بئر | Non-flowing artesian well,translated
+Marker Symbols.Category,265,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,266,,Observation well water,بئر مراقبة مياه,بئر مراقبة مياه | Observation well water,translated
+Marker Symbols.Category,266,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,267,,Observation well water - Recorder,بئر مراقبة مياه مسجل,بئر مراقبة مياه مسجل | Observation well water - Recorder,translated
+Marker Symbols.Category,267,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,268,,Peak-flow measurement station,قصوى تدفق محطة,قصوى تدفق محطة | Peak-flow measurement station,translated
+Marker Symbols.Category,268,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,269,,Spring,ينبوع,ينبوع | Spring,translated
+Marker Symbols.Category,269,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,270,,Spring - Collection of Quality Data,ينبوع,ينبوع | Spring - Collection of Quality Data,translated
+Marker Symbols.Category,270,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,271,,Spring - Domestic water supply,ينبوع مياه إمداد,ينبوع مياه إمداد | Spring - Domestic water supply,translated
+Marker Symbols.Category,271,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,272,,Spring - Industrial water supply,ينبوع صناعية مياه إمداد,ينبوع صناعية مياه إمداد | Spring - Industrial water supply,translated
+Marker Symbols.Category,272,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,273,,Spring - Irrigation water supply,ينبوع ري مياه إمداد,ينبوع ري مياه إمداد | Spring - Irrigation water supply,translated
+Marker Symbols.Category,273,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,274,,Spring - Public water supply,ينبوع عامة مياه إمداد,ينبوع عامة مياه إمداد | Spring - Public water supply,translated
+Marker Symbols.Category,274,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,275,,Stage - measurement station,مرحلة محطة,مرحلة محطة | Stage - measurement station,translated
+Marker Symbols.Category,275,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,276,,Test hole for water,اختبار حفرة لـ مياه,اختبار حفرة لـ مياه | Test hole for water,translated
+Marker Symbols.Category,276,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,277,,Thermal Spring,ينبوع,ينبوع | Thermal Spring,translated
+Marker Symbols.Category,277,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,278,,Unknown,مجهولة,مجهولة | Unknown,translated
+Marker Symbols.Category,278,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,279,,Unused Spring,ينبوع,ينبوع | Unused Spring,translated
+Marker Symbols.Category,279,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,280,,Water recharge or waste-injection well,مياه تغذية جوفية أو مخلفات حقن بئر,مياه تغذية جوفية أو مخلفات حقن بئر | Water recharge or waste-injection well,translated
+Marker Symbols.Category,280,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,281,,Water Well,بئر مياه,بئر مياه | Water Well,translated
+Marker Symbols.Category,281,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,282,,Water well - Capped,بئر مياه مغطاة,بئر مياه مغطاة | Water well - Capped,translated
+Marker Symbols.Category,282,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,283,,Water well - Shut-in,بئر مياه مغلقة,بئر مياه مغلقة | Water well - Shut-in,translated
+Marker Symbols.Category,283,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,284,,Water well - Unused,بئر مياه,بئر مياه | Water well - Unused,translated
+Marker Symbols.Category,284,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,285,,Well - Used for collection of data,بئر لـ,بئر لـ | Well - Used for collection of data,translated
+Marker Symbols.Category,285,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,286,,Well - Used for domestic water supply,بئر لـ مياه إمداد,بئر لـ مياه إمداد | Well - Used for domestic water supply,translated
+Marker Symbols.Category,286,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,287,,Well - Used for industrial water supply,بئر لـ صناعية مياه إمداد,بئر لـ صناعية مياه إمداد | Well - Used for industrial water supply,translated
+Marker Symbols.Category,287,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,288,,Well - Used for irrigation water supply,بئر لـ ري مياه إمداد,بئر لـ ري مياه إمداد | Well - Used for irrigation water supply,translated
+Marker Symbols.Category,288,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,289,,Well - Used for public water supply,بئر لـ عامة مياه إمداد,بئر لـ عامة مياه إمداد | Well - Used for public water supply,translated
+Marker Symbols.Category,289,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,290,,Well - Used for stock water supply,بئر لـ كتلة نارية مياه إمداد,بئر لـ كتلة نارية مياه إمداد | Well - Used for stock water supply,translated
+Marker Symbols.Category,290,,Water - USGS-95-525,مياه,مياه | Water - USGS-95-525,translated
+Marker Symbols.Name,291,,Air Release Valve 1,هواء تحرير صمام,هواء تحرير صمام | Air Release Valve 1,translated
+Marker Symbols.Category,291,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,292,,Air Release Valve 2,هواء تحرير صمام,هواء تحرير صمام | Air Release Valve 2,translated
+Marker Symbols.Category,292,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,293,,Air Vent Valve,هواء منفس صمام,هواء منفس صمام | Air Vent Valve,translated
+Marker Symbols.Category,293,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,294,,amfm water 01,مياه,مياه | amfm water 01,translated
+Marker Symbols.Category,294,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,295,,amfm water 02,مياه,مياه | amfm water 02,translated
+Marker Symbols.Category,295,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,296,,amfm water 03,مياه,مياه | amfm water 03,translated
+Marker Symbols.Category,296,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,297,,amfm water 04,مياه,مياه | amfm water 04,translated
+Marker Symbols.Category,297,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,298,,amfm water 05,مياه,مياه | amfm water 05,translated
+Marker Symbols.Category,298,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,299,,amfm water 06,مياه,مياه | amfm water 06,translated
+Marker Symbols.Category,299,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,300,,amfm water 07,مياه,مياه | amfm water 07,translated
+Marker Symbols.Category,300,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,301,,amfm water 08,مياه,مياه | amfm water 08,translated
+Marker Symbols.Category,301,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,302,,amfm water 09,مياه,مياه | amfm water 09,translated
+Marker Symbols.Category,302,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,303,,amfm water 10,مياه,مياه | amfm water 10,translated
+Marker Symbols.Category,303,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,304,,amfm water 11,مياه,مياه | amfm water 11,translated
+Marker Symbols.Category,304,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,305,,Backwater Valve,ارتداد صمام,ارتداد صمام | Backwater Valve,translated
+Marker Symbols.Category,305,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,306,,Blow-off Valve 1,صمام,صمام | Blow-off Valve 1,translated
+Marker Symbols.Category,306,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,307,,Blow-off Valve 2,صمام,صمام | Blow-off Valve 2,translated
+Marker Symbols.Category,307,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,308,,Butterfly Valve 1,صمام فراشي,صمام فراشي | Butterfly Valve 1,translated
+Marker Symbols.Category,308,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,309,,Butterfly Valve 2,صمام فراشي,صمام فراشي | Butterfly Valve 2,translated
+Marker Symbols.Category,309,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,310,,By-Pass Valve,بواسطة تصريح صمام,بواسطة تصريح صمام | By-Pass Valve,translated
+Marker Symbols.Category,310,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,311,,Check Valve,صمام عدم رجوع,صمام عدم رجوع | Check Valve,translated
+Marker Symbols.Category,311,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,312,,Cleanout 1,فتحة تنظيف,فتحة تنظيف | Cleanout 1,translated
+Marker Symbols.Category,312,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,313,,Cleanout 2,فتحة تنظيف,فتحة تنظيف | Cleanout 2,translated
+Marker Symbols.Category,313,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,314,,Cleanout w/ Backflow Device,فتحة تنظيف مع التدفق العكسي جهاز,فتحة تنظيف مع التدفق العكسي جهاز | Cleanout w/ Backflow Device,translated
+Marker Symbols.Category,314,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,315,,Cleanout w/ Backwater Valve,فتحة تنظيف مع ارتداد صمام,فتحة تنظيف مع ارتداد صمام | Cleanout w/ Backwater Valve,translated
+Marker Symbols.Category,315,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,316,,Corporation Stop,محبس التوصيلة,محبس التوصيلة | Corporation Stop,translated
+Marker Symbols.Category,316,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,317,,Dead End,نهاية مسدودة,نهاية مسدودة | Dead End,translated
+Marker Symbols.Category,317,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,318,,Diversion Chamber,تحويلة غرفة,تحويلة غرفة | Diversion Chamber,translated
+Marker Symbols.Category,318,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,319,,Double Outfall,مزدوجة مصب خارج,مزدوجة مصب خارج | Double Outfall,translated
+Marker Symbols.Category,319,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,320,,Emergency Inter-tie,طوارئ,طوارئ | Emergency Inter-tie,translated
+Marker Symbols.Category,320,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,321,,Fire Detector Check Valve,حريق صمام عدم رجوع,حريق صمام عدم رجوع | Fire Detector Check Valve,translated
+Marker Symbols.Category,321,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,322,,Fire Hydrant,حنفية حريق,حنفية حريق | Fire Hydrant,translated
+Marker Symbols.Category,322,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,323,,Fire Hydrant Valve,حنفية حريق صمام,حنفية حريق صمام | Fire Hydrant Valve,translated
+Marker Symbols.Category,323,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,324,,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+Marker Symbols.Category,324,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,325,,Flow Meter,تدفق عداد,تدفق عداد | Flow Meter,translated
+Marker Symbols.Category,325,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,326,,Gate Valve 1,صمام بوابي,صمام بوابي | Gate Valve 1,translated
+Marker Symbols.Category,326,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,327,,Gate Valve 2,صمام بوابي,صمام بوابي | Gate Valve 2,translated
+Marker Symbols.Category,327,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,328,,Gate Valve with Bypass,صمام بوابي مع ممر تحويلي,صمام بوابي مع ممر تحويلي | Gate Valve with Bypass,translated
+Marker Symbols.Category,328,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,329,,Grease Separator,شحوم فاصل,شحوم فاصل | Grease Separator,translated
+Marker Symbols.Category,329,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,330,,Injection Well,حقن بئر,حقن بئر | Injection Well,translated
+Marker Symbols.Category,330,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,331,,Interconnect,ربط بيني,ربط بيني | Interconnect,translated
+Marker Symbols.Category,331,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,332,,Junction Structure,عقدة بنية,عقدة بنية | Junction Structure,translated
+Marker Symbols.Category,332,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,333,,Landscape Meter,عداد,عداد | Landscape Meter,translated
+Marker Symbols.Category,333,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,334,,Landscape Meter w/ Backflow Device,عداد مع التدفق العكسي جهاز,عداد مع التدفق العكسي جهاز | Landscape Meter w/ Backflow Device,translated
+Marker Symbols.Category,334,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,335,,Leak,,Leak,kept
+Marker Symbols.Category,335,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,336,,Lift Station 1,محطة الرفع,محطة الرفع | Lift Station 1,translated
+Marker Symbols.Category,336,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,337,,Lift Station 2,محطة الرفع,محطة الرفع | Lift Station 2,translated
+Marker Symbols.Category,337,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,338,,Manhole 1,غرفة تفتيش,غرفة تفتيش | Manhole 1,translated
+Marker Symbols.Category,338,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,339,,Manhole Valve,غرفة تفتيش صمام,غرفة تفتيش صمام | Manhole Valve,translated
+Marker Symbols.Category,339,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,340,,Manifold Meter,مجمع عداد,مجمع عداد | Manifold Meter,translated
+Marker Symbols.Category,340,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,341,,Metering Station,محطة,محطة | Metering Station,translated
+Marker Symbols.Category,341,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,342,,Modeling Node,نمذجة عقدة,نمذجة عقدة | Modeling Node,translated
+Marker Symbols.Category,342,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,343,,Monitor Well,بئر,بئر | Monitor Well,translated
+Marker Symbols.Category,343,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,344,,Null Node,عقدة,عقدة | Null Node,translated
+Marker Symbols.Category,344,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,345,,Observation Well,بئر مراقبة,بئر مراقبة | Observation Well,translated
+Marker Symbols.Category,345,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,346,,Plug,سدادة,سدادة | Plug,translated
+Marker Symbols.Category,346,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,347,,Plug Fitting,سدادة قطعة ربط,سدادة قطعة ربط | Plug Fitting,translated
+Marker Symbols.Category,347,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,348,,Pressure Reducer,ضغط مخفض,ضغط مخفض | Pressure Reducer,translated
+Marker Symbols.Category,348,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,349,,Pressure Regulating Station,ضغط محطة,ضغط محطة | Pressure Regulating Station,translated
+Marker Symbols.Category,349,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,350,,Private Valve,خاصة صمام,خاصة صمام | Private Valve,translated
+Marker Symbols.Category,350,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,351,,Pump Station 1,محطة الضخ,محطة الضخ | Pump Station 1,translated
+Marker Symbols.Category,351,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,352,,Pump Station 2,محطة الضخ,محطة الضخ | Pump Station 2,translated
+Marker Symbols.Category,352,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,353,,Re-Use Meter,عداد,عداد | Re-Use Meter,translated
+Marker Symbols.Category,353,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,354,,Reducer 2,مخفض,مخفض | Reducer 2,translated
+Marker Symbols.Category,354,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,355,,Reservoir,خزان,خزان | Reservoir,translated
+Marker Symbols.Category,355,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,356,,Sampling Point 1,أخذ العينات نقطة,أخذ العينات نقطة | Sampling Point 1,translated
+Marker Symbols.Category,356,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,357,,Sampling Point 2,أخذ العينات نقطة,أخذ العينات نقطة | Sampling Point 2,translated
+Marker Symbols.Category,357,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,358,,Service Connect Valve,خدمة صمام,خدمة صمام | Service Connect Valve,translated
+Marker Symbols.Category,358,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,359,,Service Meter,عداد الخدمة,عداد الخدمة | Service Meter,translated
+Marker Symbols.Category,359,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,360,,Service Meter w/ Backflow Device,عداد الخدمة مع التدفق العكسي جهاز,عداد الخدمة مع التدفق العكسي جهاز | Service Meter w/ Backflow Device,translated
+Marker Symbols.Category,360,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,361,,Service Node,خدمة عقدة,خدمة عقدة | Service Node,translated
+Marker Symbols.Category,361,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,362,,Single Outfall,مفردة مصب خارج,مفردة مصب خارج | Single Outfall,translated
+Marker Symbols.Category,362,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,363,,Star,,Star,kept
+Marker Symbols.Category,363,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,364,,Sulfide Test Station,اختبار محطة,اختبار محطة | Sulfide Test Station,translated
+Marker Symbols.Category,364,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,365,,Tank,خزان,خزان | Tank,translated
+Marker Symbols.Category,365,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,366,,Tapping Valve,صمام,صمام | Tapping Valve,translated
+Marker Symbols.Category,366,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,367,,Telemetry,قياس عن بعد,قياس عن بعد | Telemetry,translated
+Marker Symbols.Category,367,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,368,,Treatment Plant 1,محطة المعالجة,محطة المعالجة | Treatment Plant 1,translated
+Marker Symbols.Category,368,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,369,,Treatment Plant 2,محطة المعالجة,محطة المعالجة | Treatment Plant 2,translated
+Marker Symbols.Category,369,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,370,,Triple Outfall,ثلاثية مصب خارج,ثلاثية مصب خارج | Triple Outfall,translated
+Marker Symbols.Category,370,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,371,,Tunnel Door,نفق,نفق | Tunnel Door,translated
+Marker Symbols.Category,371,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,372,,Tunnel Shaft,نفق بئر منجمية,نفق بئر منجمية | Tunnel Shaft,translated
+Marker Symbols.Category,372,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,373,,Tunnel Vent,نفق منفس,نفق منفس | Tunnel Vent,translated
+Marker Symbols.Category,373,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,374,,Turbine Meter,عداد,عداد | Turbine Meter,translated
+Marker Symbols.Category,374,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,375,,Vault 2,حجرة,حجرة | Vault 2,translated
+Marker Symbols.Category,375,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,376,,Vortex Manhole,غرفة تفتيش,غرفة تفتيش | Vortex Manhole,translated
+Marker Symbols.Category,376,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,377,,Well,بئر,بئر | Well,translated
+Marker Symbols.Category,377,,Water,مياه,مياه | Water,translated
+Marker Symbols.Name,378,,Abandon,,Abandon,kept
+Marker Symbols.Category,378,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,379,,Access Point,وصول نقطة,وصول نقطة | Access Point,translated
+Marker Symbols.Category,379,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,380,,Anchor Guy 3,مثبت شداد,مثبت شداد | Anchor Guy 3,translated
+Marker Symbols.Category,380,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,381,,Anode,أنود,أنود | Anode,translated
+Marker Symbols.Category,381,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,382,,Arrestors,,Arrestors,kept
+Marker Symbols.Category,382,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,383,,Arrow1L,,Arrow1L,kept
+Marker Symbols.Category,383,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,384,,Arrow1R,,Arrow1R,kept
+Marker Symbols.Category,384,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,385,,Backflow,التدفق العكسي,التدفق العكسي | Backflow,translated
+Marker Symbols.Category,385,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,386,,Boundary Point,حدود نقطة,حدود نقطة | Boundary Point,translated
+Marker Symbols.Category,386,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,387,,Breakers,,Breakers,kept
+Marker Symbols.Category,387,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,388,,Building,مبنى,مبنى | Building,translated
+Marker Symbols.Category,388,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,389,,Building Line,مبنى خط,مبنى خط | Building Line,translated
+Marker Symbols.Category,389,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,390,,Bus,حافلة,حافلة | Bus,translated
+Marker Symbols.Category,390,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,391,,Cadastral Easement,حرم,حرم | Cadastral Easement,translated
+Marker Symbols.Category,391,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,392,,Cadastral Line,خط,خط | Cadastral Line,translated
+Marker Symbols.Category,392,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,393,,Cadastral Parcel,قطعة,قطعة | Cadastral Parcel,translated
+Marker Symbols.Category,393,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,394,,Cadastral Poly,,Cadastral Poly,kept
+Marker Symbols.Category,394,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,395,,Canal,قناة,قناة | Canal,translated
+Marker Symbols.Category,395,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,396,,Capacitors,,Capacitors,kept
+Marker Symbols.Category,396,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,397,,Chamber,غرفة,غرفة | Chamber,translated
+Marker Symbols.Category,397,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,398,,Circle,,Circle,kept
+Marker Symbols.Category,398,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,399,,Closed,مغلقة,مغلقة | Closed,translated
+Marker Symbols.Category,399,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,400,,Curb Stop,محبس الرصيف,محبس الرصيف | Curb Stop,translated
+Marker Symbols.Category,400,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,401,,Fault Ind,فالق,فالق | Fault Ind,translated
+Marker Symbols.Category,401,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,402,,Fireline,خط النار,خط النار | Fireline,translated
+Marker Symbols.Category,402,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,403,,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+Marker Symbols.Category,403,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,404,,Flowmeter,,Flowmeter,kept
+Marker Symbols.Category,404,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,405,,Force Main,خط الضغط الرئيسي,خط الضغط الرئيسي | Force Main,translated
+Marker Symbols.Category,405,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,406,,Fuses,,Fuses,kept
+Marker Symbols.Category,406,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,407,,Gas Casing,غاز غلاف,غاز غلاف | Gas Casing,translated
+Marker Symbols.Category,407,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,408,,Gas Pipe,غاز أنبوب,غاز أنبوب | Gas Pipe,translated
+Marker Symbols.Category,408,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,409,,Gas Service,غاز خدمة,غاز خدمة | Gas Service,translated
+Marker Symbols.Category,409,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,410,,Gravity Main,خط الانحدار الرئيسي,خط الانحدار الرئيسي | Gravity Main,translated
+Marker Symbols.Category,410,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,411,,Ground,أرضية,أرضية | Ground,translated
+Marker Symbols.Category,411,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,412,,Hydrant,حنفية,حنفية | Hydrant,translated
+Marker Symbols.Category,412,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,413,,Hydrant Line,حنفية خط,حنفية خط | Hydrant Line,translated
+Marker Symbols.Category,413,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,414,,Lateral,فرعية,فرعية | Lateral,translated
+Marker Symbols.Category,414,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,415,,Lift Station 3,محطة الرفع,محطة الرفع | Lift Station 3,translated
+Marker Symbols.Category,415,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,416,,Manhole 3,غرفة تفتيش,غرفة تفتيش | Manhole 3,translated
+Marker Symbols.Category,416,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,417,,Measure,,Measure,kept
+Marker Symbols.Category,417,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,418,,Metering Station,محطة,محطة | Metering Station,translated
+Marker Symbols.Category,418,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,419,,Odorizer,,Odorizer,kept
+Marker Symbols.Category,419,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,420,,Open Points,مفتوحة نقاط,مفتوحة نقاط | Open Points,translated
+Marker Symbols.Category,420,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,421,,Other Line,أخرى خط,أخرى خط | Other Line,translated
+Marker Symbols.Category,421,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,422,,Other Point,أخرى نقطة,أخرى نقطة | Other Point,translated
+Marker Symbols.Category,422,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,423,,Outfall,مصب خارج,مصب خارج | Outfall,translated
+Marker Symbols.Category,423,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,424,,Phase,طور,طور | Phase,translated
+Marker Symbols.Category,424,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,425,,Poles Equip,أعمدة,أعمدة | Poles Equip,translated
+Marker Symbols.Category,425,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,426,,Primary Cond.,أولية,أولية | Primary Cond.,translated
+Marker Symbols.Category,426,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,427,,Pump Station,محطة الضخ,محطة الضخ | Pump Station,translated
+Marker Symbols.Category,427,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,428,,Reclosers,,Reclosers,kept
+Marker Symbols.Category,428,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,429,,Rectifier,مقوم,مقوم | Rectifier,translated
+Marker Symbols.Category,429,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,430,,Regulator,منظم,منظم | Regulator,translated
+Marker Symbols.Category,430,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,431,,Reservoir,خزان,خزان | Reservoir,translated
+Marker Symbols.Category,431,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,432,,Risers,,Risers,kept
+Marker Symbols.Category,432,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,433,,Sectionalizers,,Sectionalizers,kept
+Marker Symbols.Category,433,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,434,,Service Drop,وصلة الخدمة الهوائية,وصلة الخدمة الهوائية | Service Drop,translated
+Marker Symbols.Category,434,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,435,,Service Pipe,خدمة أنبوب,خدمة أنبوب | Service Pipe,translated
+Marker Symbols.Category,435,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,436,,Service Point,خدمة نقطة,خدمة نقطة | Service Point,translated
+Marker Symbols.Category,436,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,437,,Siphon,سيفون,سيفون | Siphon,translated
+Marker Symbols.Category,437,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,438,,Span Guys,امتداد,امتداد | Span Guys,translated
+Marker Symbols.Category,438,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,439,,Station,محطة,محطة | Station,translated
+Marker Symbols.Category,439,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,440,,Step Trans,,Step Trans,kept
+Marker Symbols.Category,440,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,441,,Storm Inlet,أمطار فتحة دخول,أمطار فتحة دخول | Storm Inlet,translated
+Marker Symbols.Category,441,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,442,,Street Edge,شارع,شارع | Street Edge,translated
+Marker Symbols.Category,442,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,443,,Street Light,عمود إنارة,عمود إنارة | Street Light,translated
+Marker Symbols.Category,443,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,444,,Substation,محطة تحويل,محطة تحويل | Substation,translated
+Marker Symbols.Category,444,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,445,,Surge Relief,صدمة هيدروليكية تضاريس,صدمة هيدروليكية تضاريس | Surge Relief,translated
+Marker Symbols.Category,445,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,446,,Switch Cable,مفتاح كابل,مفتاح كابل | Switch Cable,translated
+Marker Symbols.Category,446,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,447,,Switches,مفاتيح,مفاتيح | Switches,translated
+Marker Symbols.Category,447,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,448,,Test Point,نقطة الاختبار,نقطة الاختبار | Test Point,translated
+Marker Symbols.Category,448,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,449,,Transformers,,Transformers,kept
+Marker Symbols.Category,449,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,450,,Treatment Plant,محطة المعالجة,محطة المعالجة | Treatment Plant,translated
+Marker Symbols.Category,450,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,451,,Tunnel,نفق,نفق | Tunnel,translated
+Marker Symbols.Category,451,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,452,,Tunnel Door,نفق,نفق | Tunnel Door,translated
+Marker Symbols.Category,452,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,453,,Tunnel Shaft,نفق بئر منجمية,نفق بئر منجمية | Tunnel Shaft,translated
+Marker Symbols.Category,453,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,454,,Tunnel Vent,نفق منفس,نفق منفس | Tunnel Vent,translated
+Marker Symbols.Category,454,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,455,,Under Linear,,Under Linear,kept
+Marker Symbols.Category,455,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,456,,Under Structure,بنية,بنية | Under Structure,translated
+Marker Symbols.Category,456,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,457,,Valve,صمام,صمام | Valve,translated
+Marker Symbols.Category,457,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,458,,Voltage Regulator,منظم,منظم | Voltage Regulator,translated
+Marker Symbols.Category,458,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,459,,Warning Sign,تحذير لافتة,تحذير لافتة | Warning Sign,translated
+Marker Symbols.Category,459,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,460,,Wastewater Vault,مياه الصرف حجرة,مياه الصرف حجرة | Wastewater Vault,translated
+Marker Symbols.Category,460,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,461,,Water Conduit,مياه ماسورة,مياه ماسورة | Water Conduit,translated
+Marker Symbols.Category,461,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,462,,Water Leak,مياه,مياه | Water Leak,translated
+Marker Symbols.Category,462,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,463,,Water Pipe,مياه أنبوب,مياه أنبوب | Water Pipe,translated
+Marker Symbols.Category,463,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,464,,Water Tank,مياه خزان,مياه خزان | Water Tank,translated
+Marker Symbols.Category,464,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,465,,Water Vault,مياه حجرة,مياه حجرة | Water Vault,translated
+Marker Symbols.Category,465,,Bitmap,نقطية,نقطية | Bitmap,translated
+Marker Symbols.Name,466,,Water Well,بئر مياه,بئر مياه | Water Well,translated
+Marker Symbols.Category,466,,Bitmap,نقطية,نقطية | Bitmap,translated
+Colors.Name,1,,Gravity,,Gravity,kept
+Colors.Category,1,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,2,,Force,قوة,قوة | Force,translated
+Colors.Category,2,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,3,,Transmission,نقل,نقل | Transmission,translated
+Colors.Category,3,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,4,,Fire Service,خدمة الإطفاء,خدمة الإطفاء | Fire Service,translated
+Colors.Category,4,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,5,,Siphon,سيفون,سيفون | Siphon,translated
+Colors.Category,5,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,6,,Stub Out,مخرج مسدود,مخرج مسدود | Stub Out,translated
+Colors.Category,6,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,7,,Landscape Service,خدمة,خدمة | Landscape Service,translated
+Colors.Category,7,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,8,,Unknown,مجهولة,مجهولة | Unknown,translated
+Colors.Category,8,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,9,,Air Release,هواء تحرير,هواء تحرير | Air Release,translated
+Colors.Category,9,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,10,,Blow-off Area,منطقة,منطقة | Blow-off Area,translated
+Colors.Category,10,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,11,,Service,خدمة,خدمة | Service,translated
+Colors.Category,11,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,12,,Hydrant,حنفية,حنفية | Hydrant,translated
+Colors.Category,12,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,13,,OH Secondary,علوية ثانوية,علوية ثانوية | OH Secondary,translated
+Colors.Category,13,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,14,,UG Primary,أولية,أولية | UG Primary,translated
+Colors.Category,14,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,15,,Pad Yellow,أصفر,أصفر | Pad Yellow,translated
+Colors.Category,15,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,16,,Pad Green,أخضر,أخضر | Pad Green,translated
+Colors.Category,16,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,17,,Lighting Blue,إضاءة أزرق,إضاءة أزرق | Lighting Blue,translated
+Colors.Category,17,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,18,,Fuse,منصهر,منصهر | Fuse,translated
+Colors.Category,18,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,19,,Phase,طور,طور | Phase,translated
+Colors.Category,19,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,20,,Not Owned,,Not Owned,kept
+Colors.Category,20,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,21,,Riser,قائم,قائم | Riser,translated
+Colors.Category,21,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,22,,Highlight,,Highlight,kept
+Colors.Category,22,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,23,,Black,أسود,أسود | Black,translated
+Colors.Category,23,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,24,,Primary,أولية,أولية | Primary,translated
+Colors.Category,24,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,25,,Work in Progress,في,في | Work in Progress,translated
+Colors.Category,25,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,26,,Null Node,عقدة,عقدة | Null Node,translated
+Colors.Category,26,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,27,,Link Box,وصلة صندوق,وصلة صندوق | Link Box,translated
+Colors.Category,27,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,28,,White,أبيض,أبيض | White,translated
+Colors.Category,28,,Default,افتراضية,افتراضية | Default,translated
+North Arrows.Name,1,,Utility North 1,مرفق شمال,مرفق شمال | Utility North 1,translated
+North Arrows.Category,1,,Default,افتراضية,افتراضية | Default,translated
+North Arrows.Name,2,,Utility North 2,مرفق شمال,مرفق شمال | Utility North 2,translated
+North Arrows.Category,2,,Default,افتراضية,افتراضية | Default,translated
+North Arrows.Name,3,,Utility North 3,مرفق شمال,مرفق شمال | Utility North 3,translated
+North Arrows.Category,3,,Default,افتراضية,افتراضية | Default,translated

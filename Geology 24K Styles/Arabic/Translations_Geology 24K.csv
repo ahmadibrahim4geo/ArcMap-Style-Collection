@@ -1,0 +1,895 @@
+﻿field,id,key,original,arabic,new_value,status
+Fill Symbols.Name,1,,731 Vitrophyre,فيتروفير,فيتروفير | 731 Vitrophyre,translated
+Fill Symbols.Category,1,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,2,,317 Igneous,نارية,نارية | 317 Igneous,translated
+Fill Symbols.Category,2,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,3,,407 Igneous,نارية,نارية | 407 Igneous,translated
+Fill Symbols.Category,3,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,4,,502 Periglacial,شبه جليدية,شبه جليدية | 502 Periglacial,translated
+Fill Symbols.Category,4,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,5,,504 Periglacial,شبه جليدية,شبه جليدية | 504 Periglacial,translated
+Fill Symbols.Category,5,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,6,,503 Periglacial,شبه جليدية,شبه جليدية | 503 Periglacial,translated
+Fill Symbols.Category,6,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,7,,"601 Gravel, Open",حصى مفتوحة,"حصى مفتوحة | 601 Gravel, Open",translated
+Fill Symbols.Category,7,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,8,,"602 Gravel, Closed",حصى مغلقة,"حصى مغلقة | 602 Gravel, Closed",translated
+Fill Symbols.Category,8,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,9,,"605 Breccia, Open",بريشيا مفتوحة,"بريشيا مفتوحة | 605 Breccia, Open",translated
+Fill Symbols.Category,9,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,10,,607 Sand,رمل,رمل | 607 Sand,translated
+Fill Symbols.Category,10,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,11,,612 Argillaceous or Shaly Sandstone,طينية أو صخر طيني حجر رملي,طينية أو صخر طيني حجر رملي | 612 Argillaceous or Shaly Sandstone,translated
+Fill Symbols.Category,11,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,12,,613 Calcareous Sandstone,جيرية حجر رملي,جيرية حجر رملي | 613 Calcareous Sandstone,translated
+Fill Symbols.Category,12,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,13,,614 Dolomitic Sandstone,دولوميتية حجر رملي,دولوميتية حجر رملي | 614 Dolomitic Sandstone,translated
+Fill Symbols.Category,13,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,14,,"616 Silt, Siltstone, or Silty Shale",غرين حجر غريني أو غرينية صخر طيني,"غرين حجر غريني أو غرينية صخر طيني | 616 Silt, Siltstone, or Silty Shale",translated
+Fill Symbols.Category,14,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,15,,617 Calcareous Siltstone,جيرية حجر غريني,جيرية حجر غريني | 617 Calcareous Siltstone,translated
+Fill Symbols.Category,15,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,16,,619 Sandy or Silty Shale,رملية أو غرينية صخر طيني,رملية أو غرينية صخر طيني | 619 Sandy or Silty Shale,translated
+Fill Symbols.Category,16,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,17,,620 Clay or Clay Shale,طين أو صخر طيني,طين أو صخر طيني | 620 Clay or Clay Shale,translated
+Fill Symbols.Category,17,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,18,,624 Carbonaceous Shale,كربونية صخر طيني,كربونية صخر طيني | 624 Carbonaceous Shale,translated
+Fill Symbols.Category,18,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,19,,625 Oil Shale,صخر زيتي,صخر زيتي | 625 Oil Shale,translated
+Fill Symbols.Category,19,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,20,,627 Limestone,حجر جيري,حجر جيري | 627 Limestone,translated
+Fill Symbols.Category,20,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,21,,636 Sandy Limestone,رملية حجر جيري,رملية حجر جيري | 636 Sandy Limestone,translated
+Fill Symbols.Category,21,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,22,,637 Silty Limestone,غرينية حجر جيري,غرينية حجر جيري | 637 Silty Limestone,translated
+Fill Symbols.Category,22,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,23,,638 Argillaceous Limestone,طينية حجر جيري,طينية حجر جيري | 638 Argillaceous Limestone,translated
+Fill Symbols.Category,23,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,24,,642 Dolomite,دولوميت,دولوميت | 642 Dolomite,translated
+Fill Symbols.Category,24,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,25,,658 Coal,فحم,فحم | 658 Coal,translated
+Fill Symbols.Category,25,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,26,,661 Flint Clay,صوان طين,صوان طين | 661 Flint Clay,translated
+Fill Symbols.Category,26,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,27,,667 Gypsum,جبس,جبس | 667 Gypsum,translated
+Fill Symbols.Category,27,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,28,,668 Salt,ملح,ملح | 668 Salt,translated
+Fill Symbols.Category,28,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,29,,669 Interbedded Sandstone and Siltstone,حجر رملي و حجر غريني,حجر رملي و حجر غريني | 669 Interbedded Sandstone and Siltstone,translated
+Fill Symbols.Category,29,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,30,,702 Quartzite,كوارتزيت,كوارتزيت | 702 Quartzite,translated
+Fill Symbols.Category,30,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,31,,711 Tuffaceous Rock,طفية صخر,طفية صخر | 711 Tuffaceous Rock,translated
+Fill Symbols.Category,31,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,32,,712 Crystal Tuff,بلورة طف بركاني,بلورة طف بركاني | 712 Crystal Tuff,translated
+Fill Symbols.Category,32,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,33,,713 Devitrified Tuff,طف بركاني,طف بركاني | 713 Devitrified Tuff,translated
+Fill Symbols.Category,33,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,34,,716 Zeolitic Rock,صخر,صخر | 716 Zeolitic Rock,translated
+Fill Symbols.Category,34,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,35,,721 Massive Igneous Rock 1,كتلية صخر ناري,كتلية صخر ناري | 721 Massive Igneous Rock 1,translated
+Fill Symbols.Category,35,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,36,,723 Massive Igneous Rock 3,كتلية صخر ناري,كتلية صخر ناري | 723 Massive Igneous Rock 3,translated
+Fill Symbols.Category,36,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,37,,724 Massive Igneous Rock 4,كتلية صخر ناري,كتلية صخر ناري | 724 Massive Igneous Rock 4,translated
+Fill Symbols.Category,37,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,38,,725 Massive Igneous Rock 5,كتلية صخر ناري,كتلية صخر ناري | 725 Massive Igneous Rock 5,translated
+Fill Symbols.Category,38,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Fill Symbols.Name,39,,728 Massive Igneous Rock 8,كتلية صخر ناري,كتلية صخر ناري | 728 Massive Igneous Rock 8,translated
+Fill Symbols.Category,39,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Line Symbols.Name,1,,Contact - Certain,تماس,تماس | Contact - Certain,translated
+Line Symbols.Category,1,,USGS95525,,USGS95525,kept
+Line Symbols.Name,2,,Contact - Approximately located,تماس محددة تقريباً,تماس محددة تقريباً | Contact - Approximately located,translated
+Line Symbols.Category,2,,USGS95525,,USGS95525,kept
+Line Symbols.Name,3,,"Contact - Approximately located, queried",تماس محددة تقريباً,"تماس محددة تقريباً | Contact - Approximately located, queried",translated
+Line Symbols.Category,3,,USGS95525,,USGS95525,kept
+Line Symbols.Name,4,,Contact - Inferred,تماس,تماس | Contact - Inferred,translated
+Line Symbols.Category,4,,USGS95525,,USGS95525,kept
+Line Symbols.Name,5,,"Contact - Inferred, queried",تماس,"تماس | Contact - Inferred, queried",translated
+Line Symbols.Category,5,,USGS95525,,USGS95525,kept
+Line Symbols.Name,6,,Contact - Concealed,تماس,تماس | Contact - Concealed,translated
+Line Symbols.Category,6,,USGS95525,,USGS95525,kept
+Line Symbols.Name,7,,"Contact - Concealed, queried",تماس,"تماس | Contact - Concealed, queried",translated
+Line Symbols.Category,7,,USGS95525,,USGS95525,kept
+Line Symbols.Name,8,,Gradational contact - Certain,تماس,تماس | Gradational contact - Certain,translated
+Line Symbols.Category,8,,USGS95525,,USGS95525,kept
+Line Symbols.Name,9,,Gradational contact - Approximately located,تماس محددة تقريباً,تماس محددة تقريباً | Gradational contact - Approximately located,translated
+Line Symbols.Category,9,,USGS95525,,USGS95525,kept
+Line Symbols.Name,10,,"Gradational contact - Approximately located, queried",تماس محددة تقريباً,"تماس محددة تقريباً | Gradational contact - Approximately located, queried",translated
+Line Symbols.Category,10,,USGS95525,,USGS95525,kept
+Line Symbols.Name,11,,Boundary - Located by geophysical methods,حدود بواسطة,حدود بواسطة | Boundary - Located by geophysical methods,translated
+Line Symbols.Category,11,,USGS95525,,USGS95525,kept
+Line Symbols.Name,12,,Geophysical data collection line - Accurately located,خط,خط | Geophysical data collection line - Accurately located,translated
+Line Symbols.Category,12,,USGS95525,,USGS95525,kept
+Line Symbols.Name,13,,Geophysical data collection line - Aerial survey,خط جوية,خط جوية | Geophysical data collection line - Aerial survey,translated
+Line Symbols.Category,13,,USGS95525,,USGS95525,kept
+Line Symbols.Name,14,,Coal bed - Certain,فحم طبقة,فحم طبقة | Coal bed - Certain,translated
+Line Symbols.Category,14,,USGS95525,,USGS95525,kept
+Line Symbols.Name,15,,Clay bed - Approximately located,طين طبقة محددة تقريباً,طين طبقة محددة تقريباً | Clay bed - Approximately located,translated
+Line Symbols.Category,15,,USGS95525,,USGS95525,kept
+Line Symbols.Name,16,,"Clay bed - Approximately located, queried",طين طبقة محددة تقريباً,"طين طبقة محددة تقريباً | Clay bed - Approximately located, queried",translated
+Line Symbols.Category,16,,USGS95525,,USGS95525,kept
+Line Symbols.Name,17,,Clay bed - Concealed,طين طبقة,طين طبقة | Clay bed - Concealed,translated
+Line Symbols.Category,17,,USGS95525,,USGS95525,kept
+Line Symbols.Name,18,,"Clay bed - Concealed, queried",طين طبقة,"طين طبقة | Clay bed - Concealed, queried",translated
+Line Symbols.Category,18,,USGS95525,,USGS95525,kept
+Line Symbols.Name,19,,Dike 1 - Certain,قاطع ناري,قاطع ناري | Dike 1 - Certain,translated
+Line Symbols.Category,19,,USGS95525,,USGS95525,kept
+Line Symbols.Name,20,,Dike 1 - Approximately located,قاطع ناري محددة تقريباً,قاطع ناري محددة تقريباً | Dike 1 - Approximately located,translated
+Line Symbols.Category,20,,USGS95525,,USGS95525,kept
+Line Symbols.Name,21,,Dike 2 - Certain,قاطع ناري,قاطع ناري | Dike 2 - Certain,translated
+Line Symbols.Category,21,,USGS95525,,USGS95525,kept
+Line Symbols.Name,22,,Dike 2 - Approximately located,قاطع ناري محددة تقريباً,قاطع ناري محددة تقريباً | Dike 2 - Approximately located,translated
+Line Symbols.Category,22,,USGS95525,,USGS95525,kept
+Line Symbols.Name,23,,Dike 3 - Certain,قاطع ناري,قاطع ناري | Dike 3 - Certain,translated
+Line Symbols.Category,23,,USGS95525,,USGS95525,kept
+Line Symbols.Name,24,,Dike 3 - Approximately located,قاطع ناري محددة تقريباً,قاطع ناري محددة تقريباً | Dike 3 - Approximately located,translated
+Line Symbols.Category,24,,USGS95525,,USGS95525,kept
+Line Symbols.Name,25,,Fault - Certain,فالق,فالق | Fault - Certain,translated
+Line Symbols.Category,25,,USGS95525,,USGS95525,kept
+Line Symbols.Name,26,,Fault - Approximately located,فالق محددة تقريباً,فالق محددة تقريباً | Fault - Approximately located,translated
+Line Symbols.Category,26,,USGS95525,,USGS95525,kept
+Line Symbols.Name,27,,"Fault - Approximately located, queried",فالق محددة تقريباً,"فالق محددة تقريباً | Fault - Approximately located, queried",translated
+Line Symbols.Category,27,,USGS95525,,USGS95525,kept
+Line Symbols.Name,28,,Fault - Inferred,فالق,فالق | Fault - Inferred,translated
+Line Symbols.Category,28,,USGS95525,,USGS95525,kept
+Line Symbols.Name,29,,"Fault - Inferred, queried",فالق,"فالق | Fault - Inferred, queried",translated
+Line Symbols.Category,29,,USGS95525,,USGS95525,kept
+Line Symbols.Name,30,,Fault - Concealed,فالق,فالق | Fault - Concealed,translated
+Line Symbols.Category,30,,USGS95525,,USGS95525,kept
+Line Symbols.Name,31,,"Fault - Concealed, queried",فالق,"فالق | Fault - Concealed, queried",translated
+Line Symbols.Category,31,,USGS95525,,USGS95525,kept
+Line Symbols.Name,32,,Fault - Located by geophysical methods,فالق بواسطة,فالق بواسطة | Fault - Located by geophysical methods,translated
+Line Symbols.Category,32,,USGS95525,,USGS95525,kept
+Line Symbols.Name,33,,Normal fault - Certain,فالق عادي,فالق عادي | Normal fault - Certain,translated
+Line Symbols.Category,33,,USGS95525,,USGS95525,kept
+Line Symbols.Name,34,,Normal fault - Approximately located,فالق عادي محددة تقريباً,فالق عادي محددة تقريباً | Normal fault - Approximately located,translated
+Line Symbols.Category,34,,USGS95525,,USGS95525,kept
+Line Symbols.Name,35,,"Normal fault - Approximately located, queried",فالق عادي محددة تقريباً,"فالق عادي محددة تقريباً | Normal fault - Approximately located, queried",translated
+Line Symbols.Category,35,,USGS95525,,USGS95525,kept
+Line Symbols.Name,36,,Normal fault - Inferred,فالق عادي,فالق عادي | Normal fault - Inferred,translated
+Line Symbols.Category,36,,USGS95525,,USGS95525,kept
+Line Symbols.Name,37,,"Normal fault - Inferred, queried",فالق عادي,"فالق عادي | Normal fault - Inferred, queried",translated
+Line Symbols.Category,37,,USGS95525,,USGS95525,kept
+Line Symbols.Name,38,,Normal fault - Concealed,فالق عادي,فالق عادي | Normal fault - Concealed,translated
+Line Symbols.Category,38,,USGS95525,,USGS95525,kept
+Line Symbols.Name,39,,"Normal fault - Concealed, queried",فالق عادي,"فالق عادي | Normal fault - Concealed, queried",translated
+Line Symbols.Category,39,,USGS95525,,USGS95525,kept
+Line Symbols.Name,40,,"Strike-slip fault, right lateral - Certain",فالق مضربي يميني الإزاحة,"فالق مضربي يميني الإزاحة | Strike-slip fault, right lateral - Certain",translated
+Line Symbols.Category,40,,USGS95525,,USGS95525,kept
+Line Symbols.Name,41,,"Strike-slip fault, right lateral - Approximately located",فالق مضربي يميني الإزاحة محددة تقريباً,"فالق مضربي يميني الإزاحة محددة تقريباً | Strike-slip fault, right lateral - Approximately located",translated
+Line Symbols.Category,41,,USGS95525,,USGS95525,kept
+Line Symbols.Name,42,,"Strike-slip fault, right lateral - Approximately located, queried",فالق مضربي يميني الإزاحة محددة تقريباً,"فالق مضربي يميني الإزاحة محددة تقريباً | Strike-slip fault, right lateral - Approximately located, queried",translated
+Line Symbols.Category,42,,USGS95525,,USGS95525,kept
+Line Symbols.Name,43,,"Strike-slip fault, right lateral - Inferred",فالق مضربي يميني الإزاحة,"فالق مضربي يميني الإزاحة | Strike-slip fault, right lateral - Inferred",translated
+Line Symbols.Category,43,,USGS95525,,USGS95525,kept
+Line Symbols.Name,44,,"Strike-slip fault, right lateral - Inferred, queried",فالق مضربي يميني الإزاحة,"فالق مضربي يميني الإزاحة | Strike-slip fault, right lateral - Inferred, queried",translated
+Line Symbols.Category,44,,USGS95525,,USGS95525,kept
+Line Symbols.Name,45,,"Strike-slip fault, right lateral - Concealed",فالق مضربي يميني الإزاحة,"فالق مضربي يميني الإزاحة | Strike-slip fault, right lateral - Concealed",translated
+Line Symbols.Category,45,,USGS95525,,USGS95525,kept
+Line Symbols.Name,46,,"Strike-slip fault, right lateral - Concealed, queried",فالق مضربي يميني الإزاحة,"فالق مضربي يميني الإزاحة | Strike-slip fault, right lateral - Concealed, queried",translated
+Line Symbols.Category,46,,USGS95525,,USGS95525,kept
+Line Symbols.Name,47,,"Strike-slip fault, left lateral - Certain",فالق مضربي يساري الإزاحة,"فالق مضربي يساري الإزاحة | Strike-slip fault, left lateral - Certain",translated
+Line Symbols.Category,47,,USGS95525,,USGS95525,kept
+Line Symbols.Name,48,,"Strike-slip fault, left lateral - Approximately located",فالق مضربي يساري الإزاحة محددة تقريباً,"فالق مضربي يساري الإزاحة محددة تقريباً | Strike-slip fault, left lateral - Approximately located",translated
+Line Symbols.Category,48,,USGS95525,,USGS95525,kept
+Line Symbols.Name,49,,"Strike-slip fault, left lateral - Approximately located, queried",فالق مضربي يساري الإزاحة محددة تقريباً,"فالق مضربي يساري الإزاحة محددة تقريباً | Strike-slip fault, left lateral - Approximately located, queried",translated
+Line Symbols.Category,49,,USGS95525,,USGS95525,kept
+Line Symbols.Name,50,,"Strike-slip fault, left lateral - Inferred",فالق مضربي يساري الإزاحة,"فالق مضربي يساري الإزاحة | Strike-slip fault, left lateral - Inferred",translated
+Line Symbols.Category,50,,USGS95525,,USGS95525,kept
+Line Symbols.Name,51,,"Strike-slip fault, left lateral - Inferred, queried",فالق مضربي يساري الإزاحة,"فالق مضربي يساري الإزاحة | Strike-slip fault, left lateral - Inferred, queried",translated
+Line Symbols.Category,51,,USGS95525,,USGS95525,kept
+Line Symbols.Name,52,,"Strike-slip fault, left lateral - Concealed",فالق مضربي يساري الإزاحة,"فالق مضربي يساري الإزاحة | Strike-slip fault, left lateral - Concealed",translated
+Line Symbols.Category,52,,USGS95525,,USGS95525,kept
+Line Symbols.Name,53,,"Strike-slip fault, left lateral - Concealed, queried",فالق مضربي يساري الإزاحة,"فالق مضربي يساري الإزاحة | Strike-slip fault, left lateral - Concealed, queried",translated
+Line Symbols.Category,53,,USGS95525,,USGS95525,kept
+Line Symbols.Name,54,,"Thrust fault, 1st generation - Certain",فالق زاحف الأول,"فالق زاحف الأول | Thrust fault, 1st generation - Certain",translated
+Line Symbols.Category,54,,USGS95525,,USGS95525,kept
+Line Symbols.Name,55,,"Thrust fault, 1st generation - Approximately located",فالق زاحف الأول محددة تقريباً,"فالق زاحف الأول محددة تقريباً | Thrust fault, 1st generation - Approximately located",translated
+Line Symbols.Category,55,,USGS95525,,USGS95525,kept
+Line Symbols.Name,56,,"Thrust fault, 1st generation - Approximately located, queried",فالق زاحف الأول محددة تقريباً,"فالق زاحف الأول محددة تقريباً | Thrust fault, 1st generation - Approximately located, queried",translated
+Line Symbols.Category,56,,USGS95525,,USGS95525,kept
+Line Symbols.Name,57,,"Thrust fault, 1st generation - Inferred",فالق زاحف الأول,"فالق زاحف الأول | Thrust fault, 1st generation - Inferred",translated
+Line Symbols.Category,57,,USGS95525,,USGS95525,kept
+Line Symbols.Name,58,,"Thrust fault, 1st generation - Inferred, queried",فالق زاحف الأول,"فالق زاحف الأول | Thrust fault, 1st generation - Inferred, queried",translated
+Line Symbols.Category,58,,USGS95525,,USGS95525,kept
+Line Symbols.Name,59,,"Thrust fault, 1st generation - Concealed",فالق زاحف الأول,"فالق زاحف الأول | Thrust fault, 1st generation - Concealed",translated
+Line Symbols.Category,59,,USGS95525,,USGS95525,kept
+Line Symbols.Name,60,,"Thrust fault, 1st generation - Concealed, queried",فالق زاحف الأول,"فالق زاحف الأول | Thrust fault, 1st generation - Concealed, queried",translated
+Line Symbols.Category,60,,USGS95525,,USGS95525,kept
+Line Symbols.Name,61,,"Thrust fault, 2nd generation - Certain",فالق زاحف الثاني,"فالق زاحف الثاني | Thrust fault, 2nd generation - Certain",translated
+Line Symbols.Category,61,,USGS95525,,USGS95525,kept
+Line Symbols.Name,62,,"Thrust fault, 2nd generation - Approximately located",فالق زاحف الثاني محددة تقريباً,"فالق زاحف الثاني محددة تقريباً | Thrust fault, 2nd generation - Approximately located",translated
+Line Symbols.Category,62,,USGS95525,,USGS95525,kept
+Line Symbols.Name,63,,"Thrust fault, 2nd generation - Approximately located, queried",فالق زاحف الثاني محددة تقريباً,"فالق زاحف الثاني محددة تقريباً | Thrust fault, 2nd generation - Approximately located, queried",translated
+Line Symbols.Category,63,,USGS95525,,USGS95525,kept
+Line Symbols.Name,64,,"Thrust fault, 2nd generation - Inferred",فالق زاحف الثاني,"فالق زاحف الثاني | Thrust fault, 2nd generation - Inferred",translated
+Line Symbols.Category,64,,USGS95525,,USGS95525,kept
+Line Symbols.Name,65,,"Thrust fault, 2nd generation - Inferred, queried",فالق زاحف الثاني,"فالق زاحف الثاني | Thrust fault, 2nd generation - Inferred, queried",translated
+Line Symbols.Category,65,,USGS95525,,USGS95525,kept
+Line Symbols.Name,66,,"Thrust fault, 2nd generation - Concealed",فالق زاحف الثاني,"فالق زاحف الثاني | Thrust fault, 2nd generation - Concealed",translated
+Line Symbols.Category,66,,USGS95525,,USGS95525,kept
+Line Symbols.Name,67,,"Thrust fault, 2nd generation - Concealed, queried",فالق زاحف الثاني,"فالق زاحف الثاني | Thrust fault, 2nd generation - Concealed, queried",translated
+Line Symbols.Category,67,,USGS95525,,USGS95525,kept
+Line Symbols.Name,68,,"Thrust fault, 3rd generation - Certain",فالق زاحف الثالث,"فالق زاحف الثالث | Thrust fault, 3rd generation - Certain",translated
+Line Symbols.Category,68,,USGS95525,,USGS95525,kept
+Line Symbols.Name,69,,"Thrust fault, 3rd generation - Approximately located",فالق زاحف الثالث محددة تقريباً,"فالق زاحف الثالث محددة تقريباً | Thrust fault, 3rd generation - Approximately located",translated
+Line Symbols.Category,69,,USGS95525,,USGS95525,kept
+Line Symbols.Name,70,,"Thrust fault, 3rd generation - Approximately located, queried",فالق زاحف الثالث محددة تقريباً,"فالق زاحف الثالث محددة تقريباً | Thrust fault, 3rd generation - Approximately located, queried",translated
+Line Symbols.Category,70,,USGS95525,,USGS95525,kept
+Line Symbols.Name,71,,"Thrust fault, 3rd generation - Inferred",فالق زاحف الثالث,"فالق زاحف الثالث | Thrust fault, 3rd generation - Inferred",translated
+Line Symbols.Category,71,,USGS95525,,USGS95525,kept
+Line Symbols.Name,72,,"Thrust fault, 3rd generation - Inferred, queried",فالق زاحف الثالث,"فالق زاحف الثالث | Thrust fault, 3rd generation - Inferred, queried",translated
+Line Symbols.Category,72,,USGS95525,,USGS95525,kept
+Line Symbols.Name,73,,"Thrust fault, 3rd generation - Concealed",فالق زاحف الثالث,"فالق زاحف الثالث | Thrust fault, 3rd generation - Concealed",translated
+Line Symbols.Category,73,,USGS95525,,USGS95525,kept
+Line Symbols.Name,74,,"Thrust fault, 3rd generation - Concealed, queried",فالق زاحف الثالث,"فالق زاحف الثالث | Thrust fault, 3rd generation - Concealed, queried",translated
+Line Symbols.Category,74,,USGS95525,,USGS95525,kept
+Line Symbols.Name,75,,"Overturned thrust fault, 1st generation - Certain",مقلوبة فالق زاحف الأول,"مقلوبة فالق زاحف الأول | Overturned thrust fault, 1st generation - Certain",translated
+Line Symbols.Category,75,,USGS95525,,USGS95525,kept
+Line Symbols.Name,76,,"Overturned thrust fault, 1st generation - Approximately located",مقلوبة فالق زاحف الأول محددة تقريباً,"مقلوبة فالق زاحف الأول محددة تقريباً | Overturned thrust fault, 1st generation - Approximately located",translated
+Line Symbols.Category,76,,USGS95525,,USGS95525,kept
+Line Symbols.Name,77,,"Overturned thrust fault, 1st generation - Approximately located, queried",مقلوبة فالق زاحف الأول محددة تقريباً,"مقلوبة فالق زاحف الأول محددة تقريباً | Overturned thrust fault, 1st generation - Approximately located, queried",translated
+Line Symbols.Category,77,,USGS95525,,USGS95525,kept
+Line Symbols.Name,78,,"Overturned thrust fault, 1st generation - Inferred",مقلوبة فالق زاحف الأول,"مقلوبة فالق زاحف الأول | Overturned thrust fault, 1st generation - Inferred",translated
+Line Symbols.Category,78,,USGS95525,,USGS95525,kept
+Line Symbols.Name,79,,"Overturned thrust fault, 1st generation - Inferred, queried",مقلوبة فالق زاحف الأول,"مقلوبة فالق زاحف الأول | Overturned thrust fault, 1st generation - Inferred, queried",translated
+Line Symbols.Category,79,,USGS95525,,USGS95525,kept
+Line Symbols.Name,80,,"Overturned thrust fault, 1st generation - Concealed",مقلوبة فالق زاحف الأول,"مقلوبة فالق زاحف الأول | Overturned thrust fault, 1st generation - Concealed",translated
+Line Symbols.Category,80,,USGS95525,,USGS95525,kept
+Line Symbols.Name,81,,"Overturned thrust fault, 1st generation - Concealed, queried",مقلوبة فالق زاحف الأول,"مقلوبة فالق زاحف الأول | Overturned thrust fault, 1st generation - Concealed, queried",translated
+Line Symbols.Category,81,,USGS95525,,USGS95525,kept
+Line Symbols.Name,82,,"Overturned thrust fault, 2nd generation - Certain",مقلوبة فالق زاحف الثاني,"مقلوبة فالق زاحف الثاني | Overturned thrust fault, 2nd generation - Certain",translated
+Line Symbols.Category,82,,USGS95525,,USGS95525,kept
+Line Symbols.Name,83,,"Overturned thrust fault, 2nd generation - Approximately located",مقلوبة فالق زاحف الثاني محددة تقريباً,"مقلوبة فالق زاحف الثاني محددة تقريباً | Overturned thrust fault, 2nd generation - Approximately located",translated
+Line Symbols.Category,83,,USGS95525,,USGS95525,kept
+Line Symbols.Name,84,,"Overturned thrust fault, 2nd generation - Approximately located, queried",مقلوبة فالق زاحف الثاني محددة تقريباً,"مقلوبة فالق زاحف الثاني محددة تقريباً | Overturned thrust fault, 2nd generation - Approximately located, queried",translated
+Line Symbols.Category,84,,USGS95525,,USGS95525,kept
+Line Symbols.Name,85,,"Overturned thrust fault, 2nd generation - Inferred",مقلوبة فالق زاحف الثاني,"مقلوبة فالق زاحف الثاني | Overturned thrust fault, 2nd generation - Inferred",translated
+Line Symbols.Category,85,,USGS95525,,USGS95525,kept
+Line Symbols.Name,86,,"Overturned thrust fault, 2nd generation - Inferred, queried",مقلوبة فالق زاحف الثاني,"مقلوبة فالق زاحف الثاني | Overturned thrust fault, 2nd generation - Inferred, queried",translated
+Line Symbols.Category,86,,USGS95525,,USGS95525,kept
+Line Symbols.Name,87,,"Overturned thrust fault, 2nd generation - Concealed",مقلوبة فالق زاحف الثاني,"مقلوبة فالق زاحف الثاني | Overturned thrust fault, 2nd generation - Concealed",translated
+Line Symbols.Category,87,,USGS95525,,USGS95525,kept
+Line Symbols.Name,88,,"Overturned thrust fault, 2nd generation - Concealed, queried",مقلوبة فالق زاحف الثاني,"مقلوبة فالق زاحف الثاني | Overturned thrust fault, 2nd generation - Concealed, queried",translated
+Line Symbols.Category,88,,USGS95525,,USGS95525,kept
+Line Symbols.Name,89,,"Overturned thrust fault, 3rd generation - Certain",مقلوبة فالق زاحف الثالث,"مقلوبة فالق زاحف الثالث | Overturned thrust fault, 3rd generation - Certain",translated
+Line Symbols.Category,89,,USGS95525,,USGS95525,kept
+Line Symbols.Name,90,,"Overturned thrust fault, 3rd generation - Approximately located",مقلوبة فالق زاحف الثالث محددة تقريباً,"مقلوبة فالق زاحف الثالث محددة تقريباً | Overturned thrust fault, 3rd generation - Approximately located",translated
+Line Symbols.Category,90,,USGS95525,,USGS95525,kept
+Line Symbols.Name,91,,"Overturned thrust fault, 3rd generation - Approximately located, queried",مقلوبة فالق زاحف الثالث محددة تقريباً,"مقلوبة فالق زاحف الثالث محددة تقريباً | Overturned thrust fault, 3rd generation - Approximately located, queried",translated
+Line Symbols.Category,91,,USGS95525,,USGS95525,kept
+Line Symbols.Name,92,,"Overturned thrust fault, 3rd generation - Inferred",مقلوبة فالق زاحف الثالث,"مقلوبة فالق زاحف الثالث | Overturned thrust fault, 3rd generation - Inferred",translated
+Line Symbols.Category,92,,USGS95525,,USGS95525,kept
+Line Symbols.Name,93,,"Overturned thrust fault, 3rd generation - Inferred, queried",مقلوبة فالق زاحف الثالث,"مقلوبة فالق زاحف الثالث | Overturned thrust fault, 3rd generation - Inferred, queried",translated
+Line Symbols.Category,93,,USGS95525,,USGS95525,kept
+Line Symbols.Name,94,,"Overturned thrust fault, 3rd generation - Concealed",مقلوبة فالق زاحف الثالث,"مقلوبة فالق زاحف الثالث | Overturned thrust fault, 3rd generation - Concealed",translated
+Line Symbols.Category,94,,USGS95525,,USGS95525,kept
+Line Symbols.Name,95,,"Overturned thrust fault, 3rd generation - Concealed, queried",مقلوبة فالق زاحف الثالث,"مقلوبة فالق زاحف الثالث | Overturned thrust fault, 3rd generation - Concealed, queried",translated
+Line Symbols.Category,95,,USGS95525,,USGS95525,kept
+Line Symbols.Name,96,,"Detachment fault, 1st generation - Certain",فالق انفصالي الأول,"فالق انفصالي الأول | Detachment fault, 1st generation - Certain",translated
+Line Symbols.Category,96,,USGS95525,,USGS95525,kept
+Line Symbols.Name,97,,"Detachment fault, 1st generation - Approximately located",فالق انفصالي الأول محددة تقريباً,"فالق انفصالي الأول محددة تقريباً | Detachment fault, 1st generation - Approximately located",translated
+Line Symbols.Category,97,,USGS95525,,USGS95525,kept
+Line Symbols.Name,98,,"Detachment fault, 1st generation - Approximately located, queried",فالق انفصالي الأول محددة تقريباً,"فالق انفصالي الأول محددة تقريباً | Detachment fault, 1st generation - Approximately located, queried",translated
+Line Symbols.Category,98,,USGS95525,,USGS95525,kept
+Line Symbols.Name,99,,"Detachment fault, 1st generation - Inferred",فالق انفصالي الأول,"فالق انفصالي الأول | Detachment fault, 1st generation - Inferred",translated
+Line Symbols.Category,99,,USGS95525,,USGS95525,kept
+Line Symbols.Name,100,,"Detachment fault, 1st generation - Inferred, queried",فالق انفصالي الأول,"فالق انفصالي الأول | Detachment fault, 1st generation - Inferred, queried",translated
+Line Symbols.Category,100,,USGS95525,,USGS95525,kept
+Line Symbols.Name,101,,"Detachment fault, 1st generation - Concealed",فالق انفصالي الأول,"فالق انفصالي الأول | Detachment fault, 1st generation - Concealed",translated
+Line Symbols.Category,101,,USGS95525,,USGS95525,kept
+Line Symbols.Name,102,,"Detachment fault, 1st generation - Concealed, queried",فالق انفصالي الأول,"فالق انفصالي الأول | Detachment fault, 1st generation - Concealed, queried",translated
+Line Symbols.Category,102,,USGS95525,,USGS95525,kept
+Line Symbols.Name,103,,"Detachment fault, 2nd generation - Certain",فالق انفصالي الثاني,"فالق انفصالي الثاني | Detachment fault, 2nd generation - Certain",translated
+Line Symbols.Category,103,,USGS95525,,USGS95525,kept
+Line Symbols.Name,104,,"Detachment fault, 2nd generation - Approximately located",فالق انفصالي الثاني محددة تقريباً,"فالق انفصالي الثاني محددة تقريباً | Detachment fault, 2nd generation - Approximately located",translated
+Line Symbols.Category,104,,USGS95525,,USGS95525,kept
+Line Symbols.Name,105,,"Detachment fault, 2nd generation - Approximately located, queried",فالق انفصالي الثاني محددة تقريباً,"فالق انفصالي الثاني محددة تقريباً | Detachment fault, 2nd generation - Approximately located, queried",translated
+Line Symbols.Category,105,,USGS95525,,USGS95525,kept
+Line Symbols.Name,106,,"Detachment fault, 2nd generation - Inferred",فالق انفصالي الثاني,"فالق انفصالي الثاني | Detachment fault, 2nd generation - Inferred",translated
+Line Symbols.Category,106,,USGS95525,,USGS95525,kept
+Line Symbols.Name,107,,"Detachment fault, 2nd generation - Inferred, queried",فالق انفصالي الثاني,"فالق انفصالي الثاني | Detachment fault, 2nd generation - Inferred, queried",translated
+Line Symbols.Category,107,,USGS95525,,USGS95525,kept
+Line Symbols.Name,108,,"Detachment fault, 2nd generation - Concealed",فالق انفصالي الثاني,"فالق انفصالي الثاني | Detachment fault, 2nd generation - Concealed",translated
+Line Symbols.Category,108,,USGS95525,,USGS95525,kept
+Line Symbols.Name,109,,"Detachment fault, 2nd generation - Concealed, queried",فالق انفصالي الثاني,"فالق انفصالي الثاني | Detachment fault, 2nd generation - Concealed, queried",translated
+Line Symbols.Category,109,,USGS95525,,USGS95525,kept
+Line Symbols.Name,110,,"Detachment fault, 3rd generation - Certain",فالق انفصالي الثالث,"فالق انفصالي الثالث | Detachment fault, 3rd generation - Certain",translated
+Line Symbols.Category,110,,USGS95525,,USGS95525,kept
+Line Symbols.Name,111,,"Detachment fault, 3rd generation - Approximately located",فالق انفصالي الثالث محددة تقريباً,"فالق انفصالي الثالث محددة تقريباً | Detachment fault, 3rd generation - Approximately located",translated
+Line Symbols.Category,111,,USGS95525,,USGS95525,kept
+Line Symbols.Name,112,,"Detachment fault, 3rd generation - Approximately located, queried",فالق انفصالي الثالث محددة تقريباً,"فالق انفصالي الثالث محددة تقريباً | Detachment fault, 3rd generation - Approximately located, queried",translated
+Line Symbols.Category,112,,USGS95525,,USGS95525,kept
+Line Symbols.Name,113,,"Detachment fault, 3rd generation - Inferred",فالق انفصالي الثالث,"فالق انفصالي الثالث | Detachment fault, 3rd generation - Inferred",translated
+Line Symbols.Category,113,,USGS95525,,USGS95525,kept
+Line Symbols.Name,114,,"Detachment fault, 3rd generation - Inferred, queried",فالق انفصالي الثالث,"فالق انفصالي الثالث | Detachment fault, 3rd generation - Inferred, queried",translated
+Line Symbols.Category,114,,USGS95525,,USGS95525,kept
+Line Symbols.Name,115,,"Detachment fault, 3rd generation - Concealed",فالق انفصالي الثالث,"فالق انفصالي الثالث | Detachment fault, 3rd generation - Concealed",translated
+Line Symbols.Category,115,,USGS95525,,USGS95525,kept
+Line Symbols.Name,116,,"Detachment fault, 3rd generation - Concealed, queried",فالق انفصالي الثالث,"فالق انفصالي الثالث | Detachment fault, 3rd generation - Concealed, queried",translated
+Line Symbols.Category,116,,USGS95525,,USGS95525,kept
+Line Symbols.Name,117,,Lineament,ملمح خطي,ملمح خطي | Lineament,translated
+Line Symbols.Category,117,,USGS95525,,USGS95525,kept
+Line Symbols.Name,118,,Vein - Certain,عرق,عرق | Vein - Certain,translated
+Line Symbols.Category,118,,USGS95525,,USGS95525,kept
+Line Symbols.Name,119,,Vein - Approximately located,عرق محددة تقريباً,عرق محددة تقريباً | Vein - Approximately located,translated
+Line Symbols.Category,119,,USGS95525,,USGS95525,kept
+Line Symbols.Name,120,,"Vein - Approximately located, queried",عرق محددة تقريباً,"عرق محددة تقريباً | Vein - Approximately located, queried",translated
+Line Symbols.Category,120,,USGS95525,,USGS95525,kept
+Line Symbols.Name,121,,Vein - Concealed,عرق,عرق | Vein - Concealed,translated
+Line Symbols.Category,121,,USGS95525,,USGS95525,kept
+Line Symbols.Name,122,,"Vein - Concealed, queried",عرق,"عرق | Vein - Concealed, queried",translated
+Line Symbols.Category,122,,USGS95525,,USGS95525,kept
+Line Symbols.Name,123,,Anticline - Certain,طية محدبة,طية محدبة | Anticline - Certain,translated
+Line Symbols.Category,123,,USGS95525,,USGS95525,kept
+Line Symbols.Name,124,,Anticline - Approximately located,طية محدبة محددة تقريباً,طية محدبة محددة تقريباً | Anticline - Approximately located,translated
+Line Symbols.Category,124,,USGS95525,,USGS95525,kept
+Line Symbols.Name,125,,Anticline - Inferred,طية محدبة,طية محدبة | Anticline - Inferred,translated
+Line Symbols.Category,125,,USGS95525,,USGS95525,kept
+Line Symbols.Name,126,,Anticline - Concealed,طية محدبة,طية محدبة | Anticline - Concealed,translated
+Line Symbols.Category,126,,USGS95525,,USGS95525,kept
+Line Symbols.Name,127,,"Anticline - Approximately located, queried",طية محدبة محددة تقريباً,"طية محدبة محددة تقريباً | Anticline - Approximately located, queried",translated
+Line Symbols.Category,127,,USGS95525,,USGS95525,kept
+Line Symbols.Name,128,,"Anticline - Inferred, queried",طية محدبة,"طية محدبة | Anticline - Inferred, queried",translated
+Line Symbols.Category,128,,USGS95525,,USGS95525,kept
+Line Symbols.Name,129,,"Anticline - Concealed, queried",طية محدبة,"طية محدبة | Anticline - Concealed, queried",translated
+Line Symbols.Category,129,,USGS95525,,USGS95525,kept
+Line Symbols.Name,130,,Overturned anticline - Certain,مقلوبة طية محدبة,مقلوبة طية محدبة | Overturned anticline - Certain,translated
+Line Symbols.Category,130,,USGS95525,,USGS95525,kept
+Line Symbols.Name,131,,Overturned anticline - Approximately located,مقلوبة طية محدبة محددة تقريباً,مقلوبة طية محدبة محددة تقريباً | Overturned anticline - Approximately located,translated
+Line Symbols.Category,131,,USGS95525,,USGS95525,kept
+Line Symbols.Name,132,,Overturned anticline - Inferred,مقلوبة طية محدبة,مقلوبة طية محدبة | Overturned anticline - Inferred,translated
+Line Symbols.Category,132,,USGS95525,,USGS95525,kept
+Line Symbols.Name,133,,Overturned anticline - Concealed,مقلوبة طية محدبة,مقلوبة طية محدبة | Overturned anticline - Concealed,translated
+Line Symbols.Category,133,,USGS95525,,USGS95525,kept
+Line Symbols.Name,134,,"Overturned anticline - Approximately located, queried",مقلوبة طية محدبة محددة تقريباً,"مقلوبة طية محدبة محددة تقريباً | Overturned anticline - Approximately located, queried",translated
+Line Symbols.Category,134,,USGS95525,,USGS95525,kept
+Line Symbols.Name,135,,"Overturned anticline - Inferred, queried",مقلوبة طية محدبة,"مقلوبة طية محدبة | Overturned anticline - Inferred, queried",translated
+Line Symbols.Category,135,,USGS95525,,USGS95525,kept
+Line Symbols.Name,136,,"Overturned anticline - Concealed, queried",مقلوبة طية محدبة,"مقلوبة طية محدبة | Overturned anticline - Concealed, queried",translated
+Line Symbols.Category,136,,USGS95525,,USGS95525,kept
+Line Symbols.Name,137,,Inverted Anticline - Certain,معكوسة طية محدبة,معكوسة طية محدبة | Inverted Anticline - Certain,translated
+Line Symbols.Category,137,,USGS95525,,USGS95525,kept
+Line Symbols.Name,138,,Inverted Anticline - Approximately located,معكوسة طية محدبة محددة تقريباً,معكوسة طية محدبة محددة تقريباً | Inverted Anticline - Approximately located,translated
+Line Symbols.Category,138,,USGS95525,,USGS95525,kept
+Line Symbols.Name,139,,Inverted Anticline - Inferred,معكوسة طية محدبة,معكوسة طية محدبة | Inverted Anticline - Inferred,translated
+Line Symbols.Category,139,,USGS95525,,USGS95525,kept
+Line Symbols.Name,140,,Inverted Anticline - Concealed,معكوسة طية محدبة,معكوسة طية محدبة | Inverted Anticline - Concealed,translated
+Line Symbols.Category,140,,USGS95525,,USGS95525,kept
+Line Symbols.Name,141,,"Inverted Anticline - Approximately located, queried",معكوسة طية محدبة محددة تقريباً,"معكوسة طية محدبة محددة تقريباً | Inverted Anticline - Approximately located, queried",translated
+Line Symbols.Category,141,,USGS95525,,USGS95525,kept
+Line Symbols.Name,142,,"Inverted Anticline - Inferred, queried",معكوسة طية محدبة,"معكوسة طية محدبة | Inverted Anticline - Inferred, queried",translated
+Line Symbols.Category,142,,USGS95525,,USGS95525,kept
+Line Symbols.Name,143,,"Inverted Anticline - Concealed, queried",معكوسة طية محدبة,"معكوسة طية محدبة | Inverted Anticline - Concealed, queried",translated
+Line Symbols.Category,143,,USGS95525,,USGS95525,kept
+Line Symbols.Name,144,,Syncline - Certain,طية مقعرة,طية مقعرة | Syncline - Certain,translated
+Line Symbols.Category,144,,USGS95525,,USGS95525,kept
+Line Symbols.Name,145,,Syncline - Approximately located,طية مقعرة محددة تقريباً,طية مقعرة محددة تقريباً | Syncline - Approximately located,translated
+Line Symbols.Category,145,,USGS95525,,USGS95525,kept
+Line Symbols.Name,146,,Syncline - Inferred,طية مقعرة,طية مقعرة | Syncline - Inferred,translated
+Line Symbols.Category,146,,USGS95525,,USGS95525,kept
+Line Symbols.Name,147,,Syncline - Concealed,طية مقعرة,طية مقعرة | Syncline - Concealed,translated
+Line Symbols.Category,147,,USGS95525,,USGS95525,kept
+Line Symbols.Name,148,,"Syncline - Approximately located, queried",طية مقعرة محددة تقريباً,"طية مقعرة محددة تقريباً | Syncline - Approximately located, queried",translated
+Line Symbols.Category,148,,USGS95525,,USGS95525,kept
+Line Symbols.Name,149,,"Syncline - Inferred, queried",طية مقعرة,"طية مقعرة | Syncline - Inferred, queried",translated
+Line Symbols.Category,149,,USGS95525,,USGS95525,kept
+Line Symbols.Name,150,,"Syncline - Concealed, queried",طية مقعرة,"طية مقعرة | Syncline - Concealed, queried",translated
+Line Symbols.Category,150,,USGS95525,,USGS95525,kept
+Line Symbols.Name,151,,Overturned syncline - Certain,مقلوبة طية مقعرة,مقلوبة طية مقعرة | Overturned syncline - Certain,translated
+Line Symbols.Category,151,,USGS95525,,USGS95525,kept
+Line Symbols.Name,152,,Overturned syncline - Approximately located,مقلوبة طية مقعرة محددة تقريباً,مقلوبة طية مقعرة محددة تقريباً | Overturned syncline - Approximately located,translated
+Line Symbols.Category,152,,USGS95525,,USGS95525,kept
+Line Symbols.Name,153,,Overturned syncline - Inferred,مقلوبة طية مقعرة,مقلوبة طية مقعرة | Overturned syncline - Inferred,translated
+Line Symbols.Category,153,,USGS95525,,USGS95525,kept
+Line Symbols.Name,154,,Overturned syncline - Concealed,مقلوبة طية مقعرة,مقلوبة طية مقعرة | Overturned syncline - Concealed,translated
+Line Symbols.Category,154,,USGS95525,,USGS95525,kept
+Line Symbols.Name,155,,"Overturned syncline - Approximately located, queried",مقلوبة طية مقعرة محددة تقريباً,"مقلوبة طية مقعرة محددة تقريباً | Overturned syncline - Approximately located, queried",translated
+Line Symbols.Category,155,,USGS95525,,USGS95525,kept
+Line Symbols.Name,156,,"Overturned syncline - Inferred, queried",مقلوبة طية مقعرة,"مقلوبة طية مقعرة | Overturned syncline - Inferred, queried",translated
+Line Symbols.Category,156,,USGS95525,,USGS95525,kept
+Line Symbols.Name,157,,"Overturned syncline - Concealed, queried",مقلوبة طية مقعرة,"مقلوبة طية مقعرة | Overturned syncline - Concealed, queried",translated
+Line Symbols.Category,157,,USGS95525,,USGS95525,kept
+Line Symbols.Name,158,,Inverted syncline - Certain,معكوسة طية مقعرة,معكوسة طية مقعرة | Inverted syncline - Certain,translated
+Line Symbols.Category,158,,USGS95525,,USGS95525,kept
+Line Symbols.Name,159,,Inverted syncline - Approximately located,معكوسة طية مقعرة محددة تقريباً,معكوسة طية مقعرة محددة تقريباً | Inverted syncline - Approximately located,translated
+Line Symbols.Category,159,,USGS95525,,USGS95525,kept
+Line Symbols.Name,160,,Inverted syncline - Inferred,معكوسة طية مقعرة,معكوسة طية مقعرة | Inverted syncline - Inferred,translated
+Line Symbols.Category,160,,USGS95525,,USGS95525,kept
+Line Symbols.Name,161,,Inverted syncline - Concealed,معكوسة طية مقعرة,معكوسة طية مقعرة | Inverted syncline - Concealed,translated
+Line Symbols.Category,161,,USGS95525,,USGS95525,kept
+Line Symbols.Name,162,,"Inverted syncline - Approximately located, queried",معكوسة طية مقعرة محددة تقريباً,"معكوسة طية مقعرة محددة تقريباً | Inverted syncline - Approximately located, queried",translated
+Line Symbols.Category,162,,USGS95525,,USGS95525,kept
+Line Symbols.Name,163,,"Inverted syncline - Inferred, queried",معكوسة طية مقعرة,"معكوسة طية مقعرة | Inverted syncline - Inferred, queried",translated
+Line Symbols.Category,163,,USGS95525,,USGS95525,kept
+Line Symbols.Name,164,,"Inverted syncline - Concealed, queried",معكوسة طية مقعرة,"معكوسة طية مقعرة | Inverted syncline - Concealed, queried",translated
+Line Symbols.Category,164,,USGS95525,,USGS95525,kept
+Line Symbols.Name,165,,Monocline - Certain,طية أحادية الميل,طية أحادية الميل | Monocline - Certain,translated
+Line Symbols.Category,165,,USGS95525,,USGS95525,kept
+Line Symbols.Name,166,,Monocline - Approximately located,طية أحادية الميل محددة تقريباً,طية أحادية الميل محددة تقريباً | Monocline - Approximately located,translated
+Line Symbols.Category,166,,USGS95525,,USGS95525,kept
+Line Symbols.Name,167,,Monocline - Inferred,طية أحادية الميل,طية أحادية الميل | Monocline - Inferred,translated
+Line Symbols.Category,167,,USGS95525,,USGS95525,kept
+Line Symbols.Name,168,,Monocline - Concealed,طية أحادية الميل,طية أحادية الميل | Monocline - Concealed,translated
+Line Symbols.Category,168,,USGS95525,,USGS95525,kept
+Line Symbols.Name,169,,"Monocline - Approximately located, queried",طية أحادية الميل محددة تقريباً,"طية أحادية الميل محددة تقريباً | Monocline - Approximately located, queried",translated
+Line Symbols.Category,169,,USGS95525,,USGS95525,kept
+Line Symbols.Name,170,,"Monocline - Inferred, queried",طية أحادية الميل,"طية أحادية الميل | Monocline - Inferred, queried",translated
+Line Symbols.Category,170,,USGS95525,,USGS95525,kept
+Line Symbols.Name,171,,"Monocline - Concealed, queried",طية أحادية الميل,"طية أحادية الميل | Monocline - Concealed, queried",translated
+Line Symbols.Category,171,,USGS95525,,USGS95525,kept
+Marker Symbols.Name,1,,Minor Dome,صغيرة قبة,صغيرة قبة | Minor Dome,translated
+Marker Symbols.Category,1,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,2,,Minor Basin,صغيرة حوض,صغيرة حوض | Minor Basin,translated
+Marker Symbols.Category,2,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,3,,Horizontal bedding,أفقية تطبق,أفقية تطبق | Horizontal bedding,translated
+Marker Symbols.Category,3,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,4,,Inclined bedding--Showing strike and direction of dip,تطبق يُظهر المضرب و اتجاه الميل,تطبق يُظهر المضرب و اتجاه الميل | Inclined bedding--Showing strike and direction of dip,translated
+Marker Symbols.Category,4,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,5,,Inclined bedding--Showing approximate strike and direction of dip,تطبق مضرب و اتجاه الميل,تطبق مضرب و اتجاه الميل | Inclined bedding--Showing approximate strike and direction of dip,translated
+Marker Symbols.Category,5,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,6,,Inclined and crenulated or warped bedding--Showing approximate strike and dip,و أو تطبق مضرب ميل,و أو تطبق مضرب ميل | Inclined and crenulated or warped bedding--Showing approximate strike and dip,translated
+Marker Symbols.Category,6,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,7,,Inclined beds--Showing strike and dip. Top of beds known from local features,طبقات يُظهر المضرب و ميل علوي من الظواهر المحلية,طبقات يُظهر المضرب و ميل علوي من الظواهر المحلية | Inclined beds--Showing strike and dip. Top of beds known from local features,translated
+Marker Symbols.Category,7,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,8,,Overturned bedding--Showing strike and dip,مقلوبة تطبق يُظهر المضرب و ميل,مقلوبة تطبق يُظهر المضرب و ميل | Overturned bedding--Showing strike and dip,translated
+Marker Symbols.Category,8,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,9,,Overturned bedding--Showing strike and dip. Top direction of beds known from local features,مقلوبة تطبق يُظهر المضرب و ميل علوي اتجاه طبقات من الظواهر المحلية,مقلوبة تطبق يُظهر المضرب و ميل علوي اتجاه طبقات من الظواهر المحلية | Overturned bedding--Showing strike and dip. Top direction of beds known from local features,translated
+Marker Symbols.Category,9,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,10,,Bedding overturned more than 180 degrees--Showing strike and dip,تطبق مقلوبة يُظهر المضرب و ميل,تطبق مقلوبة يُظهر المضرب و ميل | Bedding overturned more than 180 degrees--Showing strike and dip,translated
+Marker Symbols.Category,10,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,11,,Vertical bedding--Showing strike,تطبق يُظهر المضرب,تطبق يُظهر المضرب | Vertical bedding--Showing strike,translated
+Marker Symbols.Category,11,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,12,,Vertical bedding--Showing strike and direction of top beds; top known from local features,تطبق يُظهر المضرب و اتجاه القمة طبقات القمة معروفة من الظواهر المحلية,تطبق يُظهر المضرب و اتجاه القمة طبقات القمة معروفة من الظواهر المحلية | Vertical bedding--Showing strike and direction of top beds; top known from local features,translated
+Marker Symbols.Category,12,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,13,,Graded bedding,تطبق متدرج,تطبق متدرج | Graded bedding,translated
+Marker Symbols.Category,13,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,14,,Overturned graded bedding,مقلوبة تطبق متدرج,مقلوبة تطبق متدرج | Overturned graded bedding,translated
+Marker Symbols.Category,14,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,15,,Inclined bedding in crossbedded rocks- showing approx strike and dip,تطبق في يُظهر المضرب التقريبي و ميل,تطبق في يُظهر المضرب التقريبي و ميل | Inclined bedding in crossbedded rocks- showing approx strike and dip,translated
+Marker Symbols.Category,15,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,16,,Overturned bedding in crossbedded rocks--showing approx strike and dip,مقلوبة تطبق في يُظهر المضرب التقريبي و ميل,مقلوبة تطبق في يُظهر المضرب التقريبي و ميل | Overturned bedding in crossbedded rocks--showing approx strike and dip,translated
+Marker Symbols.Category,16,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,17,,"Horizontal bedding, determined from aerial photographs",أفقية تطبق حُددت من الصور الجوية,"أفقية تطبق حُددت من الصور الجوية | Horizontal bedding, determined from aerial photographs",translated
+Marker Symbols.Category,17,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,18,,"Gently inclined bedding, determined from aerial photographs--showing approx strike and direction of dip",تطبق حُددت من الصور الجوية يُظهر المضرب التقريبي و اتجاه الميل,"تطبق حُددت من الصور الجوية يُظهر المضرب التقريبي و اتجاه الميل | Gently inclined bedding, determined from aerial photographs--showing approx strike and direction of dip",translated
+Marker Symbols.Category,18,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,19,,"Moderately inclined bedding, determined from aerial photographs--showing approx strike and direction of dip",تطبق حُددت من الصور الجوية يُظهر المضرب التقريبي و اتجاه الميل,"تطبق حُددت من الصور الجوية يُظهر المضرب التقريبي و اتجاه الميل | Moderately inclined bedding, determined from aerial photographs--showing approx strike and direction of dip",translated
+Marker Symbols.Category,19,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,20,,"Steeply inclined bedding, determined from aerial photographs--showing approx strike and direction of dip",تطبق حُددت من الصور الجوية يُظهر المضرب التقريبي و اتجاه الميل,"تطبق حُددت من الصور الجوية يُظهر المضرب التقريبي و اتجاه الميل | Steeply inclined bedding, determined from aerial photographs--showing approx strike and direction of dip",translated
+Marker Symbols.Category,20,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,21,,"Vertical or near-vertical bedding, determined from aerial photographs--showing approx strike",رأسية أو شبه رأسية تطبق حُددت من الصور الجوية يُظهر المضرب التقريبي,"رأسية أو شبه رأسية تطبق حُددت من الصور الجوية يُظهر المضرب التقريبي | Vertical or near-vertical bedding, determined from aerial photographs--showing approx strike",translated
+Marker Symbols.Category,21,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,22,,"Photo-interpreted bedding: Strike and dip of strata, dip 5 to 15",تطبق مضرب و ميل طبقات إلى,"تطبق مضرب و ميل طبقات إلى | Photo-interpreted bedding: Strike and dip of strata, dip 5 to 15",translated
+Marker Symbols.Category,22,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,23,,"Photo-interpreted bedding: Strike and dip of strata, dip 15 to 45",تطبق مضرب و ميل طبقات إلى,"تطبق مضرب و ميل طبقات إلى | Photo-interpreted bedding: Strike and dip of strata, dip 15 to 45",translated
+Marker Symbols.Category,23,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,24,,"Photo-interpreted bedding: Strike and dip of strata, dip greater than 45",تطبق مضرب و ميل طبقات,"تطبق مضرب و ميل طبقات | Photo-interpreted bedding: Strike and dip of strata, dip greater than 45",translated
+Marker Symbols.Category,24,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,25,,"Photo-interpreted bedding: Strike and dip of strata, dip not estimated",تطبق مضرب و ميل طبقات مقدرة,"تطبق مضرب و ميل طبقات مقدرة | Photo-interpreted bedding: Strike and dip of strata, dip not estimated",translated
+Marker Symbols.Category,25,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,26,,Horizontal Strata,أفقية طبقات,أفقية طبقات | Horizontal Strata,translated
+Marker Symbols.Category,26,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,27,,Vertical Strata,طبقات,طبقات | Vertical Strata,translated
+Marker Symbols.Category,27,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,28,,Massive igneous rock,كتلية صخر ناري,كتلية صخر ناري | Massive igneous rock,translated
+Marker Symbols.Category,28,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,29,,Horizontal foliation in igneous rock,أفقية تورق في صخر ناري,أفقية تورق في صخر ناري | Horizontal foliation in igneous rock,translated
+Marker Symbols.Category,29,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,30,,Horizontal foliation in igneous rock--Showing strike and dip,أفقية تورق في صخر ناري و يُظهر المضرب ميل,أفقية تورق في صخر ناري و يُظهر المضرب ميل | Horizontal foliation in igneous rock--Showing strike and dip,translated
+Marker Symbols.Category,30,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,31,,Crinkled or deformed foliation in igneous rock--Showing strike and dip,أو تورق في صخر ناري يُظهر المضرب و ميل,أو تورق في صخر ناري يُظهر المضرب و ميل | Crinkled or deformed foliation in igneous rock--Showing strike and dip,translated
+Marker Symbols.Category,31,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,32,,Vertical foliation in igneous rock--Showing strike,تورق في صخر ناري يُظهر المضرب,تورق في صخر ناري يُظهر المضرب | Vertical foliation in igneous rock--Showing strike,translated
+Marker Symbols.Category,32,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,33,,Vertical or near-vertical crinkled or deformed foliation in igneous rock--Showing approx strike,رأسية أو شبه رأسية أو تورق في صخر ناري يُظهر المضرب التقريبي,رأسية أو شبه رأسية أو تورق في صخر ناري يُظهر المضرب التقريبي | Vertical or near-vertical crinkled or deformed foliation in igneous rock--Showing approx strike,translated
+Marker Symbols.Category,33,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,34,,Horizontal cumulate foliation in layered igneous rock,أفقية تورق تراكمي في صخر ناري,أفقية تورق تراكمي في صخر ناري | Horizontal cumulate foliation in layered igneous rock,translated
+Marker Symbols.Category,34,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,35,,Inclined cumulate foliation in layered igneous rock--Showing strike and dip,تورق تراكمي في صخر ناري يُظهر المضرب و ميل,تورق تراكمي في صخر ناري يُظهر المضرب و ميل | Inclined cumulate foliation in layered igneous rock--Showing strike and dip,translated
+Marker Symbols.Category,35,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,36,,Crinkled or deformed cumulate foliation in layered igneous rock--Showing approx strike and dip,أو تورق تراكمي في صخر ناري يُظهر المضرب التقريبي و ميل,أو تورق تراكمي في صخر ناري يُظهر المضرب التقريبي و ميل | Crinkled or deformed cumulate foliation in layered igneous rock--Showing approx strike and dip,translated
+Marker Symbols.Category,36,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,37,,Inclined cumulate foliation parallel to upright layering in igneous rock--Showing strike and dip,تورق تراكمي دائرة عرض إلى قائمة في صخر ناري يُظهر المضرب و ميل,تورق تراكمي دائرة عرض إلى قائمة في صخر ناري يُظهر المضرب و ميل | Inclined cumulate foliation parallel to upright layering in igneous rock--Showing strike and dip,translated
+Marker Symbols.Category,37,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,38,,Inclined cumulate foliation parallel to overturned layering in igneous rock--Showing strike and dip,تورق تراكمي دائرة عرض إلى مقلوبة في صخر ناري يُظهر المضرب و ميل,تورق تراكمي دائرة عرض إلى مقلوبة في صخر ناري يُظهر المضرب و ميل | Inclined cumulate foliation parallel to overturned layering in igneous rock--Showing strike and dip,translated
+Marker Symbols.Category,38,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,39,,Vertical cumulate foliation or layering in igneous rock--Showing strike,تورق أو تطبق تراكمي في صخر ناري يُظهر المضرب,تورق أو تطبق تراكمي في صخر ناري يُظهر المضرب | Vertical cumulate foliation or layering in igneous rock--Showing strike,translated
+Marker Symbols.Category,39,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,40,,Vertical cumulate foliation in igneous rock--Showing strike and direction of top layers,تورق تراكمي في صخر ناري يُظهر المضرب و اتجاه القمة,تورق تراكمي في صخر ناري يُظهر المضرب و اتجاه القمة | Vertical cumulate foliation in igneous rock--Showing strike and direction of top layers,translated
+Marker Symbols.Category,40,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,41,,Vertical or near-vertical crinkled or deformed cumulate foliation or layering in igneous rock,رأسية أو شبه رأسية أو تورق أو تطبق تراكمي في صخر ناري,رأسية أو شبه رأسية أو تورق أو تطبق تراكمي في صخر ناري | Vertical or near-vertical crinkled or deformed cumulate foliation or layering in igneous rock,translated
+Marker Symbols.Category,41,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,42,,Horizontal compaction foliation in ash-flow tuff,أفقية تورق في طف التدفق الرمادي,أفقية تورق في طف التدفق الرمادي | Horizontal compaction foliation in ash-flow tuff,translated
+Marker Symbols.Category,42,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,43,,Inclined foliation in ash-flow tuff,تورق في طف التدفق الرمادي,تورق في طف التدفق الرمادي | Inclined foliation in ash-flow tuff,translated
+Marker Symbols.Category,43,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,44,,Crinkled or deformed compaction foliation in ash-flow tuff--Showing approximate strike,أو تورق في طف التدفق الرمادي مضرب,أو تورق في طف التدفق الرمادي مضرب | Crinkled or deformed compaction foliation in ash-flow tuff--Showing approximate strike,translated
+Marker Symbols.Category,44,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,45,,Vertical or near vertical compaction foliation in ash-flow tuff--Showing strike,أو تورق في طف التدفق الرمادي يُظهر المضرب,أو تورق في طف التدفق الرمادي يُظهر المضرب | Vertical or near vertical compaction foliation in ash-flow tuff--Showing strike,translated
+Marker Symbols.Category,45,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,46,,Horizontal foliation in layered gneiss,أفقية تورق في نايس مطبق,أفقية تورق في نايس مطبق | Horizontal foliation in layered gneiss,translated
+Marker Symbols.Category,46,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,47,,Horizontal foliation parallel to bedding in layered gneiss,أفقية تورق دائرة عرض إلى تطبق في نايس مطبق,أفقية تورق دائرة عرض إلى تطبق في نايس مطبق | Horizontal foliation parallel to bedding in layered gneiss,translated
+Marker Symbols.Category,47,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,48,,Inclined foliation in layered gneiss--Showing strike and dip,تورق في نايس مطبق يُظهر المضرب و ميل,تورق في نايس مطبق يُظهر المضرب و ميل | Inclined foliation in layered gneiss--Showing strike and dip,translated
+Marker Symbols.Category,48,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,49,,Crinkled or deformed foliation in layered gneiss--Showing approximate strike and dip,أو تورق في نايس مطبق مضرب و ميل,أو تورق في نايس مطبق مضرب و ميل | Crinkled or deformed foliation in layered gneiss--Showing approximate strike and dip,translated
+Marker Symbols.Category,49,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,50,,Inclined foliation parallel to upright beds in layered gneiss--Showing strike and dip,تورق دائرة عرض إلى قائمة طبقات في نايس مطبق يُظهر المضرب و ميل,تورق دائرة عرض إلى قائمة طبقات في نايس مطبق يُظهر المضرب و ميل | Inclined foliation parallel to upright beds in layered gneiss--Showing strike and dip,translated
+Marker Symbols.Category,50,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,51,,Inclined foliation parallel to overturned beds in layered gneiss--Showing strike and dip,تورق دائرة عرض إلى مقلوبة طبقات في نايس مطبق يُظهر المضرب و ميل,تورق دائرة عرض إلى مقلوبة طبقات في نايس مطبق يُظهر المضرب و ميل | Inclined foliation parallel to overturned beds in layered gneiss--Showing strike and dip,translated
+Marker Symbols.Category,51,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,52,,Vertical foliation in layered gneiss--Showing strike,تورق في نايس مطبق يُظهر المضرب,تورق في نايس مطبق يُظهر المضرب | Vertical foliation in layered gneiss--Showing strike,translated
+Marker Symbols.Category,52,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,53,,Vertical foliation in layered gneiss--Showing strike and direction of dip,تورق في نايس مطبق يُظهر المضرب و اتجاه الميل,تورق في نايس مطبق يُظهر المضرب و اتجاه الميل | Vertical foliation in layered gneiss--Showing strike and direction of dip,translated
+Marker Symbols.Category,53,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,54,,Vertical or near-vertical crinkled or deformed foliation in layered gneiss,رأسية أو شبه رأسية أو تورق في نايس مطبق,رأسية أو شبه رأسية أو تورق في نايس مطبق | Vertical or near-vertical crinkled or deformed foliation in layered gneiss,translated
+Marker Symbols.Category,54,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,55,,"Horizontal joint, type 2",أفقية فاصل نوع,"أفقية فاصل نوع | Horizontal joint, type 2",translated
+Marker Symbols.Category,55,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,56,,"Horizontal joint, type 1",أفقية فاصل نوع,"أفقية فاصل نوع | Horizontal joint, type 1",translated
+Marker Symbols.Category,56,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,57,,"Inclined joint, type 1 --showing strike and dip",فاصل نوع يُظهر المضرب و ميل,"فاصل نوع يُظهر المضرب و ميل | Inclined joint, type 1 --showing strike and dip",translated
+Marker Symbols.Category,57,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,58,,"Inclined joint, type 2 showing strike and dip ",فاصل نوع يُظهر المضرب و ميل,"فاصل نوع يُظهر المضرب و ميل | Inclined joint, type 2 showing strike and dip ",translated
+Marker Symbols.Category,58,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,59,,"Vertical or near-vertical joint, type 1 --showing strike ",رأسية أو شبه رأسية فاصل نوع يُظهر المضرب,"رأسية أو شبه رأسية فاصل نوع يُظهر المضرب | Vertical or near-vertical joint, type 1 --showing strike ",translated
+Marker Symbols.Category,59,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,60,,"Vertical or near-vertical joint, type 2 --showing strike ",رأسية أو شبه رأسية فاصل نوع يُظهر المضرب,"رأسية أو شبه رأسية فاصل نوع يُظهر المضرب | Vertical or near-vertical joint, type 2 --showing strike ",translated
+Marker Symbols.Category,60,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,61,,"Horizontal cleavage, type 1",أفقية انفصام نوع,"أفقية انفصام نوع | Horizontal cleavage, type 1",translated
+Marker Symbols.Category,61,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,62,,Horizontal cleavage type 2,أفقية انفصام نوع,أفقية انفصام نوع | Horizontal cleavage type 2,translated
+Marker Symbols.Category,62,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,63,,Inclined cleavage--Showing strike and dip,انفصام يُظهر المضرب و ميل,انفصام يُظهر المضرب و ميل | Inclined cleavage--Showing strike and dip,translated
+Marker Symbols.Category,63,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,64,,Inclined cleavage--Showing strike and dip type 2,انفصام يُظهر المضرب و ميل نوع,انفصام يُظهر المضرب و ميل نوع | Inclined cleavage--Showing strike and dip type 2,translated
+Marker Symbols.Category,64,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,65,,Vertical cleavage--Showing strike,انفصام يُظهر المضرب,انفصام يُظهر المضرب | Vertical cleavage--Showing strike,translated
+Marker Symbols.Category,65,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,66,,Vertical cleavage--Showing strike type 2,انفصام يُظهر المضرب نوع,انفصام يُظهر المضرب نوع | Vertical cleavage--Showing strike type 2,translated
+Marker Symbols.Category,66,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,67,,Minor antiform--Inclined axial surface,صغيرة شبه محدبة محورية,صغيرة شبه محدبة محورية | Minor antiform--Inclined axial surface,translated
+Marker Symbols.Category,67,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,68,,Minor antiform--Vertical axial surface,صغيرة شبه محدبة محورية,صغيرة شبه محدبة محورية | Minor antiform--Vertical axial surface,translated
+Marker Symbols.Category,68,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,69,,Minor anticline--Inclined axial surface,صغيرة طية محدبة محورية,صغيرة طية محدبة محورية | Minor anticline--Inclined axial surface,translated
+Marker Symbols.Category,69,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,70,,Minor anticline--Vertical axial surface,صغيرة طية محدبة محورية,صغيرة طية محدبة محورية | Minor anticline--Vertical axial surface,translated
+Marker Symbols.Category,70,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,71,,Minor overturned anticline--Inclined axial surface,صغيرة مقلوبة طية محدبة محورية,صغيرة مقلوبة طية محدبة محورية | Minor overturned anticline--Inclined axial surface,translated
+Marker Symbols.Category,71,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,72,,Minor synform--Inclined axial surface,صغيرة شبه مقعرة محورية,صغيرة شبه مقعرة محورية | Minor synform--Inclined axial surface,translated
+Marker Symbols.Category,72,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,73,,Minor synform--Vertical or near-vertical axial surface,صغيرة شبه مقعرة رأسية أو شبه رأسية محورية,صغيرة شبه مقعرة رأسية أو شبه رأسية محورية | Minor synform--Vertical or near-vertical axial surface,translated
+Marker Symbols.Category,73,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,74,,Minor syncline--Inclined axial surface showing strike and dip,صغيرة طية مقعرة محورية يُظهر المضرب و ميل,صغيرة طية مقعرة محورية يُظهر المضرب و ميل | Minor syncline--Inclined axial surface showing strike and dip,translated
+Marker Symbols.Category,74,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,75,,Minor syncline--Vertical or near vertical axial surface showing strike,صغيرة طية مقعرة أو محورية يُظهر المضرب,صغيرة طية مقعرة أو محورية يُظهر المضرب | Minor syncline--Vertical or near vertical axial surface showing strike,translated
+Marker Symbols.Category,75,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,76,,Minor overturned syncline--Inclined axial surface showing strike and dip,صغيرة مقلوبة طية مقعرة محورية يُظهر المضرب و ميل,صغيرة مقلوبة طية مقعرة محورية يُظهر المضرب و ميل | Minor overturned syncline--Inclined axial surface showing strike and dip,translated
+Marker Symbols.Category,76,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,77,,Horizontal minor fold axis showing bearing,أفقية صغيرة طية سمت,أفقية صغيرة طية سمت | Horizontal minor fold axis showing bearing,translated
+Marker Symbols.Category,77,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,78,,Inclined minor fold axis showing bearing and plunge,صغيرة طية السمت والغطس,صغيرة طية السمت والغطس | Inclined minor fold axis showing bearing and plunge,translated
+Marker Symbols.Category,78,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,79,,Vertical minor fold axis,صغيرة طية,صغيرة طية | Vertical minor fold axis,translated
+Marker Symbols.Category,79,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,80,,Minor anticline--Showing bearing and plunge,صغيرة طية محدبة السمت والغطس,صغيرة طية محدبة السمت والغطس | Minor anticline--Showing bearing and plunge,translated
+Marker Symbols.Category,80,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,81,,Minor syncline--Showing bearing and plunge,صغيرة طية مقعرة السمت والغطس,صغيرة طية مقعرة السمت والغطس | Minor syncline--Showing bearing and plunge,translated
+Marker Symbols.Category,81,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,82,,"Minor fold, dextral rotation sense--Showing bearing and plunge",صغيرة طية السمت والغطس,"صغيرة طية السمت والغطس | Minor fold, dextral rotation sense--Showing bearing and plunge",translated
+Marker Symbols.Category,82,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,83,,"Minor fold, sinistral rotation sense--Showing bearing and plunge",صغيرة طية السمت والغطس,"صغيرة طية السمت والغطس | Minor fold, sinistral rotation sense--Showing bearing and plunge",translated
+Marker Symbols.Category,83,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,84,,Minor folds--Showing bearing and plunge,طيات صغيرة السمت والغطس,طيات صغيرة السمت والغطس | Minor folds--Showing bearing and plunge,translated
+Marker Symbols.Category,84,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,85,,Boudinage--Showing bearing and plunge,السمت والغطس,السمت والغطس | Boudinage--Showing bearing and plunge,translated
+Marker Symbols.Category,85,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,86,,Lineation--Showing bearing and plunge,تخطط السمت والغطس,تخطط السمت والغطس | Lineation--Showing bearing and plunge,translated
+Marker Symbols.Category,86,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,87,,Horizontal lineation,أفقية تخطط,أفقية تخطط | Horizontal lineation,translated
+Marker Symbols.Category,87,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,88,,Vertical lineation,تخطط,تخطط | Vertical lineation,translated
+Marker Symbols.Category,88,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,89,,"Lineation, minerals on foliation surface",تخطط معادن على تورق,"تخطط معادن على تورق | Lineation, minerals on foliation surface",translated
+Marker Symbols.Category,89,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,90,,"Lineation, mineral streaks",تخطط معدن,"تخطط معدن | Lineation, mineral streaks",translated
+Marker Symbols.Category,90,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,91,,Slip lineation,تخطط انزلاقي,تخطط انزلاقي | Slip lineation,translated
+Marker Symbols.Category,91,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,92,,Flow lineation,تدفق تخطط,تدفق تخطط | Flow lineation,translated
+Marker Symbols.Category,92,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,93,,"Lineation, flow folds",تخطط تدفق طيات,"تخطط تدفق طيات | Lineation, flow folds",translated
+Marker Symbols.Category,93,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,94,,Flow direction,تدفق اتجاه,تدفق اتجاه | Flow direction,translated
+Marker Symbols.Category,94,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,95,,Lineation--Aligned mineral grains in cumulate rocks,تخطط معدن في,تخطط معدن في | Lineation--Aligned mineral grains in cumulate rocks,translated
+Marker Symbols.Category,95,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,96,,Lineation--Trough banding in cumulate rocks,تخطط حوض شرب في,تخطط حوض شرب في | Lineation--Trough banding in cumulate rocks,translated
+Marker Symbols.Category,96,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,97,,Lineation--Flow direction in ash-flow tuff,تخطط تدفق اتجاه في طف التدفق الرمادي,تخطط تدفق اتجاه في طف التدفق الرمادي | Lineation--Flow direction in ash-flow tuff,translated
+Marker Symbols.Category,97,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,98,,Lineation--Minor folds normal to flow in ash-flow tuff,تخطط طيات صغيرة إلى تدفق في طف التدفق الرمادي,تخطط طيات صغيرة إلى تدفق في طف التدفق الرمادي | Lineation--Minor folds normal to flow in ash-flow tuff,translated
+Marker Symbols.Category,98,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,99,,Lineation at intersection of bedding and cleavage--Showing bearing and plunge,تخطط عند تطبق و انفصام السمت والغطس,تخطط عند تطبق و انفصام السمت والغطس | Lineation at intersection of bedding and cleavage--Showing bearing and plunge,translated
+Marker Symbols.Category,99,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,100,,Lineation at intersection of foliation and cleavage--Showing bearing and plunge,تخطط عند تورق و انفصام السمت والغطس,تخطط عند تورق و انفصام السمت والغطس | Lineation at intersection of foliation and cleavage--Showing bearing and plunge,translated
+Marker Symbols.Category,100,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,101,,Lineation on cleavage surface--Showing bearing and plunge,تخطط على انفصام السمت والغطس,تخطط على انفصام السمت والغطس | Lineation on cleavage surface--Showing bearing and plunge,translated
+Marker Symbols.Category,101,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,102,,Slip lineation on a fault or shear surface--Showing bearing and plunge,تخطط انزلاقي على سطح فالق أو قص السمت والغطس,تخطط انزلاقي على سطح فالق أو قص السمت والغطس | Slip lineation on a fault or shear surface--Showing bearing and plunge,translated
+Marker Symbols.Category,102,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,103,,Penetrative lineation--Showing bearing and plunge in combination with foliation symbol,تخطط السمت والغطس في تركيبة مع تورق رمز,تخطط السمت والغطس في تركيبة مع تورق رمز | Penetrative lineation--Showing bearing and plunge in combination with foliation symbol,translated
+Marker Symbols.Category,103,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,104,,Pingo,,Pingo,kept
+Marker Symbols.Category,104,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,105,,Kettle,,Kettle,kept
+Marker Symbols.Category,105,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,106,,Sediment transport direction--Determined from dune forms,اتجاه نقل الرسوبيات من أشكال الكثبان,اتجاه نقل الرسوبيات من أشكال الكثبان | Sediment transport direction--Determined from dune forms,translated
+Marker Symbols.Category,106,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,107,,Sediment transport direction--Determined from eolian crossbedding in vertical section,اتجاه نقل الرسوبيات من التطبق المتقاطع الريحي في قطاع رأسي,اتجاه نقل الرسوبيات من التطبق المتقاطع الريحي في قطاع رأسي | Sediment transport direction--Determined from eolian crossbedding in vertical section,translated
+Marker Symbols.Category,107,,Default,افتراضية,افتراضية | Default,translated
+Marker Symbols.Name,108,,Sediment transport direction--Determined from dune bedding in horizontal section,اتجاه نقل الرسوبيات من تطبق الكثبان في قطاع أفقي,اتجاه نقل الرسوبيات من تطبق الكثبان في قطاع أفقي | Sediment transport direction--Determined from dune bedding in horizontal section,translated
+Marker Symbols.Category,108,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,1,,Quaternary 1,الرباعي,الرباعي | Quaternary 1,translated
+Colors.Category,1,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,2,,Quaternary 2,الرباعي,الرباعي | Quaternary 2,translated
+Colors.Category,2,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,3,,Quaternary 3,الرباعي,الرباعي | Quaternary 3,translated
+Colors.Category,3,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,4,,Quaternary 4,الرباعي,الرباعي | Quaternary 4,translated
+Colors.Category,4,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,5,,Tertiary 1,الثلاثي,الثلاثي | Tertiary 1,translated
+Colors.Category,5,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,6,,Tertiary 2,الثلاثي,الثلاثي | Tertiary 2,translated
+Colors.Category,6,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,7,,Tertiary 3,الثلاثي,الثلاثي | Tertiary 3,translated
+Colors.Category,7,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,8,,Tertiary 4,الثلاثي,الثلاثي | Tertiary 4,translated
+Colors.Category,8,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,9,,Tertiary 5,الثلاثي,الثلاثي | Tertiary 5,translated
+Colors.Category,9,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,10,,Tertiary 6,الثلاثي,الثلاثي | Tertiary 6,translated
+Colors.Category,10,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,11,,Tertiary 7,الثلاثي,الثلاثي | Tertiary 7,translated
+Colors.Category,11,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,12,,Tertiary 8,الثلاثي,الثلاثي | Tertiary 8,translated
+Colors.Category,12,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,13,,Cretaceous 1,الطباشيري,الطباشيري | Cretaceous 1,translated
+Colors.Category,13,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,14,,Cretaceous 2,الطباشيري,الطباشيري | Cretaceous 2,translated
+Colors.Category,14,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,15,,Cretaceous 3,الطباشيري,الطباشيري | Cretaceous 3,translated
+Colors.Category,15,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,16,,Cretaceous 4,الطباشيري,الطباشيري | Cretaceous 4,translated
+Colors.Category,16,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,17,,Cretaceous 5,الطباشيري,الطباشيري | Cretaceous 5,translated
+Colors.Category,17,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,18,,Cretaceous 6,الطباشيري,الطباشيري | Cretaceous 6,translated
+Colors.Category,18,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,19,,Jurassic 1,الجوراسي,الجوراسي | Jurassic 1,translated
+Colors.Category,19,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,20,,Jurassic 2,الجوراسي,الجوراسي | Jurassic 2,translated
+Colors.Category,20,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,21,,Jurassic 3,الجوراسي,الجوراسي | Jurassic 3,translated
+Colors.Category,21,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,22,,Jurassic 4,الجوراسي,الجوراسي | Jurassic 4,translated
+Colors.Category,22,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,23,,Jurassic 5,الجوراسي,الجوراسي | Jurassic 5,translated
+Colors.Category,23,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,24,,Triassic 1,الترياسي,الترياسي | Triassic 1,translated
+Colors.Category,24,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,25,,Triassic 2,الترياسي,الترياسي | Triassic 2,translated
+Colors.Category,25,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,26,,Triassic 3,الترياسي,الترياسي | Triassic 3,translated
+Colors.Category,26,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,27,,Triassic 4,الترياسي,الترياسي | Triassic 4,translated
+Colors.Category,27,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,28,,Triassic 5,الترياسي,الترياسي | Triassic 5,translated
+Colors.Category,28,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,29,,Permian 1,البرمي,البرمي | Permian 1,translated
+Colors.Category,29,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,30,,Permian 2,البرمي,البرمي | Permian 2,translated
+Colors.Category,30,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,31,,Permian 3,البرمي,البرمي | Permian 3,translated
+Colors.Category,31,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,32,,Permian 4,البرمي,البرمي | Permian 4,translated
+Colors.Category,32,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,33,,Pennsylvanian 1,البنسلفاني,البنسلفاني | Pennsylvanian 1,translated
+Colors.Category,33,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,34,,Pennsylvanian 2,البنسلفاني,البنسلفاني | Pennsylvanian 2,translated
+Colors.Category,34,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,35,,Pennsylvanian 3,البنسلفاني,البنسلفاني | Pennsylvanian 3,translated
+Colors.Category,35,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,36,,Pennsylvanian 4,البنسلفاني,البنسلفاني | Pennsylvanian 4,translated
+Colors.Category,36,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,37,,Pennsylvanian 5,البنسلفاني,البنسلفاني | Pennsylvanian 5,translated
+Colors.Category,37,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,38,,Mississippian 1,المسيسيبي,المسيسيبي | Mississippian 1,translated
+Colors.Category,38,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,39,,Mississippian 2,المسيسيبي,المسيسيبي | Mississippian 2,translated
+Colors.Category,39,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,40,,Mississippian 3,المسيسيبي,المسيسيبي | Mississippian 3,translated
+Colors.Category,40,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,41,,Mississippian 4,المسيسيبي,المسيسيبي | Mississippian 4,translated
+Colors.Category,41,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,42,,Mississippian 5,المسيسيبي,المسيسيبي | Mississippian 5,translated
+Colors.Category,42,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,43,,Devonian 1,الديفوني,الديفوني | Devonian 1,translated
+Colors.Category,43,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,44,,Devonian 2,الديفوني,الديفوني | Devonian 2,translated
+Colors.Category,44,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,45,,Devonian 3,الديفوني,الديفوني | Devonian 3,translated
+Colors.Category,45,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,46,,Devonian 4,الديفوني,الديفوني | Devonian 4,translated
+Colors.Category,46,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,47,,Devonian 5,الديفوني,الديفوني | Devonian 5,translated
+Colors.Category,47,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,48,,Silurian 1,السيلوري,السيلوري | Silurian 1,translated
+Colors.Category,48,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,49,,Silurian 2,السيلوري,السيلوري | Silurian 2,translated
+Colors.Category,49,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,50,,Silurian 3,السيلوري,السيلوري | Silurian 3,translated
+Colors.Category,50,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,51,,Silurian 4,السيلوري,السيلوري | Silurian 4,translated
+Colors.Category,51,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,52,,Ordovician 1,الأوردوفيشي,الأوردوفيشي | Ordovician 1,translated
+Colors.Category,52,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,53,,Ordovician 2,الأوردوفيشي,الأوردوفيشي | Ordovician 2,translated
+Colors.Category,53,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,54,,Ordovician 3,الأوردوفيشي,الأوردوفيشي | Ordovician 3,translated
+Colors.Category,54,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,55,,Ordovician 4,الأوردوفيشي,الأوردوفيشي | Ordovician 4,translated
+Colors.Category,55,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,56,,Ordovician 5,الأوردوفيشي,الأوردوفيشي | Ordovician 5,translated
+Colors.Category,56,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,57,,Cambrian 1,الكمبري,الكمبري | Cambrian 1,translated
+Colors.Category,57,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,58,,Cambrian 2,الكمبري,الكمبري | Cambrian 2,translated
+Colors.Category,58,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,59,,Cambrian 3,الكمبري,الكمبري | Cambrian 3,translated
+Colors.Category,59,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,60,,Cambrian 4,الكمبري,الكمبري | Cambrian 4,translated
+Colors.Category,60,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,61,,Cambrian 5,الكمبري,الكمبري | Cambrian 5,translated
+Colors.Category,61,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,62,,Precambrian 1,ما قبل الكمبري,ما قبل الكمبري | Precambrian 1,translated
+Colors.Category,62,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,63,,Precambrian 2,ما قبل الكمبري,ما قبل الكمبري | Precambrian 2,translated
+Colors.Category,63,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,64,,Precambrian 3,ما قبل الكمبري,ما قبل الكمبري | Precambrian 3,translated
+Colors.Category,64,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,65,,Precambrian 4,ما قبل الكمبري,ما قبل الكمبري | Precambrian 4,translated
+Colors.Category,65,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,66,,Precambrian 5,ما قبل الكمبري,ما قبل الكمبري | Precambrian 5,translated
+Colors.Category,66,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,67,,Precambrian 6,ما قبل الكمبري,ما قبل الكمبري | Precambrian 6,translated
+Colors.Category,67,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,68,,Precambrian 7,ما قبل الكمبري,ما قبل الكمبري | Precambrian 7,translated
+Colors.Category,68,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,69,,Precambrian 8,ما قبل الكمبري,ما قبل الكمبري | Precambrian 8,translated
+Colors.Category,69,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,70,,Precambrian 9,ما قبل الكمبري,ما قبل الكمبري | Precambrian 9,translated
+Colors.Category,70,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,71,,Precambrian 10,ما قبل الكمبري,ما قبل الكمبري | Precambrian 10,translated
+Colors.Category,71,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,72,,Precambrian 11,ما قبل الكمبري,ما قبل الكمبري | Precambrian 11,translated
+Colors.Category,72,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,73,,Precambrian 12,ما قبل الكمبري,ما قبل الكمبري | Precambrian 12,translated
+Colors.Category,73,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,74,,Precambrian 13,ما قبل الكمبري,ما قبل الكمبري | Precambrian 13,translated
+Colors.Category,74,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,75,,Precambrian 14,ما قبل الكمبري,ما قبل الكمبري | Precambrian 14,translated
+Colors.Category,75,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,76,,Precambrian 15,ما قبل الكمبري,ما قبل الكمبري | Precambrian 15,translated
+Colors.Category,76,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,77,,Precambrian 16,ما قبل الكمبري,ما قبل الكمبري | Precambrian 16,translated
+Colors.Category,77,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,78,,Precambrian 17,ما قبل الكمبري,ما قبل الكمبري | Precambrian 17,translated
+Colors.Category,78,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,79,,Precambrian 18,ما قبل الكمبري,ما قبل الكمبري | Precambrian 18,translated
+Colors.Category,79,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,80,,Precambrian 19,ما قبل الكمبري,ما قبل الكمبري | Precambrian 19,translated
+Colors.Category,80,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,81,,Precambrian 20,ما قبل الكمبري,ما قبل الكمبري | Precambrian 20,translated
+Colors.Category,81,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,82,,Precambrian 21,ما قبل الكمبري,ما قبل الكمبري | Precambrian 21,translated
+Colors.Category,82,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,83,,Precambrian 22,ما قبل الكمبري,ما قبل الكمبري | Precambrian 22,translated
+Colors.Category,83,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,84,,Volcanic 1,بركانية,بركانية | Volcanic 1,translated
+Colors.Category,84,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,85,,Volcanic 2,بركانية,بركانية | Volcanic 2,translated
+Colors.Category,85,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,86,,Volcanic 3,بركانية,بركانية | Volcanic 3,translated
+Colors.Category,86,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,87,,Volcanic 4,بركانية,بركانية | Volcanic 4,translated
+Colors.Category,87,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,88,,Volcanic 5,بركانية,بركانية | Volcanic 5,translated
+Colors.Category,88,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,89,,Volcanic 6,بركانية,بركانية | Volcanic 6,translated
+Colors.Category,89,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,90,,Volcanic 7,بركانية,بركانية | Volcanic 7,translated
+Colors.Category,90,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,91,,Volcanic 8,بركانية,بركانية | Volcanic 8,translated
+Colors.Category,91,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,92,,Volcanic 9,بركانية,بركانية | Volcanic 9,translated
+Colors.Category,92,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,1,,Quadrangle Name,لوحة,لوحة | Quadrangle Name,translated
+Text Symbols.Category,1,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Text Symbols.Name,2,,State Name,ولاية,ولاية | State Name,translated
+Text Symbols.Category,2,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Text Symbols.Name,3,,Mapping Organization,تخريط منظمة,تخريط منظمة | Mapping Organization,translated
+Text Symbols.Category,3,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Text Symbols.Name,4,,Adjacent (Quadrangle),لوحة,لوحة | Adjacent (Quadrangle),translated
+Text Symbols.Category,4,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Text Symbols.Name,5,,Organization Credits,منظمة شكر,منظمة شكر | Organization Credits,translated
+Text Symbols.Category,5,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Text Symbols.Name,6,,Magnetic North Description,شمال,شمال | Magnetic North Description,translated
+Text Symbols.Category,6,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Text Symbols.Name,7,,Funding Credits,شكر,شكر | Funding Credits,translated
+Text Symbols.Category,7,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Text Symbols.Name,8,,Map Title,خريطة عنوان,خريطة عنوان | Map Title,translated
+Text Symbols.Category,8,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Text Symbols.Name,9,,Date,,Date,kept
+Text Symbols.Category,9,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Text Symbols.Name,10,,Authors,,Authors,kept
+Text Symbols.Category,10,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Text Symbols.Name,11,,Nomenclature/Ref #,,Nomenclature/Ref #,kept
+Text Symbols.Category,11,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Text Symbols.Name,12,,Projection Information,مسقط معلومات,مسقط معلومات | Projection Information,translated
+Text Symbols.Category,12,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Text Symbols.Name,13,,Reference Map Title,مرجع خريطة عنوان,مرجع خريطة عنوان | Reference Map Title,translated
+Text Symbols.Category,13,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Scale Bars.Name,1,,Feet Scale Bar,مقياس خطي,مقياس خطي | Feet Scale Bar,translated
+Scale Bars.Category,1,,HollowScaleBar,مقياس خطي,مقياس خطي | HollowScaleBar,translated
+Scale Bars.Name,2,,Mile Scale Bar,مقياس خطي,مقياس خطي | Mile Scale Bar,translated
+Scale Bars.Category,2,,HollowScaleBar,مقياس خطي,مقياس خطي | HollowScaleBar,translated
+Scale Bars.Name,3,,Kilometer Scale Bar,مقياس خطي,مقياس خطي | Kilometer Scale Bar,translated
+Scale Bars.Category,3,,HollowScaleBar,مقياس خطي,مقياس خطي | HollowScaleBar,translated
+Labels.Name,1,,Strike or Dip,مضرب أو ميل,مضرب أو ميل | Strike or Dip,translated
+Labels.Category,1,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Labels.Name,2,,Fault Name,فالق,فالق | Fault Name,translated
+Labels.Category,2,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Labels.Name,3,,Bedrock Geology Type,جيولوجية صخر الأساس نوع,جيولوجية صخر الأساس نوع | Bedrock Geology Type,translated
+Labels.Category,3,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Color Ramps.Name,1,,Quaternary,الرباعي,الرباعي | Quaternary,translated
+Color Ramps.Category,1,,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+Color Ramps.Name,2,,Tertiary,الثلاثي,الثلاثي | Tertiary,translated
+Color Ramps.Category,2,,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+Color Ramps.Name,3,,Cretaceous,الطباشيري,الطباشيري | Cretaceous,translated
+Color Ramps.Category,3,,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+Color Ramps.Name,4,,Jurassic,الجوراسي,الجوراسي | Jurassic,translated
+Color Ramps.Category,4,,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+Color Ramps.Name,5,,Triassic,الترياسي,الترياسي | Triassic,translated
+Color Ramps.Category,5,,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+Color Ramps.Name,6,,Permian,البرمي,البرمي | Permian,translated
+Color Ramps.Category,6,,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+Color Ramps.Name,7,,Pennsylvanian,البنسلفاني,البنسلفاني | Pennsylvanian,translated
+Color Ramps.Category,7,,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+Color Ramps.Name,8,,Mississippian,المسيسيبي,المسيسيبي | Mississippian,translated
+Color Ramps.Category,8,,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+Color Ramps.Name,9,,Devonian,الديفوني,الديفوني | Devonian,translated
+Color Ramps.Category,9,,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+Color Ramps.Name,10,,Silurian,السيلوري,السيلوري | Silurian,translated
+Color Ramps.Category,10,,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+Color Ramps.Name,11,,Ordovician,الأوردوفيشي,الأوردوفيشي | Ordovician,translated
+Color Ramps.Category,11,,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+Color Ramps.Name,12,,Cambrian,الكمبري,الكمبري | Cambrian,translated
+Color Ramps.Category,12,,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+Color Ramps.Name,13,,Precambrian,ما قبل الكمبري,ما قبل الكمبري | Precambrian,translated
+Color Ramps.Category,13,,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+Color Ramps.Name,14,,Volcanic,بركانية,بركانية | Volcanic,translated
+Color Ramps.Category,14,,Default Schemes,افتراضية,افتراضية | Default Schemes,translated
+Legend Items.Name,1,,Bedrock Geology,جيولوجية صخر الأساس,جيولوجية صخر الأساس | Bedrock Geology,translated
+Legend Items.Category,1,,Simple,بسيطة,بسيطة | Simple,translated
+Reference Systems.Name,1,,Decimal Degree Grid,شبكة,شبكة | Decimal Degree Grid,translated
+Reference Systems.Category,1,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Reference Systems.Name,2,,State Plane Grid,ولاية شبكة,ولاية شبكة | State Plane Grid,translated
+Reference Systems.Category,2,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated
+Reference Systems.Name,3,,UTM Grid,شبكة,شبكة | UTM Grid,translated
+Reference Systems.Category,3,,Geology 24K,جيولوجيا,جيولوجيا | Geology 24K,translated

@@ -1,0 +1,18 @@
+دليل تركيب واستخدام ستايلات BGS Geology 50k
+================================================
+1) المحتويات
+------------
+- BGS_Geology.stylx => ستايل BGS الرسمي (يُستخدم في ArcGIS Pro فقط).
+- Docs\ => خمسة ملفات طبقات .lyrx جاهزة: bedrock / superficial / artificial / linear / mass_movement.
+- Originals\ => الحزمة الأصلية المضغوطة من موقع BGS.
+- Sources\ => ملف المصادر والروابط.
+
+2) التركيب
+----------
+- في ArcGIS Pro: Insert > Add Style > اختر BGS_Geology.stylx.
+- لإظهار التلوين الجاهز: أضف بياناتك ثم طبّق ملف .lyrx المناسب من Docs\.
+
+3) ملاحظة مهمة
+--------------
+- لا توجد نسخة ArcMap (.style) من BGS، ولا يوجد تحويل .stylx إلى .style.
+- المصدر: British Geological Survey - راجع شروط الاستخدام الخاصة بهم.

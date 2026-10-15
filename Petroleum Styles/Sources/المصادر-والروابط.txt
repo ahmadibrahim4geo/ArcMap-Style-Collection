@@ -1,0 +1,25 @@
+مصدر الاستايلات - Source (بترول)
+====================================================
+
+التخصص: بترول / آبار ومنشآت + معيار Shell (مفصول من مكتبة ESRI للتخصصات)
+
+المعرض الرئيسي:
+https://esri-styles.maps.arcgis.com/home/index.html
+https://esri-styles.maps.arcgis.com/home/gallery.html
+
+تاريخ التحميل: 28-09-2026 | تاريخ الفصل لفولدر تخصصي: 29-09-2026
+
+----------------------------------------------------
+الملفات في هذا الفولدر (الناشر styles_esri):
+----------------------------------------------------
+1) Petroleum.stylx
+   https://www.arcgis.com/home/item.html?id=b29032f3188b469fae222fa9f54a6e91
+   رموز البترول والآبار والمنشآت (Pro).
+
+2) Petroleum.style
+   النسخة المقابلة لـ ArcMap من تثبيت ArcMap 10.8 المحلي.
+
+3) Shell-2016-RedOil-Pro.stylx (~10 MB) + Shell-2016-GreenOil-Pro.stylx (~10 MB)
+   https://www.arcgis.com/home/item.html?id=98f5c8858a164b31b2df29c3e8533acf
+   المعيار الأصلي لشركة Shell (Pro فقط - لا توجد لهما نسخة .style،
+   استخدم Petroleum.style كبديل في ArcMap).

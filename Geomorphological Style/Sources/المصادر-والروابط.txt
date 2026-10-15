@@ -1,0 +1,78 @@
+مصادر ستايل Geomorphological Style للـ ArcMap
+================================================
+تاريخ الإعداد: 28-09-2026
+المشروع: Style ArcMap  |  الستايل: Geomorphological Style (.style)
+
+أولاً: المعايير والمراجع العلمية التي اعتمد عليها التصميم
+----------------------------------------------------------
+1) FGDC Digital Cartographic Standard for Geologic Map Symbolization
+   (المعيار الأمريكي FGDC-STD-013-2006 - يشمل رموز جيولوجية وجيومورفولوجية: خطوط الصدوع والكونتاكت والألوان والباترن)
+   - الصفحة الرئيسية للمعيار (الموقع):
+     https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php
+   - صفحة التحميل (PDF حسب الفصل + PostScript):
+     https://ngmdb.usgs.gov/fgdc_gds/geolsymstd/download.php
+   - التحميل حسب الموضوع (Section):
+     https://ngmdb.usgs.gov/fgdc_gds/geolsymstd/downloadbytheme.php
+   - الملف الكامل PDF (كل الرموز ~290 صفحة):
+     https://ngmdb.usgs.gov/fgdc_gds/geolsymstd/fgdc-geolsym-all.pdf
+   - نسخة PostScript (لبرامج الجرافيك - Illustrator):
+     https://pubs.usgs.gov/tm/2006/11A02/
+   - صفحة المعيار على موقع FGDC:
+     https://www.fgdc.gov/standards/projects/geo-symbol
+
+2) GeMS - Geologic Map Schema + تطبيق FGDC على ArcGIS
+   (سكیما الخرائط الجيولوجية + ستايلات ArcGIS الجاهزة وخطوط FGDCGeoSym)
+   - الموقع:
+     https://ngmdb.usgs.gov/Info/standards/GeMS/
+   - يتضمن: GSC_FGDC_GeologicMapSymbols (ستايل ArcMap/Pro) + خطوط FGDCGeoSym الخمسة
+
+3) ITC System of Geomorphologic Survey
+   Verstappen, H.Th. & van Zuidam, R.A. (1991) - الأساس العالمي لخرائط الجيومورفولوجيا
+   (التصنيف المعتمد في الستايل: الشكل/المنشأ/العملية + الألوان حسب العامل المشكّل)
+   - سجل الكتاب (مكتبة Wageningen):
+     https://library.wur.nl/WebQuery/titel/553295
+   - شرح وتطبيق النظام (إسباني - PDF مجاني):
+     https://papiro.unizar.es/ojs/index.php/geographicalia/article/view/2759
+
+4) Seijmonsbergen et al. - New symbol-and-GIS based detailed geomorphological legend 1:10,000
+   (مرجع حديث لدمج الرموز مع GIS - جامعة أمستردام UvA)
+   - الموقع (تحميل الرسالة/PDF):
+     https://dare.uva.nl/document/25021
+
+5) Geomorphological Map of the Netherlands 1:50,000 - Legend structure
+   (مثال عملي لبنية مفتاح خريطة جيومورفولوجية وطنية)
+   - الموقع:
+     https://njgjournal.nl/index.php/njg/article/view/13435
+
+6) ESRI Geology 24K Style (مرفق مع ArcMap نفسه)
+   - المسار المحلي عندك:
+     C:\Program Files (x86)\ArcGIS\Desktop10.8\Styles\Geology 24K.style
+   - دليل مكتبة رموز ArcMap (PDF لكل ستايل):
+     https://support.esri.com/en-us/patches-updates/2016/arcmap-symbol-library-854
+   - فهرس الرموز الكامل PDF:
+     https://downloads.esri.com/support/documentation/ao_/Symbol_Index.pdf
+   - صفحة ستايل Geology 24K على ArcGIS Online:
+     https://www.arcgis.com/home/item.html?id=96f711a17b824752b2521699c0722933
+
+7) ColorBrewer 2.0 (مرجع اختيار الألوان المتوافقة للخرائط)
+   - الموقع:
+     https://colorbrewer2.org
+
+8) ستايلات ESRI الأصلية المرفقة مع ArcMap (نُسخت منها 12 رمزاً بايت-بايت للستايل)
+   - ESRI.style (مثلثات Triangle 1/4/5 للقمم):
+     C:\Program Files (x86)\ArcGIS\Desktop10.8\Styles\ESRI.style
+   - CADD GIS Center SDS 220.Style (أسهم الرياح والانحدار + الينابيع والشلالات والمقالع):
+     C:\Program Files (x86)\ArcGIS\Desktop10.8\Styles\CADD GIS Center SDS 220.Style
+   - التفاصيل الكاملة (الـ IDs المصدرية) في: Raw_Data\Harvested_Markers.csv
+
+ثانياً: ملاحظات التوثيق
+------------------------
+- كل الروابط أعلاه حقيقية وتم التحقق منها بتاريخ الإعداد.
+- ملفات Raw_Data داخل مجلد الستايل (CSV) هي الداتا الخام الخاصة بالستايل نفسه
+  (الأسماء عربي/إنجليزي + قيم RGB + المقاسات) وهي مستمدة من المعايير أعلاه
+  مع تبسيط عملي لبيئة ArcMap 10.x.
+- سكربت البناء المستخدم (ArcObjects + Python 2.7) محفوظ في:
+  Raw_Data\build_geomorph_style.py
+  ويمكن إعادة تشغيله لإعادة توليد الـ .style عند أي تعديل.
+- الألوان المختارة متوافقة مع منطق الخرائط الجيومورفولوجية (بنيات للجبال/الهضاب،
+  أخضر للسهول الفيضية، أصفر-رملي للصحاري، أبيض-مزرق للسبخات، أزرق للماء، داكن للبركانيات).

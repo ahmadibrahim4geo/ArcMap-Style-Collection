@@ -1,0 +1,41 @@
+﻿field,id,key,original,arabic,new_value,status
+NAME,1,Motorway,Motorway,طريق سريع,طريق سريع | Motorway,translated
+CATEGORY,1,Motorway,Roads,طرق,طرق | Roads,translated
+NAME,2,Trunk road,Trunk road,طريق جذعي,طريق جذعي | Trunk road,translated
+CATEGORY,2,Trunk road,Roads,طرق,طرق | Roads,translated
+NAME,3,Primary road,Primary road,طريق أولى,طريق أولى | Primary road,translated
+CATEGORY,3,Primary road,Roads,طرق,طرق | Roads,translated
+NAME,4,Secondary road,Secondary road,طريق ثانوية,طريق ثانوية | Secondary road,translated
+CATEGORY,4,Secondary road,Roads,طرق,طرق | Roads,translated
+NAME,5,Tertiary road,Tertiary road,طريق ثالثية,طريق ثالثية | Tertiary road,translated
+CATEGORY,5,Tertiary road,Roads,طرق,طرق | Roads,translated
+NAME,6,Residential road,Residential road,طريق سكني,طريق سكني | Residential road,translated
+CATEGORY,6,Residential road,Roads,طرق,طرق | Roads,translated
+NAME,7,Track unpaved,Track unpaved,درب ترابي,درب ترابي | Track unpaved,translated
+CATEGORY,7,Track unpaved,Roads,طرق,طرق | Roads,translated
+NAME,8,Path footway,Path footway,ممر مشاة,ممر مشاة | Path footway,translated
+CATEGORY,8,Path footway,Roads,طرق,طرق | Roads,translated
+NAME,9,Railway,Railway,سكة حديد,سكة حديد | Railway,translated
+CATEGORY,9,Railway,Rail,سكك,سكك | Rail,translated
+NAME,10,Subway light rail,Subway light rail,مترو وقطار خفيف,مترو وقطار خفيف | Subway light rail,translated
+CATEGORY,10,Subway light rail,Rail,سكك,سكك | Rail,translated
+NAME,11,Runway,Runway,مدرج مطار,مدرج مطار | Runway,translated
+CATEGORY,11,Runway,Air,هواء,هواء | Air,translated
+NAME,12,Ferry route,Ferry route,خط عبارة,خط عبارة | Ferry route,translated
+CATEGORY,12,Ferry route,Water transport,نقل مائي,نقل مائي | Water transport,translated
+NAME,13,Railway station,Railway station,محطة قطار,محطة قطار | Railway station,translated
+CATEGORY,13,Railway station,Stations,محطات,محطات | Stations,translated
+NAME,14,Bus stop,Bus stop,موقف حافلة,موقف حافلة | Bus stop,translated
+CATEGORY,14,Bus stop,Stations,محطات,محطات | Stations,translated
+NAME,15,Airport,Airport,مطار,مطار | Airport,translated
+CATEGORY,15,Airport,Air,هواء,هواء | Air,translated
+NAME,16,Seaport,Seaport,ميناء بحري,ميناء بحري | Seaport,translated
+CATEGORY,16,Seaport,Water transport,نقل مائي,نقل مائي | Water transport,translated
+NAME,17,Parking,Parking,موقف,موقف | Parking,translated
+CATEGORY,17,Parking,Road facilities,مرافق طرق,مرافق طرق | Road facilities,translated
+NAME,18,Fuel station,Fuel station,محطة وقود,محطة وقود | Fuel station,translated
+CATEGORY,18,Fuel station,Road facilities,مرافق طرق,مرافق طرق | Road facilities,translated
+NAME,19,Traffic signal,Traffic signal,إشارة مرورية,إشارة مرورية | Traffic signal,translated
+CATEGORY,19,Traffic signal,Road facilities,مرافق طرق,مرافق طرق | Road facilities,translated
+NAME,20,Bridge tunnel,Bridge tunnel,جسر ونفق,جسر ونفق | Bridge tunnel,translated
+CATEGORY,20,Bridge tunnel,Roads,طرق,طرق | Roads,translated

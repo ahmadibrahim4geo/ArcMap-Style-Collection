@@ -1,0 +1,243 @@
+﻿field,id,key,original,arabic,new_value,status
+Fill Symbols.Name,1,,1000 - Glacial,,1000 - Glacial,kept
+Fill Symbols.Category,1,,,,,kept
+Fill Symbols.Name,2,,2000 - Fluvial,نهرية,نهرية | 2000 - Fluvial,translated
+Fill Symbols.Category,2,,,,,kept
+Fill Symbols.Name,3,,3000 - Mass movement,حركة الكتل,حركة الكتل | 3000 - Mass movement,translated
+Fill Symbols.Category,3,,,,,kept
+Fill Symbols.Name,4,,4000 - Periglacial,شبه جليدية,شبه جليدية | 4000 - Periglacial,translated
+Fill Symbols.Category,4,,,,,kept
+Fill Symbols.Name,5,,5000 - Organic,عضوية,عضوية | 5000 - Organic,translated
+Fill Symbols.Category,5,,,,,kept
+Fill Symbols.Name,6,,6000 - Karst,كارست,كارست | 6000 - Karst,translated
+Fill Symbols.Category,6,,,,,kept
+Fill Symbols.Name,7,,7000 - Aeolian,ريحية,ريحية | 7000 - Aeolian,translated
+Fill Symbols.Category,7,,,,,kept
+Fill Symbols.Name,8,,8000 - Water,مياه,مياه | 8000 - Water,translated
+Fill Symbols.Category,8,,,,,kept
+Fill Symbols.Name,9,,9000 - Settlements and infrastructure,تجمعات و بنية تحتية,تجمعات و بنية تحتية | 9000 - Settlements and infrastructure,translated
+Fill Symbols.Category,9,,,,,kept
+Fill Symbols.Name,10,,1000 - Glacial,,1000 - Glacial,kept
+Fill Symbols.Category,10,,,,,kept
+Fill Symbols.Name,11,,2000 - Fluvial,نهرية,نهرية | 2000 - Fluvial,translated
+Fill Symbols.Category,11,,,,,kept
+Fill Symbols.Name,12,,3000 - Mass movement,حركة الكتل,حركة الكتل | 3000 - Mass movement,translated
+Fill Symbols.Category,12,,,,,kept
+Fill Symbols.Name,13,,4000 - Periglacial,شبه جليدية,شبه جليدية | 4000 - Periglacial,translated
+Fill Symbols.Category,13,,,,,kept
+Fill Symbols.Name,14,,5000 - Organic,عضوية,عضوية | 5000 - Organic,translated
+Fill Symbols.Category,14,,,,,kept
+Fill Symbols.Name,15,,6000 - Karst,كارست,كارست | 6000 - Karst,translated
+Fill Symbols.Category,15,,,,,kept
+Fill Symbols.Name,16,,7000 - Aeolian,ريحية,ريحية | 7000 - Aeolian,translated
+Fill Symbols.Category,16,,,,,kept
+Fill Symbols.Name,17,,8000 - Water,مياه,مياه | 8000 - Water,translated
+Fill Symbols.Category,17,,,,,kept
+Fill Symbols.Name,18,,9000 - Settlements and infrastructure,تجمعات و بنية تحتية,تجمعات و بنية تحتية | 9000 - Settlements and infrastructure,translated
+Fill Symbols.Category,18,,,,,kept
+Fill Symbols.Name,19,,1100 - Glacial - Erosion,انجراف,انجراف | 1100 - Glacial - Erosion,translated
+Fill Symbols.Category,19,,,,,kept
+Fill Symbols.Name,20,,1200 - Glacial - (Glacio)fluvial erosion,نهرية انجراف,نهرية انجراف | 1200 - Glacial - (Glacio)fluvial erosion,translated
+Fill Symbols.Category,20,,,,,kept
+Fill Symbols.Name,21,,1300 - Glacial - Accumulation,تجمع,تجمع | 1300 - Glacial - Accumulation,translated
+Fill Symbols.Category,21,,,,,kept
+Fill Symbols.Name,22,,2100 - Fluvial - Erosion,نهرية انجراف,نهرية انجراف | 2100 - Fluvial - Erosion,translated
+Fill Symbols.Category,22,,,,,kept
+Fill Symbols.Name,23,,2200 - Fluvial - Accumulation,نهرية تجمع,نهرية تجمع | 2200 - Fluvial - Accumulation,translated
+Fill Symbols.Category,23,,,,,kept
+Fill Symbols.Name,24,,3100 - Mass movement - Degradation,حركة الكتل,حركة الكتل | 3100 - Mass movement - Degradation,translated
+Fill Symbols.Category,24,,,,,kept
+Fill Symbols.Name,25,,3200 - Mass movement - Accumulation,حركة الكتل تجمع,حركة الكتل تجمع | 3200 - Mass movement - Accumulation,translated
+Fill Symbols.Category,25,,,,,kept
+Fill Symbols.Name,26,,4100 - Periglacial - Disintegration,شبه جليدية,شبه جليدية | 4100 - Periglacial - Disintegration,translated
+Fill Symbols.Category,26,,,,,kept
+Fill Symbols.Name,27,,4200 - Periglacial - Accumulation,شبه جليدية تجمع,شبه جليدية تجمع | 4200 - Periglacial - Accumulation,translated
+Fill Symbols.Category,27,,,,,kept
+Fill Symbols.Name,28,,5100 - Organic,عضوية,عضوية | 5100 - Organic,translated
+Fill Symbols.Category,28,,,,,kept
+Fill Symbols.Name,29,,6100 - Carbonate karst,كربوناتية كارست,كربوناتية كارست | 6100 - Carbonate karst,translated
+Fill Symbols.Category,29,,,,,kept
+Fill Symbols.Name,30,,6200 - Sulphate karst,كارست,كارست | 6200 - Sulphate karst,translated
+Fill Symbols.Category,30,,,,,kept
+Fill Symbols.Name,31,,7100 - Aeolian,ريحية,ريحية | 7100 - Aeolian,translated
+Fill Symbols.Category,31,,,,,kept
+Fill Symbols.Name,32,,8100 - Water,مياه,مياه | 8100 - Water,translated
+Fill Symbols.Category,32,,,,,kept
+Fill Symbols.Name,33,,9100 - Settlements and infrastructure,تجمعات و بنية تحتية,تجمعات و بنية تحتية | 9100 - Settlements and infrastructure,translated
+Fill Symbols.Category,33,,,,,kept
+Fill Symbols.Name,34,,1111 - Glacially eroded bedrock,صخر الأساس,صخر الأساس | 1111 - Glacially eroded bedrock,translated
+Fill Symbols.Category,34,,,,,kept
+Fill Symbols.Name,35,,1112 - Glacially eroded Quaternary deposits,الرباعي,الرباعي | 1112 - Glacially eroded Quaternary deposits,translated
+Fill Symbols.Category,35,,,,,kept
+Fill Symbols.Name,36,,1211 - (Glacio)fluvial erosion,نهرية انجراف,نهرية انجراف | 1211 - (Glacio)fluvial erosion,translated
+Fill Symbols.Category,36,,,,,kept
+Fill Symbols.Name,37,,1311 - Subglacial tills,,1311 - Subglacial tills,kept
+Fill Symbols.Category,37,,,,,kept
+Fill Symbols.Name,38,,1312 - Ablation tills,,1312 - Ablation tills,kept
+Fill Symbols.Category,38,,,,,kept
+Fill Symbols.Name,39,,1313 - (Glacio)fluvial deposits,نهرية,نهرية | 1313 - (Glacio)fluvial deposits,translated
+Fill Symbols.Category,39,,,,,kept
+Fill Symbols.Name,40,,1314 - Lake deposits,بحيرة,بحيرة | 1314 - Lake deposits,translated
+Fill Symbols.Category,40,,,,,kept
+Fill Symbols.Name,41,,2111 - Incision; slope subject to strong fluvial erosion,ميل إلى قوية نهرية انجراف,ميل إلى قوية نهرية انجراف | 2111 - Incision; slope subject to strong fluvial erosion,translated
+Fill Symbols.Category,41,,,,,kept
+Fill Symbols.Name,42,,2211 - (Sub)recent streambed,حديثة,حديثة | 2211 - (Sub)recent streambed,translated
+Fill Symbols.Category,42,,,,,kept
+Fill Symbols.Name,43,,2212 - Fluvial terrace (incl. small escarpment),نهرية مصطبة,نهرية مصطبة | 2212 - Fluvial terrace (incl. small escarpment),translated
+Fill Symbols.Category,43,,,,,kept
+Fill Symbols.Name,44,,"2213 - Alluvial fan, debris fan (incl. terrace)",مروحة فيضية حطام مصطبة,"مروحة فيضية حطام مصطبة | 2213 - Alluvial fan, debris fan (incl. terrace)",translated
+Fill Symbols.Category,44,,,,,kept
+Fill Symbols.Name,45,,2214 - Lake deposits,بحيرة,بحيرة | 2214 - Lake deposits,translated
+Fill Symbols.Category,45,,,,,kept
+Fill Symbols.Name,46,,3111 - Deep-seated mass movement,عميقة حركة الكتل,عميقة حركة الكتل | 3111 - Deep-seated mass movement,translated
+Fill Symbols.Category,46,,,,,kept
+Fill Symbols.Name,47,,3112 - Shallow mass movement (degradation),ضحلة حركة الكتل,ضحلة حركة الكتل | 3112 - Shallow mass movement (degradation),translated
+Fill Symbols.Category,47,,,,,kept
+Fill Symbols.Name,48,,3211 - Fall deposits,خريف,خريف | 3211 - Fall deposits,translated
+Fill Symbols.Category,48,,,,,kept
+Fill Symbols.Name,49,,3212 - Flow and/or slide deposits,تدفق و أو,تدفق و أو | 3212 - Flow and/or slide deposits,translated
+Fill Symbols.Category,49,,,,,kept
+Fill Symbols.Name,50,,3213 - Protalus rampart,,3213 - Protalus rampart,kept
+Fill Symbols.Category,50,,,,,kept
+Fill Symbols.Name,51,,4111 - Surface subject to disintegration,إلى,إلى | 4111 - Surface subject to disintegration,translated
+Fill Symbols.Category,51,,,,,kept
+Fill Symbols.Name,52,,4211 - Rock glacier,صخر نهر جليدي,صخر نهر جليدي | 4211 - Rock glacier,translated
+Fill Symbols.Category,52,,,,,kept
+Fill Symbols.Name,53,,5111 - Peat deposits,خث,خث | 5111 - Peat deposits,translated
+Fill Symbols.Category,53,,,,,kept
+Fill Symbols.Name,54,,6111 - Surface strongly affected by carbonate karst,بواسطة كربوناتية كارست,بواسطة كربوناتية كارست | 6111 - Surface strongly affected by carbonate karst,translated
+Fill Symbols.Category,54,,,,,kept
+Fill Symbols.Name,55,,6211 - Surface strongly affected by sulphate (gypsum) karst,بواسطة جبس كارست,بواسطة جبس كارست | 6211 - Surface strongly affected by sulphate (gypsum) karst,translated
+Fill Symbols.Category,55,,,,,kept
+Fill Symbols.Name,56,,6212 - Covered gypsum karst (glacial deposits),جبس كارست رواسب جليدية,جبس كارست رواسب جليدية | 6212 - Covered gypsum karst (glacial deposits),translated
+Fill Symbols.Category,56,,,,,kept
+Fill Symbols.Name,57,,6213 - Covered gypsum karst (slope deposits),جبس كارست ميل,جبس كارست ميل | 6213 - Covered gypsum karst (slope deposits),translated
+Fill Symbols.Category,57,,,,,kept
+Fill Symbols.Name,58,,6214 - Collapse structure due to gypsum karst,بنية إلى جبس كارست,بنية إلى جبس كارست | 6214 - Collapse structure due to gypsum karst,translated
+Fill Symbols.Category,58,,,,,kept
+Fill Symbols.Name,59,,6215 - Breccia exposure,بريشيا مكشف,بريشيا مكشف | 6215 - Breccia exposure,translated
+Fill Symbols.Category,59,,,,,kept
+Fill Symbols.Name,60,,7111 - Aeolian deposits,ريحية,ريحية | 7111 - Aeolian deposits,translated
+Fill Symbols.Category,60,,,,,kept
+Fill Symbols.Name,61,,8111 - Lake and its fill,بحيرة و تعبئة,بحيرة و تعبئة | 8111 - Lake and its fill,translated
+Fill Symbols.Category,61,,,,,kept
+Fill Symbols.Name,62,,8112 - Wide river,عريضة نهر,عريضة نهر | 8112 - Wide river,translated
+Fill Symbols.Category,62,,,,,kept
+Fill Symbols.Name,63,,8113 - Reservoir and its fill,خزان و تعبئة,خزان و تعبئة | 8113 - Reservoir and its fill,translated
+Fill Symbols.Category,63,,,,,kept
+Fill Symbols.Name,64,,8114 - Glacier,نهر جليدي,نهر جليدي | 8114 - Glacier,translated
+Fill Symbols.Category,64,,,,,kept
+Fill Symbols.Name,65,,9111 - Graded or leveled land,متدرج أو أرض,متدرج أو أرض | 9111 - Graded or leveled land,translated
+Fill Symbols.Category,65,,,,,kept
+Fill Symbols.Name,66,,9112 - Pits and quarries,و مقالع,و مقالع | 9112 - Pits and quarries,translated
+Fill Symbols.Category,66,,,,,kept
+Colors.Name,1,,255 95 55,,255 95 55,kept
+Colors.Category,1,,,,,kept
+Colors.Name,2,,60 150 40,,60 150 40,kept
+Colors.Category,2,,,,,kept
+Colors.Name,3,,200 135 35,,200 135 35,kept
+Colors.Category,3,,,,,kept
+Colors.Name,4,,215 122 112,,215 122 112,kept
+Colors.Category,4,,,,,kept
+Colors.Name,5,,209 255 115,,209 255 115,kept
+Colors.Category,5,,,,,kept
+Colors.Name,6,,255 100 200,,255 100 200,kept
+Colors.Category,6,,,,,kept
+Colors.Name,7,,255 255 0,,255 255 0,kept
+Colors.Category,7,,,,,kept
+Colors.Name,8,,80 180 255,,80 180 255,kept
+Colors.Category,8,,,,,kept
+Colors.Name,9,,65 65 65,,65 65 65,kept
+Colors.Category,9,,,,,kept
+Colors.Name,10,,255 0 0,,255 0 0,kept
+Colors.Category,10,,,,,kept
+Colors.Name,11,,0 168 132,,0 168 132,kept
+Colors.Category,11,,,,,kept
+Colors.Name,12,,170 170 80,,170 170 80,kept
+Colors.Category,12,,,,,kept
+Colors.Name,13,,137 68 68,,137 68 68,kept
+Colors.Category,13,,,,,kept
+Colors.Name,14,,70 200 0,,70 200 0,kept
+Colors.Category,14,,,,,kept
+Colors.Name,15,,200 160 70,,200 160 70,kept
+Colors.Category,15,,,,,kept
+Colors.Name,16,,200 110 5,,200 110 5,kept
+Colors.Category,16,,,,,kept
+Colors.Name,17,,245 122 122,,245 122 122,kept
+Colors.Category,17,,,,,kept
+Colors.Name,18,,205 102 102,,205 102 102,kept
+Colors.Category,18,,,,,kept
+Colors.Name,19,,190 232 255,,190 232 255,kept
+Colors.Category,19,,,,,kept
+Colors.Name,20,,255 20 200,,255 20 200,kept
+Colors.Category,20,,,,,kept
+Colors.Name,21,,255 13 0,,255 13 0,kept
+Colors.Category,21,,,,,kept
+Colors.Name,22,,168 56 0,,168 56 0,kept
+Colors.Category,22,,,,,kept
+Colors.Name,23,,255 211 127,,255 211 127,kept
+Colors.Category,23,,,,,kept
+Colors.Name,24,,253 131 20,,253 131 20,kept
+Colors.Category,24,,,,,kept
+Colors.Name,25,,168 168 0,,168 168 0,kept
+Colors.Category,25,,,,,kept
+Colors.Name,26,,47 114 12,,47 114 12,kept
+Colors.Category,26,,,,,kept
+Colors.Name,27,,163 255 115,,163 255 115,kept
+Colors.Category,27,,,,,kept
+Colors.Name,28,,85 255 0,,85 255 0,kept
+Colors.Category,28,,,,,kept
+Colors.Name,29,,60 130 0,,60 130 0,kept
+Colors.Category,29,,,,,kept
+Colors.Name,30,,55 168 0,,55 168 0,kept
+Colors.Category,30,,,,,kept
+Colors.Name,31,,115 76 0,,115 76 0,kept
+Colors.Category,31,,,,,kept
+Colors.Name,32,,200 180 100,,200 180 100,kept
+Colors.Category,32,,,,,kept
+Colors.Name,33,,191 94 5,,191 94 5,kept
+Colors.Category,33,,,,,kept
+Colors.Name,34,,207 136 4,,207 136 4,kept
+Colors.Category,34,,,,,kept
+Colors.Name,35,,137 112 68,,137 112 68,kept
+Colors.Category,35,,,,,kept
+Colors.Name,36,,255 190 232,,255 190 232,kept
+Colors.Category,36,,,,,kept
+Colors.Name,37,,255 115 223,,255 115 223,kept
+Colors.Category,37,,,,,kept
+Colors.Name,38,,255 0 197,,255 0 197,kept
+Colors.Category,38,,,,,kept
+Colors.Name,39,,168 0 132,,168 0 132,kept
+Colors.Category,39,,,,,kept
+Colors.Name,40,,197 0 255,,197 0 255,kept
+Colors.Category,40,,,,,kept
+Colors.Name,41,,0 112 255,,0 112 255,kept
+Colors.Category,41,,,,,kept
+Colors.Name,42,,41 180 255,,41 180 255,kept
+Colors.Category,42,,,,,kept
+Colors.Name,43,,80 235 255,,80 235 255,kept
+Colors.Category,43,,,,,kept
+Colors.Name,44,,115 178 255,,115 178 255,kept
+Colors.Category,44,,,,,kept
+Colors.Name,45,,0 0 0,,0 0 0,kept
+Colors.Category,45,,,,,kept
+Colors.Name,46,,130 130 130,,130 130 130,kept
+Colors.Category,46,,,,,kept
+Text Symbols.Name,1,,Geomorph_V,,Geomorph_V,kept
+Text Symbols.Category,1,,,,,kept
+Text Symbols.Name,2,,Geomorphological Map Vorarlberg - Tier 1_2020,خريطة,خريطة | Geomorphological Map Vorarlberg - Tier 1_2020,translated
+Text Symbols.Category,2,,,,,kept
+Text Symbols.Name,3,,Geomorphological Map Vorarlberg - Tier 2_2020,خريطة,خريطة | Geomorphological Map Vorarlberg - Tier 2_2020,translated
+Text Symbols.Category,3,,,,,kept
+Text Symbols.Name,4,,Geomorphology Map Vorarlberg - Tier 3_2020,خريطة,خريطة | Geomorphology Map Vorarlberg - Tier 3_2020,translated
+Text Symbols.Category,4,,,,,kept
+Labels.Name,1,,Geomorph_V,,Geomorph_V,kept
+Labels.Category,1,,,,,kept
+Labels.Name,2,,Geomorphological Map Vorarlberg - Tier 1_2020,خريطة,خريطة | Geomorphological Map Vorarlberg - Tier 1_2020,translated
+Labels.Category,2,,,,,kept
+Labels.Name,3,,Geomorphological Map Vorarlberg - Tier 2_2020,خريطة,خريطة | Geomorphological Map Vorarlberg - Tier 2_2020,translated
+Labels.Category,3,,,,,kept
+Labels.Name,4,,Geomorphology Map Vorarlberg - Tier 3_2020,خريطة,خريطة | Geomorphology Map Vorarlberg - Tier 3_2020,translated
+Labels.Category,4,,,,,kept
+Borders.Name,1,,Element,عنصر,عنصر | Element,translated
+Borders.Category,1,,,,,kept

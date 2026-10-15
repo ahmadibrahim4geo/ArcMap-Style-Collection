@@ -1,0 +1,22 @@
+مصادر الاستايلات - Source (الغطاء الأرضي - خارج ESRI)
+====================================================
+التخصص: غطاء أرضي
+
+1) FAO LCCS - Land Cover Classification System + SLD الرسمي (الألوان الحقيقية)
+   Catalog: https://data.apps.fao.org/catalog/dataset/5134ba9c-ecfe-4226-86c8-4d162753a927
+   SLD: https://data.apps.fao.org/gismgr/api/v2/catalog/workspaces/C3S/styles/LCCS/sld
+   22 فئة - الألوان هنا مأخوذة حرفيا من ColorMapEntry في SLD.
+
+2) ESA CCI Land Cover
+   https://www.esa-landcover-cci.org/
+   مرجع مقارن للفئات.
+
+3) Copernicus Global Dynamic Land Cover
+   https://land.copernicus.eu/en/products/global-dynamic-land-cover
+   تحديثات سنوية 100م.
+
+4) USGS NLCD (للمقارنة الأمريكية فقط)
+   https://www.mrlc.gov/
+   مجال عام.
+
+تاريخ البناء: 2026-09-29 | البناء محلي (ليس من ESRI).

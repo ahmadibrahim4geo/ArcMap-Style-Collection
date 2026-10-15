@@ -1,0 +1,70 @@
+مصدر الاستايلات والملفات - Source of Styles and Files
+====================================================
+
+اسم الفولدر:
+USGS OF2005-1314 - Lithology and Geologic Time Styles
+
+التقرير الأصلي:
+Methods to Create ArcMap(R) Styles with Examples for Lithology and Time
+U.S. Geological Survey Open-File Report 2005-1314
+By Lorre A. Moyer, Jordan T. Hastings, and Gary L. Raines (2005)
+
+المصدر الرئيسي (صفحة التقرير):
+https://pubs.usgs.gov/of/2005/1314/
+
+رابط الاستايلات المباشر (المطلوب في الطلب):
+https://pubs.usgs.gov/of/2005/1314/styles_folder/
+
+روابط إضافية من نفس المصدر:
+- Tables folder: https://pubs.usgs.gov/of/2005/1314/tables_folder/
+- PDF التقرير: https://pubs.usgs.gov/of/2005/1314/of2005-1314.pdf
+- الحزمة المضغوطة الكاملة: https://pubs.usgs.gov/of/2005/1314/2005-1314_files.zip
+
+تاريخ التحميل: 28-09-2026
+
+----------------------------------------------------
+محتويات الفولدر:
+----------------------------------------------------
+1) DNAG.style (612K)
+   ArcMap style for Decade of North American Geology (DNAG - 1983 Geologic Time Scale)
+
+2) ISC.style (568K)
+   ArcMap style for the International Stratigraphic Chart
+
+3) ISC_USGS.style (540K)
+   ArcMap style for the ISC version USGS Color Code
+
+4) SGMC.style (588K)
+   ArcMap style for the State Geologic Map Compilation (draft version)
+
+5) lith4_3.style (552K)
+   ArcMap style for North American Geologic Map Data Model version lithclass 4.3
+
+6) lith6_1.style (604K)
+   ArcMap style for North American Geologic Map Data Model version lithclass 6.1
+
+7) lith6_2.style (604K)
+   ArcMap style for North American Geologic Map Data Model version lithclass 6.2
+
+8) Time_Compiled.xls
+   geologic time color-fill documentation in Excel (RGB values)
+
+9) Lith_Compiled.xls
+   lithology color-fill documentation in Excel (RGB values)
+
+10) of2005-1314.pdf (1 MB)
+    نص التقرير الكامل (21 صفحة) - يشرح طريقة إنشاء الاستايلات
+
+11) 2005-1314_files.zip (296 KB)
+    الحزمة المضغوطة الأصلية من موقع USGS (استايلات + جداول)
+
+----------------------------------------------------
+ملاحظات الاستخدام في ArcMap / ArcGIS Pro:
+----------------------------------------------------
+- ملفات .style تشتغل مباشرة في ArcMap 9 وما بعده (ESRI ArcGIS).
+- في ArcGIS Pro: يمكن استيراد .style عبر Insert > Import Map Styles أو تحويلها لـ .stylx.
+- ملفات .xls فيها قيم RGB لكل وحدة ليثولوجية / زمنية لتعديل الألوان يدوياً.
+- التقرير PDF يشرح منهجية توحيد رموز الخرائط الجيولوجية (color fills for polygons).
+
+الحقوق: ملفات حكومية أمريكية عامة (USGS - Public Domain).
+للاستفسار عن محتوى التقرير: Lorre Moyer (USGS).

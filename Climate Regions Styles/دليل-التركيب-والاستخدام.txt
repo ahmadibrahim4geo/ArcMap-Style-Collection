@@ -1,0 +1,8 @@
+دليل تركيب واستخدام ستايلات الأقاليم المناخية
+=====================================
+- Climate-KoppenGeiger-Beck.stylx => Pro بألوان حقيقية لخريطة العالم وغيرها.
+- Climate-KoppenGeiger-Beck.style => ArcMap بنفس الأسماء (رموز عامة).
+- Pro: Insert > Add Style | ArcMap: Style Manager > Add Style to List.
+- المترجمة: Arabic\ *-AR (عربي | إنجليزي).
+- لخريطة العالم: استخدم إسقاط Robinson أو Equal Earth + سواحل Natural Earth.
+- المصادر: Sources\المصادر-والروابط.txt.

@@ -1,0 +1,20 @@
+دليل تركيب واستخدام ستايلات التربة SSURGO
+=============================================
+1) المحتويات
+------------
+- Soils-EURO-ESRI.stylx => ستايل التربة الأوروبي من ESRI (لـ Pro - يصلح أساساً لتلوين خرائط التربة).
+- Soils EURO.style => النسخة المقابلة لـ ArcMap (من تثبيت ArcMap المحلي).
+- Soils EURO - Editable.style => نسخة احتياطية قابلة للتحرير (نفس الحجم).
+- Soils EURO.ldb => ملف المفتاح.
+- Sources\ => ملف المصادر + روابط تحميل بيانات SSURGO.
+
+2) التركيب
+----------
+- في Pro: Insert > Add Style > اختر ملف .stylx.
+- في ArcMap: Style Manager > Add Style to List > اختر Soils EURO.style
+  (لا يوجد تحويل مباشر من .stylx إلى .style).
+
+3) البيانات (كبيرة - تُحمّل حسب المنطقة HUC-8 وليس دفعة واحدة)
+---------------------------------------------------------------
+- البوابة المباشرة: https://gdg.sc.egov.usda.gov/GDGHome_DirectDownLoad.aspx
+- الاستعلام التفاعلي: https://websoilsurvey.nrcs.usda.gov/

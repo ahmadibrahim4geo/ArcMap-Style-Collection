@@ -1,0 +1,27 @@
+مصدر الاستايلات - Source (BGS Geology 50k)
+====================================================
+
+التخصص: جيولوجيا بريطانيا - ستايل خرائط BGS بمقياس 1:50,000
+
+المصدر الرئيسي:
+https://www.bgs.ac.uk/download/bgs-geology-50k-esri-styles/
+British Geological Survey - BGS Geology 50k ESRI styles (نُشر 11-02-2022)
+
+تاريخ التحميل: 28-09-2026
+
+----------------------------------------------------
+الملفات في هذا الفولدر:
+----------------------------------------------------
+1) BGS-Geology-50k-ESRI-styles.zip (~810 KB)
+   حزمة الستايلات الرسمية من BGS لتلوين وترميز خرائط 1:50k في ESRI.
+   المحتويات الفعلية (لا توجد نسخة .style - الحزمة Pro فقط):
+   - BGS_Geology.stylx (للاستخدام في ArcGIS Pro: Insert > Add Style)
+   - ملفات .lyrx للطبقات: bedrock / superficial / artificial / linear / mass_movement
+   ملاحظة: لا يوجد تحويل .stylx ← .style، ولا توجد نسخة ArcMap من BGS -
+   يُستخدم في ArcGIS Pro (مثبّت على هذا الجهاز).
+
+ملاحظة: موقع BGS يستخدم Download Manager - رابط التحميل المباشر المستخدم:
+https://www.bgs.ac.uk/download/bgs-geology-50k-esri-styles/?wpdmdl=82486
+لو احتجت نسخة أحدث، حمّلها من صفحة المصدر الرئيسية أعلاه.
+
+الحقوق: راجع شروط BGS للاستخدام (بيانات مفتوحة بشروط - ليست Public Domain خالصة مثل USGS).

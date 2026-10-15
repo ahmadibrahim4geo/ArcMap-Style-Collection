@@ -1,0 +1,10 @@
+﻿en,ar,type,R,G,B,width_size,category_en,category_ar
+International boundary,حد دولي,line,0,0,0,2.0,Boundaries,حدود
+Disputed boundary,حد متنازع عليه,line,200,0,0,1.6,Boundaries,حدود
+First order province,حد محافظة/ولاية,line,100,100,100,1.2,Boundaries,حدود
+Second order district,حد قضاء/مديرية,line,140,140,140,0.8,Boundaries,حدود
+Municipal boundary,حد بلدية,line,170,170,170,0.6,Boundaries,حدود
+Capital national,عاصمة وطنية,point,0,0,0,18,Capitals,عواصم
+Capital province,عاصمة محافظة,point,80,80,80,14,Capitals,عواصم
+Admin area fill,تعبئة إدارية شفافة,poly,240,240,240,,Boundaries,حدود
+Label halo admin,هالة تسمية إدارية,color,255,255,255,,Labels,تسميات

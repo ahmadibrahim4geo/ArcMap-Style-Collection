@@ -1,0 +1,9128 @@
+{
+ "layerDefinitions": [
+  {
+   "name": "lith6_1_EN",
+   "renderer": {
+    "type": "CIMUniqueValueRenderer",
+    "fields": [
+     "Category_EN"
+    ],
+    "uniqueValueGroups": [
+     {
+      "heading": "lith6_1_EN",
+      "classes": [
+       {
+        "label": "unconsolidated",
+        "description": "Fill #FFFFE9",
+        "values": [
+         {
+          "fieldValues": [
+           "unconsolidated"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              255,
+              233,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              153,
+              139,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "alluvium",
+        "description": "Fill #FFFFD5",
+        "values": [
+         {
+          "fieldValues": [
+           "alluvium"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              255,
+              213,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              153,
+              127,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "flood plain",
+        "description": "Fill #FFFFB7",
+        "values": [
+         {
+          "fieldValues": [
+           "flood plain"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              255,
+              183,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              153,
+              109,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "levee",
+        "description": "Fill #FFFF89",
+        "values": [
+         {
+          "fieldValues": [
+           "levee"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              255,
+              137,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              153,
+              82,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "delta",
+        "description": "Fill #FDF43F",
+        "values": [
+         {
+          "fieldValues": [
+           "delta"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              253,
+              244,
+              63,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              151,
+              146,
+              37,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "alluvial fan",
+        "description": "Fill #FFFAE9",
+        "values": [
+         {
+          "fieldValues": [
+           "alluvial fan"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              250,
+              233,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              150,
+              139,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "alluvial terrace",
+        "description": "Fill #FAEE7A",
+        "values": [
+         {
+          "fieldValues": [
+           "alluvial terrace"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              250,
+              238,
+              122,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              150,
+              142,
+              73,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "lake or marine deposit",
+        "description": "Fill #F4EFE4",
+        "values": [
+         {
+          "fieldValues": [
+           "lake or marine deposit"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              244,
+              239,
+              228,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              146,
+              143,
+              136,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "playa",
+        "description": "Fill #EEE7D6",
+        "values": [
+         {
+          "fieldValues": [
+           "playa"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              238,
+              231,
+              214,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              142,
+              138,
+              128,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "mud flat",
+        "description": "Fill #EAE1CC",
+        "values": [
+         {
+          "fieldValues": [
+           "mud flat"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              234,
+              225,
+              204,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              140,
+              135,
+              122,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "beach sand",
+        "description": "Fill #E4D8BE",
+        "values": [
+         {
+          "fieldValues": [
+           "beach sand"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              228,
+              216,
+              190,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              136,
+              129,
+              114,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "terrace",
+        "description": "Fill #FFF6D9",
+        "values": [
+         {
+          "fieldValues": [
+           "terrace"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              246,
+              217,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              147,
+              130,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "eolian",
+        "description": "Fill #E0B000",
+        "values": [
+         {
+          "fieldValues": [
+           "eolian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              224,
+              176,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              134,
+              105,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "dune sand",
+        "description": "Fill #E0D2B4",
+        "values": [
+         {
+          "fieldValues": [
+           "dune sand"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              224,
+              210,
+              180,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              134,
+              126,
+              108,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "sand sheet",
+        "description": "Fill #DBCCA9",
+        "values": [
+         {
+          "fieldValues": [
+           "sand sheet"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              219,
+              204,
+              169,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              131,
+              122,
+              101,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "loess",
+        "description": "Fill #F5E1BD",
+        "values": [
+         {
+          "fieldValues": [
+           "loess"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              245,
+              225,
+              189,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              147,
+              135,
+              113,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "volcanic ash",
+        "description": "Fill #D6C59E",
+        "values": [
+         {
+          "fieldValues": [
+           "volcanic ash"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              214,
+              197,
+              158,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              128,
+              118,
+              94,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "mass wasting",
+        "description": "Fill #CFBB8F",
+        "values": [
+         {
+          "fieldValues": [
+           "mass wasting"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              207,
+              187,
+              143,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              124,
+              112,
+              85,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "colluvium",
+        "description": "Fill #E1E3C3",
+        "values": [
+         {
+          "fieldValues": [
+           "colluvium"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              225,
+              227,
+              195,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              135,
+              136,
+              117,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "mudflow",
+        "description": "Fill #DCD5B4",
+        "values": [
+         {
+          "fieldValues": [
+           "mudflow"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              220,
+              213,
+              180,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              132,
+              127,
+              108,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "lahar",
+        "description": "Fill #D3CA9F",
+        "values": [
+         {
+          "fieldValues": [
+           "lahar"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              211,
+              202,
+              159,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              126,
+              121,
+              95,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "debris flow",
+        "description": "Fill #C9BE89",
+        "values": [
+         {
+          "fieldValues": [
+           "debris flow"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              201,
+              190,
+              137,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              120,
+              114,
+              82,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "landslide",
+        "description": "Fill #BCAF6C",
+        "values": [
+         {
+          "fieldValues": [
+           "landslide"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              188,
+              175,
+              108,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              112,
+              105,
+              64,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "talus",
+        "description": "Fill #9D8935",
+        "values": [
+         {
+          "fieldValues": [
+           "talus"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              157,
+              137,
+              53,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              94,
+              82,
+              31,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "glacial drift",
+        "description": "Fill #BFA743",
+        "values": [
+         {
+          "fieldValues": [
+           "glacial drift"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              191,
+              167,
+              67,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              114,
+              100,
+              40,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "till",
+        "description": "Fill #D2C27C",
+        "values": [
+         {
+          "fieldValues": [
+           "till"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              210,
+              194,
+              124,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              126,
+              116,
+              74,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "moraine",
+        "description": "Fill #FFEEBF",
+        "values": [
+         {
+          "fieldValues": [
+           "moraine"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              238,
+              191,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              142,
+              114,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "stratified glacial sediment",
+        "description": "Fill #FFE59D",
+        "values": [
+         {
+          "fieldValues": [
+           "stratified glacial sediment"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              229,
+              157,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              137,
+              94,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "outwash",
+        "description": "Fill #FFE985",
+        "values": [
+         {
+          "fieldValues": [
+           "outwash"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              233,
+              133,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              139,
+              79,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "sub- and supra-glacial sediment",
+        "description": "Fill #FEE670",
+        "values": [
+         {
+          "fieldValues": [
+           "sub- and supra-glacial sediment"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              254,
+              230,
+              112,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              152,
+              138,
+              67,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "glaciolacustrine",
+        "description": "Fill #FEE258",
+        "values": [
+         {
+          "fieldValues": [
+           "glaciolacustrine"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              254,
+              226,
+              88,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              152,
+              135,
+              52,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "glacial-marine",
+        "description": "Fill #FEDB2E",
+        "values": [
+         {
+          "fieldValues": [
+           "glacial-marine"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              254,
+              219,
+              46,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              152,
+              131,
+              27,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "biogenic sediment",
+        "description": "Fill #F7F3A1",
+        "values": [
+         {
+          "fieldValues": [
+           "biogenic sediment"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              247,
+              243,
+              161,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              148,
+              145,
+              96,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "peat",
+        "description": "Fill #FFCC99",
+        "values": [
+         {
+          "fieldValues": [
+           "peat"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              204,
+              153,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              122,
+              91,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "coral",
+        "description": "Fill #FFEAA7",
+        "values": [
+         {
+          "fieldValues": [
+           "coral"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              234,
+              167,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              140,
+              100,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "residuum",
+        "description": "Fill #FFE389",
+        "values": [
+         {
+          "fieldValues": [
+           "residuum"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              227,
+              137,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              136,
+              82,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "clay or mud",
+        "description": "Fill #FFDB67",
+        "values": [
+         {
+          "fieldValues": [
+           "clay or mud"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              219,
+              103,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              131,
+              61,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "silt",
+        "description": "Fill #FFD345",
+        "values": [
+         {
+          "fieldValues": [
+           "silt"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              211,
+              69,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              126,
+              41,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "sand",
+        "description": "Fill #FFCB23",
+        "values": [
+         {
+          "fieldValues": [
+           "sand"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              203,
+              35,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              121,
+              21,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "gravel",
+        "description": "Fill #ECB400",
+        "values": [
+         {
+          "fieldValues": [
+           "gravel"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              236,
+              180,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              141,
+              108,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "sedimentary rock",
+        "description": "Fill #CFEFDF",
+        "values": [
+         {
+          "fieldValues": [
+           "sedimentary rock"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              207,
+              239,
+              223,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              124,
+              143,
+              133,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "clastic",
+        "description": "Fill #D9FDD3",
+        "values": [
+         {
+          "fieldValues": [
+           "clastic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              217,
+              253,
+              211,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              130,
+              151,
+              126,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "mudstone",
+        "description": "Fill #ACE4C8",
+        "values": [
+         {
+          "fieldValues": [
+           "mudstone"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              172,
+              228,
+              200,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              103,
+              136,
+              120,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "claystone",
+        "description": "Fill #D5E6CC",
+        "values": [
+         {
+          "fieldValues": [
+           "claystone"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              213,
+              230,
+              204,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              127,
+              138,
+              122,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "bentonite",
+        "description": "Fill #92DCB7",
+        "values": [
+         {
+          "fieldValues": [
+           "bentonite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              146,
+              220,
+              183,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              87,
+              132,
+              109,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "shale",
+        "description": "Fill #C0D0C0",
+        "values": [
+         {
+          "fieldValues": [
+           "shale"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              192,
+              208,
+              192,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              115,
+              124,
+              115,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "black shale",
+        "description": "Fill #DBFEBC",
+        "values": [
+         {
+          "fieldValues": [
+           "black shale"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              219,
+              254,
+              188,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              131,
+              152,
+              112,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "oil shale",
+        "description": "Fill #BBFFDD",
+        "values": [
+         {
+          "fieldValues": [
+           "oil shale"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              187,
+              255,
+              221,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              112,
+              153,
+              132,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "argillite",
+        "description": "Fill #95FFCA",
+        "values": [
+         {
+          "fieldValues": [
+           "argillite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              149,
+              255,
+              202,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              89,
+              153,
+              121,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "siltstone",
+        "description": "Fill #D6FE9A",
+        "values": [
+         {
+          "fieldValues": [
+           "siltstone"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              214,
+              254,
+              154,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              128,
+              152,
+              92,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "fine-grained mixed clastic",
+        "description": "Fill #E1F0D8",
+        "values": [
+         {
+          "fieldValues": [
+           "fine-grained mixed clastic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              225,
+              240,
+              216,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              135,
+              144,
+              129,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "sandstone",
+        "description": "Fill #CDFFD9",
+        "values": [
+         {
+          "fieldValues": [
+           "sandstone"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              205,
+              255,
+              217,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              123,
+              153,
+              130,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "arenite",
+        "description": "Fill #CBEFCE",
+        "values": [
+         {
+          "fieldValues": [
+           "arenite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              203,
+              239,
+              206,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              121,
+              143,
+              123,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "orthoquartzite",
+        "description": "Fill #A6FCAA",
+        "values": [
+         {
+          "fieldValues": [
+           "orthoquartzite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              166,
+              252,
+              170,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              99,
+              151,
+              102,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "calcarenite",
+        "description": "Fill #7DFFE3",
+        "values": [
+         {
+          "fieldValues": [
+           "calcarenite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              125,
+              255,
+              227,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              75,
+              153,
+              136,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "arkose",
+        "description": "Fill #B8EAC3",
+        "values": [
+         {
+          "fieldValues": [
+           "arkose"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              184,
+              234,
+              195,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              110,
+              140,
+              117,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "wacke",
+        "description": "Fill #BDDBF1",
+        "values": [
+         {
+          "fieldValues": [
+           "wacke"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              189,
+              219,
+              241,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              113,
+              131,
+              144,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "graywacke",
+        "description": "Fill #69CF9C",
+        "values": [
+         {
+          "fieldValues": [
+           "graywacke"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              105,
+              207,
+              156,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              63,
+              124,
+              93,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "medium-grained mixed clastic",
+        "description": "Fill #90A565",
+        "values": [
+         {
+          "fieldValues": [
+           "medium-grained mixed clastic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              144,
+              165,
+              101,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              86,
+              99,
+              60,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "conglomerate",
+        "description": "Fill #B7D9CC",
+        "values": [
+         {
+          "fieldValues": [
+           "conglomerate"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              183,
+              217,
+              204,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              109,
+              130,
+              122,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "sedimentary breccia",
+        "description": "Fill #A7BA86",
+        "values": [
+         {
+          "fieldValues": [
+           "sedimentary breccia"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              167,
+              186,
+              134,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              100,
+              111,
+              80,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "coarse-grained mixed clastic",
+        "description": "Fill #BCC0C5",
+        "values": [
+         {
+          "fieldValues": [
+           "coarse-grained mixed clastic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              188,
+              192,
+              197,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              112,
+              115,
+              118,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "olistostrome",
+        "description": "Fill #8DBECD",
+        "values": [
+         {
+          "fieldValues": [
+           "olistostrome"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              141,
+              190,
+              205,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              84,
+              114,
+              123,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "melange",
+        "description": "Fill #A5AAAD",
+        "values": [
+         {
+          "fieldValues": [
+           "melange"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              165,
+              170,
+              173,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              99,
+              102,
+              103,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "carbonate",
+        "description": "Fill #019CCD",
+        "values": [
+         {
+          "fieldValues": [
+           "carbonate"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              1,
+              156,
+              205,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              93,
+              123,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "limestone",
+        "description": "Fill #149EF8",
+        "values": [
+         {
+          "fieldValues": [
+           "limestone"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              20,
+              158,
+              248,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              12,
+              94,
+              148,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "dolostone (dolomite)",
+        "description": "Fill #0094F8",
+        "values": [
+         {
+          "fieldValues": [
+           "dolostone (dolomite)"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              148,
+              248,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              88,
+              148,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "mixed clastic/carbonate",
+        "description": "Fill #45C5C2",
+        "values": [
+         {
+          "fieldValues": [
+           "mixed clastic/carbonate"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              69,
+              197,
+              194,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              41,
+              118,
+              116,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "mixed clastic/volcanic",
+        "description": "Fill #38B0A2",
+        "values": [
+         {
+          "fieldValues": [
+           "mixed clastic/volcanic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              56,
+              176,
+              162,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              33,
+              105,
+              97,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "phosphorite",
+        "description": "Fill #BFE3DC",
+        "values": [
+         {
+          "fieldValues": [
+           "phosphorite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              191,
+              227,
+              220,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              114,
+              136,
+              132,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "chemical",
+        "description": "Fill #CDDEFF",
+        "values": [
+         {
+          "fieldValues": [
+           "chemical"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              205,
+              222,
+              255,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              123,
+              133,
+              153,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "evaporite",
+        "description": "Fill #9ACEFE",
+        "values": [
+         {
+          "fieldValues": [
+           "evaporite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              154,
+              206,
+              254,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              92,
+              123,
+              152,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "chert",
+        "description": "Fill #AAC2C8",
+        "values": [
+         {
+          "fieldValues": [
+           "chert"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              170,
+              194,
+              200,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              102,
+              116,
+              120,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "novaculite",
+        "description": "Fill #C0AEB6",
+        "values": [
+         {
+          "fieldValues": [
+           "novaculite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              192,
+              174,
+              182,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              115,
+              104,
+              109,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "iron formation",
+        "description": "Fill #B99598",
+        "values": [
+         {
+          "fieldValues": [
+           "iron formation"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              185,
+              149,
+              152,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              111,
+              89,
+              91,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "exhalite",
+        "description": "Fill #98004C",
+        "values": [
+         {
+          "fieldValues": [
+           "exhalite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              152,
+              0,
+              76,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              91,
+              0,
+              45,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "coal",
+        "description": "Fill #6E4900",
+        "values": [
+         {
+          "fieldValues": [
+           "coal"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              110,
+              73,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              66,
+              43,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "mixed clastic/coal",
+        "description": "Fill #D9C2A3",
+        "values": [
+         {
+          "fieldValues": [
+           "mixed clastic/coal"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              217,
+              194,
+              163,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              130,
+              116,
+              97,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "plutonic rock (phaneritic)",
+        "description": "Fill #FFEFF3",
+        "values": [
+         {
+          "fieldValues": [
+           "plutonic rock (phaneritic)"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              239,
+              243,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              143,
+              145,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "aplite",
+        "description": "Fill #FFC8BF",
+        "values": [
+         {
+          "fieldValues": [
+           "aplite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              200,
+              191,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              120,
+              114,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "porphyry",
+        "description": "Fill #FFE1E8",
+        "values": [
+         {
+          "fieldValues": [
+           "porphyry"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              225,
+              232,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              135,
+              139,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "lamprophyre",
+        "description": "Fill #FDCFCF",
+        "values": [
+         {
+          "fieldValues": [
+           "lamprophyre"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              253,
+              207,
+              207,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              151,
+              124,
+              124,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "pegmatite",
+        "description": "Fill #FFD1DC",
+        "values": [
+         {
+          "fieldValues": [
+           "pegmatite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              209,
+              220,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              125,
+              132,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "granitoid",
+        "description": "Fill #FC6E7C",
+        "values": [
+         {
+          "fieldValues": [
+           "granitoid"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              252,
+              110,
+              124,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              151,
+              66,
+              74,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "alkali granite (alaskite)",
+        "description": "Fill #FC5262",
+        "values": [
+         {
+          "fieldValues": [
+           "alkali granite (alaskite)"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              252,
+              82,
+              98,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              151,
+              49,
+              58,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "granite",
+        "description": "Fill #FB2338",
+        "values": [
+         {
+          "fieldValues": [
+           "granite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              251,
+              35,
+              56,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              150,
+              21,
+              33,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "peraluminous granite",
+        "description": "Fill #F43C6C",
+        "values": [
+         {
+          "fieldValues": [
+           "peraluminous granite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              244,
+              60,
+              108,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              146,
+              36,
+              64,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "metaluminous granite",
+        "description": "Fill #F41A87",
+        "values": [
+         {
+          "fieldValues": [
+           "metaluminous granite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              244,
+              26,
+              135,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              146,
+              15,
+              81,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "subaluminous granite",
+        "description": "Fill #DD2972",
+        "values": [
+         {
+          "fieldValues": [
+           "subaluminous granite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              221,
+              41,
+              114,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              132,
+              24,
+              68,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "peralkaline granite",
+        "description": "Fill #E45891",
+        "values": [
+         {
+          "fieldValues": [
+           "peralkaline granite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              228,
+              88,
+              145,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              136,
+              52,
+              87,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "granodiorite",
+        "description": "Fill #E979A6",
+        "values": [
+         {
+          "fieldValues": [
+           "granodiorite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              233,
+              121,
+              166,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              139,
+              72,
+              99,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "tonalite",
+        "description": "Fill #FF6F6B",
+        "values": [
+         {
+          "fieldValues": [
+           "tonalite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              111,
+              107,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              66,
+              64,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "trondhjemite",
+        "description": "Fill #FFB3C5",
+        "values": [
+         {
+          "fieldValues": [
+           "trondhjemite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              179,
+              197,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              107,
+              118,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "alkali syenite",
+        "description": "Fill #F8BEAE",
+        "values": [
+         {
+          "fieldValues": [
+           "alkali syenite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              248,
+              190,
+              174,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              148,
+              114,
+              104,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "quartz syenite",
+        "description": "Fill #F9B5BB",
+        "values": [
+         {
+          "fieldValues": [
+           "quartz syenite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              249,
+              181,
+              187,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              149,
+              108,
+              112,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "syenite",
+        "description": "Fill #FFA7BC",
+        "values": [
+         {
+          "fieldValues": [
+           "syenite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              167,
+              188,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              100,
+              112,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "quartz monzonite",
+        "description": "Fill #FF6388",
+        "values": [
+         {
+          "fieldValues": [
+           "quartz monzonite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              99,
+              136,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              59,
+              81,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "monzonite",
+        "description": "Fill #FF275A",
+        "values": [
+         {
+          "fieldValues": [
+           "monzonite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              39,
+              90,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              23,
+              54,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "quartz monzodiorite",
+        "description": "Fill #FFCCC5",
+        "values": [
+         {
+          "fieldValues": [
+           "quartz monzodiorite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              204,
+              197,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              122,
+              118,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "monzodiorite",
+        "description": "Fill #FFA99D",
+        "values": [
+         {
+          "fieldValues": [
+           "monzodiorite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              169,
+              157,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              101,
+              94,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "quartz diorite",
+        "description": "Fill #FF6F5B",
+        "values": [
+         {
+          "fieldValues": [
+           "quartz diorite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              111,
+              91,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              66,
+              54,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "diorite",
+        "description": "Fill #FF3317",
+        "values": [
+         {
+          "fieldValues": [
+           "diorite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              51,
+              23,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              30,
+              13,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "diabase",
+        "description": "Fill #E81C00",
+        "values": [
+         {
+          "fieldValues": [
+           "diabase"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              232,
+              28,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              139,
+              16,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "gabbroid",
+        "description": "Fill #FF95AE",
+        "values": [
+         {
+          "fieldValues": [
+           "gabbroid"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              149,
+              174,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              89,
+              104,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "quartz monzogabbro",
+        "description": "Fill #FF819F",
+        "values": [
+         {
+          "fieldValues": [
+           "quartz monzogabbro"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              129,
+              159,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              77,
+              95,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "monzogabbro",
+        "description": "Fill #FFD6D1",
+        "values": [
+         {
+          "fieldValues": [
+           "monzogabbro"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              214,
+              209,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              128,
+              125,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "quartz gabbro",
+        "description": "Fill #EDA7CA",
+        "values": [
+         {
+          "fieldValues": [
+           "quartz gabbro"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              237,
+              167,
+              202,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              142,
+              100,
+              121,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "gabbro",
+        "description": "Fill #E993BE",
+        "values": [
+         {
+          "fieldValues": [
+           "gabbro"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              233,
+              147,
+              190,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              139,
+              88,
+              114,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "norite",
+        "description": "Fill #E377AD",
+        "values": [
+         {
+          "fieldValues": [
+           "norite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              227,
+              119,
+              173,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              136,
+              71,
+              103,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "troctolite",
+        "description": "Fill #FFBFCE",
+        "values": [
+         {
+          "fieldValues": [
+           "troctolite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              191,
+              206,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              114,
+              123,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "anorthosite",
+        "description": "Fill #FFA3B9",
+        "values": [
+         {
+          "fieldValues": [
+           "anorthosite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              163,
+              185,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              97,
+              111,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "alkalic intrusive rock",
+        "description": "Fill #FF6F91",
+        "values": [
+         {
+          "fieldValues": [
+           "alkalic intrusive rock"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              111,
+              145,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              66,
+              87,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "nepheline syenite",
+        "description": "Fill #FF1B51",
+        "values": [
+         {
+          "fieldValues": [
+           "nepheline syenite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              27,
+              81,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              16,
+              48,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "ultramafic intrusive rock",
+        "description": "Fill #E80037",
+        "values": [
+         {
+          "fieldValues": [
+           "ultramafic intrusive rock"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              232,
+              0,
+              55,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              139,
+              0,
+              33,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "peridotite",
+        "description": "Fill #CE0031",
+        "values": [
+         {
+          "fieldValues": [
+           "peridotite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              206,
+              0,
+              49,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              123,
+              0,
+              29,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "dunite",
+        "description": "Fill #B0002A",
+        "values": [
+         {
+          "fieldValues": [
+           "dunite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              176,
+              0,
+              42,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              105,
+              0,
+              25,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "kimberlite",
+        "description": "Fill #940023",
+        "values": [
+         {
+          "fieldValues": [
+           "kimberlite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              148,
+              0,
+              35,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              88,
+              0,
+              21,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "pyroxenite",
+        "description": "Fill #C1010A",
+        "values": [
+         {
+          "fieldValues": [
+           "pyroxenite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              193,
+              1,
+              10,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              115,
+              0,
+              6,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "hornblendite",
+        "description": "Fill #A30109",
+        "values": [
+         {
+          "fieldValues": [
+           "hornblendite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              163,
+              1,
+              9,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              97,
+              0,
+              5,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "intrusive carbonatite",
+        "description": "Fill #750107",
+        "values": [
+         {
+          "fieldValues": [
+           "intrusive carbonatite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              117,
+              1,
+              7,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              70,
+              0,
+              4,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "volcanic rock (aphanitic)",
+        "description": "Fill #F9D3D3",
+        "values": [
+         {
+          "fieldValues": [
+           "volcanic rock (aphanitic)"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              249,
+              211,
+              211,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              149,
+              126,
+              126,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "glassy volcanic rock",
+        "description": "Fill #FFE5F3",
+        "values": [
+         {
+          "fieldValues": [
+           "glassy volcanic rock"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              229,
+              243,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              137,
+              145,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "obsidian",
+        "description": "Fill #FFD1EA",
+        "values": [
+         {
+          "fieldValues": [
+           "obsidian"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              209,
+              234,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              125,
+              140,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "vitrophyre",
+        "description": "Fill #FFC3F8",
+        "values": [
+         {
+          "fieldValues": [
+           "vitrophyre"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              195,
+              248,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              117,
+              148,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "pumice",
+        "description": "Fill #FFC3E4",
+        "values": [
+         {
+          "fieldValues": [
+           "pumice"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              195,
+              228,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              117,
+              136,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "pyroclastic",
+        "description": "Fill #FFEDBF",
+        "values": [
+         {
+          "fieldValues": [
+           "pyroclastic"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              237,
+              191,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              142,
+              114,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "tuff",
+        "description": "Fill #FFEFD9",
+        "values": [
+         {
+          "fieldValues": [
+           "tuff"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              239,
+              217,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              143,
+              130,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "welded tuff",
+        "description": "Fill #FFB7DE",
+        "values": [
+         {
+          "fieldValues": [
+           "welded tuff"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              183,
+              222,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              109,
+              133,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "ash-flow tuff",
+        "description": "Fill #FFC8C3",
+        "values": [
+         {
+          "fieldValues": [
+           "ash-flow tuff"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              200,
+              195,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              120,
+              117,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "ignimbrite",
+        "description": "Fill #FFE5C3",
+        "values": [
+         {
+          "fieldValues": [
+           "ignimbrite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              229,
+              195,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              137,
+              117,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "volcanic breccia (agglomerate)",
+        "description": "Fill #FFD59D",
+        "values": [
+         {
+          "fieldValues": [
+           "volcanic breccia (agglomerate)"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              213,
+              157,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              127,
+              94,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "lava flow",
+        "description": "Fill #FFC10B",
+        "values": [
+         {
+          "fieldValues": [
+           "lava flow"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              193,
+              11,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              115,
+              6,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "bimodal suite",
+        "description": "Fill #FFA227",
+        "values": [
+         {
+          "fieldValues": [
+           "bimodal suite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              162,
+              39,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              97,
+              23,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "felsic volcanic rock",
+        "description": "Fill #F48B00",
+        "values": [
+         {
+          "fieldValues": [
+           "felsic volcanic rock"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              244,
+              139,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              146,
+              83,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "alkali rhyolite",
+        "description": "Fill #FEDC7E",
+        "values": [
+         {
+          "fieldValues": [
+           "alkali rhyolite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              254,
+              220,
+              126,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              152,
+              132,
+              75,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "rhyolite",
+        "description": "Fill #FED768",
+        "values": [
+         {
+          "fieldValues": [
+           "rhyolite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              254,
+              215,
+              104,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              152,
+              129,
+              62,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "rhyodacite",
+        "description": "Fill #FEC62A",
+        "values": [
+         {
+          "fieldValues": [
+           "rhyodacite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              254,
+              198,
+              42,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              152,
+              118,
+              25,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "dacite",
+        "description": "Fill #FECDAC",
+        "values": [
+         {
+          "fieldValues": [
+           "dacite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              254,
+              205,
+              172,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              152,
+              123,
+              103,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "alkali trachyte",
+        "description": "Fill #FEB786",
+        "values": [
+         {
+          "fieldValues": [
+           "alkali trachyte"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              254,
+              183,
+              134,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              152,
+              109,
+              80,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "trachyte",
+        "description": "Fill #FEA060",
+        "values": [
+         {
+          "fieldValues": [
+           "trachyte"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              254,
+              160,
+              96,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              152,
+              96,
+              57,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "quartz latite",
+        "description": "Fill #FE8736",
+        "values": [
+         {
+          "fieldValues": [
+           "quartz latite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              254,
+              135,
+              54,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              152,
+              81,
+              32,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "latite",
+        "description": "Fill #FE7518",
+        "values": [
+         {
+          "fieldValues": [
+           "latite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              254,
+              117,
+              24,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              152,
+              70,
+              14,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "intermediate volcanic rock",
+        "description": "Fill #EB6001",
+        "values": [
+         {
+          "fieldValues": [
+           "intermediate volcanic rock"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              235,
+              96,
+              1,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              141,
+              57,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "trachyandesite",
+        "description": "Fill #C95201",
+        "values": [
+         {
+          "fieldValues": [
+           "trachyandesite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              201,
+              82,
+              1,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              120,
+              49,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "andesite",
+        "description": "Fill #B14801",
+        "values": [
+         {
+          "fieldValues": [
+           "andesite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              177,
+              72,
+              1,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              106,
+              43,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "mafic volcanic rock",
+        "description": "Fill #933C01",
+        "values": [
+         {
+          "fieldValues": [
+           "mafic volcanic rock"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              147,
+              60,
+              1,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              88,
+              36,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "trachybasalt",
+        "description": "Fill #ECD5C6",
+        "values": [
+         {
+          "fieldValues": [
+           "trachybasalt"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              236,
+              213,
+              198,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              141,
+              127,
+              118,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "basalt",
+        "description": "Fill #DDB397",
+        "values": [
+         {
+          "fieldValues": [
+           "basalt"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              221,
+              179,
+              151,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              132,
+              107,
+              90,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "tholeite",
+        "description": "Fill #D39D79",
+        "values": [
+         {
+          "fieldValues": [
+           "tholeite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              211,
+              157,
+              121,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              126,
+              94,
+              72,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "hawaiite",
+        "description": "Fill #C68050",
+        "values": [
+         {
+          "fieldValues": [
+           "hawaiite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              198,
+              128,
+              80,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              118,
+              76,
+              48,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "alkaline basalt",
+        "description": "Fill #A96537",
+        "values": [
+         {
+          "fieldValues": [
+           "alkaline basalt"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              169,
+              101,
+              55,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              101,
+              60,
+              33,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "alkalic volcanic rock",
+        "description": "Fill #854F2B",
+        "values": [
+         {
+          "fieldValues": [
+           "alkalic volcanic rock"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              133,
+              79,
+              43,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              79,
+              47,
+              25,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "phonolite",
+        "description": "Fill #5F391F",
+        "values": [
+         {
+          "fieldValues": [
+           "phonolite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              95,
+              57,
+              31,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              57,
+              34,
+              18,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "tephrite (basinite)",
+        "description": "Fill #C24100",
+        "values": [
+         {
+          "fieldValues": [
+           "tephrite (basinite)"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              194,
+              65,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              116,
+              39,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "ultramafitite (komatiite)",
+        "description": "Fill #A03500",
+        "values": [
+         {
+          "fieldValues": [
+           "ultramafitite (komatiite)"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              160,
+              53,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              96,
+              31,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "volcanic carbonatite",
+        "description": "Fill #6E2500",
+        "values": [
+         {
+          "fieldValues": [
+           "volcanic carbonatite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              110,
+              37,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              66,
+              22,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "metamorphic rock",
+        "description": "Fill #E6CDFF",
+        "values": [
+         {
+          "fieldValues": [
+           "metamorphic rock"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              230,
+              205,
+              255,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              138,
+              123,
+              153,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "hornfels",
+        "description": "Fill #EAAFFF",
+        "values": [
+         {
+          "fieldValues": [
+           "hornfels"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              234,
+              175,
+              255,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              140,
+              105,
+              153,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "metasedimentary rock",
+        "description": "Fill #E9FFE9",
+        "values": [
+         {
+          "fieldValues": [
+           "metasedimentary rock"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              233,
+              255,
+              233,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              139,
+              153,
+              139,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "meta-argillite",
+        "description": "Fill #C9FFC9",
+        "values": [
+         {
+          "fieldValues": [
+           "meta-argillite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              201,
+              255,
+              201,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              120,
+              153,
+              120,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "slate",
+        "description": "Fill #A7A7FF",
+        "values": [
+         {
+          "fieldValues": [
+           "slate"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              167,
+              167,
+              255,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              100,
+              100,
+              153,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "quartzite",
+        "description": "Fill #9FFF9F",
+        "values": [
+         {
+          "fieldValues": [
+           "quartzite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              159,
+              255,
+              159,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              95,
+              153,
+              95,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "meta-conglomerate",
+        "description": "Fill #7DFF7D",
+        "values": [
+         {
+          "fieldValues": [
+           "meta-conglomerate"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              125,
+              255,
+              125,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              75,
+              153,
+              75,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "marble",
+        "description": "Fill #0000FF",
+        "values": [
+         {
+          "fieldValues": [
+           "marble"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              0,
+              255,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              0,
+              153,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "metavolcanic rock",
+        "description": "Fill #FFA7FF",
+        "values": [
+         {
+          "fieldValues": [
+           "metavolcanic rock"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              167,
+              255,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              100,
+              153,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "felsic metavolcanic rock",
+        "description": "Fill #FF8DFF",
+        "values": [
+         {
+          "fieldValues": [
+           "felsic metavolcanic rock"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              141,
+              255,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              84,
+              153,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "meta-rhyolite",
+        "description": "Fill #FF57FF",
+        "values": [
+         {
+          "fieldValues": [
+           "meta-rhyolite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              87,
+              255,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              52,
+              153,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "keratophyre",
+        "description": "Fill #FE6700",
+        "values": [
+         {
+          "fieldValues": [
+           "keratophyre"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              254,
+              103,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              152,
+              61,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "intermediate metavolcanic rock",
+        "description": "Fill #C9557E",
+        "values": [
+         {
+          "fieldValues": [
+           "intermediate metavolcanic rock"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              201,
+              85,
+              126,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              120,
+              51,
+              75,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "mafic metavolcanic rock",
+        "description": "Fill #B93B68",
+        "values": [
+         {
+          "fieldValues": [
+           "mafic metavolcanic rock"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              185,
+              59,
+              104,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              111,
+              35,
+              62,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "meta-basalt",
+        "description": "Fill #872B4C",
+        "values": [
+         {
+          "fieldValues": [
+           "meta-basalt"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              135,
+              43,
+              76,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              81,
+              25,
+              45,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "spilite",
+        "description": "Fill #FF0000",
+        "values": [
+         {
+          "fieldValues": [
+           "spilite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              0,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              0,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "greenstone",
+        "description": "Fill #008000",
+        "values": [
+         {
+          "fieldValues": [
+           "greenstone"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              128,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              76,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "phyllite",
+        "description": "Fill #EDEDF3",
+        "values": [
+         {
+          "fieldValues": [
+           "phyllite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              237,
+              237,
+              243,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              142,
+              142,
+              145,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "schist",
+        "description": "Fill #DBDBE7",
+        "values": [
+         {
+          "fieldValues": [
+           "schist"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              219,
+              219,
+              231,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              131,
+              131,
+              138,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "greenschist",
+        "description": "Fill #CACADC",
+        "values": [
+         {
+          "fieldValues": [
+           "greenschist"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              202,
+              202,
+              220,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              121,
+              121,
+              132,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "blueschist",
+        "description": "Fill #C0C0C0",
+        "values": [
+         {
+          "fieldValues": [
+           "blueschist"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              192,
+              192,
+              192,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              115,
+              115,
+              115,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "mica schist",
+        "description": "Fill #B1B1B1",
+        "values": [
+         {
+          "fieldValues": [
+           "mica schist"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              177,
+              177,
+              177,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              106,
+              106,
+              106,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "pelitic schist",
+        "description": "Fill #969696",
+        "values": [
+         {
+          "fieldValues": [
+           "pelitic schist"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              150,
+              150,
+              150,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              90,
+              90,
+              90,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "quartz-feldspar schist",
+        "description": "Fill #A2A2C0",
+        "values": [
+         {
+          "fieldValues": [
+           "quartz-feldspar schist"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              162,
+              162,
+              192,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              97,
+              97,
+              115,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "calc-silicate schist",
+        "description": "Fill #B4CFE4",
+        "values": [
+         {
+          "fieldValues": [
+           "calc-silicate schist"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              180,
+              207,
+              228,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              108,
+              124,
+              136,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "amphibole schist",
+        "description": "Fill #B6B6CE",
+        "values": [
+         {
+          "fieldValues": [
+           "amphibole schist"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              182,
+              182,
+              206,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              109,
+              109,
+              123,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "granofels",
+        "description": "Fill #ABFFFF",
+        "values": [
+         {
+          "fieldValues": [
+           "granofels"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              171,
+              255,
+              255,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              102,
+              153,
+              153,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "gneiss",
+        "description": "Fill #79FFFF",
+        "values": [
+         {
+          "fieldValues": [
+           "gneiss"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              121,
+              255,
+              255,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              72,
+              153,
+              153,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "felsic gneiss",
+        "description": "Fill #0FFFFF",
+        "values": [
+         {
+          "fieldValues": [
+           "felsic gneiss"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              15,
+              255,
+              255,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              9,
+              153,
+              153,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "granitic gneiss",
+        "description": "Fill #00DBD6",
+        "values": [
+         {
+          "fieldValues": [
+           "granitic gneiss"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              219,
+              214,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              131,
+              128,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "biotite gneiss",
+        "description": "Fill #00A4A0",
+        "values": [
+         {
+          "fieldValues": [
+           "biotite gneiss"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              164,
+              160,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              98,
+              96,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "mafic gneiss",
+        "description": "Fill #007673",
+        "values": [
+         {
+          "fieldValues": [
+           "mafic gneiss"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              118,
+              115,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              70,
+              69,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "orthogneiss",
+        "description": "Fill #33CCCC",
+        "values": [
+         {
+          "fieldValues": [
+           "orthogneiss"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              51,
+              204,
+              204,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              30,
+              122,
+              122,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "paragneiss",
+        "description": "Fill #2DB6B3",
+        "values": [
+         {
+          "fieldValues": [
+           "paragneiss"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              45,
+              182,
+              179,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              27,
+              109,
+              107,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "migmatite",
+        "description": "Fill #AC0000",
+        "values": [
+         {
+          "fieldValues": [
+           "migmatite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              172,
+              0,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              103,
+              0,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "amphibolite",
+        "description": "Fill #AC7F50",
+        "values": [
+         {
+          "fieldValues": [
+           "amphibolite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              172,
+              127,
+              80,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              103,
+              76,
+              48,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "granulite",
+        "description": "Fill #84613E",
+        "values": [
+         {
+          "fieldValues": [
+           "granulite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              132,
+              97,
+              62,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              79,
+              58,
+              37,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "eclogite",
+        "description": "Fill #FF4FFF",
+        "values": [
+         {
+          "fieldValues": [
+           "eclogite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              255,
+              79,
+              255,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              153,
+              47,
+              153,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "greisen",
+        "description": "Fill #EC00EC",
+        "values": [
+         {
+          "fieldValues": [
+           "greisen"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              236,
+              0,
+              236,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              141,
+              0,
+              141,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "skarn (tactite)",
+        "description": "Fill #6600CC",
+        "values": [
+         {
+          "fieldValues": [
+           "skarn (tactite)"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              102,
+              0,
+              204,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              61,
+              0,
+              122,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "calc-silicate rock",
+        "description": "Fill #46008C",
+        "values": [
+         {
+          "fieldValues": [
+           "calc-silicate rock"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              70,
+              0,
+              140,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              42,
+              0,
+              84,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "serpentinite",
+        "description": "Fill #005C00",
+        "values": [
+         {
+          "fieldValues": [
+           "serpentinite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              92,
+              0,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              0,
+              55,
+              0,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "tectonic rock",
+        "description": "Fill #C600C6",
+        "values": [
+         {
+          "fieldValues": [
+           "tectonic rock"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              198,
+              0,
+              198,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              118,
+              0,
+              118,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "tectonite",
+        "description": "Fill #9C009C",
+        "values": [
+         {
+          "fieldValues": [
+           "tectonite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              156,
+              0,
+              156,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              93,
+              0,
+              93,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "tectonic melange",
+        "description": "Fill #6A006A",
+        "values": [
+         {
+          "fieldValues": [
+           "tectonic melange"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              106,
+              0,
+              106,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              63,
+              0,
+              63,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "tectonic breccia",
+        "description": "Fill #2A002A",
+        "values": [
+         {
+          "fieldValues": [
+           "tectonic breccia"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              42,
+              0,
+              42,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              25,
+              0,
+              25,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "cataclasite",
+        "description": "Fill #F4FFD5",
+        "values": [
+         {
+          "fieldValues": [
+           "cataclasite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              244,
+              255,
+              213,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              146,
+              153,
+              127,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "phyllonite",
+        "description": "Fill #339966",
+        "values": [
+         {
+          "fieldValues": [
+           "phyllonite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              51,
+              153,
+              102,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              30,
+              91,
+              61,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "mylonite",
+        "description": "Fill #D0CBB0",
+        "values": [
+         {
+          "fieldValues": [
+           "mylonite"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              208,
+              203,
+              176,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              124,
+              121,
+              105,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "flaser gneiss",
+        "description": "Fill #B0A778",
+        "values": [
+         {
+          "fieldValues": [
+           "flaser gneiss"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              176,
+              167,
+              120,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              105,
+              100,
+              72,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       },
+       {
+        "label": "augen gneiss",
+        "description": "Fill #887F50",
+        "values": [
+         {
+          "fieldValues": [
+           "augen gneiss"
+          ]
+         }
+        ],
+        "symbol": {
+         "type": "CIMSymbolReference",
+         "symbol": {
+          "type": "CIMPolygonSymbol",
+          "symbolLayers": [
+           {
+            "type": "CIMSolidFill",
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              136,
+              127,
+              80,
+              100
+             ]
+            }
+           },
+           {
+            "type": "CIMSolidStroke",
+            "width": 0.5,
+            "color": {
+             "type": "CIMRGBColor",
+             "values": [
+              81,
+              76,
+              48,
+              100
+             ]
+            }
+           }
+          ]
+         }
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+﻿en,ar,type,R,G,B,width_size,category_en,category_ar
+Index contour,كنتور رئيسي,line,150,100,50,1.2,Relief,تضاريس
+Intermediate contour,كنتور فرعي,line,150,100,50,0.6,Relief,تضاريس
+Depression contour,كنتور منخفض,line,110,70,20,0.6,Relief,تضاريس
+Spot height,نقطة منسوب,point,150,100,50,10,Relief,تضاريس
+Triangulation pillar,ركيزة مثلثات,point,0,0,0,14,Geodesy,جيوديسيا
+Benchmark BM,روبير,point,0,0,0,12,Geodesy,جيوديسيا
+Escarpment cliff,جرف,line,110,70,20,1.4,Relief,تضاريس
+Sand dune,كثيب رملي,line,230,130,0,0.8,Relief,تضاريس
+Wadi thalweg,بطن وادي,line,150,100,50,0.8,Relief,تضاريس
+Hypso 0-50 m,تظليل 0-50 م,poly,232,245,210,,Hypsometric,تظليل ارتفاعي
+Hypso 50-200 m,تظليل 50-200 م,poly,245,235,170,,Hypsometric,تظليل ارتفاعي
+Hypso 200-500 m,تظليل 200-500 م,poly,240,210,140,,Hypsometric,تظليل ارتفاعي
+Hypso 500-1000 m,تظليل 500-1000 م,poly,210,170,120,,Hypsometric,تظليل ارتفاعي
+Hypso over 1000 m,تظليل فوق 1000 م,poly,180,140,110,,Hypsometric,تظليل ارتفاعي
+Nile river,نهر النيل,line,0,60,180,2.2,Hydro,مياه
+Main canal,ترعة رئيسية,line,0,120,255,1.4,Hydro,مياه
+Drain مصرف,مصرف,line,0,120,255,1.0,Hydro,مياه
+Intermittent wadi stream,وادي موسمي,line,0,120,255,0.7,Hydro,مياه
+Lake Nasser water,بحيرة ناصر,poly,150,200,255,,Hydro,مياه
+Well bir,بئر,point,0,60,180,12,Hydro,مياه
+Spring ain,عين,point,0,120,255,12,Hydro,مياه
+Water tank,خزان مياه,point,0,60,180,12,Hydro,مياه
+Barrage dam,قناطر وسد,line,0,60,180,1.8,Hydro,مياه
+Sabkha marsh,سبخة,poly,200,220,230,,Hydro,مياه
+Highway,طريق سريع,line,220,0,0,2.0,Transport,نقل
+Paved road,طريق مرصوف,line,0,0,0,1.2,Transport,نقل
+Unpaved road,طريق غير مرصوف,line,0,0,0,0.8,Transport,نقل
+Desert track,مدق صحراوي,line,120,120,120,0.7,Transport,نقل
+Footpath,ممر,line,120,120,120,0.5,Transport,نقل
+Railway double,سكة مزدوجة,line,0,0,0,1.4,Transport,نقل
+Railway single,سكة مفردة,line,0,0,0,1.0,Transport,نقل
+Bridge,كوبري,point,220,0,0,14,Transport,نقل
+Airport runway,مدرج,line,0,0,0,2.0,Transport,نقل
+Capital Cairo,القاهرة عاصمة,point,0,0,0,20,Settlements,عمران
+Governorate capital,عاصمة محافظة,point,0,0,0,16,Settlements,عمران
+City,مدينة,point,0,0,0,14,Settlements,عمران
+Village,قرية,point,0,0,0,12,Settlements,عمران
+Hamlet izba,عزبة وكفر,point,0,0,0,10,Settlements,عمران
+Urban area tint,كتلة عمرانية,poly,255,200,200,,Settlements,عمران
+Ruins antiquities,آثار,point,150,100,50,14,Culture,ثقافة
+Mosque,مسجد,point,0,0,0,12,Culture,ثقافة
+Church monastery,كنيسة ودير,point,0,0,0,12,Culture,ثقافة
+School hospital,مدرسة ومستشفى,point,0,0,0,12,Culture,ثقافة
+Cemetery,جبانة,point,120,120,120,12,Culture,ثقافة
+International boundary,حد دولي,line,0,0,0,2.0,Boundaries,حدود
+Governorate boundary,حد محافظة,line,0,0,0,1.2,Boundaries,حدود
+Markaz boundary,حد مركز,line,120,120,120,0.8,Boundaries,حدود
+Cultivated Nile Delta,أرض زراعية دلتا ووادي,poly,180,230,150,,Vegetation,نبات
+Orchard,بستان,poly,120,200,100,,Vegetation,نبات
+Palm grove,نخيل,poly,60,180,60,,Vegetation,نبات
+Scrub desert vegetation,حشائش صحراوية,poly,220,230,170,,Vegetation,نبات

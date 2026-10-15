@@ -1,0 +1,23 @@
+12/16/2011
+
+This .zip file contains four styles that include a variety of color ramps.
+
+- Hypsometry – These color ramps can be used to depict elevation ranges.  The colors related in a general sense to the land cover that would be found at various elevations in different parts of the world.  The color ramps include symbology for both terrestrial and bathymetric data.
+
+- CartoEffects – These color ramps can be used to create special cartographic effects, like the gradient border on the Crater Lake map seen on Mapping Center.
+
+- Events – These color ramps can be used to symbolize continuous data that relates to environmental phenomena, including active events such as wildfires, gradual events such as desertification, seasonal event such as climate shifts, and water events related to things such as flow direction, currents, and velocity.
+
+- Hillshades – These color ramps can be used for area-specific hillshades, monochromatic hillshades, or bicolor hillshade. These hillshades can be used for either land or underwater surfaces for enhanced lighting effects.
+
+These are updated versions of the ColorRamps 2.0 styles published earlier (http://blogs.esri.com/Support/blogs/mappingcenter/archive/2008/05/13/color-ramps.aspx). They have been edited in the following ways: redundant color ramps were removed, related color ramps were grouped together, and color ramps that were inadvertently inverted in the previous version were. Specifically:
+
+- ColorRamps3.0_Events.style – The order of color ramps for related environmental events and gradual events was improved.
+
+- ColorRamps3.0_Hillshade and ColorRamps3.0_CartoEffects – Some of the ramps that were inverted in version 2.0 are now corrected in version 3.0.
+
+- ColorRamps3.0_Hypsometry.style – We removed redundant incremental versions, and some of the ramps that were inverted in version 2.0 are now corrected in version 3.0.
+
+When designing these color ramps, we followed standard cartographic practice so that when applied, by default, lower values will be assigned lighter colors and higher values will be assigned darker colors. An exception is the set of color ramps for hypsometry (elevation). The colors in those ramps range through hues that relate to hypothetical land cover classes (e.g., green for low, lush valleys; brown for rocky areas; and white for snow-capped peaks.)
+
+The Esri Mapping Center Team

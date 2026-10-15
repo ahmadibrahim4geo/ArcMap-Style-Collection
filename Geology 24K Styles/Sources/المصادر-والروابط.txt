@@ -1,0 +1,25 @@
+مصدر الاستايلات - Source (جيولوجيا 24K)
+====================================================
+
+التخصص: جيولوجيا بمقياس 24K (مفصول من مكتبة ESRI للتخصصات)
+
+المعرض الرئيسي:
+https://esri-styles.maps.arcgis.com/home/index.html
+https://esri-styles.maps.arcgis.com/home/gallery.html
+
+تاريخ التحميل: 28-09-2026 | تاريخ الفصل لفولدر تخصصي: 29-09-2026
+
+----------------------------------------------------
+الملفات في هذا الفولدر (الناشر styles_esri):
+----------------------------------------------------
+1) Geology-24K.stylx (~800 KB)
+   https://www.arcgis.com/home/item.html?id=96f711a17b824752b2521699c0722933
+   ستايل الجيولوجيا بمقياس 24K (Pro: Insert > Add Style).
+
+2) Geology 24K.style
+   النسخة المقابلة لـ ArcMap من تثبيت ArcMap 10.8 المحلي
+   (C:\Program Files (x86)\ArcGIS\Desktop10.8\Styles\Geology 24K.style).
+
+مراجع مكتبة الرموز:
+- https://support.esri.com/en-us/patches-updates/2016/arcmap-symbol-library-854
+- https://downloads.esri.com/support/documentation/ao_/Symbol_Index.pdf

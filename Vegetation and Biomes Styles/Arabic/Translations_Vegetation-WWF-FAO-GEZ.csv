@@ -1,0 +1,165 @@
+﻿field,id,key,original,arabic,new_value,status
+Fill Symbols.Name,17,,01 Tropical moist broadleaf forests,01 غابات مدارية رطبة عريضة,01 غابات مدارية رطبة عريضة | 01 Tropical moist broadleaf forests,translated
+Fill Symbols.Category,17,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Fill Symbols.Name,18,,02 Tropical dry broadleaf forests,02 غابات مدارية جافة عريضة,02 غابات مدارية جافة عريضة | 02 Tropical dry broadleaf forests,translated
+Fill Symbols.Category,18,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Fill Symbols.Name,19,,03 Tropical coniferous forests,03 غابات مدارية إبرية,03 غابات مدارية إبرية | 03 Tropical coniferous forests,translated
+Fill Symbols.Category,19,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Fill Symbols.Name,20,,04 Temperate broadleaf mixed forests,04 غابات معتدلة عريضة ومختلطة,04 غابات معتدلة عريضة ومختلطة | 04 Temperate broadleaf mixed forests,translated
+Fill Symbols.Category,20,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Fill Symbols.Name,21,,05 Temperate coniferous forests,05 غابات معتدلة إبرية,05 غابات معتدلة إبرية | 05 Temperate coniferous forests,translated
+Fill Symbols.Category,21,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Fill Symbols.Name,22,,06 Boreal taiga,06 تايغا شمالية,06 تايغا شمالية | 06 Boreal taiga,translated
+Fill Symbols.Category,22,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Fill Symbols.Name,23,,07 Tropical grasslands savannas,07 سافانا وحشائش مدارية,07 سافانا وحشائش مدارية | 07 Tropical grasslands savannas,translated
+Fill Symbols.Category,23,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Fill Symbols.Name,24,,08 Temperate grasslands savannas,08 سهوب معتدلة,08 سهوب معتدلة | 08 Temperate grasslands savannas,translated
+Fill Symbols.Category,24,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Fill Symbols.Name,25,,09 Flooded grasslands savannas,09 حشائش مغمورة,09 حشائش مغمورة | 09 Flooded grasslands savannas,translated
+Fill Symbols.Category,25,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Fill Symbols.Name,26,,10 Montane grasslands shrublands,10 حشائش وشجيرات جبلية,10 حشائش وشجيرات جبلية | 10 Montane grasslands shrublands,translated
+Fill Symbols.Category,26,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Fill Symbols.Name,27,,11 Tundra,11 تندرا,11 تندرا | 11 Tundra,translated
+Fill Symbols.Category,27,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Fill Symbols.Name,28,,12 Mediterranean woodlands scrub,12 متوسطية,12 متوسطية | 12 Mediterranean woodlands scrub,translated
+Fill Symbols.Category,28,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Fill Symbols.Name,29,,13 Deserts xeric shrublands,13 صحارى وشجيرات جافة,13 صحارى وشجيرات جافة | 13 Deserts xeric shrublands,translated
+Fill Symbols.Category,29,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Fill Symbols.Name,30,,14 Mangroves,14 مانغروف,14 مانغروف | 14 Mangroves,translated
+Fill Symbols.Category,30,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Fill Symbols.Name,31,,TAr Tropical rainforest GEZ,TAr نطاق مطير استوائي,TAr نطاق مطير استوائي | TAr Tropical rainforest GEZ,translated
+Fill Symbols.Category,31,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Fill Symbols.Name,32,,TAwa Tropical moist deciduous,TAwa نطاق رطب متساقط,TAwa نطاق رطب متساقط | TAwa Tropical moist deciduous,translated
+Fill Symbols.Category,32,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Fill Symbols.Name,33,,TAwb Tropical dry forest,TAwb نطاق جاف استوائي,TAwb نطاق جاف استوائي | TAwb Tropical dry forest,translated
+Fill Symbols.Category,33,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Fill Symbols.Name,34,,TBSh Tropical shrubland,TBSh شجيرات استوائية,TBSh شجيرات استوائية | TBSh Tropical shrubland,translated
+Fill Symbols.Category,34,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Fill Symbols.Name,35,,TBWh Tropical desert,TBWh صحراء استوائية,TBWh صحراء استوائية | TBWh Tropical desert,translated
+Fill Symbols.Category,35,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Fill Symbols.Name,36,,TM Tropical mountain,TM جبال استوائية,TM جبال استوائية | TM Tropical mountain,translated
+Fill Symbols.Category,36,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Fill Symbols.Name,37,,SCf Subtropical humid forest,SCf غابة شبه مدارية رطبة,SCf غابة شبه مدارية رطبة | SCf Subtropical humid forest,translated
+Fill Symbols.Category,37,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Fill Symbols.Name,38,,SCs Subtropical dry forest,SCs غابة شبه مدارية جافة,SCs غابة شبه مدارية جافة | SCs Subtropical dry forest,translated
+Fill Symbols.Category,38,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Fill Symbols.Name,39,,SBSh Subtropical steppe,SBSh سهب شبه مداري,SBSh سهب شبه مداري | SBSh Subtropical steppe,translated
+Fill Symbols.Category,39,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Fill Symbols.Name,40,,SBWh Subtropical desert,SBWh صحراء شبه مدارية,SBWh صحراء شبه مدارية | SBWh Subtropical desert,translated
+Fill Symbols.Category,40,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Fill Symbols.Name,41,,SM Subtropical mountain,SM جبال شبه مدارية,SM جبال شبه مدارية | SM Subtropical mountain,translated
+Fill Symbols.Category,41,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Fill Symbols.Name,42,,TeDo Temperate oceanic forest,TeDo غابة معتدلة محيطية,TeDo غابة معتدلة محيطية | TeDo Temperate oceanic forest,translated
+Fill Symbols.Category,42,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Fill Symbols.Name,43,,TeDc Temperate continental forest,TeDc غابة معتدلة قارية,TeDc غابة معتدلة قارية | TeDc Temperate continental forest,translated
+Fill Symbols.Category,43,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Fill Symbols.Name,44,,TeBSk Temperate steppe,TeBSk سهب معتدل,TeBSk سهب معتدل | TeBSk Temperate steppe,translated
+Fill Symbols.Category,44,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Fill Symbols.Name,45,,TeBWk Temperate desert,TeBWk صحراء معتدلة,TeBWk صحراء معتدلة | TeBWk Temperate desert,translated
+Fill Symbols.Category,45,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Fill Symbols.Name,46,,TeM Temperate mountain,TeM جبال معتدلة,TeM جبال معتدلة | TeM Temperate mountain,translated
+Fill Symbols.Category,46,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Fill Symbols.Name,47,,Ba Boreal coniferous,Ba غابة شمالية إبرية,Ba غابة شمالية إبرية | Ba Boreal coniferous,translated
+Fill Symbols.Category,47,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Fill Symbols.Name,48,,Bb Boreal tundra woodland,Bb تندرا شمالية,Bb تندرا شمالية | Bb Boreal tundra woodland,translated
+Fill Symbols.Category,48,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Fill Symbols.Name,49,,BM Boreal mountain,BM جبال شمالية,BM جبال شمالية | BM Boreal mountain,translated
+Fill Symbols.Category,49,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Fill Symbols.Name,50,,P Polar,P قطبي,P قطبي | P Polar,translated
+Fill Symbols.Category,50,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,49,,01 Tropical moist broadleaf forests,01 غابات مدارية رطبة عريضة,01 غابات مدارية رطبة عريضة | 01 Tropical moist broadleaf forests,translated
+Colors.Category,49,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Colors.Name,50,,02 Tropical dry broadleaf forests,02 غابات مدارية جافة عريضة,02 غابات مدارية جافة عريضة | 02 Tropical dry broadleaf forests,translated
+Colors.Category,50,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Colors.Name,51,,03 Tropical coniferous forests,03 غابات مدارية إبرية,03 غابات مدارية إبرية | 03 Tropical coniferous forests,translated
+Colors.Category,51,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Colors.Name,52,,04 Temperate broadleaf mixed forests,04 غابات معتدلة عريضة ومختلطة,04 غابات معتدلة عريضة ومختلطة | 04 Temperate broadleaf mixed forests,translated
+Colors.Category,52,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Colors.Name,53,,05 Temperate coniferous forests,05 غابات معتدلة إبرية,05 غابات معتدلة إبرية | 05 Temperate coniferous forests,translated
+Colors.Category,53,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Colors.Name,54,,06 Boreal taiga,06 تايغا شمالية,06 تايغا شمالية | 06 Boreal taiga,translated
+Colors.Category,54,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Colors.Name,55,,07 Tropical grasslands savannas,07 سافانا وحشائش مدارية,07 سافانا وحشائش مدارية | 07 Tropical grasslands savannas,translated
+Colors.Category,55,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Colors.Name,56,,08 Temperate grasslands savannas,08 سهوب معتدلة,08 سهوب معتدلة | 08 Temperate grasslands savannas,translated
+Colors.Category,56,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Colors.Name,57,,09 Flooded grasslands savannas,09 حشائش مغمورة,09 حشائش مغمورة | 09 Flooded grasslands savannas,translated
+Colors.Category,57,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Colors.Name,58,,10 Montane grasslands shrublands,10 حشائش وشجيرات جبلية,10 حشائش وشجيرات جبلية | 10 Montane grasslands shrublands,translated
+Colors.Category,58,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Colors.Name,59,,11 Tundra,11 تندرا,11 تندرا | 11 Tundra,translated
+Colors.Category,59,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Colors.Name,60,,12 Mediterranean woodlands scrub,12 متوسطية,12 متوسطية | 12 Mediterranean woodlands scrub,translated
+Colors.Category,60,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Colors.Name,61,,13 Deserts xeric shrublands,13 صحارى وشجيرات جافة,13 صحارى وشجيرات جافة | 13 Deserts xeric shrublands,translated
+Colors.Category,61,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Colors.Name,62,,14 Mangroves,14 مانغروف,14 مانغروف | 14 Mangroves,translated
+Colors.Category,62,,WWF Biomes,أحيائية WWF,أحيائية WWF | WWF Biomes,translated
+Colors.Name,63,,TAr Tropical rainforest GEZ,TAr نطاق مطير استوائي,TAr نطاق مطير استوائي | TAr Tropical rainforest GEZ,translated
+Colors.Category,63,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,64,,TAwa Tropical moist deciduous,TAwa نطاق رطب متساقط,TAwa نطاق رطب متساقط | TAwa Tropical moist deciduous,translated
+Colors.Category,64,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,65,,TAwb Tropical dry forest,TAwb نطاق جاف استوائي,TAwb نطاق جاف استوائي | TAwb Tropical dry forest,translated
+Colors.Category,65,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,66,,TBSh Tropical shrubland,TBSh شجيرات استوائية,TBSh شجيرات استوائية | TBSh Tropical shrubland,translated
+Colors.Category,66,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,67,,TBWh Tropical desert,TBWh صحراء استوائية,TBWh صحراء استوائية | TBWh Tropical desert,translated
+Colors.Category,67,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,68,,TM Tropical mountain,TM جبال استوائية,TM جبال استوائية | TM Tropical mountain,translated
+Colors.Category,68,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,69,,SCf Subtropical humid forest,SCf غابة شبه مدارية رطبة,SCf غابة شبه مدارية رطبة | SCf Subtropical humid forest,translated
+Colors.Category,69,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,70,,SCs Subtropical dry forest,SCs غابة شبه مدارية جافة,SCs غابة شبه مدارية جافة | SCs Subtropical dry forest,translated
+Colors.Category,70,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,71,,SBSh Subtropical steppe,SBSh سهب شبه مداري,SBSh سهب شبه مداري | SBSh Subtropical steppe,translated
+Colors.Category,71,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,72,,SBWh Subtropical desert,SBWh صحراء شبه مدارية,SBWh صحراء شبه مدارية | SBWh Subtropical desert,translated
+Colors.Category,72,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,73,,SM Subtropical mountain,SM جبال شبه مدارية,SM جبال شبه مدارية | SM Subtropical mountain,translated
+Colors.Category,73,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,74,,TeDo Temperate oceanic forest,TeDo غابة معتدلة محيطية,TeDo غابة معتدلة محيطية | TeDo Temperate oceanic forest,translated
+Colors.Category,74,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,75,,TeDc Temperate continental forest,TeDc غابة معتدلة قارية,TeDc غابة معتدلة قارية | TeDc Temperate continental forest,translated
+Colors.Category,75,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,76,,TeBSk Temperate steppe,TeBSk سهب معتدل,TeBSk سهب معتدل | TeBSk Temperate steppe,translated
+Colors.Category,76,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,77,,TeBWk Temperate desert,TeBWk صحراء معتدلة,TeBWk صحراء معتدلة | TeBWk Temperate desert,translated
+Colors.Category,77,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,78,,TeM Temperate mountain,TeM جبال معتدلة,TeM جبال معتدلة | TeM Temperate mountain,translated
+Colors.Category,78,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,79,,Ba Boreal coniferous,Ba غابة شمالية إبرية,Ba غابة شمالية إبرية | Ba Boreal coniferous,translated
+Colors.Category,79,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,80,,Bb Boreal tundra woodland,Bb تندرا شمالية,Bb تندرا شمالية | Bb Boreal tundra woodland,translated
+Colors.Category,80,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,81,,BM Boreal mountain,BM جبال شمالية,BM جبال شمالية | BM Boreal mountain,translated
+Colors.Category,81,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,82,,P Polar,P قطبي,P قطبي | P Polar,translated
+Colors.Category,82,,FAO GEZ,نطاقات فاو,نطاقات فاو | FAO GEZ,translated
+Colors.Name,83,,Color 35,,Color 35,kept
+Colors.Category,83,,Colors,,Colors,kept
+Colors.Name,84,,Color 36,,Color 36,kept
+Colors.Category,84,,Colors,,Colors,kept
+Colors.Name,85,,Color 37,,Color 37,kept
+Colors.Category,85,,Colors,,Colors,kept
+Colors.Name,86,,Color 38,,Color 38,kept
+Colors.Category,86,,Colors,,Colors,kept
+Colors.Name,87,,Color 39,,Color 39,kept
+Colors.Category,87,,Colors,,Colors,kept
+Colors.Name,88,,Color 40,,Color 40,kept
+Colors.Category,88,,Colors,,Colors,kept
+Colors.Name,89,,Color 41,,Color 41,kept
+Colors.Category,89,,Colors,,Colors,kept
+Colors.Name,90,,Color 42,,Color 42,kept
+Colors.Category,90,,Colors,,Colors,kept
+Colors.Name,91,,Color 43,,Color 43,kept
+Colors.Category,91,,Colors,,Colors,kept
+Colors.Name,92,,Color 44,,Color 44,kept
+Colors.Category,92,,Colors,,Colors,kept
+Colors.Name,93,,Color 45,,Color 45,kept
+Colors.Category,93,,Colors,,Colors,kept
+Colors.Name,94,,Color 46,,Color 46,kept
+Colors.Category,94,,Colors,,Colors,kept
+Colors.Name,95,,Color 47,,Color 47,kept
+Colors.Category,95,,Colors,,Colors,kept
+Colors.Name,96,,Color 48,,Color 48,kept
+Colors.Category,96,,Colors,,Colors,kept

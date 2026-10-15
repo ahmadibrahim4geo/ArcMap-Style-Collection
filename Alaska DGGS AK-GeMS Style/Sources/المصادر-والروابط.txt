@@ -1,0 +1,42 @@
+مصدر الاستايلات - Source (Alaska DGGS AK-GeMS)
+====================================================
+
+التخصص: جيولوجيا - ستايل إنتاج الخرائط الجيولوجية لولاية ألاسكا (مبني على FGDC + GeMS)
+
+المصدر الرئيسي (الإصدار الأول):
+https://dggs.alaska.gov/pubs/id/30584
+Ekberg, Hendricks & Athey, 2021, AK GeMS symbology (MP 169), 7 p.
+DOI: https://doi.org/10.14509/30584
+
+الإصدار الأحدث (v2 - 2024):
+https://dggs.alaska.gov/pubs/id/31101
+Macpherson, Hendricks & Athey, 2024, AK GeMS Symbology (MP 169 v.2), 6 p.
+DOI: https://doi.org/10.14509/31101
+
+تاريخ التحميل: 28-09-2026
+
+----------------------------------------------------
+الملفات في هذا الفولدر:
+----------------------------------------------------
+1) mp169_AK_GeMS_symbology.zip (13.8 MB) - الإصدار 1
+   https://dggs.alaska.gov/webpubs/dggs/mp/text/mp169_AK_GeMS_symbology.zip
+   يحتوي: AK_GeMS_symbology_ver_1.style (حوالي 32 MB مفكوك) + جدول التوثيق Excel.
+
+2) mp169.pdf (1.6 MB) - تقرير الإصدار 1.
+
+3) mp169v2_AK_GeMS_symbology.zip (4.7 MB) - الإصدار 2 (الأحدث، يُفضل استخدامه)
+   https://dggs.alaska.gov/webpubs/dggs/mp/text/mp169v2_AK_GeMS_symbology.zip
+   يحتوي: AK_GeMS_symbology_ver_2.style / .stylex + جدول التوثيق Excel.
+
+4) mp169v2.pdf (24 MB) - تقرير الإصدار 2.
+
+5) ملفات مستخرجة من الحزمتين (جاهزة للاستخدام بدون فك ضغط):
+   - AK_GeMS_symbology_ver_1.style (حوالي 32 MB) → يُستخدم في ArcMap مباشرة.
+   - AK_GeMS_symbology_ver_2.stylx (حوالي 36 MB) → يُستخدم في ArcGIS Pro فقط
+     (لا يوجد تحويل .stylx ← .style، والإصدار 2 منشور بصيغة Pro فقط).
+   - AK_GeMS_symbology_documentation_ver_1.xlsx + ver_2.xlsx (توثيق الرموز).
+
+مميزات الستايل: كل رموز FGDC الأصلية + رموز مخصصة لألاسكا + رموز وحدات الخريطة
+بألوان USGS المقترحة (كود CMYK رباعي مثل 40X0) + توثيق لكل رمز في Excel.
+
+الحقوق: مجاني للتحميل من موقع DGGS (حكومة ولاية ألاسكا).

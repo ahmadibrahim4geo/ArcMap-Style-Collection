@@ -1,0 +1,536 @@
+/* "fontindex" file for ARC/INFO Workstation v9.x
+/* Fonts referenced in this "fontindex" file are:
+/*  Standard ESRI ARC/INFO IGL fonts
+/*  Standard ESRI ARC/INFO Intellifont fonts
+/*  Standard ESRI ARC/INFO TrueType fonts
+/*  FGDCGeoAge 1.0  (Postscript & TrueType)
+/* ========================================================
+/*
+/*  Standard Arc/Info IGL fonts
+/*
+
+IGL 0 <null> 0
+IGL Default
+   NAME    = Default
+   FAMILY  = IGL
+   STYLE   = Default
+
+IGL 1 <null> 1
+IGL Headline
+   NAME    = Headline
+   FAMILY  = IGL
+   STYLE   = Headline
+
+IGL 2 <null> 2
+IGL 'Smooth Panel'
+   NAME    = Smooth Panel
+   FAMILY  = IGL
+   STYLE   = Smooth Panel
+
+IGL 3 <null> 3
+IGL 'Simplex Roman'
+   NAME    = Simplex Roman
+   FAMILY  = IGL
+   STYLE   = Simplex Roman
+
+IGL 4 <null> 4
+IGL 'Simplex Script'
+   NAME    = Simplex Script
+   FAMILY  = IGL
+   STYLE   = Simplex Script
+
+IGL 5 <null> 5
+IGL 'Complex Roman'
+   NAME    = Complex Roman
+   FAMILY  = IGL
+   STYLE   = Complex Roman
+
+IGL 6 <null> 6
+IGL 'Complex Italic'
+   NAME    = Complex Italic
+   FAMILY  = IGL
+   STYLE   = Complex Italic
+
+IGL 7 <null> 7
+IGL 'Complex Script'
+   NAME    = Complex Script
+   FAMILY  = IGL
+   STYLE   = Complex Script
+
+IGL 8 <null> 8
+IGL 'Duplex Roman'
+   NAME    = Duplex Roman
+   FAMILY  = IGL
+   STYLE   = Duplex Roman
+
+IGL 9 <null> 9
+IGL 'Triplex Roman'
+   NAME    = Triplex Roman
+   FAMILY  = IGL
+   STYLE   = Triplex Roman
+
+IGL 10 <null> 10
+IGL 'Triplex Italic'
+   NAME    = Triplex Italic
+   FAMILY  = IGL
+   STYLE   = Triplex Italic
+
+IGL 11 <null> 11
+IGL 'Gothic English'
+   NAME    = Gothic English
+   FAMILY  = IGL
+   STYLE   = Gothic English
+
+IGL 12 <null> 12
+IGL 'Cartographic Utility'
+   NAME    = Cartographic Utility
+   FAMILY  = IGL
+   STYLE   = Cartographic Utility
+
+IGL 13 <null> 13
+IGL 'Simplex Greek'
+   NAME    = Simplex Greek
+   FAMILY  = IGL
+   STYLE   = Simplex Greek
+
+IGL 14 <null> 14
+IGL 'Complex Greek'
+   NAME    = Complex Greek
+   FAMILY  = IGL
+   STYLE   = Complex Greek
+
+IGL 15 <null> 15
+IGL 'Special Miscellaneous'
+   NAME    = Special Miscellaneous
+   FAMILY  = IGL
+   STYLE   = Special Miscellaneous
+
+IGL 16 <null> 16
+IGL 'Special Cartographic'
+   NAME    = Special Cartographic
+   FAMILY  = IGL
+   STYLE   = Special Cartographic
+
+IGL 17 <null> 17
+IGL 'IGL Panel-sans'
+   NAME    = IGL Panel-sans
+   FAMILY  = IGL
+   STYLE   = Panel-sans
+
+IGL 18 <null> 18
+IGL 'IGL Panel-serif'
+   NAME    = IGL Panel-serif
+   FAMILY  = IGL
+   STYLE   = Panel-serif
+
+IGL 19 <null> 19
+IGL 'IGL Panel-slab'
+   NAME    = IGL Panel-slab
+   FAMILY  = IGL
+   STYLE   = Panel-slab
+
+/*
+/*  Standard Arc/Info Intellifont fonts
+/*
+
+INTELLIFONT 94021 $ARCHOME/fonts/univers 94021
+INTELLIFONT 'Univers Medium'
+INTELLIFONT Univers
+   NAME    = Univers Medium
+   FAMILY  = Univers Medium
+   STYLE   = Plain
+   PS-NAME = Univers
+
+INTELLIFONT 94022 $ARCHOME/fonts/univers 94022
+INTELLIFONT 'Univers Medium Italic'
+INTELLIFONT 'Univers Italic'
+INTELLIFONT UniversI
+INTELLIFONT Univers-Oblique
+  NAME    = Univers Medium Italic
+  FAMILY  = Univers Medium
+  STYLE   = Italic
+  PS-NAME = Univers-Oblique
+
+INTELLIFONT 94023 $ARCHOME/fonts/univers 94023
+INTELLIFONT 'Univers Bold'
+INTELLIFONT UniversB
+   NAME    = Univers Bold
+   FAMILY  = Univers Medium
+   STYLE   = Bold
+   PS-NAME = Univers-Bold
+
+INTELLIFONT 94024 $ARCHOME/fonts/univers 94024
+INTELLIFONT 'Univers Bold Italic'
+INTELLIFONT UniversBI
+INTELLIFONT Univers-BoldOblique
+   NAME    = Univers Bold Italic
+   FAMILY  = Univers Medium
+   STYLE   = Bold Italic
+   PS-NAME = Univers-BoldOblique
+
+INTELLIFONT 94027 $ARCHOME/fonts/univers 94027
+INTELLIFONT 'Univers Extrabold'
+INTELLIFONT UniversE
+INTELLIFONT Univers-Black
+   NAME    = Univers Extrabold
+   FAMILY  = Univers Extrabold
+   STYLE   = Plain
+   PS-NAME = Univers-Black
+
+INTELLIFONT 93709 $ARCHOME/fonts/cs_trium 93709
+INTELLIFONT Triumvirate
+INTELLIFONT Helvetica
+   NAME    = Triumvirate
+   FAMILY  = Triumvirate
+   STYLE   = Plain
+   PS-NAME = Helvetica
+
+INTELLIFONT 93710 $ARCHOME/fonts/cs_trium 93710
+INTELLIFONT 'Triumvirate Italic'
+INTELLIFONT TriumvirateI
+INTELLIFONT Helvetica-Oblique
+   NAME    = Triumvirate Italic
+   FAMILY  = Triumvirate
+   STYLE   = Italic
+   PS-NAME = Helvetica-Oblique
+
+INTELLIFONT 93711 $ARCHOME/fonts/cs_trium 93711
+INTELLIFONT 'Triumvirate Bold'
+INTELLIFONT TriumvirateB
+INTELLIFONT Helvetica-Bold
+   NAME    = Triumvirate Bold
+   FAMILY  = Triumvirate
+   STYLE   = Bold
+   PS-NAME = Helvetica-Bold
+
+INTELLIFONT 93712 $ARCHOME/fonts/cs_trium 93712
+INTELLIFONT 'Triumvirate Bold Italic'
+INTELLIFONT TriumvirateBI
+INTELLIFONT Helvetica-BoldOblique
+   NAME    = Triumvirate Bold Italic
+   FAMILY  = Triumvirate
+   STYLE   = Bold Italic
+   PS-NAME = Helvetica-BoldOblique
+
+INTELLIFONT 93726 $ARCHOME/fonts/cs_trium 93726
+INTELLIFONT 'Triumvirate Condensed'
+INTELLIFONT TriumvirateCond
+INTELLIFONT Helvetica-Condensed
+   NAME    = Triumvirate Condensed
+   FAMILY  = Triumvirate Condensed
+   STYLE   = Plain
+   PS-NAME = Helvetica-Condensed
+
+INTELLIFONT 93727 $ARCHOME/fonts/cs_trium 93727
+INTELLIFONT 'Triumvirate Condensed Italic'
+INTELLIFONT TriumvirateCondI
+INTELLIFONT Helvetica-Condensed-Oblique
+   NAME    = Triumvirate Condensed Italic
+   FAMILY  = Triumvirate Condensed
+   STYLE   = Italic
+   PS-NAME = Helvetica-Condensed-Oblique
+
+INTELLIFONT 93728 $ARCHOME/fonts/cs_trium 93728
+INTELLIFONT 'Triumvirate Bold Condensed'
+INTELLIFONT TriumvirateCondB
+INTELLIFONT Helvetica-Condensed-Bold
+   NAME    = Triumvirate Bold Condensed
+   FAMILY  = Triumvirate Condensed
+   STYLE   = Bold
+   PS-NAME = Helvetica-Condensed-Bold
+
+INTELLIFONT 93729 $ARCHOME/fonts/cs_trium 93729
+INTELLIFONT 'Triumvirate Bold Condensed Italic'
+INTELLIFONT TriumvirateCondBI
+INTELLIFONT Helvetica-Condensed-BoldObl
+   NAME    = Triumvirate Bold Condensed Italic
+   FAMILY  = Triumvirate Condensed
+   STYLE   = Bold Italic
+   PS-NAME = Helvetica-Condensed-BoldObl
+
+INTELLIFONT 93713 $ARCHOME/fonts/cs_times 93713
+INTELLIFONT Times
+INTELLIFONT Times-Roman
+   NAME    = Times
+   FAMILY  = Times
+   STYLE   = Plain
+   PS-NAME = Times-Roman
+
+INTELLIFONT 93714 $ARCHOME/fonts/cs_times 93714
+INTELLIFONT 'Times Italic'
+INTELLIFONT TimesI
+   NAME    = Times Italic
+   FAMILY  = Times
+   STYLE   = Italic
+   PS-NAME = Times-Italic
+
+INTELLIFONT 93715 $ARCHOME/fonts/cs_times 93715
+INTELLIFONT 'Times Bold'
+INTELLIFONT TimesB
+   NAME    = Times Bold
+   FAMILY  = Times
+   STYLE   = Bold
+   PS-NAME = Times-Bold
+
+INTELLIFONT 93716 $ARCHOME/fonts/cs_times 93716
+INTELLIFONT 'Times Bold Italic'
+INTELLIFONT TimesBI
+   NAME    = Times Bold Italic
+   FAMILY  = Times
+   STYLE   = Bold Italic
+   PS-NAME = Times-BoldItalic
+
+INTELLIFONT 92506 $ARCHOME/fonts/cg_omega 92506
+INTELLIFONT Omega
+INTELLIFONT Optima
+   NAME    = Omega
+   FAMILY  = Omega
+   STYLE   = Plain
+   PS-NAME = Optima
+
+INTELLIFONT 92507 $ARCHOME/fonts/cg_omega 92507
+INTELLIFONT 'Omega Italic'
+INTELLIFONT OmegaI
+INTELLIFONT Optima-Oblique
+   NAME    = Omega Italic
+   FAMILY  = Omega
+   STYLE   = Italic
+   PS-NAME = Optima-Oblique
+
+INTELLIFONT 92510 $ARCHOME/fonts/cg_omega 92510
+INTELLIFONT 'Omega Bold'
+INTELLIFONT OmegaB
+INTELLIFONT Optima-Bold
+   NAME    = Omega Bold
+   FAMILY  = Omega
+   STYLE   = Bold
+   PS-NAME = Optima-Bold
+
+INTELLIFONT 92511 $ARCHOME/fonts/cg_omega 92511
+INTELLIFONT 'Omega Bold Italic'
+INTELLIFONT OmegaBI
+INTELLIFONT Optima-BoldOblique
+   NAME    = Omega Bold Italic
+   FAMILY  = Omega
+   STYLE   = Bold Italic
+   PS-NAME = Optima-BoldOblique
+
+INTELLIFONT 92532 $ARCHOME/fonts/cg_palacio 92532
+INTELLIFONT Palacio
+INTELLIFONT Palatino-Roman
+   NAME    = Palacio
+   FAMILY  = Palacio
+   STYLE   = Plain
+   PS-NAME = Palatino-Roman
+
+INTELLIFONT 92533 $ARCHOME/fonts/cg_palacio 92533
+INTELLIFONT 'Palacio Italic'
+INTELLIFONT PalacioI
+INTELLIFONT Palatino-Italic
+   NAME    = Palacio Italic
+   FAMILY  = Palacio
+   STYLE   = Italic
+   PS-NAME = Palatino-Italic
+
+INTELLIFONT 92534 $ARCHOME/fonts/cg_palacio 92534
+INTELLIFONT 'Palacio Bold'
+INTELLIFONT PalacioB
+INTELLIFONT Palatino-Bold
+   NAME    = Palacio Bold
+   FAMILY  = Palacio
+   STYLE   = Bold
+   PS-NAME = Palatino-Bold
+
+INTELLIFONT 92535 $ARCHOME/fonts/cg_palacio 92535
+INTELLIFONT 'Palacio Bold Italic'
+INTELLIFONT PalacioBI
+INTELLIFONT Palatino-BoldItalic
+   NAME    = Palacio Bold Italic
+   FAMILY  = Palacio
+   STYLE   = Bold Italic
+   PS-NAME = Palatino-BoldItalic
+
+INTELLIFONT 93950 $ARCHOME/fonts/courier 93950
+INTELLIFONT Courier
+   NAME    = Courier
+   FAMILY  = Courier
+   STYLE   = Plain
+   PS-NAME = Courier
+
+INTELLIFONT 93951 $ARCHOME/fonts/courier 93951
+INTELLIFONT 'Courier Italic'
+INTELLIFONT CourierI
+INTELLIFONT Courier-Oblique
+   NAME    = Courier Italic
+   FAMILY  = Courier
+   STYLE   = Italic
+   PS-NAME = Courier-Oblique
+
+INTELLIFONT 93952 $ARCHOME/fonts/courier 93952
+INTELLIFONT 'Courier Bold'
+INTELLIFONT CourierB
+   NAME    = Courier Bold
+   FAMILY  = Courier
+   STYLE   = Bold
+   PS-NAME = Courier-Bold
+
+INTELLIFONT 93953 $ARCHOME/fonts/courier 93953
+INTELLIFONT 'Courier Bold Italic'
+INTELLIFONT CourierBI
+INTELLIFONT Courier-BoldOblique
+   NAME    = Courier Bold Italic
+   FAMILY  = Courier
+   STYLE   = Bold Italic
+   PS-NAME = Courier-BoldOblique
+
+INTELLIFONT 5717 $ARCHOME/fonts/plugin 5717
+INTELLIFONT 'Math Roman'
+ 
+
+INTELLIFONT 5718 $ARCHOME/fonts/plugin 5718
+INTELLIFONT 'Math Bold'
+ 
+
+INTELLIFONT 5719 $ARCHOME/fonts/plugin 5719
+INTELLIFONT 'IBM Pc Characters'
+
+
+INTELLIFONT 5720 $ARCHOME/fonts/plugin 5720
+INTELLIFONT 'Math Roman Serif'
+
+
+INTELLIFONT 5721 $ARCHOME/fonts/plugin 5721
+INTELLIFONT 'Math Bold Serif'
+
+
+INTELLIFONT 5723 $ARCHOME/fonts/plugin 5723
+INTELLIFONT 'Math Roman Sans Serif'
+
+
+INTELLIFONT 5724 $ARCHOME/fonts/plugin 5724
+INTELLIFONT 'Math Bold Sans Serif'
+
+
+INTELLIFONT 5500 $ARCHOME/fonts/screen 5500
+INTELLIFONT 'Generic Serif Screen font'
+
+
+INTELLIFONT 5501 $ARCHOME/fonts/screen 5501
+INTELLIFONT 'Generic Sans Serif Screen font'
+
+INTELLIFONT 92500 $ARCHOME/fonts/cg_times 92500
+INTELLIFONT 'CG Times'
+   NAME    = CG Times
+   FAMILY  = CG Times
+   STYLE   = Plain
+
+INTELLIFONT 92501 $ARCHOME/fonts/cg_times 92501
+INTELLIFONT 'CG Times Italic'
+   NAME    = CG Times Italic
+   FAMILY  = CG Times
+   STYLE   = Italic
+
+INTELLIFONT 92504 $ARCHOME/fonts/cg_times 92504
+INTELLIFONT 'CG Times Bold'
+   NAME    = CG Times Bold
+   FAMILY  = CG Times
+   STYLE   = Bold
+
+INTELLIFONT 92505 $ARCHOME/fonts/cg_times 92505
+INTELLIFONT 'CG Times Bold Italic'
+   NAME    = CG Times Bold Italic
+   FAMILY  = CG Times
+   STYLE   = Bold Italic
+
+/*
+/*  Standard Arc/Info TrueType fonts
+/*
+
+TRUETYPE 60001 $ARCHOME/fonts/esri_1.ttf 60001
+TRUETYPE esri_1
+TRUETYPE 'ESRI Cartography'
+TRUETYPE 'ESRI Carto'
+   NAME   = esri_1
+   FAMILY = ESRI Cartography
+   STYLE  = Normal
+
+TRUETYPE 60002 $ARCHOME/fonts/esri_2.ttf 60002
+TRUETYPE esri_2
+TRUETYPE 'ESRI Environmental & Icons'
+TRUETYPE 'ESRI Environ'
+   NAME   = esri_2
+   FAMILY = ESRI Environmental & Icons
+   STYLE  = Normal
+
+TRUETYPE 60003 $ARCHOME/fonts/esri_3.ttf 60003
+TRUETYPE esri_3
+TRUETYPE 'ESRI Geometric Symbols'
+TRUETYPE 'ESRI Geometry'
+   NAME   = esri_3
+   FAMILY = ESRI Geometric Symbols
+   STYLE  = Normal
+
+TRUETYPE 60004 $ARCHOME/fonts/esri_4.ttf 60004
+TRUETYPE esri_4
+TRUETYPE 'ESRI Oil, Gas & Water'
+TRUETYPE 'ESRI Utilities'
+   NAME   = esri_4
+   FAMILY = ESRI Oil, Gas & Water
+   STYLE  = Normal
+
+TRUETYPE 60005 $ARCHOME/fonts/esri_5.ttf 60005
+TRUETYPE esri_5
+TRUETYPE 'ESRI Weather'
+   NAME   = esri_5
+   FAMILY = ESRI Weather
+   STYLE  = Normal
+
+TRUETYPE 60006 $ARCHOME/fonts/esri_6.ttf 60006
+TRUETYPE esri_6
+TRUETYPE 'ESRI Transportation & Municipal'
+TRUETYPE 'ESRI Trans'
+TRUETYPE 'ESRI Municipal'
+   NAME   = esri_6
+   FAMILY = ESRI Transportation & Municipal
+   STYLE  = Normal
+
+TRUETYPE 60007 $ARCHOME/fonts/esri_7.ttf 60007
+TRUETYPE esri_7
+TRUETYPE 'ESRI Geology'
+   NAME   = esri_7
+   FAMILY = ESRI Geology
+   STYLE  = Normal
+
+TRUETYPE 60008 $ARCHOME/fonts/esri_8.ttf 60008
+TRUETYPE esri_8
+TRUETYPE 'ESRI Crime Analysis'
+TRUETYPE 'ESRI Crime'
+   NAME   = esri_8
+   FAMILY = ESRI Crime Analysis
+   STYLE  = Normal
+
+/* ---------------------------------------------------
+/* FGDCGeoAge fonts.  Replacement for Stratagem & GeoAge, WPG, USGS, 06.10.29
+/* FGDCGeoAge group 1.0  (Mod. 06.10.29, WPG, USGS)
+/* Sans serif fonts with geologic age char. in place of some standard char.
+/* This fontindex section references both Postscript & TrueType fonts
+/* Fonts to be stored in:  $ARCHOME/fonts/FGDCgeoage/
+
+POSTSCRIPT 4555570 $ARCHOME/fonts/fgdcgeoage/FGDCGA__.PFB 4555570
+POSTSCRIPT 'FGDC GeoAge'
+   NAME = FGDCGeoAge
+   FAMILY = FGDCGeoAge
+   STYLE = Normal
+   PS-NAME = FGDCGA__.PFB
+   METRICS = FGDCGA__.PFM
+
+TRUETYPE 1570 $ARCHOME/fonts/fgdcgeoage/FGDCGA__.TTF 1570
+TRUETYPE 'FGDCGeoAgeTT'
+   Name = FGDCGeoAgeTT
+   Name = FGDCGeoAge
+   FAMILY = FGDCGeoAge
+   STYLE = Normal
+   PS-NAME = FGDCGA__.PFB
+   METRICS = FGDCGA__.PFM
+/* ---------------------------------------------------
+

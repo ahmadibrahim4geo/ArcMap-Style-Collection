@@ -1,0 +1,23 @@
+﻿en,ar,type,R,G,B,width_size,category_en,category_ar
+10 Cropland rainfed,10 أراض زراعية مطرية,poly,255,255,100,,FAO LCCS,فاو LCCS
+20 Cropland irrigated,20 أراض زراعية مروية,poly,170,240,240,,FAO LCCS,فاو LCCS
+30 Mosaic cropland over 50,30 فسيفساء زراعية فوق 50%,poly,220,240,100,,FAO LCCS,فاو LCCS
+40 Mosaic natural over 50,40 فسيفساء طبيعية فوق 50%,poly,200,200,100,,FAO LCCS,فاو LCCS
+50 Tree broadleaved evergreen,50 غابة عريضة دائمة,poly,0,100,0,,FAO LCCS,فاو LCCS
+60 Tree broadleaved deciduous,60 غابة عريضة متساقطة,poly,0,160,0,,FAO LCCS,فاو LCCS
+70 Tree needleleaved evergreen,70 غابة إبرية دائمة,poly,0,60,0,,FAO LCCS,فاو LCCS
+80 Tree needleleaved deciduous,80 غابة إبرية متساقطة,poly,40,80,0,,FAO LCCS,فاو LCCS
+90 Tree mixed leaf,90 غابة مختلطة,poly,120,130,0,,FAO LCCS,فاو LCCS
+100 Mosaic tree shrub over 50,100 فسيفساء أشجار وشجيرات,poly,140,160,0,,FAO LCCS,فاو LCCS
+110 Mosaic herbaceous over 50,110 فسيفساء عشبية,poly,190,150,0,,FAO LCCS,فاو LCCS
+120 Shrubland,120 شجيرات,poly,150,100,0,,FAO LCCS,فاو LCCS
+130 Grassland,130 مراع طبيعية,poly,255,180,50,,FAO LCCS,فاو LCCS
+140 Lichens mosses,140 أشنات وطحالب,poly,255,220,210,,FAO LCCS,فاو LCCS
+150 Sparse vegetation,150 غطاء متفرق,poly,255,235,175,,FAO LCCS,فاو LCCS
+160 Tree flooded fresh,160 غابة مغمورة عذبة,poly,0,120,90,,FAO LCCS,فاو LCCS
+170 Tree flooded saline,170 غابة مغمورة ملحية,poly,0,150,120,,FAO LCCS,فاو LCCS
+180 Shrub herb flooded,180 شجيرات وأعشاب مغمورة,poly,0,220,130,,FAO LCCS,فاو LCCS
+190 Urban areas,190 مناطق حضرية,poly,195,20,0,,FAO LCCS,فاو LCCS
+200 Bare areas,200 أراض جرداء,poly,255,245,215,,FAO LCCS,فاو LCCS
+210 Water bodies,210 مسطحات مائية,poly,0,70,200,,FAO LCCS,فاو LCCS
+220 Snow ice,220 ثلج وجليد دائم,poly,255,255,255,,FAO LCCS,فاو LCCS

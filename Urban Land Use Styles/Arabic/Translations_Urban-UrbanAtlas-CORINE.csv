@@ -1,0 +1,29 @@
+﻿field,id,key,original,arabic,new_value,status
+NAME,1,Continuous urban fabric 11100,Continuous urban fabric 11100,نسيج حضري متصل,نسيج حضري متصل | Continuous urban fabric 11100,translated
+CATEGORY,1,Continuous urban fabric 11100,Urban fabric,نسيج حضري,نسيج حضري | Urban fabric,translated
+NAME,2,Discontinuous dense 11210,Discontinuous dense 11210,نسيج متقطع كثيف,نسيج متقطع كثيف | Discontinuous dense 11210,translated
+CATEGORY,2,Discontinuous dense 11210,Urban fabric,نسيج حضري,نسيج حضري | Urban fabric,translated
+NAME,3,Discontinuous medium 11220,Discontinuous medium 11220,نسيج متقطع متوسط,نسيج متقطع متوسط | Discontinuous medium 11220,translated
+CATEGORY,3,Discontinuous medium 11220,Urban fabric,نسيج حضري,نسيج حضري | Urban fabric,translated
+NAME,4,Discontinuous low 11230,Discontinuous low 11230,نسيج متقطع منخفض,نسيج متقطع منخفض | Discontinuous low 11230,translated
+CATEGORY,4,Discontinuous low 11230,Urban fabric,نسيج حضري,نسيج حضري | Urban fabric,translated
+NAME,5,Discontinuous very low 11240,Discontinuous very low 11240,نسيج متقطع منخفض جدا,نسيج متقطع منخفض جدا | Discontinuous very low 11240,translated
+CATEGORY,5,Discontinuous very low 11240,Urban fabric,نسيج حضري,نسيج حضري | Urban fabric,translated
+NAME,6,Isolated structures 11300,Isolated structures 11300,مبان منعزلة,مبان منعزلة | Isolated structures 11300,translated
+CATEGORY,6,Isolated structures 11300,Urban fabric,نسيج حضري,نسيج حضري | Urban fabric,translated
+NAME,7,Industrial commercial 12100,Industrial commercial 12100,صناعي وتجاري,صناعي وتجاري | Industrial commercial 12100,translated
+CATEGORY,7,Industrial commercial 12100,Economic,اقتصادي,اقتصادي | Economic,translated
+NAME,8,Roads urban 12210,Roads urban 12210,طرق حضرية,طرق حضرية | Roads urban 12210,translated
+CATEGORY,8,Roads urban 12210,Transport urban,نقل حضري,نقل حضري | Transport urban,translated
+NAME,9,Rail urban 12220,Rail urban 12220,سكك حضرية,سكك حضرية | Rail urban 12220,translated
+CATEGORY,9,Rail urban 12220,Transport urban,نقل حضري,نقل حضري | Transport urban,translated
+NAME,10,Ports 12300,Ports 12300,موانئ,موانئ | Ports 12300,translated
+CATEGORY,10,Ports 12300,Transport urban,نقل حضري,نقل حضري | Transport urban,translated
+NAME,11,Airports 12400,Airports 12400,مطارات,مطارات | Airports 12400,translated
+CATEGORY,11,Airports 12400,Transport urban,نقل حضري,نقل حضري | Transport urban,translated
+NAME,12,Construction sites 13300,Construction sites 13300,مواقع إنشاء,مواقع إنشاء | Construction sites 13300,translated
+CATEGORY,12,Construction sites 13300,Dynamic,متغيرة,متغيرة | Dynamic,translated
+NAME,13,Green urban areas 14100,Green urban areas 14100,مساحات خضراء حضرية,مساحات خضراء حضرية | Green urban areas 14100,translated
+CATEGORY,13,Green urban areas 14100,Green,أخضر,أخضر | Green,translated
+NAME,14,Sports leisure 14210,Sports leisure 14210,رياضة وترفيه,رياضة وترفيه | Sports leisure 14210,translated
+CATEGORY,14,Sports leisure 14210,Green,أخضر,أخضر | Green,translated

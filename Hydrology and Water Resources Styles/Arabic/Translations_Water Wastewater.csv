@@ -1,0 +1,455 @@
+﻿field,id,key,original,arabic,new_value,status
+Fill Symbols.Name,1,,WaterStructure - Default,منشأة المياه افتراضية,منشأة المياه افتراضية | WaterStructure - Default,translated
+Fill Symbols.Category,1,,WaterStructure,منشأة المياه,منشأة المياه | WaterStructure,translated
+Fill Symbols.Name,2,,DischargeStructure,تصريف بنية,تصريف بنية | DischargeStructure,translated
+Fill Symbols.Category,2,,WaterStructure,منشأة المياه,منشأة المياه | WaterStructure,translated
+Fill Symbols.Name,3,,LiftStation,محطة الرفع,محطة الرفع | LiftStation,translated
+Fill Symbols.Category,3,,WaterStructure,منشأة المياه,منشأة المياه | WaterStructure,translated
+Fill Symbols.Name,4,,TreatmentPlant,محطة المعالجة,محطة المعالجة | TreatmentPlant,translated
+Fill Symbols.Category,4,,WaterStructure,منشأة المياه,منشأة المياه | WaterStructure,translated
+Fill Symbols.Name,5,,TideChamber,غرفة,غرفة | TideChamber,translated
+Fill Symbols.Category,5,,WaterStructure,منشأة المياه,منشأة المياه | WaterStructure,translated
+Fill Symbols.Name,6,,StorageBasin,تخزين حوض,تخزين حوض | StorageBasin,translated
+Fill Symbols.Category,6,,WaterStructure,منشأة المياه,منشأة المياه | WaterStructure,translated
+Fill Symbols.Name,7,,SplitManhole,غرفة تفتيش,غرفة تفتيش | SplitManhole,translated
+Fill Symbols.Category,7,,WaterStructure,منشأة المياه,منشأة المياه | WaterStructure,translated
+Fill Symbols.Name,8,,PumpStation,محطة الضخ,محطة الضخ | PumpStation,translated
+Fill Symbols.Category,8,,WaterStructure,منشأة المياه,منشأة المياه | WaterStructure,translated
+Fill Symbols.Name,9,,ProductionWell,إنتاج بئر,إنتاج بئر | ProductionWell,translated
+Fill Symbols.Category,9,,WaterStructure,منشأة المياه,منشأة المياه | WaterStructure,translated
+Fill Symbols.Name,10,,JunctionChamber,عقدة غرفة,عقدة غرفة | JunctionChamber,translated
+Fill Symbols.Category,10,,WaterStructure,منشأة المياه,منشأة المياه | WaterStructure,translated
+Fill Symbols.Name,11,,DiversionPoint,تحويلة نقطة,تحويلة نقطة | DiversionPoint,translated
+Fill Symbols.Category,11,,WaterStructure,منشأة المياه,منشأة المياه | WaterStructure,translated
+Fill Symbols.Name,12,,DiversionChamber,تحويلة غرفة,تحويلة غرفة | DiversionChamber,translated
+Fill Symbols.Category,12,,WaterStructure,منشأة المياه,منشأة المياه | WaterStructure,translated
+Fill Symbols.Name,13,,UndergroundEnclosure - Default,تحت أرضية حاوية افتراضية,تحت أرضية حاوية افتراضية | UndergroundEnclosure - Default,translated
+Fill Symbols.Category,13,,UndergroundEnclosure,تحت أرضية حاوية,تحت أرضية حاوية | UndergroundEnclosure,translated
+Fill Symbols.Name,14,,MeterBox,عداد صندوق,عداد صندوق | MeterBox,translated
+Fill Symbols.Category,14,,UndergroundEnclosure,تحت أرضية حاوية,تحت أرضية حاوية | UndergroundEnclosure,translated
+Fill Symbols.Name,15,,ValveVault,صمام حجرة,صمام حجرة | ValveVault,translated
+Fill Symbols.Category,15,,UndergroundEnclosure,تحت أرضية حاوية,تحت أرضية حاوية | UndergroundEnclosure,translated
+Fill Symbols.Name,16,,Vault,حجرة,حجرة | Vault,translated
+Fill Symbols.Category,16,,UndergroundEnclosure,تحت أرضية حاوية,تحت أرضية حاوية | UndergroundEnclosure,translated
+Fill Symbols.Name,17,,ThrustProtection - Default,تقييد الدفع افتراضية,تقييد الدفع افتراضية | ThrustProtection - Default,translated
+Fill Symbols.Category,17,,ThrustProtection,تقييد الدفع,تقييد الدفع | ThrustProtection,translated
+Fill Symbols.Name,18,,Anchor,مثبت,مثبت | Anchor,translated
+Fill Symbols.Category,18,,ThrustProtection,تقييد الدفع,تقييد الدفع | ThrustProtection,translated
+Fill Symbols.Name,19,,Blocking,,Blocking,kept
+Fill Symbols.Category,19,,ThrustProtection,تقييد الدفع,تقييد الدفع | ThrustProtection,translated
+Fill Symbols.Name,20,,Deadman,,Deadman,kept
+Fill Symbols.Category,20,,ThrustProtection,تقييد الدفع,تقييد الدفع | ThrustProtection,translated
+Fill Symbols.Name,21,,Kicker,,Kicker,kept
+Fill Symbols.Category,21,,ThrustProtection,تقييد الدفع,تقييد الدفع | ThrustProtection,translated
+Fill Symbols.Name,22,,Casing - Default,غلاف افتراضية,غلاف افتراضية | Casing - Default,translated
+Fill Symbols.Category,22,,Casing,غلاف,غلاف | Casing,translated
+Fill Symbols.Name,23,,Casement,,Casement,kept
+Fill Symbols.Category,23,,Casing,غلاف,غلاف | Casing,translated
+Fill Symbols.Name,24,,ConduitBridge,ماسورة جسر,ماسورة جسر | ConduitBridge,translated
+Fill Symbols.Category,24,,Casing,غلاف,غلاف | Casing,translated
+Fill Symbols.Name,25,,ProtectiveTunnel,نفق,نفق | ProtectiveTunnel,translated
+Fill Symbols.Category,25,,Casing,غلاف,غلاف | Casing,translated
+Fill Symbols.Name,26,,AccessTunnel,وصول نفق,وصول نفق | AccessTunnel,translated
+Fill Symbols.Category,26,,Casing,غلاف,غلاف | Casing,translated
+Fill Symbols.Name,27,,EnclosedStorageFacility,تخزين منشأة,تخزين منشأة | EnclosedStorageFacility,translated
+Fill Symbols.Category,27,,WaterStructure,منشأة المياه,منشأة المياه | WaterStructure,translated
+Line Symbols.Name,1,,PressurizedMain - Default,رئيسية افتراضية,رئيسية افتراضية | PressurizedMain - Default,translated
+Line Symbols.Category,1,,PressurizedMain,رئيسية,رئيسية | PressurizedMain,translated
+Line Symbols.Name,2,,Vacuum,,Vacuum,kept
+Line Symbols.Category,2,,PressurizedMain,رئيسية,رئيسية | PressurizedMain,translated
+Line Symbols.Name,3,,PipeBridge,أنبوب جسر,أنبوب جسر | PipeBridge,translated
+Line Symbols.Category,3,,PressurizedMain,رئيسية,رئيسية | PressurizedMain,translated
+Line Symbols.Name,4,,Pressure,ضغط,ضغط | Pressure,translated
+Line Symbols.Category,4,,PressurizedMain,رئيسية,رئيسية | PressurizedMain,translated
+Line Symbols.Name,5,,Force,قوة,قوة | Force,translated
+Line Symbols.Category,5,,PressurizedMain,رئيسية,رئيسية | PressurizedMain,translated
+Line Symbols.Name,6,,LateralLine - Default,خط فرعي افتراضية,خط فرعي افتراضية | LateralLine - Default,translated
+Line Symbols.Category,6,,LateralLine,خط فرعي,خط فرعي | LateralLine,translated
+Line Symbols.Name,7,,Domestic,,Domestic,kept
+Line Symbols.Category,7,,LateralLine,خط فرعي,خط فرعي | LateralLine,translated
+Line Symbols.Name,8,,Fire,حريق,حريق | Fire,translated
+Line Symbols.Category,8,,LateralLine,خط فرعي,خط فرعي | LateralLine,translated
+Line Symbols.Name,9,,Combination,تركيبة,تركيبة | Combination,translated
+Line Symbols.Category,9,,LateralLine,خط فرعي,خط فرعي | LateralLine,translated
+Line Symbols.Name,10,,Commercial,تجارية,تجارية | Commercial,translated
+Line Symbols.Category,10,,LateralLine,خط فرعي,خط فرعي | LateralLine,translated
+Line Symbols.Name,11,,Irrigation,ري,ري | Irrigation,translated
+Line Symbols.Category,11,,LateralLine,خط فرعي,خط فرعي | LateralLine,translated
+Line Symbols.Name,12,,Industrial,صناعية,صناعية | Industrial,translated
+Line Symbols.Category,12,,LateralLine,خط فرعي,خط فرعي | LateralLine,translated
+Line Symbols.Name,13,,GravityMain - Default,خط الانحدار الرئيسي افتراضية,خط الانحدار الرئيسي افتراضية | GravityMain - Default,translated
+Line Symbols.Category,13,,GravityMain,خط الانحدار الرئيسي,خط الانحدار الرئيسي | GravityMain,translated
+Line Symbols.Name,14,,Collector,مجمع,مجمع | Collector,translated
+Line Symbols.Category,14,,GravityMain,خط الانحدار الرئيسي,خط الانحدار الرئيسي | GravityMain,translated
+Line Symbols.Name,15,,Culvert,عبارة,عبارة | Culvert,translated
+Line Symbols.Category,15,,GravityMain,خط الانحدار الرئيسي,خط الانحدار الرئيسي | GravityMain,translated
+Line Symbols.Name,16,,InlineStorage,تخزين,تخزين | InlineStorage,translated
+Line Symbols.Category,16,,GravityMain,خط الانحدار الرئيسي,خط الانحدار الرئيسي | GravityMain,translated
+Line Symbols.Name,17,,InvertedSiphon,معكوسة سيفون,معكوسة سيفون | InvertedSiphon,translated
+Line Symbols.Category,17,,GravityMain,خط الانحدار الرئيسي,خط الانحدار الرئيسي | GravityMain,translated
+Line Symbols.Name,18,,OpenChannel,مفتوحة قناة ملاحية,مفتوحة قناة ملاحية | OpenChannel,translated
+Line Symbols.Category,18,,GravityMain,خط الانحدار الرئيسي,خط الانحدار الرئيسي | GravityMain,translated
+Line Symbols.Name,19,,Outfall,مصب خارج,مصب خارج | Outfall,translated
+Line Symbols.Category,19,,GravityMain,خط الانحدار الرئيسي,خط الانحدار الرئيسي | GravityMain,translated
+Line Symbols.Name,20,,Overflow,تدفق زائد,تدفق زائد | Overflow,translated
+Line Symbols.Category,20,,GravityMain,خط الانحدار الرئيسي,خط الانحدار الرئيسي | GravityMain,translated
+Line Symbols.Name,21,,Tunnel,نفق,نفق | Tunnel,translated
+Line Symbols.Category,21,,GravityMain,خط الانحدار الرئيسي,خط الانحدار الرئيسي | GravityMain,translated
+Line Symbols.Name,22,,Interceptor,خط اعتراضي,خط اعتراضي | Interceptor,translated
+Line Symbols.Category,22,,GravityMain,خط الانحدار الرئيسي,خط الانحدار الرئيسي | GravityMain,translated
+Line Symbols.Name,23,,BlowOff,تنفيس,تنفيس | BlowOff,translated
+Line Symbols.Category,23,,PressurizedMain,رئيسية,رئيسية | PressurizedMain,translated
+Line Symbols.Name,24,,Bypass,ممر تحويلي,ممر تحويلي | Bypass,translated
+Line Symbols.Category,24,,PressurizedMain,رئيسية,رئيسية | PressurizedMain,translated
+Line Symbols.Name,25,,AirRelease,هواء تحرير,هواء تحرير | AirRelease,translated
+Line Symbols.Category,25,,PressurizedMain,رئيسية,رئيسية | PressurizedMain,translated
+Line Symbols.Name,26,,ChemicalInjection,كيميائية حقن,كيميائية حقن | ChemicalInjection,translated
+Line Symbols.Category,26,,PressurizedMain,رئيسية,رئيسية | PressurizedMain,translated
+Line Symbols.Name,27,,DistributionMain,خط التوزيع الرئيسي,خط التوزيع الرئيسي | DistributionMain,translated
+Line Symbols.Category,27,,PressurizedMain,رئيسية,رئيسية | PressurizedMain,translated
+Line Symbols.Name,28,,Interconnect,ربط بيني,ربط بيني | Interconnect,translated
+Line Symbols.Category,28,,PressurizedMain,رئيسية,رئيسية | PressurizedMain,translated
+Line Symbols.Name,29,,SamplingStation,أخذ العينات محطة,أخذ العينات محطة | SamplingStation,translated
+Line Symbols.Category,29,,PressurizedMain,رئيسية,رئيسية | PressurizedMain,translated
+Line Symbols.Name,30,,TransmissionMain,خط النقل الرئيسي,خط النقل الرئيسي | TransmissionMain,translated
+Line Symbols.Category,30,,PressurizedMain,رئيسية,رئيسية | PressurizedMain,translated
+Line Symbols.Name,31,,HydrantLaterals,حنفية,حنفية | HydrantLaterals,translated
+Line Symbols.Category,31,,LateralLine,خط فرعي,خط فرعي | LateralLine,translated
+Line Symbols.Name,32,,TransportPipe,أنبوب,أنبوب | TransportPipe,translated
+Line Symbols.Category,32,,GravityMain,خط الانحدار الرئيسي,خط الانحدار الرئيسي | GravityMain,translated
+Line Symbols.Name,33,,Carrier,حاملة,حاملة | Carrier,translated
+Line Symbols.Category,33,,GravityMain,خط الانحدار الرئيسي,خط الانحدار الرئيسي | GravityMain,translated
+Marker Symbols.Name,1,,SystemValve - Default,صمام المنظومة افتراضية,صمام المنظومة افتراضية | SystemValve - Default,translated
+Marker Symbols.Category,1,,SystemValve,صمام المنظومة,صمام المنظومة | SystemValve,translated
+Marker Symbols.Name,2,,Plug,سدادة,سدادة | Plug,translated
+Marker Symbols.Category,2,,SystemValve,صمام المنظومة,صمام المنظومة | SystemValve,translated
+Marker Symbols.Name,3,,Gate,بوابة,بوابة | Gate,translated
+Marker Symbols.Category,3,,SystemValve,صمام المنظومة,صمام المنظومة | SystemValve,translated
+Marker Symbols.Name,4,,Cone,,Cone,kept
+Marker Symbols.Category,4,,SystemValve,صمام المنظومة,صمام المنظومة | SystemValve,translated
+Marker Symbols.Name,5,,Butterfly,,Butterfly,kept
+Marker Symbols.Category,5,,SystemValve,صمام المنظومة,صمام المنظومة | SystemValve,translated
+Marker Symbols.Name,7,,OperationsRecord - Default,سجل افتراضية,سجل افتراضية | OperationsRecord - Default,translated
+Marker Symbols.Category,7,,OperationsRecord,سجل,سجل | OperationsRecord,translated
+Marker Symbols.Name,8,,Leak,,Leak,kept
+Marker Symbols.Category,8,,OperationsRecord,سجل,سجل | OperationsRecord,translated
+Marker Symbols.Name,9,,Maintenance,صيانة,صيانة | Maintenance,translated
+Marker Symbols.Category,9,,OperationsRecord,سجل,سجل | OperationsRecord,translated
+Marker Symbols.Name,10,,Repair,,Repair,kept
+Marker Symbols.Category,10,,OperationsRecord,سجل,سجل | OperationsRecord,translated
+Marker Symbols.Name,11,,Inspection,,Inspection,kept
+Marker Symbols.Category,11,,OperationsRecord,سجل,سجل | OperationsRecord,translated
+Marker Symbols.Name,12,,Sewer Junctions,مجاري,مجاري | Sewer Junctions,translated
+Marker Symbols.Category,12,,Junction,عقدة,عقدة | Junction,translated
+Marker Symbols.Name,13,,ScadaSensor,سكادا حساس,سكادا حساس | ScadaSensor,translated
+Marker Symbols.Category,13,,General,عامة,عامة | General,translated
+Marker Symbols.Name,14,,Pump - Default,مضخة افتراضية,مضخة افتراضية | Pump - Default,translated
+Marker Symbols.Category,14,,Pump,مضخة,مضخة | Pump,translated
+Marker Symbols.Name,15,,AxialFlow,محورية تدفق,محورية تدفق | AxialFlow,translated
+Marker Symbols.Category,15,,Pump,مضخة,مضخة | Pump,translated
+Marker Symbols.Name,16,,Centrifugal,,Centrifugal,kept
+Marker Symbols.Category,16,,Pump,مضخة,مضخة | Pump,translated
+Marker Symbols.Name,17,,Jet,,Jet,kept
+Marker Symbols.Category,17,,Pump,مضخة,مضخة | Pump,translated
+Marker Symbols.Name,18,,Reciprocating,,Reciprocating,kept
+Marker Symbols.Category,18,,Pump,مضخة,مضخة | Pump,translated
+Marker Symbols.Name,19,,Rotary,,Rotary,kept
+Marker Symbols.Category,19,,Pump,مضخة,مضخة | Pump,translated
+Marker Symbols.Name,20,,Screw,,Screw,kept
+Marker Symbols.Category,20,,Pump,مضخة,مضخة | Pump,translated
+Marker Symbols.Name,21,,Turbine,,Turbine,kept
+Marker Symbols.Category,21,,Pump,مضخة,مضخة | Pump,translated
+Marker Symbols.Name,22,,NetworkStructure - Default,بنية الشبكة افتراضية,بنية الشبكة افتراضية | NetworkStructure - Default,translated
+Marker Symbols.Category,22,,NetworkStructure,بنية الشبكة,بنية الشبكة | NetworkStructure,translated
+Marker Symbols.Name,23,,DischargeStructure,تصريف بنية,تصريف بنية | DischargeStructure,translated
+Marker Symbols.Category,23,,NetworkStructure,بنية الشبكة,بنية الشبكة | NetworkStructure,translated
+Marker Symbols.Name,24,,LiftStation,محطة الرفع,محطة الرفع | LiftStation,translated
+Marker Symbols.Category,24,,NetworkStructure,بنية الشبكة,بنية الشبكة | NetworkStructure,translated
+Marker Symbols.Name,25,,TreatmentPlant,محطة المعالجة,محطة المعالجة | TreatmentPlant,translated
+Marker Symbols.Category,25,,NetworkStructure,بنية الشبكة,بنية الشبكة | NetworkStructure,translated
+Marker Symbols.Name,26,,TideChamber,غرفة,غرفة | TideChamber,translated
+Marker Symbols.Category,26,,NetworkStructure,بنية الشبكة,بنية الشبكة | NetworkStructure,translated
+Marker Symbols.Name,27,,StorageBasin,تخزين حوض,تخزين حوض | StorageBasin,translated
+Marker Symbols.Category,27,,NetworkStructure,بنية الشبكة,بنية الشبكة | NetworkStructure,translated
+Marker Symbols.Name,28,,SplitManhole,غرفة تفتيش,غرفة تفتيش | SplitManhole,translated
+Marker Symbols.Category,28,,NetworkStructure,بنية الشبكة,بنية الشبكة | NetworkStructure,translated
+Marker Symbols.Name,29,,PumpStation,محطة الضخ,محطة الضخ | PumpStation,translated
+Marker Symbols.Category,29,,NetworkStructure,بنية الشبكة,بنية الشبكة | NetworkStructure,translated
+Marker Symbols.Name,30,,ProductionWell,إنتاج بئر,إنتاج بئر | ProductionWell,translated
+Marker Symbols.Category,30,,NetworkStructure,بنية الشبكة,بنية الشبكة | NetworkStructure,translated
+Marker Symbols.Name,31,,JunctionChamber,عقدة غرفة,عقدة غرفة | JunctionChamber,translated
+Marker Symbols.Category,31,,NetworkStructure,بنية الشبكة,بنية الشبكة | NetworkStructure,translated
+Marker Symbols.Name,32,,DiversionPoint,تحويلة نقطة,تحويلة نقطة | DiversionPoint,translated
+Marker Symbols.Category,32,,General,عامة,عامة | General,translated
+Marker Symbols.Name,33,,DiversionChamber,تحويلة غرفة,تحويلة غرفة | DiversionChamber,translated
+Marker Symbols.Category,33,,NetworkStructure,بنية الشبكة,بنية الشبكة | NetworkStructure,translated
+Marker Symbols.Name,34,,Meter - Default,عداد افتراضية,عداد افتراضية | Meter - Default,translated
+Marker Symbols.Category,34,,Meter,عداد,عداد | Meter,translated
+Marker Symbols.Name,35,,FlowTube,تدفق أنبوب,تدفق أنبوب | FlowTube,translated
+Marker Symbols.Category,35,,Meter,عداد,عداد | Meter,translated
+Marker Symbols.Name,36,,Flume,مجرى,مجرى | Flume,translated
+Marker Symbols.Category,36,,Meter,عداد,عداد | Meter,translated
+Marker Symbols.Name,37,,Magnetic,,Magnetic,kept
+Marker Symbols.Category,37,,Meter,عداد,عداد | Meter,translated
+Marker Symbols.Name,38,,ModifiedVenturi,,ModifiedVenturi,kept
+Marker Symbols.Category,38,,Meter,عداد,عداد | Meter,translated
+Marker Symbols.Name,39,,Multijet,,Multijet,kept
+Marker Symbols.Category,39,,Meter,عداد,عداد | Meter,translated
+Marker Symbols.Name,40,,OrificePlate,فتحة,فتحة | OrificePlate,translated
+Marker Symbols.Category,40,,Meter,عداد,عداد | Meter,translated
+Marker Symbols.Name,41,,Propeller,,Propeller,kept
+Marker Symbols.Category,41,,Meter,عداد,عداد | Meter,translated
+Marker Symbols.Name,42,,Proportional,,Proportional,kept
+Marker Symbols.Category,42,,Meter,عداد,عداد | Meter,translated
+Marker Symbols.Name,43,,Sonic,,Sonic,kept
+Marker Symbols.Category,43,,Meter,عداد,عداد | Meter,translated
+Marker Symbols.Name,44,,MeterTurbine,عداد,عداد | MeterTurbine,translated
+Marker Symbols.Category,44,,Meter,عداد,عداد | Meter,translated
+Marker Symbols.Name,45,,Venturi,,Venturi,kept
+Marker Symbols.Category,45,,Meter,عداد,عداد | Meter,translated
+Marker Symbols.Name,46,,Weir,هدار,هدار | Weir,translated
+Marker Symbols.Category,46,,Meter,عداد,عداد | Meter,translated
+Marker Symbols.Name,47,,Manhole,غرفة تفتيش,غرفة تفتيش | Manhole,translated
+Marker Symbols.Category,47,,General,عامة,عامة | General,translated
+Marker Symbols.Name,48,,LateralPoint,فرعية نقطة,فرعية نقطة | LateralPoint,translated
+Marker Symbols.Category,48,,General,عامة,عامة | General,translated
+Marker Symbols.Name,49,,Fitting - Default,قطعة ربط افتراضية,قطعة ربط افتراضية | Fitting - Default,translated
+Marker Symbols.Category,49,,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+Marker Symbols.Name,50,,Wye,وصلة Y,وصلة Y | Wye,translated
+Marker Symbols.Category,50,,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+Marker Symbols.Name,51,,Weld,,Weld,kept
+Marker Symbols.Category,51,,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+Marker Symbols.Name,52,,Tee,وصلة ثلاثية,وصلة ثلاثية | Tee,translated
+Marker Symbols.Category,52,,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+Marker Symbols.Name,53,,Tap,وصلة ربط,وصلة ربط | Tap,translated
+Marker Symbols.Category,53,,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+Marker Symbols.Name,54,,Sleeve,جلبة,جلبة | Sleeve,translated
+Marker Symbols.Category,54,,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+Marker Symbols.Name,55,,Saddle,سرج,سرج | Saddle,translated
+Marker Symbols.Category,55,,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+Marker Symbols.Name,56,,Riser,قائم,قائم | Riser,translated
+Marker Symbols.Category,56,,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+Marker Symbols.Name,57,,Reducer,مخفض,مخفض | Reducer,translated
+Marker Symbols.Category,57,,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+Marker Symbols.Name,58,,Offset,,Offset,kept
+Marker Symbols.Category,58,,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+Marker Symbols.Name,59,,ExpansionJoint,فاصل,فاصل | ExpansionJoint,translated
+Marker Symbols.Category,59,,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+Marker Symbols.Name,60,,Coupling,وصلة ربط,وصلة ربط | Coupling,translated
+Marker Symbols.Category,60,,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+Marker Symbols.Name,61,,Cross,تقاطع,تقاطع | Cross,translated
+Marker Symbols.Category,61,,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+Marker Symbols.Name,62,,Cap,سدادة,سدادة | Cap,translated
+Marker Symbols.Category,62,,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+Marker Symbols.Name,63,,Bend,منعطف,منعطف | Bend,translated
+Marker Symbols.Category,63,,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+Marker Symbols.Name,64,,DischargePoint,تصريف نقطة,تصريف نقطة | DischargePoint,translated
+Marker Symbols.Category,64,,General,عامة,عامة | General,translated
+Marker Symbols.Name,65,,ControlValve - Default,صمام التحكم افتراضية,صمام التحكم افتراضية | ControlValve - Default,translated
+Marker Symbols.Category,65,,ControlValve,صمام التحكم,صمام التحكم | ControlValve,translated
+Marker Symbols.Name,66,,AirGap,هواء,هواء | AirGap,translated
+Marker Symbols.Category,66,,ControlValve,صمام التحكم,صمام التحكم | ControlValve,translated
+Marker Symbols.Name,67,,AirRelease,هواء تحرير,هواء تحرير | AirRelease,translated
+Marker Symbols.Category,67,,ControlValve,صمام التحكم,صمام التحكم | ControlValve,translated
+Marker Symbols.Name,68,,AtmosphericVacuum,,AtmosphericVacuum,kept
+Marker Symbols.Category,68,,ControlValve,صمام التحكم,صمام التحكم | ControlValve,translated
+Marker Symbols.Name,69,,Combination,تركيبة,تركيبة | Combination,translated
+Marker Symbols.Category,69,,ControlValve,صمام التحكم,صمام التحكم | ControlValve,translated
+Marker Symbols.Name,70,,DoubleCheck,مزدوجة حاجز,مزدوجة حاجز | DoubleCheck,translated
+Marker Symbols.Category,70,,ControlValve,صمام التحكم,صمام التحكم | ControlValve,translated
+Marker Symbols.Name,71,,PressureVacuum,ضغط,ضغط | PressureVacuum,translated
+Marker Symbols.Category,71,,ControlValve,صمام التحكم,صمام التحكم | ControlValve,translated
+Marker Symbols.Name,72,,ReducedPressureBackflow,ضغط التدفق العكسي,ضغط التدفق العكسي | ReducedPressureBackflow,translated
+Marker Symbols.Category,72,,ControlValve,صمام التحكم,صمام التحكم | ControlValve,translated
+Marker Symbols.Name,73,,RPZ,,RPZ,kept
+Marker Symbols.Category,73,,ControlValve,صمام التحكم,صمام التحكم | ControlValve,translated
+Marker Symbols.Name,74,,SimpleCheck,بسيطة حاجز,بسيطة حاجز | SimpleCheck,translated
+Marker Symbols.Category,74,,ControlValve,صمام التحكم,صمام التحكم | ControlValve,translated
+Marker Symbols.Name,75,,Vacuum,,Vacuum,kept
+Marker Symbols.Category,75,,ControlValve,صمام التحكم,صمام التحكم | ControlValve,translated
+Marker Symbols.Name,76,,VacuumBreaker,قاطع,قاطع | VacuumBreaker,translated
+Marker Symbols.Category,76,,ControlValve,صمام التحكم,صمام التحكم | ControlValve,translated
+Marker Symbols.Name,77,,VacuumRelease,تحرير,تحرير | VacuumRelease,translated
+Marker Symbols.Category,77,,ControlValve,صمام التحكم,صمام التحكم | ControlValve,translated
+Marker Symbols.Name,78,,Cleanout - Default,فتحة تنظيف افتراضية,فتحة تنظيف افتراضية | Cleanout - Default,translated
+Marker Symbols.Category,78,,Cleanout,فتحة تنظيف,فتحة تنظيف | Cleanout,translated
+Marker Symbols.Name,79,,Cleanout,فتحة تنظيف,فتحة تنظيف | Cleanout,translated
+Marker Symbols.Category,79,,Cleanout,فتحة تنظيف,فتحة تنظيف | Cleanout,translated
+Marker Symbols.Name,80,,FlushingStructure,شطف بنية,شطف بنية | FlushingStructure,translated
+Marker Symbols.Category,80,,Cleanout,فتحة تنظيف,فتحة تنظيف | Cleanout,translated
+Marker Symbols.Name,81,,LampHole,فتحة إضاءة,فتحة إضاءة | LampHole,translated
+Marker Symbols.Category,81,,Cleanout,فتحة تنظيف,فتحة تنظيف | Cleanout,translated
+Marker Symbols.Name,82,,CatchBasin,بالوعة,بالوعة | CatchBasin,translated
+Marker Symbols.Category,82,,General,عامة,عامة | General,translated
+Marker Symbols.Name,83,,Anode,أنود,أنود | Anode,translated
+Marker Symbols.Category,83,,General,عامة,عامة | General,translated
+Marker Symbols.Name,84,,Water Junctions,مياه,مياه | Water Junctions,translated
+Marker Symbols.Category,84,,Junction,عقدة,عقدة | Junction,translated
+Marker Symbols.Name,85,,Ball,,Ball,kept
+Marker Symbols.Category,85,,SystemValve,صمام المنظومة,صمام المنظومة | SystemValve,translated
+Marker Symbols.Name,86,,EnclosedStorageFacility,تخزين منشأة,تخزين منشأة | EnclosedStorageFacility,translated
+Marker Symbols.Category,86,,NetworkStructure,بنية الشبكة,بنية الشبكة | NetworkStructure,translated
+Marker Symbols.Name,87,,PositiveDisplacement,,PositiveDisplacement,kept
+Marker Symbols.Category,87,,Meter,عداد,عداد | Meter,translated
+Marker Symbols.Name,88,,Pito,,Pito,kept
+Marker Symbols.Category,88,,Meter,عداد,عداد | Meter,translated
+Marker Symbols.Name,89,,MagneticOrifice,فتحة,فتحة | MagneticOrifice,translated
+Marker Symbols.Category,89,,Meter,عداد,عداد | Meter,translated
+Marker Symbols.Name,90,,DetectorCheck,حاجز,حاجز | DetectorCheck,translated
+Marker Symbols.Category,90,,Meter,عداد,عداد | Meter,translated
+Marker Symbols.Name,91,,Current,حالية,حالية | Current,translated
+Marker Symbols.Category,91,,Meter,عداد,عداد | Meter,translated
+Marker Symbols.Name,92,,Compound,,Compound,kept
+Marker Symbols.Category,92,,Meter,عداد,عداد | Meter,translated
+Marker Symbols.Name,93,,AirControl,هواء تحكم,هواء تحكم | AirControl,translated
+Marker Symbols.Category,93,,ControlValve,صمام التحكم,صمام التحكم | ControlValve,translated
+Marker Symbols.Name,94,,Altitude,,Altitude,kept
+Marker Symbols.Category,94,,ControlValve,صمام التحكم,صمام التحكم | ControlValve,translated
+Marker Symbols.Name,95,,BackflowControl,التدفق العكسي تحكم,التدفق العكسي تحكم | BackflowControl,translated
+Marker Symbols.Category,95,,ControlValve,صمام التحكم,صمام التحكم | ControlValve,translated
+Marker Symbols.Name,96,,SamplingStation,أخذ العينات محطة,أخذ العينات محطة | SamplingStation,translated
+Marker Symbols.Category,96,,General,عامة,عامة | General,translated
+Marker Symbols.Name,97,,Hydrant,حنفية,حنفية | Hydrant,translated
+Marker Symbols.Category,97,,General,عامة,عامة | General,translated
+Marker Symbols.Name,98,,ClearWell,بئر,بئر | ClearWell,translated
+Marker Symbols.Category,98,,General,عامة,عامة | General,translated
+Colors.Name,1,,255 255 255,,255 255 255,kept
+Colors.Category,1,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,2,,0 0 0,,0 0 0,kept
+Colors.Category,2,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,3,,168 0 0,,168 0 0,kept
+Colors.Category,3,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,4,,0 77 168,,0 77 168,kept
+Colors.Category,4,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,5,,255 255 0,,255 255 0,kept
+Colors.Category,5,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,6,,0 197 255,,0 197 255,kept
+Colors.Category,6,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,7,,255 170 0,,255 170 0,kept
+Colors.Category,7,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,8,,255 0 0,,255 0 0,kept
+Colors.Category,8,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,9,,85 255 0,,85 255 0,kept
+Colors.Category,9,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,10,,230 0 169,,230 0 169,kept
+Colors.Category,10,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,11,,169 0 230,,169 0 230,kept
+Colors.Category,11,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,12,,211 255 190,,211 255 190,kept
+Colors.Category,12,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,13,,0 0 255,,0 0 255,kept
+Colors.Category,13,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,14,,224 170 15,,224 170 15,kept
+Colors.Category,14,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,15,,171 205 102,,171 205 102,kept
+Colors.Category,15,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,16,,122 142 245,,122 142 245,kept
+Colors.Category,16,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,17,,0 255 197,,0 255 197,kept
+Colors.Category,17,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,18,,0 56 147,,0 56 147,kept
+Colors.Category,18,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,19,,170 255 0,,170 255 0,kept
+Colors.Category,19,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,20,,0 115 76,,0 115 76,kept
+Colors.Category,20,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,21,,104 104 104,,104 104 104,kept
+Colors.Category,21,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,22,,76 115 0,,76 115 0,kept
+Colors.Category,22,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,23,,190 232 255,,190 232 255,kept
+Colors.Category,23,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,24,,168 112 0,,168 112 0,kept
+Colors.Category,24,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,25,,0 76 115,,0 76 115,kept
+Colors.Category,25,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,26,,255 85 0,,255 85 0,kept
+Colors.Category,26,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,27,,205 205 102,,205 205 102,kept
+Colors.Category,27,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,28,,125 201 163,,125 201 163,kept
+Colors.Category,28,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,29,,214 217 128,,214 217 128,kept
+Colors.Category,29,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,30,,119 156 93,,119 156 93,kept
+Colors.Category,30,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,31,,134 219 129,,134 219 129,kept
+Colors.Category,31,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,32,,180 181 134,,180 181 134,kept
+Colors.Category,32,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,33,,166 224 222,,166 224 222,kept
+Colors.Category,33,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,34,,101 163 160,,101 163 160,kept
+Colors.Category,34,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,35,,183 227 138,,183 227 138,kept
+Colors.Category,35,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,36,,157 161 92,,157 161 92,kept
+Colors.Category,36,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,37,,151 189 140,,151 189 140,kept
+Colors.Category,37,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,38,,107 181 123,,107 181 123,kept
+Colors.Category,38,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,39,,238 241 160,,238 241 160,kept
+Colors.Category,39,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,40,,230 221 53,,230 221 53,kept
+Colors.Category,40,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,41,,250 236 200,,250 236 200,kept
+Colors.Category,41,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,42,,179 169 70,,179 169 70,kept
+Colors.Category,42,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,43,,0 0 0,,0 0 0,kept
+Colors.Category,43,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,44,,232 190 255,,232 190 255,kept
+Colors.Category,44,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,45,,223 115 255,,223 115 255,kept
+Colors.Category,45,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,46,,197 0 255,,197 0 255,kept
+Colors.Category,46,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,47,,132 0 168,,132 0 168,kept
+Colors.Category,47,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,1,,SystemValve,صمام المنظومة,صمام المنظومة | SystemValve,translated
+Text Symbols.Category,1,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,2,,SpatialOperationsRecord,سجل,سجل | SpatialOperationsRecord,translated
+Text Symbols.Category,2,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,3,,SewerGN_Junctions,مجاري,مجاري | SewerGN_Junctions,translated
+Text Symbols.Category,3,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,4,,ScadaSensor,سكادا حساس,سكادا حساس | ScadaSensor,translated
+Text Symbols.Category,4,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,5,,Pump,مضخة,مضخة | Pump,translated
+Text Symbols.Category,5,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,6,,NetworkStructure,بنية الشبكة,بنية الشبكة | NetworkStructure,translated
+Text Symbols.Category,6,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,7,,Meter,عداد,عداد | Meter,translated
+Text Symbols.Category,7,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,8,,Manhole,غرفة تفتيش,غرفة تفتيش | Manhole,translated
+Text Symbols.Category,8,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,9,,LateralPoint,فرعية نقطة,فرعية نقطة | LateralPoint,translated
+Text Symbols.Category,9,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,10,,Fitting,قطعة ربط,قطعة ربط | Fitting,translated
+Text Symbols.Category,10,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,11,,DischargePoint,تصريف نقطة,تصريف نقطة | DischargePoint,translated
+Text Symbols.Category,11,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,12,,ControlValve,صمام التحكم,صمام التحكم | ControlValve,translated
+Text Symbols.Category,12,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,13,,CleanOut,,CleanOut,kept
+Text Symbols.Category,13,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,14,,CatchBasin,بالوعة,بالوعة | CatchBasin,translated
+Text Symbols.Category,14,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,15,,Anode,أنود,أنود | Anode,translated
+Text Symbols.Category,15,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,16,,PressurizedMain,رئيسية,رئيسية | PressurizedMain,translated
+Text Symbols.Category,16,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,17,,LateralLine,خط فرعي,خط فرعي | LateralLine,translated
+Text Symbols.Category,17,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,18,,GravityMain,خط الانحدار الرئيسي,خط الانحدار الرئيسي | GravityMain,translated
+Text Symbols.Category,18,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,19,,WaterStructure,منشأة المياه,منشأة المياه | WaterStructure,translated
+Text Symbols.Category,19,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,20,,UndergroundEnclosure,تحت أرضية حاوية,تحت أرضية حاوية | UndergroundEnclosure,translated
+Text Symbols.Category,20,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,21,,ThrustProtection,تقييد الدفع,تقييد الدفع | ThrustProtection,translated
+Text Symbols.Category,21,,Default,افتراضية,افتراضية | Default,translated
+Text Symbols.Name,22,,Casing,غلاف,غلاف | Casing,translated
+Text Symbols.Category,22,,Default,افتراضية,افتراضية | Default,translated
+Borders.Name,1,,Element,عنصر,عنصر | Element,translated
+Borders.Category,1,,Default,افتراضية,افتراضية | Default,translated

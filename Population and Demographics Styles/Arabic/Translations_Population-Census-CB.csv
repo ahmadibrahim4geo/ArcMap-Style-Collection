@@ -1,0 +1,31 @@
+﻿field,id,key,original,arabic,new_value,status
+NAME,1,Density 0-10 per km2,Density 0-10 per km2,كثافة 0-10 ن/كم2,كثافة 0-10 ن/كم2 | Density 0-10 per km2,translated
+CATEGORY,1,Density 0-10 per km2,Density,كثافة,كثافة | Density,translated
+NAME,2,Density 10-50 per km2,Density 10-50 per km2,كثافة 10-50 ن/كم2,كثافة 10-50 ن/كم2 | Density 10-50 per km2,translated
+CATEGORY,2,Density 10-50 per km2,Density,كثافة,كثافة | Density,translated
+NAME,3,Density 50-150 per km2,Density 50-150 per km2,كثافة 50-150 ن/كم2,كثافة 50-150 ن/كم2 | Density 50-150 per km2,translated
+CATEGORY,3,Density 50-150 per km2,Density,كثافة,كثافة | Density,translated
+NAME,4,Density 150-500 per km2,Density 150-500 per km2,كثافة 150-500 ن/كم2,كثافة 150-500 ن/كم2 | Density 150-500 per km2,translated
+CATEGORY,4,Density 150-500 per km2,Density,كثافة,كثافة | Density,translated
+NAME,5,Density 500-2000 per km2,Density 500-2000 per km2,كثافة 500-2000 ن/كم2,كثافة 500-2000 ن/كم2 | Density 500-2000 per km2,translated
+CATEGORY,5,Density 500-2000 per km2,Density,كثافة,كثافة | Density,translated
+NAME,6,Density over 2000 per km2,Density over 2000 per km2,كثافة فوق 2000 ن/كم2,كثافة فوق 2000 ن/كم2 | Density over 2000 per km2,translated
+CATEGORY,6,Density over 2000 per km2,Density,كثافة,كثافة | Density,translated
+NAME,7,Growth strong decline,Growth strong decline,نمو منخفض بشدة,نمو منخفض بشدة | Growth strong decline,translated
+CATEGORY,7,Growth strong decline,Growth,نمو,نمو | Growth,translated
+NAME,8,Growth decline,Growth decline,نمو منخفض,نمو منخفض | Growth decline,translated
+CATEGORY,8,Growth decline,Growth,نمو,نمو | Growth,translated
+NAME,9,Growth stable,Growth stable,نمو مستقر,نمو مستقر | Growth stable,translated
+CATEGORY,9,Growth stable,Growth,نمو,نمو | Growth,translated
+NAME,10,Growth increase,Growth increase,نمو مرتفع,نمو مرتفع | Growth increase,translated
+CATEGORY,10,Growth increase,Growth,نمو,نمو | Growth,translated
+NAME,11,Growth strong increase,Growth strong increase,نمو مرتفع بشدة,نمو مرتفع بشدة | Growth strong increase,translated
+CATEGORY,11,Growth strong increase,Growth,نمو,نمو | Growth,translated
+NAME,12,City small under 100k,City small under 100k,مدينة صغيرة تحت 100 ألف,مدينة صغيرة تحت 100 ألف | City small under 100k,translated
+CATEGORY,12,City small under 100k,Settlements,تجمعات,تجمعات | Settlements,translated
+NAME,13,City medium 100k-1M,City medium 100k-1M,مدينة متوسطة 100 ألف-1م,مدينة متوسطة 100 ألف-1م | City medium 100k-1M,translated
+CATEGORY,13,City medium 100k-1M,Settlements,تجمعات,تجمعات | Settlements,translated
+NAME,14,City large over 1M,City large over 1M,مدينة كبيرة فوق 1م,مدينة كبيرة فوق 1م | City large over 1M,translated
+CATEGORY,14,City large over 1M,Settlements,تجمعات,تجمعات | Settlements,translated
+NAME,15,Dot 500 persons,Dot 500 persons,نقطة 500 نسمة,نقطة 500 نسمة | Dot 500 persons,translated
+CATEGORY,15,Dot 500 persons,Dot density,نقاط الكثافة,نقاط الكثافة | Dot density,translated

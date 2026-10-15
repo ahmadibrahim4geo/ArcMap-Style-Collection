@@ -1,0 +1,71 @@
+ID,Name_AR,Name_EN,Category,R,G,B,FillType,Outline_R,Outline_G,Outline_B,Outline_W,Tags
+1,جبال عالية,High Mountains,01-Mountains,139,90,43,solid,60,40,20,1.0,mountain;high;jabal
+2,جبال متوسطة,Middle Mountains,01-Mountains,170,120,70,solid,80,55,30,0.9,mountain;middle;jabal
+3,سلسلة جبلية,Mountain Range (hatched),01-Mountains,200,170,130,forward-diagonal-hatch,139,90,43,0.9,mountain;range;silsila
+4,كتل صخرية وقمم,Rocky Massifs,01-Mountains,180,160,140,cross-hatch,90,80,70,0.9,rocky;massif;peaks
+5,سفوح جبلية,Mountain Pediments,01-Mountains,195,165,120,solid,110,85,55,0.8,pediment;footslope
+6,هضبة عليا,Upper Plateau,02-Plateaus,205,170,120,solid,120,95,60,0.9,plateau;upper
+7,هضبة وسطى,Middle Plateau,02-Plateaus,215,185,140,solid,130,105,70,0.8,plateau;middle
+8,هضبة دنيا,Lower Plateau,02-Plateaus,225,200,155,solid,140,115,80,0.8,plateau;lower
+9,سطح هضبي حصوي,Gravelly Plateau (dotted),02-Plateaus,220,200,160,marker-dots(150-140-120),130,110,80,0.7,plateau;gravel
+10,نطاق الحافة,Plateau Edge Zone,02-Plateaus,200,175,130,diagonal-cross,120,85,50,1.0,plateau;edge
+11,سهل فيضي,Flood Plain,03-Plains,185,225,170,solid,80,140,90,0.8,plain;flood
+12,سهل ساحلي,Coastal Plain,03-Plains,240,230,180,solid,160,150,110,0.7,plain;coastal
+13,سهل صحراوي,Desert Plain - Serir,03-Plains,235,215,170,solid,170,150,110,0.7,plain;desert;serir
+14,رق حصوي,Reg / Gravel Plain (dotted),03-Plains,205,195,175,marker-dots-random,150,140,120,0.6,reg;gravel
+15,سهل حصوي,Gravelly Plain,03-Plains,210,200,175,solid,150,140,115,0.7,plain;gravel
+16,سبخة ملحية,Salt Sabkha (dotted),04-Depressions,235,240,240,marker-dots-random(150-175-185),170,190,195,0.7,sabkha;salt
+17,سبخة طينية,Muddy Sabkha,04-Depressions,215,225,220,solid,150,170,175,0.7,sabkha;mud
+18,قاع / شط,Shatt / Qa Floor,04-Depressions,225,235,230,solid,160,180,185,0.7,shatt;qa
+19,منخفض مغلق,Closed Depression (hatched),04-Depressions,210,220,225,horizontal-hatch,120,150,160,0.8,depression;closed
+20,واحة,Oasis,04-Depressions,170,210,140,solid,70,140,80,0.9,oasis
+21,بركة وشطية,Pond / Sharm Floor,04-Depressions,190,220,230,solid,110,160,175,0.7,pond;sharm
+22,أرضية وادي حصوية,Wadi Floor Gravel,05-Fluvial,230,220,190,solid,170,155,115,0.8,wadi;floor
+23,دلتا,Delta,05-Fluvial,190,215,150,solid,90,140,85,0.8,delta
+24,مروحة فيضية,Alluvial Fan (hatched),05-Fluvial,220,210,160,line-hatch-45deg,150,130,95,0.8,fan;alluvial
+25,مدرج نهري علوي,Upper Terrace,05-Fluvial,200,190,140,solid,140,125,90,0.8,terrace;upper
+26,مدرج نهري سفلي,Lower Terrace (hatched),05-Fluvial,210,200,155,vertical-hatch,150,135,100,0.7,terrace;lower
+27,سهل فيض الوادي,Wadi Flood Plain,05-Fluvial,195,225,175,solid,100,150,105,0.7,wadi;flood
+28,لاجونا / شرم,Lagoon / Sharm,06-Coastal,180,215,230,solid,90,140,160,0.8,lagoon;sharm
+29,شاطئ رملي,Sandy Beach,06-Coastal,245,235,190,solid,190,175,130,0.7,beach;sand
+30,سبخة ساحلية,Coastal Sabkha,06-Coastal,230,235,230,solid,160,175,175,0.7,sabkha;coastal
+31,لسان رملي,Sand Spit,06-Coastal,240,225,170,solid,180,160,115,0.7,spit;sand
+32,جرف صخري ساحلي,Rocky Coastal Cliff (hatched),06-Coastal,200,190,175,backward-diagonal,110,100,90,0.9,cliff;coastal
+33,عرق رملي,Erg / Sand Sea,07-Aeolian,245,210,130,solid,200,160,100,0.8,erg;sand
+34,كثبان هلالية,Barchan Field (hatched),07-Aeolian,245,220,150,line-hatch-30deg,190,150,95,0.8,dune;barchan
+35,كثبان طولية سيفية,Seif Dunes (hatched),07-Aeolian,245,220,150,line-hatch-135deg,190,150,95,0.8,dune;seif
+36,كثبان نجمية,Star Dunes,07-Aeolian,250,230,160,solid,205,175,120,0.7,dune;star
+37,غطاء رملي رقيق,Sand Sheet,07-Aeolian,240,220,170,solid,195,175,135,0.6,sand;sheet
+38,حمادة صخرية,Hamada,07-Aeolian,150,140,130,solid,90,85,80,0.9,hamada
+39,رق / سرير,Stony Reg (dotted),07-Aeolian,195,185,165,marker-dots-random,140,130,115,0.7,reg;stony
+40,منطقة كارستية,Karst Area (cross-hatch),08-Karst,200,200,190,cross-hatch,130,130,120,0.8,karst
+41,حجر جيري كارستي,Karstic Limestone,08-Karst,208,208,198,solid,150,150,135,0.7,karst;limestone
+42,حرة / لابة,Harra / Lava Field,09-Volcanic,80,70,70,solid,30,30,30,1.0,lava;harra
+43,مخروط بركاني,Volcanic Cone,09-Volcanic,120,80,70,solid,60,40,35,1.0,volcano;cone
+44,ركام سفوح,Talus / Scree (dotted),13-Slopes,225,210,180,marker-dots(150-140-125),170,155,125,0.7,talus;scree
+45,ركام انزلاقي,Landslide Deposit (cross),13-Slopes,200,150,120,cross-hatch,150,90,70,0.9,landslide
+46,زحف التربة,Solifluction (hatched),13-Slopes,215,195,165,horizontal-hatch,170,150,120,0.7,solifluction
+47,نهر صخري,Rock Glacier (dotted),13-Slopes,210,200,185,marker-dots(130-150-170),160,150,135,0.7,rockglacier
+48,غطاء سفوح,Colluvium,13-Slopes,220,205,175,solid,175,160,130,0.7,colluvium
+49,ركام جليدي,Till (dotted),14-Glacial,205,210,215,marker-dots-random,155,160,165,0.7,till
+50,سهل خارجي,Sandur Outwash,14-Glacial,215,225,230,solid,140,165,175,0.7,sandur;outwash
+51,سهل بحيري جليدي,Glaciolacustrine,14-Glacial,200,220,235,solid,130,160,180,0.7,glaciolacustrine
+52,حقل درملن,Drumlin Field (hatched),14-Glacial,210,215,220,line-hatch-60deg,150,155,160,0.7,drumlin
+53,أرض منقوشة,Patterned Ground (grid),14-Glacial,220,205,170,marker-grid-dots,175,160,130,0.6,patterned
+54,حقل كتل,Blockfield (coarse),14-Glacial,195,190,180,marker-dots-coarse,150,145,135,0.8,blockfield
+55,سهل مدي,Tidal Flat (hatched),06-Coastal,210,225,230,horizontal-hatch,130,160,170,0.7,tidal
+56,مستنقع ملحي,Salt Marsh,06-Coastal,150,195,180,solid,80,140,125,0.8,marsh
+57,مانجروف,Mangrove,06-Coastal,60,130,100,solid,30,90,70,0.9,mangrove
+58,شاطئ مرتفع,Raised Beach,06-Coastal,235,220,175,solid,185,170,130,0.7,raisedbeach
+59,مسطح مرجاني,Reef Flat (dotted),06-Coastal,190,225,235,marker-dots(90-170-190),140,180,190,0.7,reef
+60,ضفة رملية,Point Bar,05-Fluvial,240,225,185,solid,195,180,140,0.7,pointbar
+61,مستنقع خلفي,Backswamp,05-Fluvial,165,190,165,solid,110,140,115,0.7,backswamp
+62,بحيرة هلالية,Oxbow Lake,05-Fluvial,175,210,225,solid,110,155,170,0.8,oxbow
+63,قاع بلايا,Playa Bed (fine dots),04-Depressions,238,238,232,marker-fine-dots,200,200,190,0.6,playa
+64,ملح متصلب,Salt Pan (cross),04-Depressions,240,242,240,cross-hatch,200,205,205,0.6,saltpan
+65,كويستا,Cuesta (diagonal),15-Structural,205,175,130,forward-diagonal,150,120,85,0.9,cuesta
+66,ميسا,Mesa Top,15-Structural,185,150,110,solid,110,85,60,1.0,mesa
+67,هوجباك,Hogback,15-Structural,175,140,100,backward-diagonal,120,95,65,0.9,hogback
+68,تيرا روسا,Terra Rossa,15-Structural,170,90,70,solid,120,60,45,0.8,terrarossa
+69,رماد بركاني,Ash Plain (dotted),09-Volcanic,210,205,200,marker-dots,170,165,160,0.6,ash
+70,هضبة بازلتية,Basalt Plateau,09-Volcanic,95,95,100,solid,50,50,55,0.9,basalt

@@ -1,0 +1,33 @@
+مصادر الاستايلات - Source (المناخ - مؤسسات ومنتديات، ليس ESRI)
+====================================================
+التخصص: أقاليم مناخية لخريطة العالم
+
+1) Beck et al. - High-resolution Koppen-Geiger maps 1km (CC BY 4.0) - المصدر الأساسي للألوان
+   Portal: https://www.gloh2o.org/koppen/
+   Paper 2023: Beck et al., Scientific Data 10, 724, doi:10.1038/s41597-023-02549-6
+   Paper 2018: Beck et al., Scientific Data 5:180214, doi:10.1038/sdata.2018.214
+   Data (Figshare): https://doi.org/10.6084/m9.figshare.6396959
+   Legend الرسمي (RGB المستخدم حرفيا هنا):
+   https://data.naturalcapitalalliance.stanford.edu/download/global/koppen_geiger_climatezones/future_kg_climatezones_2071-2099_1km/legend.txt
+   الألوان مأخوذة من Peel et al. ومعتمدة في Beck - 30 فئة Af..EF.
+
+2) Kottek / Peel - World Map of Koppen-Geiger (المدرسة الكلاسيكية)
+   https://people.eng.unimelb.edu.au/mpeel/koppen.html
+   مرجع الألوان الكلاسيكية للمقارنة.
+
+3) FAO - Global Ecological Zones 2010 (للربط مناخ-غابة)
+   https://data.apps.fao.org/catalog/dataset/2fb209d0-fd34-4e5e-a3d8-a13c241eb61b
+   تقرير: https://www.fao.org/4/ap861e/ap861e00.pdf
+
+4) منتديات ونقاشات التصميم (تعلم الأسلوب العالمي):
+   - GIS StackExchange: وسم koppen + symbology (نقاشات اختيار الألوان للخرائط العالمية)
+     https://gis.stackexchange.com/
+   - Reddit r/gis + r/mapporn: مواضيع Koppen world maps (دروس التباين والمقياس العالمي)
+     https://www.reddit.com/r/gis/  https://www.reddit.com/r/mapporn/
+   - CartoTalk: مبادئ خرائط المناخ العالمية والإسقاطات المناسبة
+     http://www.cartotalk.com/
+   - ecoregion.net (مرجع تفاعلي، RESOLVE/WWF CC BY 4.0): https://ecoregion.net/
+
+البيانات المقترحة للتجربة: Beck GeoTIFF (1km) + Natural Earth coastlines.
+الإسقاط المقترح لخريطة العالم: Robinson / Winkel Tripel / Equal Earth.
+تاريخ البناء: 2026-09-29 | البناء محلي من الأسطورة الرسمية (ليس من ESRI).

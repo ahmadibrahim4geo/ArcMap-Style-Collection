@@ -1,0 +1,17 @@
+مصادر الاستايلات - Source (السكان - خارج ESRI)
+====================================================
+التخصص: جغرافية السكان / ديموغرافيا (خرائط كوروكروماتية ونقطية)
+
+1) ColorBrewer 2.0 - Cynthia Brewer, Penn State (Apache-like, مجاني للخرائط)
+   https://colorbrewer2.org
+   لوحات YlOrRd المتتابعة للكثافة + المتباينة للنمو - المستخدمة هنا حرفيا.
+
+2) US Census Bureau - TIGER/Line + Thematic mapping guidance (Public Domain)
+   https://www.census.gov/programs-surveys/geography/technical-documentation.html
+   حدود + منهجية الكثافة = عدد/مساحة.
+
+3) UN World Population Prospects (CC BY 3.0 IGO)
+   https://population.un.org/wpp/
+   فئات النمو والتحضر المرجعية.
+
+تاريخ البناء: 2026-09-29 | البناء محلي (ليس من ESRI).

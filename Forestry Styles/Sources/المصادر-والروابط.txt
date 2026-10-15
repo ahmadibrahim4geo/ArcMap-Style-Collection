@@ -1,0 +1,25 @@
+مصدر الاستايلات - Source (غابات)
+====================================================
+
+التخصص: غابات / غطاء نباتي (مفصول من مكتبة ESRI للتخصصات)
+
+المعرض الرئيسي:
+https://esri-styles.maps.arcgis.com/home/index.html
+https://esri-styles.maps.arcgis.com/home/gallery.html
+
+تاريخ التحميل: 28-09-2026 | تاريخ الفصل لفولدر تخصصي: 29-09-2026
+
+----------------------------------------------------
+الملفات في هذا الفولدر (الناشر styles_esri):
+----------------------------------------------------
+1) Forestry-ESRI.stylx
+   https://www.arcgis.com/home/item.html?id=bc0f7fd9086f4733ba2e2e1beacc3b9c
+   رموز الغابات والغطاء النباتي (Pro: Insert > Add Style).
+
+2) Forestry.style
+   النسخة المقابلة لـ ArcMap من تثبيت ArcMap 10.8 المحلي
+   (C:\Program Files (x86)\ArcGIS\Desktop10.8\Styles)
+   (ArcMap: Style Manager > Add Style to List).
+
+ملاحظة: لا يوجد تحويل .stylx إلى .style.
+التحميل من ArcGIS Online عبر: https://www.arcgis.com/sharing/rest/content/items/<ITEM_ID>/data

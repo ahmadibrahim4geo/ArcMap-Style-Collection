@@ -1,0 +1,19 @@
+﻿field,id,key,original,arabic,new_value,status
+NAME,1,International boundary,International boundary,حد دولي,حد دولي | International boundary,translated
+CATEGORY,1,International boundary,Boundaries,حدود,حدود | Boundaries,translated
+NAME,2,Disputed boundary,Disputed boundary,حد متنازع عليه,حد متنازع عليه | Disputed boundary,translated
+CATEGORY,2,Disputed boundary,Boundaries,حدود,حدود | Boundaries,translated
+NAME,3,First order province,First order province,حد محافظة/ولاية,حد محافظة/ولاية | First order province,translated
+CATEGORY,3,First order province,Boundaries,حدود,حدود | Boundaries,translated
+NAME,4,Second order district,Second order district,حد قضاء/مديرية,حد قضاء/مديرية | Second order district,translated
+CATEGORY,4,Second order district,Boundaries,حدود,حدود | Boundaries,translated
+NAME,5,Municipal boundary,Municipal boundary,حد بلدية,حد بلدية | Municipal boundary,translated
+CATEGORY,5,Municipal boundary,Boundaries,حدود,حدود | Boundaries,translated
+NAME,6,Capital national,Capital national,عاصمة وطنية,عاصمة وطنية | Capital national,translated
+CATEGORY,6,Capital national,Capitals,عواصم,عواصم | Capitals,translated
+NAME,7,Capital province,Capital province,عاصمة محافظة,عاصمة محافظة | Capital province,translated
+CATEGORY,7,Capital province,Capitals,عواصم,عواصم | Capitals,translated
+NAME,8,Admin area fill,Admin area fill,تعبئة إدارية شفافة,تعبئة إدارية شفافة | Admin area fill,translated
+CATEGORY,8,Admin area fill,Boundaries,حدود,حدود | Boundaries,translated
+NAME,9,Label halo admin,Label halo admin,هالة تسمية إدارية,هالة تسمية إدارية | Label halo admin,translated
+CATEGORY,9,Label halo admin,Labels,تسميات,تسميات | Labels,translated

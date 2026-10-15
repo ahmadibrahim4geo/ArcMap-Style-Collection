@@ -1,0 +1,6 @@
+دليل تركيب واستخدام ستايلات الغابات
+======================================
+- Forestry-ESRI.stylx => ستايل الغابات والغطاء النباتي (لـ Pro).
+- Forestry.style => النسخة المقابلة لـ ArcMap (من تثبيت ArcMap المحلي).
+- التركيب في Pro: Insert > Add Style. وفي ArcMap: Style Manager > Add Style to List.
+- المصدر: معرض https://esri-styles.maps.arcgis.com/home/index.html

@@ -1,0 +1,43 @@
+مصادر الاستايلات - Source (طبوغرافي مصري - مؤسسات ومنتديات، ليس ESRI)
+====================================================
+التخصص: خرائط طبوغرافية مصرية 1:50000 / 1:25000
+
+1) الهيئة المصرية العامة للمساحة ESA (المنتج الرسمي، 439 لوحة 1:50000 + 88 عربية)
+   البحث بالمقياس: https://www.esa.gov.eg/paper_maps_search.aspx
+   الخرائط الرقمية: https://www.esa.gov.eg/sellingmaproomdigital.aspx
+   التاريخ: https://www.esa.gov.eg/egy_his_maps.aspx
+   تأسست 1898 (Survey of Egypt) ثم ESA 1971. المقاييس: 1:25000 (600 لوحة وادي/دلتا/قناة) - 1:50000 (450 لوحة) - 1:100000 - 1:250000 - 1:500000.
+
+2) دليل الخرائط الطبوغرافية المصرية (ملخص الدليل + الترقيم)
+   https://www.gis-zaghlol.com/2020/01/map-pdf.html
+   الفترة الكنتورية حسب المقياس والطبيعة؛ البعد الثالث بالكنتور ونقط المثلثات والروبيرات.
+
+3) East View / Geospatial - Country Profile Egypt (تاريخ المساحة البريطانية والسوفيتية)
+   https://geospatial.com/country_profiles/egypt/?pdf=true
+   سلاسل: ESA 1:50000 (439) + العربية (88) + DMA P777 (13) + سوفيتية 1:50000/100000/200000 + P871/GSGS.
+   Shop: https://shop.geospatial.com/publication/ZJ2SYSASGTX443TJD8PVM5R6J5/Egypt-1-to-50000-Scale-Topographic-Maps
+
+4) USGS - US Topo Map Symbols (المعيار العالمي المفتوح للألوان والرموز - Public Domain)
+   الدليل: https://www.usgs.gov/media/files/us-topo-map-symbols
+   PDF: https://pubs.usgs.gov/gip/TopographicMapSymbols/topomapsymbols.pdf
+   المواصفات: https://www.usgs.gov/ngp-standards-and-specifications/us-topo-map-symbol-guide
+   القاعدة: بني تضاريس، أزرق مياه، أسود ثقافة، أخضر غطاء، أحمر طرق مهمة - مطبقة هنا.
+
+5) خرائط Survey of Egypt / War Office التاريخية (مرجع الرموز الإنجليزية-العربية)
+   NLA 1:25000: حدود + نقل + نبات + مياه بكنتور وهاشور ونقط
+   Princeton 1:100000: فئتا سكة + 5 فئات طرق + 5 حدود داخلية (مراكز)
+
+6) رسالة مرسى مطروح 2024 (تحليل مفتاح الخرائط المصرية وتطابق الرموز مع دليل ESA)
+   http://swideg-geography.blogspot.com/2024/06/2024_26.html
+   ملاحظة: بعض رموز المساحة العسكرية/ESA استبدلت برموز أدق - اعتمدنا الأدق هنا.
+
+7) منتديات ومؤسسات (تعلم الأسلوب):
+   - GIS StackExchange (topography, contours, hypsometric): https://gis.stackexchange.com/
+   - Reddit r/gis + r/mapporn + r/Surveying: مقارنات خرائط مصر والسوفيتية
+   - CartoTalk (relief shading, hypsometric tints): http://www.cartotalk.com/
+   - ICA - International Cartographic Association: مبادئ التعميم الطبوغرافي
+   - Natural Earth (سواحل/حدود للأساس): https://www.naturalearthdata.com/
+   - OpenStreetMap Egypt + Geofabrik Africa (للتجربة): https://download.geofabrik.de/africa/egypt.html
+
+البيانات المقترحة: SRTM 30m للكنتور + OSM مصر + Natural Earth + لوحات ESA ممسوحة.
+تاريخ البناء: 2026-09-29 | البناء محلي من الأساطير الرسمية (ليس من ESRI).

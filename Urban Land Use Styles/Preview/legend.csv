@@ -1,0 +1,15 @@
+﻿en,ar,type,R,G,B,width_size,category_en,category_ar
+Continuous urban fabric 11100,نسيج حضري متصل,poly,230,0,77,,Urban fabric,نسيج حضري
+Discontinuous dense 11210,نسيج متقطع كثيف,poly,255,0,0,,Urban fabric,نسيج حضري
+Discontinuous medium 11220,نسيج متقطع متوسط,poly,255,128,0,,Urban fabric,نسيج حضري
+Discontinuous low 11230,نسيج متقطع منخفض,poly,255,166,0,,Urban fabric,نسيج حضري
+Discontinuous very low 11240,نسيج متقطع منخفض جدا,poly,255,230,0,,Urban fabric,نسيج حضري
+Isolated structures 11300,مبان منعزلة,poly,166,110,80,,Urban fabric,نسيج حضري
+Industrial commercial 12100,صناعي وتجاري,poly,204,204,204,,Economic,اقتصادي
+Roads urban 12210,طرق حضرية,poly,0,0,0,,Transport urban,نقل حضري
+Rail urban 12220,سكك حضرية,poly,80,80,80,,Transport urban,نقل حضري
+Ports 12300,موانئ,poly,204,204,255,,Transport urban,نقل حضري
+Airports 12400,مطارات,poly,230,230,255,,Transport urban,نقل حضري
+Construction sites 13300,مواقع إنشاء,poly,255,255,255,,Dynamic,متغيرة
+Green urban areas 14100,مساحات خضراء حضرية,poly,0,255,0,,Green,خضراء
+Sports leisure 14210,رياضة وترفيه,poly,255,255,0,,Green,خضراء

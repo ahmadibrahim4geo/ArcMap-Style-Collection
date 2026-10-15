@@ -1,0 +1,797 @@
+<h1>Geodatabase D:\MakingMapsWithNCGMP09\Exercise1-AutomateAnalogMap\8-MakeMapImage\PurcellMtn.gdb</h1>
+&nbsp; Testing for compliance with NCGMP09v1.1 database schema<br>
+&nbsp; This file written by NCGMP09v1.1_ValidateDatabase_Arc10.0.py, version of 14 October 2014<br>
+&nbsp; Thu Oct 16 18:05:00 2014<br>
+<h2>SCHEMA ERRORS</h2>
+<font face="Courier New, Courier, monospace">&nbsp; None<br>
+</font><h2>EXTENSIONS TO SCHEMA, may indicate errors</h2>
+<font face="Courier New, Courier, monospace">&nbsp; DescriptionOfMapUnits, field last_edited_date is not required<br>
+&nbsp; DescriptionOfMapUnits, field created_date is not required<br>
+&nbsp; DescriptionOfMapUnits, field created_user is not required<br>
+&nbsp; DescriptionOfMapUnits, field last_edited_user is not required<br>
+&nbsp; DataSources, field created_user is not required<br>
+&nbsp; DataSources, field created_date is not required<br>
+&nbsp; DataSources, field last_edited_date is not required<br>
+&nbsp; DataSources, field last_edited_user is not required<br>
+&nbsp; Glossary, field created_user is not required<br>
+&nbsp; Glossary, field created_date is not required<br>
+&nbsp; Glossary, field last_edited_date is not required<br>
+&nbsp; Glossary, field last_edited_user is not required<br>
+&nbsp; DataSourcePolys, field created_user is not required<br>
+&nbsp; DataSourcePolys, field created_date is not required<br>
+&nbsp; DataSourcePolys, field last_edited_date is not required<br>
+&nbsp; DataSourcePolys, field last_edited_user is not required<br>
+&nbsp; ContactsAndFaults, field LTYPE is not required<br>
+&nbsp; ContactsAndFaults, field last_edited_date is not required<br>
+&nbsp; ContactsAndFaults, field created_user is not required<br>
+&nbsp; ContactsAndFaults, field last_edited_user is not required<br>
+&nbsp; ContactsAndFaults, field created_date is not required<br>
+&nbsp; GeologicLines, field LTYPE is not required<br>
+&nbsp; GeologicLines, field last_edited_date is not required<br>
+&nbsp; GeologicLines, field created_user is not required<br>
+&nbsp; GeologicLines, field created_date is not required<br>
+&nbsp; GeologicLines, field last_edited_user is not required<br>
+&nbsp; OrientationPoints, field created_user is not required<br>
+&nbsp; OrientationPoints, field last_edited_date is not required<br>
+&nbsp; OrientationPoints, field PTTYPE is not required<br>
+&nbsp; OrientationPoints, field created_date is not required<br>
+&nbsp; OrientationPoints, field last_edited_user is not required<br>
+&nbsp; MapUnitPolys, field ORIG_FID is not required<br>
+&nbsp; MapUnitPolys, field created_date is not required<br>
+&nbsp; MapUnitPolys, field created_user is not required<br>
+&nbsp; MapUnitPolys, field Area_Length is not required<br>
+&nbsp; MapUnitPolys, field OldPoly is not required<br>
+&nbsp; MapUnitPolys, field last_edited_date is not required<br>
+&nbsp; MapUnitPolys, field last_edited_user is not required<br>
+&nbsp; Feature class OrientationPointLabels is not required<br>
+</font><h2>CONTENT ERRORS</h2>
+<font face="Courier New, Courier, monospace">&nbsp; No duplicate _IDs<br>
+&nbsp;&nbsp;Missing DataSources entries. Only one reference to each missing source is cited<br>
+&nbsp;&nbsp;&nbsp;&nbsp; , cited in field DescriptionSourceID table DescriptionOfMapUnits<br>
+<br>
+&nbsp; No unreferenced entries in DataSources<br>
+&nbsp; No missing MapUnits in DescriptionOfMapUnits<br>
+&nbsp;&nbsp;Units present in map, DMU, CMU, and cross sections<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; --- &nbsp; X &nbsp; ---  --- <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Qal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X &nbsp;&nbsp; X &nbsp; ---  --- <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Qde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X &nbsp;&nbsp; X &nbsp; ---  --- <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Qls&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X &nbsp;&nbsp; X &nbsp; ---  --- <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Tid&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X &nbsp;&nbsp; X &nbsp; ---  --- <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Tidi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X &nbsp;&nbsp; X &nbsp; ---  --- <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Tigd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X &nbsp;&nbsp; X &nbsp; ---  --- <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Toh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X &nbsp;&nbsp; X &nbsp; ---  --- <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Tva2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X &nbsp;&nbsp; X &nbsp; ---  --- <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Tva3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X &nbsp;&nbsp; X &nbsp; ---  --- <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Tvba3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X &nbsp;&nbsp; X &nbsp; ---  --- <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Tvc3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X &nbsp;&nbsp; X &nbsp; ---  --- <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Tvt3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X &nbsp;&nbsp; X &nbsp; ---  --- <br>
+<br>
+&nbsp;&nbsp;Missing terms in Glossary. Only one reference to each missing term is cited<br>
+&nbsp;&nbsp;&nbsp;&nbsp; , cited in field ParagraphStyle, table DescriptionOfMapUnits<br>
+&nbsp;&nbsp;&nbsp;&nbsp;map boundary, cited in field Type, table ContactsAndFaults<br>
+<br>
+&nbsp; No unreferenced terms in Glossary<br>
+&nbsp; No format errors in HierarchyKeys<br>
+&nbsp; No pseudonulls or trailing spaces<br>
+</font><h2>Essential tables</h2>
+<h3>DataSources</h3>
+<table cellpadding="2" cellspacing="2" border="1" >
+<tr>
+<td><b>_ID</b></td>
+<td><b>Source</b></td>
+<td><b>Notes</b></td>
+<td><b>created_user</b></td>
+<td><b>created_date</b></td>
+<td><b>last_edited_user</b></td>
+<td><b>last_edited_date</b></td>
+</tr>
+<tr>
+<td>DAS1</td>
+<td>Geology of the Mount Rainier quadrangle, Washington, compiled by Henry W. Schasse, Washington Division of Geology and Earth Resources Open File Report 87-16, 1987, map scale 1:100,000. Digitized and interpreted by Ralph Haugerud in September-October 2014.</td>
+<td> </td>
+<td>rah</td>
+<td>2014-10-03 14:14:36</td>
+<td>rah</td>
+<td>2014-10-14 18:37:31</td>
+</tr>
+<tr>
+<td>DAS2</td>
+<td>paraphrased from  Glossary of Geology, fifth edition, edited by Klaus K.E. Neuendorf, James P. Mehl, Jr., and Julia A. Jackson, published by American Geoscience Institute</td>
+<td>---</td>
+<td>rah</td>
+<td>2014-10-03 14:32:44</td>
+<td>rah</td>
+<td>2014-10-12 18:17:15</td>
+</tr>
+<tr>
+<td>DAS3</td>
+<td>This report. Includes calculated features such as the map boundary. </td>
+<td>---</td>
+<td>rah</td>
+<td>2014-10-04 18:26:14</td>
+<td>rah</td>
+<td>2014-10-12 18:17:15</td>
+</tr>
+<tr>
+<td>DAS4</td>
+<td>Federal Geographic Data Comittee, August 2006, FGDC Digital Cartographic Standard for Geologic Map Symbolization, FGDC-STD-013-2006</td>
+<td>---</td>
+<td>rah</td>
+<td>2014-10-12 17:40:43</td>
+<td>rah</td>
+<td>2014-10-12 18:17:15</td>
+</tr>
+</table>
+<h3>Glossary</h3>
+<table cellpadding="2" cellspacing="2" border="1" >
+<tr>
+<td><b>_ID</b></td>
+<td><b>Term</b></td>
+<td><b>Definition</b></td>
+<td><b>DefinitionSourceID</b></td>
+<td><b>created_user</b></td>
+<td><b>created_date</b></td>
+<td><b>last_edited_user</b></td>
+<td><b>last_edited_date</b></td>
+</tr>
+<tr>
+<td>GLO1</td>
+<td>anticline</td>
+<td>a fold, generally convex upwards, whose core contains older rocks. Here denoted by the fold axis--the intersection of the axial plane (points of greatest convexity) with the ground surface</td>
+<td>DAS2</td>
+<td>rah</td>
+<td>2014-10-03 14:01:13.000001</td>
+<td>rah</td>
+<td>2014-10-12 18:17:15</td>
+</tr>
+<tr>
+<td>GLO10</td>
+<td>Alluvial sediment, mostly coarse-grained</td>
+<td> </td>
+<td>DAS2</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+</tr>
+<tr>
+<td>GLO11</td>
+<td>Coarse-grained intrusive igneous rock</td>
+<td> </td>
+<td>DAS2</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+</tr>
+<tr>
+<td>GLO12</td>
+<td>Mass movement sediment</td>
+<td> </td>
+<td>DAS2</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+</tr>
+<tr>
+<td>GLO13</td>
+<td>Ice-contact and ice-marginal sediment, mostly coarse-grained</td>
+<td> </td>
+<td>DAS2</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+</tr>
+<tr>
+<td>GLO14</td>
+<td>Sedimentary and extrusive igneous material</td>
+<td> </td>
+<td>DAS2</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+</tr>
+<tr>
+<td>GLO15</td>
+<td>Intermediate-composition lava flows</td>
+<td> </td>
+<td>DAS2</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+</tr>
+<tr>
+<td>GLO16</td>
+<td>Lava flows</td>
+<td> </td>
+<td>DAS2</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+</tr>
+<tr>
+<td>GLO17</td>
+<td>Volcaniclastic (fragmental) material</td>
+<td> </td>
+<td>DAS2</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+</tr>
+<tr>
+<td>GLO18</td>
+<td>Sedimentary and extrusive igneous material</td>
+<td> </td>
+<td>DAS2</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+</tr>
+<tr>
+<td>GLO19</td>
+<td>Fine-grained intrusive igneous rock</td>
+<td> </td>
+<td>DAS2</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+</tr>
+<tr>
+<td>GLO2</td>
+<td>bedding</td>
+<td>planar or nearly planar surface that separates successive layers of stratified rock; a plane of deposition</td>
+<td>DAS2</td>
+<td>rah</td>
+<td>2014-10-03 13:55:10.000001</td>
+<td>rah</td>
+<td>2014-10-12 18:17:15</td>
+</tr>
+<tr>
+<td>GLO20</td>
+<td>Coarse-grained, intermediate-composition intrusive igneous rock</td>
+<td> </td>
+<td>DAS2</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+</tr>
+<tr>
+<td>GLO3</td>
+<td>certain</td>
+<td>a characteristic is certain when it can be determined using relevant observations and scientific judgement; therefore one can be reasonably confident in the scientific credibility of the interpreted characteristic</td>
+<td>DAS4</td>
+<td>rah</td>
+<td>2014-10-03 13:55:00</td>
+<td>rah</td>
+<td>2014-10-12 18:17:15</td>
+</tr>
+<tr>
+<td>GLO4</td>
+<td>contact</td>
+<td>surface that separates two types or ages of rock or deposit</td>
+<td>DAS2</td>
+<td>rah</td>
+<td>2014-10-03 13:54:55</td>
+<td>rah</td>
+<td>2014-10-12 18:17:15</td>
+</tr>
+<tr>
+<td>GLO5</td>
+<td>fault</td>
+<td>discrete surface or zone of discrete surfaces separating two rock or deposit masses and along which one mass has slid past the other</td>
+<td>DAS2</td>
+<td>rah</td>
+<td>2014-10-03 13:54:57</td>
+<td>rah</td>
+<td>2014-10-12 18:17:15</td>
+</tr>
+<tr>
+<td>GLO6</td>
+<td>questionable</td>
+<td>a characteristic is questionable when it cannot be determined using relevant observations and scientific judgement; therefore one cannot be reasonably confident in the scientific credibility of the interpreted characteristic</td>
+<td>DAS4</td>
+<td>rah</td>
+<td>2014-10-03 13:55:07.000001</td>
+<td>rah</td>
+<td>2014-10-12 18:17:15</td>
+</tr>
+<tr>
+<td>GLO7</td>
+<td>High</td>
+<td> </td>
+<td>DAS2</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+</tr>
+<tr>
+<td>GLO8</td>
+<td>Medium</td>
+<td> </td>
+<td>DAS2</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+</tr>
+<tr>
+<td>GLO9</td>
+<td>NA</td>
+<td> </td>
+<td>DAS2</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+</tr>
+</table>
+<h3>DescriptionOfMapUnits</h3>
+<table cellpadding="2" cellspacing="2" border="1" >
+<tr>
+<td><b>_ID</b></td>
+<td><b>MapUnit</b></td>
+<td><b>Label</b></td>
+<td><b>Name</b></td>
+<td><b>FullName</b></td>
+<td><b>Age</b></td>
+<td><b>Description</b></td>
+<td><b>GeneralLithology</b></td>
+<td><b>GeneralLithologyConfidence</b></td>
+<td><b>HierarchyKey</b></td>
+<td><b>ParagraphStyle</b></td>
+<td><b>Symbol</b></td>
+<td><b>AreaFillRGB</b></td>
+<td><b>AreaFillPatternDescription</b></td>
+<td><b>DescriptionSourceID</b></td>
+<td><b>created_user</b></td>
+<td><b>created_date</b></td>
+<td><b>last_edited_user</b></td>
+<td><b>last_edited_date</b></td>
+</tr>
+<tr>
+<td>DMU01</td>
+<td> </td>
+<td> </td>
+<td>Surficial deposits</td>
+<td></td>
+<td> </td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td>---</td>
+<td>---</td>
+<td> </td>
+<td>rah</td>
+<td>2014-09-29 14:49:26</td>
+<td>rah</td>
+<td>2014-10-12 18:17:15</td>
+</tr>
+<tr>
+<td>DMU02</td>
+<td>Qal</td>
+<td>Qal</td>
+<td>Alluvium</td>
+<td>Alluvium</td>
+<td>Holocene</td>
+<td>Silt, sand, and gravel deposited in streambeds and fans; surface relatively undissected; includes some low-level terraces and some Iacustrine deposits; may include some g1acial deposits and some volcanic mudflow deposits</td>
+<td>Alluvial sediment, mostly coarse-grained</td>
+<td>Medium</td>
+<td>1-1</td>
+<td> </td>
+<td>180</td>
+<td>---</td>
+<td>---</td>
+<td>DAS1</td>
+<td>rah</td>
+<td>2014-09-29 14:49:26</td>
+<td>rah</td>
+<td>2014-10-12 18:22:32</td>
+</tr>
+<tr>
+<td>DMU03</td>
+<td>Qls</td>
+<td>Qls</td>
+<td>Landslide debris</td>
+<td>Landslide debris</td>
+<td>Quaternary</td>
+<td>Rock fragments, colluvium, soil, and, locally, organic matter deposited by mass wasting; unstratified and poorly sorted; surface commonly hummocky</td>
+<td>Mass movement sediment</td>
+<td>High</td>
+<td>1-2</td>
+<td> </td>
+<td>381</td>
+<td>---</td>
+<td>---</td>
+<td>DAS1</td>
+<td>rah</td>
+<td>2014-09-29 14:49:26</td>
+<td>rah</td>
+<td>2014-10-12 18:22:32</td>
+</tr>
+<tr>
+<td>DMU04</td>
+<td>Qde</td>
+<td>Qde</td>
+<td>Evans Creek drift</td>
+<td>Evans Creek drift</td>
+<td>Pleistocene</td>
+<td>Undifferentiated alpine glacial drift consisting of till, moraine, and outwash deposits (Hammond, 1980); till (Qdet) is bouldery, loosely compacted, and complexly interbedded with poorly sorted silt, sand, and gravel; oxidized yellowish-brown 0.6 to 0.9 m deep; cobbles near the surface generally lack weathered rinds; moraines retain much original constructional topography; outwash deposits are loosely consolidated, stratified, poorly to well-sorted silts, sands, and gravels and commonly underlie terraces graded to moraines; occurs in most valleys, deposited by Cascade ice cap; includes younger till in Tieton River Valley of Long (1951); age between 12,500 and 20,000 yr (Crandell and Miller, 1974)</td>
+<td>Ice-contact and ice-marginal sediment, mostly coarse-grained</td>
+<td>Medium</td>
+<td>1-3</td>
+<td> </td>
+<td>192</td>
+<td>---</td>
+<td>---</td>
+<td>DAS1</td>
+<td>rah</td>
+<td>2014-09-29 14:49:26</td>
+<td>rah</td>
+<td>2014-10-12 18:22:32</td>
+</tr>
+<tr>
+<td>DMU05</td>
+<td> </td>
+<td> </td>
+<td>Stratified rocks</td>
+<td></td>
+<td> </td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>2</td>
+<td> </td>
+<td> </td>
+<td>---</td>
+<td>---</td>
+<td> </td>
+<td>rah</td>
+<td>2014-09-29 14:49:26</td>
+<td>rah</td>
+<td>2014-10-12 18:17:15</td>
+</tr>
+<tr>
+<td>DMU06</td>
+<td>Tvc3</td>
+<td>Tvc3</td>
+<td>Volcaniclastic rocks</td>
+<td>Volcaniclastic rocks</td>
+<td>Miocene</td>
+<td>Multicolored volcaniclastic rocks including tuff, tuff breccias, lithic breccia, conglomerate, and volcanic sandstone; interbedded with lava flows, shown separately as Tva3, and Tvb3; shown as Tvt3 where unit is primarily unworked tuff and tuff breccia; unit is similar to unit Toh (Ohanapecosh Formation), but is commonly thinner, less zeolitized, and stratigraphically bounded by units younger than the Oligocene volcaniclastic rocks; most of these rocks occur in the southwest corner of the quadrangle and continue into the Mount Adams quadrangle (Korosec, 1987); west of Randle, poorly sorted, massive breccia and conglomerate with sand- to boulder-sized clasts of augite andesite (Randle laharic breccia conglomerate of Fisher, 1960)</td>
+<td>Sedimentary and extrusive igneous material</td>
+<td>Medium</td>
+<td>2-1</td>
+<td> </td>
+<td>327</td>
+<td>---</td>
+<td>---</td>
+<td>DAS1</td>
+<td>rah</td>
+<td>2014-09-29 14:49:26</td>
+<td>rah</td>
+<td>2014-10-12 18:22:32</td>
+</tr>
+<tr>
+<td>DMU07</td>
+<td>Tva3</td>
+<td>Tva3</td>
+<td>Andesite flows</td>
+<td>Andesite flows</td>
+<td>Mioceme</td>
+<td>South of the Cowlitz River in the southwest corner of the quadrangle, light- to dark-gray, hypersthene andesite, hypersthene basaltic andesite, and two-pyroxene basaltic andesite flows and flow breccia; at Lone Tree Mountain south of the quadrangle flows of this volcanic rock package were dated at 22.1 +/- 1.3 m.y.B.P. (K-Ar whole rock, Phillips and others, 1986; Korosec, 1987); at Lookout Mountain south of Mount Rainier National Park an olivine(?) basalt flow interbedded with andesitic flows and flow breccias yielded a K-Ar (whole rock) age of 19.1 +/- 1.4 m.y.B.P. (Table 2, sample location K-Ar 1; Phillips and others, 1986); west of Skyo Mountain unit Tva3 is a vitric, aphanitic, black to very dark-gray basalt or andesite lithologically similar to the flows of Lookout Mountain; north of Randle a plagioclase-clinopyroxene phyric andesite flow yielded an age date of 16.1 +/- 1.8 m.y. B.P. {Table 2, sample location K-Ar 2; Phillips and others, 1986); near Klickton Divide southeast of the Goat Rocks (south of the quadrangle) the basaltic andesite is poorly studied, but it has been described as being similar to the Fifes Peak Formation (D. A. Swanson, oral communication, 1985)</td>
+<td>Intermediate-composition lava flows</td>
+<td>High</td>
+<td>2-2</td>
+<td> </td>
+<td>454</td>
+<td>---</td>
+<td>---</td>
+<td>DAS1</td>
+<td>rah</td>
+<td>2014-09-29 14:49:26</td>
+<td>rah</td>
+<td>2014-10-12 18:22:32</td>
+</tr>
+<tr>
+<td>DMU08</td>
+<td>Tvba3</td>
+<td>Tvba3</td>
+<td>Basaltic andesite flows</td>
+<td>Basaltic andesite flows</td>
+<td>Miocene</td>
+<td>South of the Cowlitz River in the southwest corner of the quadrangle, light- to dark-gray, hypersthene andesite, hypersthene basaltic andesite, and two-pyroxene basaltic andesite flows and flow breccia; at Lone Tree Mountain south of the quadrangle flows of this volcanic rock package were dated at 22.1 +/- 1.3 m.y.B.P. (K-Ar whole rock, Phillips and others, 1986; Korosec, 1987); at Lookout Mountain south of Mount Rainier National Park an olivine(?) basalt flow interbedded with andesitic flows and flow breccias yielded a K-Ar (whole rock) age of 19.1 +/- 1.4 m.y.B.P. (Table 2, sample location K-Ar 1; Phillips and others, 1986); west of Skyo Mountain unit Tva3 is a vitric, aphanitic, black to very dark-gray basalt or andesite lithologically similar to the flows of Lookout Mountain; north of Randle a plagioclase-clinopyroxene phyric andesite flow yielded an age date of 16.1 +/- 1.8 m.y. B.P. {Table 2, sample location K-Ar 2; Phillips and others, 1986); near Klickton Divide southeast of the Goat Rocks (south of the quadrangle) the basaltic andesite is poorly studied, but it has been described as being similar to the Fifes Peak Formation (D. A. Swanson, oral communication, 1985)</td>
+<td>Lava flows</td>
+<td>Medium</td>
+<td>2-3</td>
+<td> </td>
+<td>477</td>
+<td>---</td>
+<td>---</td>
+<td>DAS1</td>
+<td>rah</td>
+<td>2014-09-29 14:49:26</td>
+<td>rah</td>
+<td>2014-10-12 18:22:32</td>
+</tr>
+<tr>
+<td>DMU09</td>
+<td>Tvt3</td>
+<td>Tvt3</td>
+<td>Tuff and tuff breccia</td>
+<td>Tuff and tuff breccia</td>
+<td>Miocene</td>
+<td>In southwest corner of quadrangle, light-gray to brown lithic tuff breccia and very light gray, pumiceous dacitic to rhyodacitic tuff, tuff breccia and interbedded volcaniclastic sandstone; north of the Skate Creek-Johnson Creek confluence on Lookout Mountain are felsic pyroclastic rocks which underlie andesitic and basaltic lavas (unit Tva3) dated at 19.1 +/- 1.4 m.y.B.P. (K-Ar 1, Table 2; Phillips and others, 1986); north of the American River in the Miner Creek drainage west of Fifes Peaks; Hammond (1980) correlated a pale-orange to yellowish-brown lithic tuff with well-developed columnar and platy to slabby jointing and locally forming cliffs (which Abbott, 1953, included within the lower Miocene Fifes Peak Formation] with the tuffs at Bumping River (unit Tbr with a Miocene-Oligocene age)</td>
+<td>Volcaniclastic (fragmental) material</td>
+<td>Medium</td>
+<td>2-4</td>
+<td> </td>
+<td>305</td>
+<td>---</td>
+<td>---</td>
+<td>DAS1</td>
+<td>rah</td>
+<td>2014-09-29 14:49:26</td>
+<td>rah</td>
+<td>2014-10-12 18:22:32</td>
+</tr>
+<tr>
+<td>DMU10</td>
+<td>Tva2</td>
+<td>Tva2</td>
+<td>Andesite flows</td>
+<td>Andesite flows</td>
+<td>Oligocene</td>
+<td>Andesite and basaltic andesite flows and flow breccia believed to be equivalent to the Ohanapecosh lavas (unit Tohl) but not called Ohanapecosh because it remains to be demonstrated through detailed mapping that they are the same unit; north of Randle are dark-colored massive to platy, porphyritic two-pyroxene andesite flows and flow breccia with interbedded volcaniclastic breccia and conglomerate; age of this package of rock where it crops out to the west in the Centralia quadrangle was 27.0 +/- 1.8 m.y.B.P. (whole rock, Phillips and others, 1986; Schasse, 1987, Table 2, sample location K-Ar 6); in the Silver Creek Depression and on Dixon Mountain, unit is gray, brown, and green interbedded andesite flows and flow breccia with subordinate amounts of laharic and tuff breccia 9U.S. Forest Service, Packwood Ranger District, written commun., 1984)</td>
+<td>Intermediate-composition lava flows</td>
+<td>Medium</td>
+<td>2-5</td>
+<td> </td>
+<td>219</td>
+<td>---</td>
+<td>---</td>
+<td>DAS1</td>
+<td>rah</td>
+<td>2014-09-29 14:49:26</td>
+<td>rah</td>
+<td>2014-10-12 18:22:32</td>
+</tr>
+<tr>
+<td>DMU11</td>
+<td>Toh</td>
+<td>Toh</td>
+<td>Ohanapecosh Formation</td>
+<td>Ohanapecosh Formation</td>
+<td>Oligocene</td>
+<td>Greenish to brown and maroon dacitic to basaltic-andesitic lithic breccia, tuff, tuff breccia, and volcaniclastic siltstone, sandstone, and conglomerate (Fiske and others, 1963; Winters, 1984; Vance and others, in press); breccias typically are unstratified, crudely graded, or very thickly bedded and poorly sorted, with clasts of heterolithologic debris, including highly altered pyroclastic rock, porphyritic basaltic andesite to dacite, and aphyric to glassy lava in a matrix of altered plagioclase, devitrified glass shards, and clay; sandstone and ash to lapilli tuff commonly form well- bedded, graded, and parallel laminated sequences; most of the unit is extensively zeolitized and hydrothermally altered; local accumulations of lava; dominantly andesitic, are near vent facies; some of the larger lava accumulations represent volcanic centers from which the pyroclastic material may have been erupted; some of the lavas have been mapped as distinct units in the quadrangle; a correlation between the Ohanapecosh and similar rocks on the eastern side of the pre-Tertiary inlier (volcani- clastic rocks of Wildcat Creek, unit Twc) is strongly suggested by Vance and others (in press), based in part on concordant age dates for the two units; radiometric age dates from tuffs throughout the section of Ohanapecosh Formation range from as old as 36.4 +/- 3.6 m.y.B.P. to as young as 28.3 +/- 2.9 m.y.B.P.; the base of the unit has been demonstrated to interfinger with the underlying Eocene feldspathic sandstones of the Puget Group and its correlatives throughout the quadrangle (Buckovic, 1974; Winters, 1984; Abbott, 1953; Vance and others, in press; Ellingson, 1959); these data show that the Ohanapecosh spans the Oligocene and probably includes some upper Eocene strata </td>
+<td>Sedimentary and extrusive igneous material</td>
+<td>High</td>
+<td>2-6</td>
+<td> </td>
+<td>570</td>
+<td>---</td>
+<td>---</td>
+<td>DAS1</td>
+<td>rah</td>
+<td>2014-09-29 14:49:26</td>
+<td>rah</td>
+<td>2014-10-12 18:22:32</td>
+</tr>
+<tr>
+<td>DMU12</td>
+<td> </td>
+<td> </td>
+<td>Intrusive rocks</td>
+<td></td>
+<td> </td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>3</td>
+<td> </td>
+<td> </td>
+<td>---</td>
+<td>---</td>
+<td> </td>
+<td>rah</td>
+<td>2014-09-29 14:49:26</td>
+<td>rah</td>
+<td>2014-10-12 18:17:15</td>
+</tr>
+<tr>
+<td>DMU13</td>
+<td>Tid</td>
+<td>Tid</td>
+<td>Intrusive andesite and dacite</td>
+<td>Intrusive andesite and dacite</td>
+<td>Pliocene-Miocene</td>
+<td>Porphyritic dacite domes, plugs, and stocks northeast of the Goat Rocks and east of Deep Creek (south of Bumping Lake); consists of several small stocks and plugs of pale brown to gray, fine- to medium-grained biotite-hornblende dacite of Pliocene age (Clayton, 1983); north of Bumping Lake dacite of probable Miocene age cuts a short section of Puget Group rocks at its base (P.E. Hammond, written commun., 1986); in the Silver Creek Park and Davis Creek areas west of Packwood two bodies of light gray to dark green-gray dacite of Miocene or possibly late Oligocene age (U.S. Forest Service, Packwood Ranger District, written commun., 1984; and Table 1, this report)</td>
+<td>Fine-grained intrusive igneous rock</td>
+<td>High</td>
+<td>3-1</td>
+<td> </td>
+<td>374</td>
+<td>---</td>
+<td>---</td>
+<td>DAS1</td>
+<td>rah</td>
+<td>2014-09-29 14:49:26</td>
+<td>rah</td>
+<td>2014-10-12 18:22:32</td>
+</tr>
+<tr>
+<td>DMU14</td>
+<td>Tigd</td>
+<td>Tigd</td>
+<td>Granodiorite</td>
+<td>Granodiorite</td>
+<td>Miocene</td>
+<td>In the Bumping Lake area on Nelson Ridge, propylitically altered diorite, quartz diorite, and granodiorite plugs and anastomosing veins, sills, and dikes (G.A. Clayton, written commun., 1985); mapped as dacite porphyry by Abbott (1953) and rhyodacite porphyry by Simmons and others (1983); west of Summit Creek-Carlton Creek area, granodiorite split out of Tatoosh hypabyssal rocks (unit Tit) (M.A. Korosec, oral commun., 1986); northeast of Randle, two granodiorite stocks have been mapped (M.A. Korosec, written commun., 1985)</td>
+<td>Coarse-grained intrusive igneous rock</td>
+<td>High</td>
+<td>3-2</td>
+<td> </td>
+<td>45</td>
+<td>---</td>
+<td>---</td>
+<td>DAS1</td>
+<td>rah</td>
+<td>2014-09-29 14:49:26</td>
+<td>rah</td>
+<td>2014-10-12 18:22:32</td>
+</tr>
+<tr>
+<td>DMU15</td>
+<td>Tidi</td>
+<td>Tidi</td>
+<td>Diorite</td>
+<td>Diorite</td>
+<td>Miocene-Oligocene</td>
+<td>Dikes, sills, and small stocks of light- to medium-gray pale-brown, fine- to coarse-grained, pyroxene (augite and/or hypersthene) diorite, commonly altered greenish-gray to olive-gray (Fisher, 1957; Simmons and others, 1983; Swanson, 1978; U.S. Forest Service, Packwood Ranger District, written communication, 1984) </td>
+<td>Coarse-grained, intermediate-composition intrusive igneous rock</td>
+<td>High</td>
+<td>3-3</td>
+<td> </td>
+<td>39</td>
+<td>---</td>
+<td>---</td>
+<td>DAS1</td>
+<td>rah</td>
+<td>2014-09-29 14:49:26</td>
+<td>rah</td>
+<td>2014-10-12 18:22:32</td>
+</tr>
+</table>
+<h2>GEODATABASE DESCRIPTION</h2>
+<font face="Courier New, Courier, monospace">Tables: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;DescriptionOfMapUnits, 15 records<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspDescriptionOfMapUnits_ID String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspMapUnit String:10  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspLabel String:30  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspName String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspFullName String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspAge String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspDescription String:3000  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspGeneralLithology String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspGeneralLithologyConfidence String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspHierarchyKey String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspParagraphStyle String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspSymbol String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspAreaFillRGB String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspAreaFillPatternDescription String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspDescriptionSourceID String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspcreated_user String:255  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspcreated_date Date:8  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsplast_edited_user String:255  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsplast_edited_date Date:8  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;DataSources, 4 records<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspDataSources_ID String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspSource String:500  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspNotes String:300  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspcreated_user String:255  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspcreated_date Date:8  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsplast_edited_user String:255  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsplast_edited_date Date:8  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Glossary, 20 records<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspGlossary_ID String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspTerm String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspDefinition String:3000  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspDefinitionSourceID String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspcreated_user String:255  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspcreated_date Date:8  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsplast_edited_user String:255  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsplast_edited_date Date:8  False<br>
+Feature data set: GeologicMap<br>
+&nbsp;&nbsp;&nbsp;&nbsp;DataSourcePolys, 0 records<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspDataSourcePolys_ID String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspNotes String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspDataSourceID String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspcreated_user String:255  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspcreated_date Date:8  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsplast_edited_user String:255  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsplast_edited_date Date:8  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;ContactsAndFaults, 28 records<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspContactsAndFaults_ID String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspType String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspIsConcealed String:1  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspExistenceConfidence String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspIdentityConfidence String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspLocationConfidenceMeters Single:4  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspSymbol String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspLabel String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspDataSourceID String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspNotes String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspLTYPE String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspcreated_user String:255  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspcreated_date Date:8  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsplast_edited_user String:255  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsplast_edited_date Date:8  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;GeologicLines, 2 records<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspGeologicLines_ID String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspType String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspIsConcealed String:1  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspExistenceConfidence String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspIdentityConfidence String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspLocationConfidenceMeters Single:4  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspSymbol String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspLabel String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspDataSourceID String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspNotes String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspLTYPE String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspcreated_user String:255  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspcreated_date Date:8  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsplast_edited_user String:255  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsplast_edited_date Date:8  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;OrientationPoints, 18 records<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspOrientationPoints_ID String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspType String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspStationID String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspMapUnit String:10  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspSymbol String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspLabel String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspPlotAtScale Single:4  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspLocationConfidenceMeters Single:4  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspAzimuth Single:4  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspInclination Single:4  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspIdentityConfidence String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspOrientationConfidenceDegrees Single:4  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspLocationSourceID String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspDataSourceID String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspNotes String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspPTTYPE String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspcreated_user String:255  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspcreated_date Date:8  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsplast_edited_user String:255  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsplast_edited_date Date:8  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;MapUnitPolys, 24 records<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspMapUnitPolys_ID String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspMapUnit String:10  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspIdentityConfidence String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspLabel String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspSymbol String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspNotes String:254  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspDataSourceID String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspcreated_user String:255  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspcreated_date Date:8  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsplast_edited_user String:255  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsplast_edited_date Date:8  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspORIG_FID Integer:4  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspOldPoly SmallInteger:2  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspArea_Length Single:4  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;OrientationPointLabels, 18 records<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspOrientationPointsID String:50  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspInclination String:3  False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspPlotAtScale Single:4  False<br>
+</font>

@@ -1,0 +1,17 @@
+مصادر الاستايلات - Source (الحدود الإدارية - خارج ESRI)
+====================================================
+التخصص: حدود إدارية / جغرافية سياسية
+
+1) Natural Earth - Admin 0/1/2 Boundaries (Public Domain)
+   https://www.naturalearthdata.com/downloads/
+   حدود دول + محافظات + تسميات - مجال عام.
+
+2) GADM - Global Administrative Areas (مجاني للبحث)
+   https://gadm.org/
+   حدود إدارية حتى المستوى البلدي.
+
+3) OpenStreetMap - boundary=administrative, admin_level 2/4/6/8
+   https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative
+   منهجية المستويات المستخدمة في التسمية.
+
+تاريخ البناء: 2026-09-29 | البناء محلي (ليس من ESRI).

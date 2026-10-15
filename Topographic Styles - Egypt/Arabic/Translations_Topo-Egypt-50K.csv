@@ -1,0 +1,199 @@
+﻿field,id,key,original,arabic,new_value,status
+Fill Symbols.Name,17,,Hypso 0-50 m,تظليل 0-50 م,تظليل 0-50 م | Hypso 0-50 m,translated
+Fill Symbols.Category,17,,Hypsometric,تظليل ارتفاعي,تظليل ارتفاعي | Hypsometric,translated
+Fill Symbols.Name,18,,Hypso 50-200 m,تظليل 50-200 م,تظليل 50-200 م | Hypso 50-200 m,translated
+Fill Symbols.Category,18,,Hypsometric,تظليل ارتفاعي,تظليل ارتفاعي | Hypsometric,translated
+Fill Symbols.Name,19,,Hypso 200-500 m,تظليل 200-500 م,تظليل 200-500 م | Hypso 200-500 m,translated
+Fill Symbols.Category,19,,Hypsometric,تظليل ارتفاعي,تظليل ارتفاعي | Hypsometric,translated
+Fill Symbols.Name,20,,Hypso 500-1000 m,تظليل 500-1000 م,تظليل 500-1000 م | Hypso 500-1000 m,translated
+Fill Symbols.Category,20,,Hypsometric,تظليل ارتفاعي,تظليل ارتفاعي | Hypsometric,translated
+Fill Symbols.Name,21,,Hypso over 1000 m,تظليل فوق 1000 م,تظليل فوق 1000 م | Hypso over 1000 m,translated
+Fill Symbols.Category,21,,Hypsometric,تظليل ارتفاعي,تظليل ارتفاعي | Hypsometric,translated
+Fill Symbols.Name,22,,Lake Nasser water,بحيرة ناصر,بحيرة ناصر | Lake Nasser water,translated
+Fill Symbols.Category,22,,Hydro,مياه,مياه | Hydro,translated
+Fill Symbols.Name,23,,Sabkha marsh,سبخة,سبخة | Sabkha marsh,translated
+Fill Symbols.Category,23,,Hydro,مياه,مياه | Hydro,translated
+Fill Symbols.Name,24,,Urban area tint,كتلة عمرانية,كتلة عمرانية | Urban area tint,translated
+Fill Symbols.Category,24,,Settlements,عمران,عمران | Settlements,translated
+Fill Symbols.Name,25,,Cultivated Nile Delta,أرض زراعية دلتا ووادي,أرض زراعية دلتا ووادي | Cultivated Nile Delta,translated
+Fill Symbols.Category,25,,Vegetation,نبات,نبات | Vegetation,translated
+Fill Symbols.Name,26,,Orchard,بستان,بستان | Orchard,translated
+Fill Symbols.Category,26,,Vegetation,نبات,نبات | Vegetation,translated
+Fill Symbols.Name,27,,Palm grove,نخيل,نخيل | Palm grove,translated
+Fill Symbols.Category,27,,Vegetation,نبات,نبات | Vegetation,translated
+Fill Symbols.Name,28,,Scrub desert vegetation,حشائش صحراوية,حشائش صحراوية | Scrub desert vegetation,translated
+Fill Symbols.Category,28,,Vegetation,نبات,نبات | Vegetation,translated
+Line Symbols.Name,18,,Index contour,كنتور رئيسي,كنتور رئيسي | Index contour,translated
+Line Symbols.Category,18,,Relief,تضاريس,تضاريس | Relief,translated
+Line Symbols.Name,19,,Intermediate contour,كنتور فرعي,كنتور فرعي | Intermediate contour,translated
+Line Symbols.Category,19,,Relief,تضاريس,تضاريس | Relief,translated
+Line Symbols.Name,20,,Depression contour,كنتور منخفض,كنتور منخفض | Depression contour,translated
+Line Symbols.Category,20,,Relief,تضاريس,تضاريس | Relief,translated
+Line Symbols.Name,21,,Escarpment cliff,جرف,جرف | Escarpment cliff,translated
+Line Symbols.Category,21,,Relief,تضاريس,تضاريس | Relief,translated
+Line Symbols.Name,22,,Sand dune,كثيب رملي,كثيب رملي | Sand dune,translated
+Line Symbols.Category,22,,Relief,تضاريس,تضاريس | Relief,translated
+Line Symbols.Name,23,,Wadi thalweg,بطن وادي,بطن وادي | Wadi thalweg,translated
+Line Symbols.Category,23,,Relief,تضاريس,تضاريس | Relief,translated
+Line Symbols.Name,24,,Nile river,نهر النيل,نهر النيل | Nile river,translated
+Line Symbols.Category,24,,Hydro,مياه,مياه | Hydro,translated
+Line Symbols.Name,25,,Main canal,ترعة رئيسية,ترعة رئيسية | Main canal,translated
+Line Symbols.Category,25,,Hydro,مياه,مياه | Hydro,translated
+Line Symbols.Name,26,,Drain مصرف,مصرف,مصرف | Drain مصرف,translated
+Line Symbols.Category,26,,Hydro,مياه,مياه | Hydro,translated
+Line Symbols.Name,27,,Intermittent wadi stream,وادي موسمي,وادي موسمي | Intermittent wadi stream,translated
+Line Symbols.Category,27,,Hydro,مياه,مياه | Hydro,translated
+Line Symbols.Name,28,,Barrage dam,قناطر وسد,قناطر وسد | Barrage dam,translated
+Line Symbols.Category,28,,Hydro,مياه,مياه | Hydro,translated
+Line Symbols.Name,29,,Highway,طريق سريع,طريق سريع | Highway,translated
+Line Symbols.Category,29,,Transport,نقل,نقل | Transport,translated
+Line Symbols.Name,30,,Paved road,طريق مرصوف,طريق مرصوف | Paved road,translated
+Line Symbols.Category,30,,Transport,نقل,نقل | Transport,translated
+Line Symbols.Name,31,,Unpaved road,طريق غير مرصوف,طريق غير مرصوف | Unpaved road,translated
+Line Symbols.Category,31,,Transport,نقل,نقل | Transport,translated
+Line Symbols.Name,32,,Desert track,مدق صحراوي,مدق صحراوي | Desert track,translated
+Line Symbols.Category,32,,Transport,نقل,نقل | Transport,translated
+Line Symbols.Name,33,,Footpath,ممر,ممر | Footpath,translated
+Line Symbols.Category,33,,Transport,نقل,نقل | Transport,translated
+Line Symbols.Name,34,,Railway double,سكة مزدوجة,سكة مزدوجة | Railway double,translated
+Line Symbols.Category,34,,Transport,نقل,نقل | Transport,translated
+Line Symbols.Name,35,,Railway single,سكة مفردة,سكة مفردة | Railway single,translated
+Line Symbols.Category,35,,Transport,نقل,نقل | Transport,translated
+Line Symbols.Name,36,,Airport runway,مدرج,مدرج | Airport runway,translated
+Line Symbols.Category,36,,Transport,نقل,نقل | Transport,translated
+Line Symbols.Name,37,,International boundary,حد دولي,حد دولي | International boundary,translated
+Line Symbols.Category,37,,Boundaries,حدود,حدود | Boundaries,translated
+Line Symbols.Name,38,,Governorate boundary,حد محافظة,حد محافظة | Governorate boundary,translated
+Line Symbols.Category,38,,Boundaries,حدود,حدود | Boundaries,translated
+Line Symbols.Name,39,,Markaz boundary,حد مركز,حد مركز | Markaz boundary,translated
+Line Symbols.Category,39,,Boundaries,حدود,حدود | Boundaries,translated
+Marker Symbols.Name,240,,Spot height,نقطة منسوب,نقطة منسوب | Spot height,translated
+Marker Symbols.Category,240,,Relief,تضاريس,تضاريس | Relief,translated
+Marker Symbols.Name,241,,Triangulation pillar,ركيزة مثلثات,ركيزة مثلثات | Triangulation pillar,translated
+Marker Symbols.Category,241,,Geodesy,جيوديسيا,جيوديسيا | Geodesy,translated
+Marker Symbols.Name,242,,Benchmark BM,روبير,روبير | Benchmark BM,translated
+Marker Symbols.Category,242,,Geodesy,جيوديسيا,جيوديسيا | Geodesy,translated
+Marker Symbols.Name,243,,Well bir,بئر,بئر | Well bir,translated
+Marker Symbols.Category,243,,Hydro,مياه,مياه | Hydro,translated
+Marker Symbols.Name,244,,Spring ain,عين,عين | Spring ain,translated
+Marker Symbols.Category,244,,Hydro,مياه,مياه | Hydro,translated
+Marker Symbols.Name,245,,Water tank,خزان مياه,خزان مياه | Water tank,translated
+Marker Symbols.Category,245,,Hydro,مياه,مياه | Hydro,translated
+Marker Symbols.Name,246,,Bridge,كوبري,كوبري | Bridge,translated
+Marker Symbols.Category,246,,Transport,نقل,نقل | Transport,translated
+Marker Symbols.Name,247,,Capital Cairo,القاهرة عاصمة,القاهرة عاصمة | Capital Cairo,translated
+Marker Symbols.Category,247,,Settlements,عمران,عمران | Settlements,translated
+Marker Symbols.Name,248,,Governorate capital,عاصمة محافظة,عاصمة محافظة | Governorate capital,translated
+Marker Symbols.Category,248,,Settlements,عمران,عمران | Settlements,translated
+Marker Symbols.Name,249,,City,مدينة,مدينة | City,translated
+Marker Symbols.Category,249,,Settlements,عمران,عمران | Settlements,translated
+Marker Symbols.Name,250,,Village,قرية,قرية | Village,translated
+Marker Symbols.Category,250,,Settlements,عمران,عمران | Settlements,translated
+Marker Symbols.Name,251,,Hamlet izba,عزبة وكفر,عزبة وكفر | Hamlet izba,translated
+Marker Symbols.Category,251,,Settlements,عمران,عمران | Settlements,translated
+Marker Symbols.Name,252,,Ruins antiquities,آثار,آثار | Ruins antiquities,translated
+Marker Symbols.Category,252,,Culture,ثقافة,ثقافة | Culture,translated
+Marker Symbols.Name,253,,Mosque,مسجد,مسجد | Mosque,translated
+Marker Symbols.Category,253,,Culture,ثقافة,ثقافة | Culture,translated
+Marker Symbols.Name,254,,Church monastery,كنيسة ودير,كنيسة ودير | Church monastery,translated
+Marker Symbols.Category,254,,Culture,ثقافة,ثقافة | Culture,translated
+Marker Symbols.Name,255,,School hospital,مدرسة ومستشفى,مدرسة ومستشفى | School hospital,translated
+Marker Symbols.Category,255,,Culture,ثقافة,ثقافة | Culture,translated
+Marker Symbols.Name,256,,Cemetery,جبانة,جبانة | Cemetery,translated
+Marker Symbols.Category,256,,Culture,ثقافة,ثقافة | Culture,translated
+Colors.Name,49,,Index contour,كنتور رئيسي,كنتور رئيسي | Index contour,translated
+Colors.Category,49,,Relief,تضاريس,تضاريس | Relief,translated
+Colors.Name,50,,Intermediate contour,كنتور فرعي,كنتور فرعي | Intermediate contour,translated
+Colors.Category,50,,Relief,تضاريس,تضاريس | Relief,translated
+Colors.Name,51,,Depression contour,كنتور منخفض,كنتور منخفض | Depression contour,translated
+Colors.Category,51,,Relief,تضاريس,تضاريس | Relief,translated
+Colors.Name,52,,Spot height,نقطة منسوب,نقطة منسوب | Spot height,translated
+Colors.Category,52,,Relief,تضاريس,تضاريس | Relief,translated
+Colors.Name,53,,Triangulation pillar,ركيزة مثلثات,ركيزة مثلثات | Triangulation pillar,translated
+Colors.Category,53,,Geodesy,جيوديسيا,جيوديسيا | Geodesy,translated
+Colors.Name,54,,Benchmark BM,روبير,روبير | Benchmark BM,translated
+Colors.Category,54,,Geodesy,جيوديسيا,جيوديسيا | Geodesy,translated
+Colors.Name,55,,Escarpment cliff,جرف,جرف | Escarpment cliff,translated
+Colors.Category,55,,Relief,تضاريس,تضاريس | Relief,translated
+Colors.Name,56,,Sand dune,كثيب رملي,كثيب رملي | Sand dune,translated
+Colors.Category,56,,Relief,تضاريس,تضاريس | Relief,translated
+Colors.Name,57,,Wadi thalweg,بطن وادي,بطن وادي | Wadi thalweg,translated
+Colors.Category,57,,Relief,تضاريس,تضاريس | Relief,translated
+Colors.Name,58,,Hypso 0-50 m,تظليل 0-50 م,تظليل 0-50 م | Hypso 0-50 m,translated
+Colors.Category,58,,Hypsometric,تظليل ارتفاعي,تظليل ارتفاعي | Hypsometric,translated
+Colors.Name,59,,Hypso 50-200 m,تظليل 50-200 م,تظليل 50-200 م | Hypso 50-200 m,translated
+Colors.Category,59,,Hypsometric,تظليل ارتفاعي,تظليل ارتفاعي | Hypsometric,translated
+Colors.Name,60,,Hypso 200-500 m,تظليل 200-500 م,تظليل 200-500 م | Hypso 200-500 m,translated
+Colors.Category,60,,Hypsometric,تظليل ارتفاعي,تظليل ارتفاعي | Hypsometric,translated
+Colors.Name,61,,Hypso 500-1000 m,تظليل 500-1000 م,تظليل 500-1000 م | Hypso 500-1000 m,translated
+Colors.Category,61,,Hypsometric,تظليل ارتفاعي,تظليل ارتفاعي | Hypsometric,translated
+Colors.Name,62,,Hypso over 1000 m,تظليل فوق 1000 م,تظليل فوق 1000 م | Hypso over 1000 m,translated
+Colors.Category,62,,Hypsometric,تظليل ارتفاعي,تظليل ارتفاعي | Hypsometric,translated
+Colors.Name,63,,Nile river,نهر النيل,نهر النيل | Nile river,translated
+Colors.Category,63,,Hydro,مياه,مياه | Hydro,translated
+Colors.Name,64,,Main canal,ترعة رئيسية,ترعة رئيسية | Main canal,translated
+Colors.Category,64,,Hydro,مياه,مياه | Hydro,translated
+Colors.Name,65,,Drain مصرف,مصرف,مصرف | Drain مصرف,translated
+Colors.Category,65,,Hydro,مياه,مياه | Hydro,translated
+Colors.Name,66,,Intermittent wadi stream,وادي موسمي,وادي موسمي | Intermittent wadi stream,translated
+Colors.Category,66,,Hydro,مياه,مياه | Hydro,translated
+Colors.Name,67,,Lake Nasser water,بحيرة ناصر,بحيرة ناصر | Lake Nasser water,translated
+Colors.Category,67,,Hydro,مياه,مياه | Hydro,translated
+Colors.Name,68,,Well bir,بئر,بئر | Well bir,translated
+Colors.Category,68,,Hydro,مياه,مياه | Hydro,translated
+Colors.Name,69,,Spring ain,عين,عين | Spring ain,translated
+Colors.Category,69,,Hydro,مياه,مياه | Hydro,translated
+Colors.Name,70,,Water tank,خزان مياه,خزان مياه | Water tank,translated
+Colors.Category,70,,Hydro,مياه,مياه | Hydro,translated
+Colors.Name,71,,Barrage dam,قناطر وسد,قناطر وسد | Barrage dam,translated
+Colors.Category,71,,Hydro,مياه,مياه | Hydro,translated
+Colors.Name,72,,Sabkha marsh,سبخة,سبخة | Sabkha marsh,translated
+Colors.Category,72,,Hydro,مياه,مياه | Hydro,translated
+Colors.Name,73,,Highway,طريق سريع,طريق سريع | Highway,translated
+Colors.Category,73,,Transport,نقل,نقل | Transport,translated
+Colors.Name,74,,Paved road,طريق مرصوف,طريق مرصوف | Paved road,translated
+Colors.Category,74,,Transport,نقل,نقل | Transport,translated
+Colors.Name,75,,Unpaved road,طريق غير مرصوف,طريق غير مرصوف | Unpaved road,translated
+Colors.Category,75,,Transport,نقل,نقل | Transport,translated
+Colors.Name,76,,Desert track,مدق صحراوي,مدق صحراوي | Desert track,translated
+Colors.Category,76,,Transport,نقل,نقل | Transport,translated
+Colors.Name,77,,Footpath,ممر,ممر | Footpath,translated
+Colors.Category,77,,Transport,نقل,نقل | Transport,translated
+Colors.Name,78,,Railway double,سكة مزدوجة,سكة مزدوجة | Railway double,translated
+Colors.Category,78,,Transport,نقل,نقل | Transport,translated
+Colors.Name,79,,Railway single,سكة مفردة,سكة مفردة | Railway single,translated
+Colors.Category,79,,Transport,نقل,نقل | Transport,translated
+Colors.Name,80,,Bridge,كوبري,كوبري | Bridge,translated
+Colors.Category,80,,Transport,نقل,نقل | Transport,translated
+Colors.Name,81,,Airport runway,مدرج,مدرج | Airport runway,translated
+Colors.Category,81,,Transport,نقل,نقل | Transport,translated
+Colors.Name,82,,Capital Cairo,القاهرة عاصمة,القاهرة عاصمة | Capital Cairo,translated
+Colors.Category,82,,Settlements,عمران,عمران | Settlements,translated
+Colors.Name,83,,Governorate capital,عاصمة محافظة,عاصمة محافظة | Governorate capital,translated
+Colors.Category,83,,Settlements,عمران,عمران | Settlements,translated
+Colors.Name,84,,City,مدينة,مدينة | City,translated
+Colors.Category,84,,Settlements,عمران,عمران | Settlements,translated
+Colors.Name,85,,Village,قرية,قرية | Village,translated
+Colors.Category,85,,Settlements,عمران,عمران | Settlements,translated
+Colors.Name,86,,Hamlet izba,عزبة وكفر,عزبة وكفر | Hamlet izba,translated
+Colors.Category,86,,Settlements,عمران,عمران | Settlements,translated
+Colors.Name,87,,Urban area tint,كتلة عمرانية,كتلة عمرانية | Urban area tint,translated
+Colors.Category,87,,Settlements,عمران,عمران | Settlements,translated
+Colors.Name,88,,Ruins antiquities,آثار,آثار | Ruins antiquities,translated
+Colors.Category,88,,Culture,ثقافة,ثقافة | Culture,translated
+Colors.Name,89,,Mosque,مسجد,مسجد | Mosque,translated
+Colors.Category,89,,Culture,ثقافة,ثقافة | Culture,translated
+Colors.Name,90,,Church monastery,كنيسة ودير,كنيسة ودير | Church monastery,translated
+Colors.Category,90,,Culture,ثقافة,ثقافة | Culture,translated
+Colors.Name,91,,School hospital,مدرسة ومستشفى,مدرسة ومستشفى | School hospital,translated
+Colors.Category,91,,Culture,ثقافة,ثقافة | Culture,translated
+Colors.Name,92,,Cemetery,جبانة,جبانة | Cemetery,translated
+Colors.Category,92,,Culture,ثقافة,ثقافة | Culture,translated
+Colors.Name,93,,International boundary,حد دولي,حد دولي | International boundary,translated
+Colors.Category,93,,Boundaries,حدود,حدود | Boundaries,translated
+Colors.Name,94,,Governorate boundary,حد محافظة,حد محافظة | Governorate boundary,translated
+Colors.Category,94,,Boundaries,حدود,حدود | Boundaries,translated
+Colors.Name,95,,Markaz boundary,حد مركز,حد مركز | Markaz boundary,translated
+Colors.Category,95,,Boundaries,حدود,حدود | Boundaries,translated
+Colors.Name,96,,Cultivated Nile Delta,أرض زراعية دلتا ووادي,أرض زراعية دلتا ووادي | Cultivated Nile Delta,translated
+Colors.Category,96,,Vegetation,نبات,نبات | Vegetation,translated

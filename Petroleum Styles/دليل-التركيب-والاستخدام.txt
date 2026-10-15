@@ -1,0 +1,7 @@
+دليل تركيب واستخدام ستايلات البترول
+======================================
+- Petroleum.stylx => رموز البترول والآبار والمنشآت (لـ Pro).
+- Petroleum.style => النسخة المقابلة لـ ArcMap.
+- Shell-2016-RedOil-Pro.stylx + Shell-2016-GreenOil-Pro.stylx => المعيار الأصلي لشركة Shell (لـ Pro فقط، ~10 MB لكل منهما).
+- التركيب في Pro: Insert > Add Style. وفي ArcMap: Style Manager > Add Style to List > Petroleum.style
+  (ستايلا Shell لا توجد لهما نسخة .style - استخدم Petroleum.style كبديل في ArcMap).

@@ -1,0 +1,16 @@
+Welcome Back 
+To setup this Styles,
+1 - copy the Styles folder 
+2 - paste it and replace (if exist) the older folder of styles on :
+For 64bit
+C:\Program Files (x86)\ArcGIS\Desktop10.x
+
+For 32bit
+C:\Program Files\ArcGIS\Desktop10.x
+
+
+Jamal Chaaouan
+For more information : 
+https://www.geojamal.com
+https://arcgis.geojamal.com
+https://gis.geojamal.com

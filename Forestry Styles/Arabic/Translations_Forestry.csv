@@ -1,0 +1,647 @@
+﻿field,id,key,original,arabic,new_value,status
+Fill Symbols.Name,1,,Primary Forest Unit Restricted,الغابة الأولية وحدة مقيدة,الغابة الأولية وحدة مقيدة | Primary Forest Unit Restricted,translated
+Fill Symbols.Category,1,,Forestry,الحراجة,الحراجة | Forestry,translated
+Fill Symbols.Name,2,,BLM Restricted,مقيدة,مقيدة | BLM Restricted,translated
+Fill Symbols.Category,2,,Forestry,الحراجة,الحراجة | Forestry,translated
+Fill Symbols.Name,3,,State Public Use Land Restricted,أراضي الولاية للاستخدام العام مقيدة,أراضي الولاية للاستخدام العام مقيدة | State Public Use Land Restricted,translated
+Fill Symbols.Category,3,,Forestry,الحراجة,الحراجة | Forestry,translated
+Fill Symbols.Name,4,,Reservoir,خزان,خزان | Reservoir,translated
+Fill Symbols.Category,4,,Water Feature,مياه ظاهرة,مياه ظاهرة | Water Feature,translated
+Fill Symbols.Name,5,,Wetlands,أراضي رطبة,أراضي رطبة | Wetlands,translated
+Fill Symbols.Category,5,,Forestry,الحراجة,الحراجة | Forestry,translated
+Fill Symbols.Name,6,,420 Marsh,مستنقع,مستنقع | 420 Marsh,translated
+Fill Symbols.Category,6,,Forestry,الحراجة,الحراجة | Forestry,translated
+Fill Symbols.Name,7,,423 Rice,,423 Rice,kept
+Fill Symbols.Category,7,,Forestry,الحراجة,الحراجة | Forestry,translated
+Fill Symbols.Name,8,,424 Mangrove,,424 Mangrove,kept
+Fill Symbols.Category,8,,Forestry,الحراجة,الحراجة | Forestry,translated
+Fill Symbols.Name,9,,425 Bog,مستنقع خثي,مستنقع خثي | 425 Bog,translated
+Fill Symbols.Category,9,,Forestry,الحراجة,الحراجة | Forestry,translated
+Fill Symbols.Name,10,,Palm Tree 1,نخيل شجرة,نخيل شجرة | Palm Tree 1,translated
+Fill Symbols.Category,10,,Forestry,الحراجة,الحراجة | Forestry,translated
+Fill Symbols.Name,11,,Palm Tree 2,نخيل شجرة,نخيل شجرة | Palm Tree 2,translated
+Fill Symbols.Category,11,,Forestry,الحراجة,الحراجة | Forestry,translated
+Fill Symbols.Name,12,,Pine Tree 1,صنوبر شجرة,صنوبر شجرة | Pine Tree 1,translated
+Fill Symbols.Category,12,,Forestry,الحراجة,الحراجة | Forestry,translated
+Fill Symbols.Name,13,,Scrub 2,,Scrub 2,kept
+Fill Symbols.Category,13,,Forestry,الحراجة,الحراجة | Forestry,translated
+Fill Symbols.Name,14,,Woodland,أحراش,أحراش | Woodland,translated
+Fill Symbols.Category,14,,Forestry,الحراجة,الحراجة | Forestry,translated
+Fill Symbols.Name,15,,Scattered Trees 2,أشجار,أشجار | Scattered Trees 2,translated
+Fill Symbols.Category,15,,Forestry,الحراجة,الحراجة | Forestry,translated
+Fill Symbols.Name,16,,Tailings,مخلفات التعدين,مخلفات التعدين | Tailings,translated
+Fill Symbols.Category,16,,Forestry,الحراجة,الحراجة | Forestry,translated
+Line Symbols.Name,1,,AV1 Highlighted Geographic Feature,ظاهرة,ظاهرة | AV1 Highlighted Geographic Feature,translated
+Line Symbols.Category,1,,Forestry,الحراجة,الحراجة | Forestry,translated
+Line Symbols.Name,2,,AV2 Manmade Feature,ظاهرة,ظاهرة | AV2 Manmade Feature,translated
+Line Symbols.Category,2,,Forestry,الحراجة,الحراجة | Forestry,translated
+Line Symbols.Name,3,,AV3 Completed Dozer Line,مكتملة خط الجرافة,مكتملة خط الجرافة | AV3 Completed Dozer Line,translated
+Line Symbols.Category,3,,Forestry,الحراجة,الحراجة | Forestry,translated
+Line Symbols.Name,4,,AV4 Compartment,,AV4 Compartment,kept
+Line Symbols.Category,4,,Forestry,الحراجة,الحراجة | Forestry,translated
+Line Symbols.Name,5,,AV5 Protect Lake Shore 1,حماية شاطئ البحيرة,حماية شاطئ البحيرة | AV5 Protect Lake Shore 1,translated
+Line Symbols.Category,5,,Forestry,الحراجة,الحراجة | Forestry,translated
+Line Symbols.Name,6,,AV6 Fire Break Planned,حريق مخططة,حريق مخططة | AV6 Fire Break Planned,translated
+Line Symbols.Category,6,,Forestry,الحراجة,الحراجة | Forestry,translated
+Line Symbols.Name,7,,AV 7 Completed Line 2,مكتملة خط,مكتملة خط | AV 7 Completed Line 2,translated
+Line Symbols.Category,7,,Forestry,الحراجة,الحراجة | Forestry,translated
+Line Symbols.Name,8,,T10 Protect Lake Shore 2,حماية شاطئ البحيرة,حماية شاطئ البحيرة | T10 Protect Lake Shore 2,translated
+Line Symbols.Category,8,,Forestry,الحراجة,الحراجة | Forestry,translated
+Line Symbols.Name,9,,T22 Pipeline 1,خط أنابيب,خط أنابيب | T22 Pipeline 1,translated
+Line Symbols.Category,9,,Forestry,الحراجة,الحراجة | Forestry,translated
+Line Symbols.Name,10,,T23 Pipeline 2,خط أنابيب,خط أنابيب | T23 Pipeline 2,translated
+Line Symbols.Category,10,,Forestry,الحراجة,الحراجة | Forestry,translated
+Line Symbols.Name,11,,T24 Perennial Stream,دائمة جدول,دائمة جدول | T24 Perennial Stream,translated
+Line Symbols.Category,11,,Forestry,الحراجة,الحراجة | Forestry,translated
+Line Symbols.Name,12,,T25 Intermittent Stream,متقطعة جدول,متقطعة جدول | T25 Intermittent Stream,translated
+Line Symbols.Category,12,,Forestry,الحراجة,الحراجة | Forestry,translated
+Line Symbols.Name,13,,T26 Timber Railroad 1,أخشاب سكة حديد,أخشاب سكة حديد | T26 Timber Railroad 1,translated
+Line Symbols.Category,13,,Forestry,الحراجة,الحراجة | Forestry,translated
+Line Symbols.Name,14,,T27 Timber Railroad 2,أخشاب سكة حديد,أخشاب سكة حديد | T27 Timber Railroad 2,translated
+Line Symbols.Category,14,,Forestry,الحراجة,الحراجة | Forestry,translated
+Line Symbols.Name,15,,Line Break Completed,خط مكتملة,خط مكتملة | Line Break Completed,translated
+Line Symbols.Category,15,,Forestry,الحراجة,الحراجة | Forestry,translated
+Line Symbols.Name,16,,AV8 Planned Fire Line,مخططة حريق خط,مخططة حريق خط | AV8 Planned Fire Line,translated
+Line Symbols.Category,16,,Forestry,الحراجة,الحراجة | Forestry,translated
+Line Symbols.Name,17,,AV9 Planned Secondary Line,مخططة ثانوية خط,مخططة ثانوية خط | AV9 Planned Secondary Line,translated
+Line Symbols.Category,17,,Forestry,الحراجة,الحراجة | Forestry,translated
+Marker Symbols.Name,1,,Airport,مطار,مطار | Airport,translated
+Marker Symbols.Category,1,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,2,,All Terrain Vehicle,تضاريس مركبة,تضاريس مركبة | All Terrain Vehicle,translated
+Marker Symbols.Category,2,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,3,,Amphitheater 1,مدرج,مدرج | Amphitheater 1,translated
+Marker Symbols.Category,3,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,4,,Archeological Site,أثرية موقع,أثرية موقع | Archeological Site,translated
+Marker Symbols.Category,4,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,5,,ATV Trail 1,مركبة رباعية درب,مركبة رباعية درب | ATV Trail 1,translated
+Marker Symbols.Category,5,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,6,,ATV Trail 2,مركبة رباعية درب,مركبة رباعية درب | ATV Trail 2,translated
+Marker Symbols.Category,6,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,7,,Barrier Free Facilities,بدون عوائق منشآت,بدون عوائق منشآت | Barrier Free Facilities,translated
+Marker Symbols.Category,7,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,8,,Bear Viewing Point,نقطة مشاهدة الدببة,نقطة مشاهدة الدببة | Bear Viewing Point,translated
+Marker Symbols.Category,8,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,9,,Bicycle Trail,دراجة درب,دراجة درب | Bicycle Trail,translated
+Marker Symbols.Category,9,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,10,,Bird Viewing,مشاهدة الطيور,مشاهدة الطيور | Bird Viewing,translated
+Marker Symbols.Category,10,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,11,,Birdwatching Area,منطقة,منطقة | Birdwatching Area,translated
+Marker Symbols.Category,11,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,12,,Boat Launch Ramp,قارب إنزال منزلق,قارب إنزال منزلق | Boat Launch Ramp,translated
+Marker Symbols.Category,12,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,13,,Bus,حافلة,حافلة | Bus,translated
+Marker Symbols.Category,13,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,14,,Campground,مخيم,مخيم | Campground,translated
+Marker Symbols.Category,14,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,15,,Campground Fee,مخيم رسم,مخيم رسم | Campground Fee,translated
+Marker Symbols.Category,15,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,16,,Campground Resident,مخيم,مخيم | Campground Resident,translated
+Marker Symbols.Category,16,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,17,,Canoeing,,Canoeing,kept
+Marker Symbols.Category,17,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,18,,Caution: Squirrels,,Caution: Squirrels,kept
+Marker Symbols.Category,18,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,19,,Coniferous Trees,صنوبرية أشجار,صنوبرية أشجار | Coniferous Trees,translated
+Marker Symbols.Category,19,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,20,,Cross Country Skiing,تقاطع التزلج,تقاطع التزلج | Cross Country Skiing,translated
+Marker Symbols.Category,20,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,21,,Dam,سد,سد | Dam,translated
+Marker Symbols.Category,21,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,22,,Danger,خطر,خطر | Danger,translated
+Marker Symbols.Category,22,,Warning,تحذير,تحذير | Warning,translated
+Marker Symbols.Name,23,,Deer Viewing,المشاهدة,المشاهدة | Deer Viewing,translated
+Marker Symbols.Category,23,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,24,,Diving,الغوص,الغوص | Diving,translated
+Marker Symbols.Category,24,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,25,,Dog Area,منطقة,منطقة | Dog Area,translated
+Marker Symbols.Category,25,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,26,,Downhill Skiing,التزلج,التزلج | Downhill Skiing,translated
+Marker Symbols.Category,26,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,27,,Drinking Water,مياه الشرب,مياه الشرب | Drinking Water,translated
+Marker Symbols.Category,27,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,28,,Environmental Study Area,منطقة,منطقة | Environmental Study Area,translated
+Marker Symbols.Category,28,,Warning,تحذير,تحذير | Warning,translated
+Marker Symbols.Name,29,,Falling Rocks,,Falling Rocks,kept
+Marker Symbols.Category,29,,Warning,تحذير,تحذير | Warning,translated
+Marker Symbols.Name,30,,Fee Area 1,رسم منطقة,رسم منطقة | Fee Area 1,translated
+Marker Symbols.Category,30,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,31,,Fee Area 2,رسم منطقة,رسم منطقة | Fee Area 2,translated
+Marker Symbols.Category,31,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,32,,Fire,حريق,حريق | Fire,translated
+Marker Symbols.Category,32,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,33,,Firearms,أسلحة نارية,أسلحة نارية | Firearms,translated
+Marker Symbols.Category,33,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,34,,Firewood,,Firewood,kept
+Marker Symbols.Category,34,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,35,,Firewood Gathering Area,تجميع منطقة,تجميع منطقة | Firewood Gathering Area,translated
+Marker Symbols.Category,35,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,36,,First Aid 1,الأول,الأول | First Aid 1,translated
+Marker Symbols.Category,36,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,37,,First Aid 2,الأول,الأول | First Aid 2,translated
+Marker Symbols.Category,37,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,38,,Fish Hatchery,أسماك,أسماك | Fish Hatchery,translated
+Marker Symbols.Category,38,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,39,,Fishing Area,صيد الأسماك منطقة,صيد الأسماك منطقة | Fishing Area,translated
+Marker Symbols.Category,39,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,40,,Freediving,,Freediving,kept
+Marker Symbols.Category,40,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,41,,Gasoline Station,محطة,محطة | Gasoline Station,translated
+Marker Symbols.Category,41,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,42,,"Gasoline, Diesel",,"Gasoline, Diesel",kept
+Marker Symbols.Category,42,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,43,,Grocery Store,متجر,متجر | Grocery Store,translated
+Marker Symbols.Category,43,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,44,,Hangliding,,Hangliding,kept
+Marker Symbols.Category,44,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,45,,Heliport,مهبط مروحيات,مهبط مروحيات | Heliport,translated
+Marker Symbols.Category,45,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,46,,Hiking Trail,المشي درب,المشي درب | Hiking Trail,translated
+Marker Symbols.Category,46,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,47,,Historical Site,تاريخية موقع,تاريخية موقع | Historical Site,translated
+Marker Symbols.Category,47,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,48,,Horse Area,خيل منطقة,خيل منطقة | Horse Area,translated
+Marker Symbols.Category,48,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,49,,Horse Boarding,خيل,خيل | Horse Boarding,translated
+Marker Symbols.Category,49,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,50,,Horse Trail,خيل درب,خيل درب | Horse Trail,translated
+Marker Symbols.Category,50,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,51,,Horseback Riding Trail,درب,درب | Horseback Riding Trail,translated
+Marker Symbols.Category,51,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,52,,Ice Skating,جليد تزلج على الجليد,جليد تزلج على الجليد | Ice Skating,translated
+Marker Symbols.Category,52,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,53,,Information 1,معلومات,معلومات | Information 1,translated
+Marker Symbols.Category,53,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,54,,Information 2,معلومات,معلومات | Information 2,translated
+Marker Symbols.Category,54,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,55,,Inner Tube,أنبوب داخلي,أنبوب داخلي | Inner Tube,translated
+Marker Symbols.Category,55,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,56,,Interpretive Auto Trail,توعوي درب,توعوي درب | Interpretive Auto Trail,translated
+Marker Symbols.Category,56,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,57,,Interpretive Trail,توعوي درب,توعوي درب | Interpretive Trail,translated
+Marker Symbols.Category,57,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,58,,Kayaking,,Kayaking,kept
+Marker Symbols.Category,58,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,59,,Kennel,,Kennel,kept
+Marker Symbols.Category,59,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,60,,Laundry Facilities,منشآت,منشآت | Laundry Facilities,translated
+Marker Symbols.Category,60,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,61,,Lighthouse,منارة,منارة | Lighthouse,translated
+Marker Symbols.Category,61,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,62,,Lockers,,Lockers,kept
+Marker Symbols.Category,62,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,63,,Lodging,,Lodging,kept
+Marker Symbols.Category,63,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,64,,Lookout Tower,برج مراقبة برج,برج مراقبة برج | Lookout Tower,translated
+Marker Symbols.Category,64,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,65,,Maintained Trail,درب,درب | Maintained Trail,translated
+Marker Symbols.Category,65,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,66,,Marina,مرسى,مرسى | Marina,translated
+Marker Symbols.Category,66,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,67,,Mechanic,,Mechanic,kept
+Marker Symbols.Category,67,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,68,,Mining Area,تعدين منطقة,تعدين منطقة | Mining Area,translated
+Marker Symbols.Category,68,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,69,,Motorboating,,Motorboating,kept
+Marker Symbols.Category,69,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,70,,NO All Terrain Vehicle,تضاريس مركبة,تضاريس مركبة | NO All Terrain Vehicle,translated
+Marker Symbols.Category,70,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,71,,NO Diving,الغوص,الغوص | NO Diving,translated
+Marker Symbols.Category,71,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,72,,NO Dogs,,NO Dogs,kept
+Marker Symbols.Category,72,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,73,,NO Drinking Water,مياه الشرب,مياه الشرب | NO Drinking Water,translated
+Marker Symbols.Category,73,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,74,,NO Firearms,أسلحة نارية,أسلحة نارية | NO Firearms,translated
+Marker Symbols.Category,74,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,75,,NO Fires,,NO Fires,kept
+Marker Symbols.Category,75,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,76,,NO Fishing,صيد الأسماك,صيد الأسماك | NO Fishing,translated
+Marker Symbols.Category,76,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,77,,NO Parking,موقف,موقف | NO Parking,translated
+Marker Symbols.Category,77,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,78,,NO Smoking Area,منطقة,منطقة | NO Smoking Area,translated
+Marker Symbols.Category,78,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,79,,NO Swimming,السباحة,السباحة | NO Swimming,translated
+Marker Symbols.Category,79,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,80,,NO Wading,الخوض,الخوض | NO Wading,translated
+Marker Symbols.Category,80,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,81,,Off Road Motorcycle Parking,طريق موقف,طريق موقف | Off Road Motorcycle Parking,translated
+Marker Symbols.Category,81,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,82,,Off Road Motorcycle Trail,طريق درب,طريق درب | Off Road Motorcycle Trail,translated
+Marker Symbols.Category,82,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,83,,Off Road Vehicle,طريق مركبة,طريق مركبة | Off Road Vehicle,translated
+Marker Symbols.Category,83,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,84,,Parasailing,,Parasailing,kept
+Marker Symbols.Category,84,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,85,,Parking 1,موقف,موقف | Parking 1,translated
+Marker Symbols.Category,85,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,86,,Parking 2,موقف,موقف | Parking 2,translated
+Marker Symbols.Category,86,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,87,,Picnic Area,منطقة نزهة,منطقة نزهة | Picnic Area,translated
+Marker Symbols.Category,87,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,88,,Picnic Shelter,نزهة مأوى,نزهة مأوى | Picnic Shelter,translated
+Marker Symbols.Category,88,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,89,,Point of Interest 1,نقطة,نقطة | Point of Interest 1,translated
+Marker Symbols.Category,89,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,90,,Point of Interest 2,نقطة,نقطة | Point of Interest 2,translated
+Marker Symbols.Category,90,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,91,,Post Office,مكتب بريد,مكتب بريد | Post Office,translated
+Marker Symbols.Category,91,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,92,,Radio,,Radio,kept
+Marker Symbols.Category,92,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,93,,Rafting 1,,Rafting 1,kept
+Marker Symbols.Category,93,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,94,,Ranger Station,مركز الحراسة,مركز الحراسة | Ranger Station,translated
+Marker Symbols.Category,94,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,95,,Raptors,,Raptors,kept
+Marker Symbols.Category,95,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,96,,Refuse,,Refuse,kept
+Marker Symbols.Category,96,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,97,,Restaurant / Food,مطعم,مطعم | Restaurant / Food,translated
+Marker Symbols.Category,97,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,98,,"Restroom, Men",دورات مياه رجال,"دورات مياه رجال | Restroom, Men",translated
+Marker Symbols.Category,98,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,99,,"Restroom, Women",دورات مياه نساء,"دورات مياه نساء | Restroom, Women",translated
+Marker Symbols.Category,99,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,100,,Restrooms,,Restrooms,kept
+Marker Symbols.Category,100,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,101,,Rock Climbing,تسلق الصخور,تسلق الصخور | Rock Climbing,translated
+Marker Symbols.Category,101,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,102,,Rock Collecting,صخر,صخر | Rock Collecting,translated
+Marker Symbols.Category,102,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,103,,Rowboating,,Rowboating,kept
+Marker Symbols.Category,103,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,104,,Sailing,,Sailing,kept
+Marker Symbols.Category,104,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,105,,Scuba Diving,الغوص,الغوص | Scuba Diving,translated
+Marker Symbols.Category,105,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,106,,Shooting Range,رماية مرعى,رماية مرعى | Shooting Range,translated
+Marker Symbols.Category,106,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,107,,Shower,دش,دش | Shower,translated
+Marker Symbols.Category,107,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,108,,Ski Bobbing,تزلج,تزلج | Ski Bobbing,translated
+Marker Symbols.Category,108,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,109,,Ski Jumping,تزلج,تزلج | Ski Jumping,translated
+Marker Symbols.Category,109,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,110,,Ski Racing,تزلج سباق,تزلج سباق | Ski Racing,translated
+Marker Symbols.Category,110,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,111,,Sledding,الزلاجات,الزلاجات | Sledding,translated
+Marker Symbols.Category,111,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,112,,Sleeping Shelter,مأوى النوم,مأوى النوم | Sleeping Shelter,translated
+Marker Symbols.Category,112,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,113,,Smoking Area,منطقة,منطقة | Smoking Area,translated
+Marker Symbols.Category,113,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,114,,Snomobile Parking,موقف,موقف | Snomobile Parking,translated
+Marker Symbols.Category,114,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,115,,Snow Shoeing,المشي بالأحذية الثلجية,المشي بالأحذية الثلجية | Snow Shoeing,translated
+Marker Symbols.Category,115,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,116,,Snowmobile Trail,عربة ثلجية درب,عربة ثلجية درب | Snowmobile Trail,translated
+Marker Symbols.Category,116,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,117,,Spelunking or Caves,استكشاف الكهوف,استكشاف الكهوف | Spelunking or Caves,translated
+Marker Symbols.Category,117,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,118,,Steep Bicycle Trail ,درب دراجات شديد الانحدار,درب دراجات شديد الانحدار | Steep Bicycle Trail ,translated
+Marker Symbols.Category,118,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,119,,Surfing,ركوب الأمواج,ركوب الأمواج | Surfing,translated
+Marker Symbols.Category,119,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,120,,Swimming,السباحة,السباحة | Swimming,translated
+Marker Symbols.Category,120,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,121,,Technical Rock Climbing,التسلق الصخري الفني,التسلق الصخري الفني | Technical Rock Climbing,translated
+Marker Symbols.Category,121,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,122,,Telephone 1,هاتف,هاتف | Telephone 1,translated
+Marker Symbols.Category,122,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,123,,Tent,خيمة,خيمة | Tent,translated
+Marker Symbols.Category,123,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,124,,Trail Shelter,مأوى الدرب,مأوى الدرب | Trail Shelter,translated
+Marker Symbols.Category,124,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,125,,Trail Sign,لافتة الدرب,لافتة الدرب | Trail Sign,translated
+Marker Symbols.Category,125,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,126,,Trailer Sanitary Station,المحطة الصحية للمقطورات,المحطة الصحية للمقطورات | Trailer Sanitary Station,translated
+Marker Symbols.Category,126,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,127,,Trailer Sites,مواقع المقطورات,مواقع المقطورات | Trailer Sites,translated
+Marker Symbols.Category,127,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,128,,Trailhead (left),بداية الدرب يسار,بداية الدرب يسار | Trailhead (left),translated
+Marker Symbols.Category,128,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,129,,Trailhead (right),بداية الدرب يمين,بداية الدرب يمين | Trailhead (right),translated
+Marker Symbols.Category,129,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,130,,Tramway,,Tramway,kept
+Marker Symbols.Category,130,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,131,,Tree Conservation Area,منطقة صون الأشجار,منطقة صون الأشجار | Tree Conservation Area,translated
+Marker Symbols.Category,131,,Warning,تحذير,تحذير | Warning,translated
+Marker Symbols.Name,132,,Trucks,شاحنات,شاحنات | Trucks,translated
+Marker Symbols.Category,132,,Warning,تحذير,تحذير | Warning,translated
+Marker Symbols.Name,133,,Tunnel,نفق,نفق | Tunnel,translated
+Marker Symbols.Category,133,,Warning,تحذير,تحذير | Warning,translated
+Marker Symbols.Name,134,,Vehicle Ferry,مركبة عبارة,مركبة عبارة | Vehicle Ferry,translated
+Marker Symbols.Category,134,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,135,,Vehicles,مركبات,مركبات | Vehicles,translated
+Marker Symbols.Category,135,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,136,,Viewing Area 1,منطقة مشاهدة,منطقة مشاهدة | Viewing Area 1,translated
+Marker Symbols.Category,136,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,137,,"Viewing Area, Photo Spot",منطقة مشاهدة، موقع تصوير,"منطقة مشاهدة، موقع تصوير | Viewing Area, Photo Spot",translated
+Marker Symbols.Category,137,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,138,,Wading,الخوض,الخوض | Wading,translated
+Marker Symbols.Category,138,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,139,,Water Bucket,دلو المياه,دلو المياه | Water Bucket,translated
+Marker Symbols.Category,139,,Facilities,منشآت,منشآت | Facilities,translated
+Marker Symbols.Name,140,,Water Recreation,الترفيه المائي,الترفيه المائي | Water Recreation,translated
+Marker Symbols.Category,140,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,141,,Water Skiing,التزلج المائي,التزلج المائي | Water Skiing,translated
+Marker Symbols.Category,141,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,142,,Wind Racing,رياح سباق,رياح سباق | Wind Racing,translated
+Marker Symbols.Category,142,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,143,,Wind Surfing,ركوب الشراع,ركوب الشراع | Wind Surfing,translated
+Marker Symbols.Category,143,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,144,,Winter Recreation,الترفيه الشتوي,الترفيه الشتوي | Winter Recreation,translated
+Marker Symbols.Category,144,,Recreation,ترفيه,ترفيه | Recreation,translated
+Marker Symbols.Name,145,,Fire Origin,حريق,حريق | Fire Origin,translated
+Marker Symbols.Category,145,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,146,,Incident Command Post,بعد,بعد | Incident Command Post,translated
+Marker Symbols.Category,146,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,147,,Incident Base,,Incident Base,kept
+Marker Symbols.Category,147,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,148,,Camp,مخيم,مخيم | Camp,translated
+Marker Symbols.Category,148,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,149,,Helibase,,Helibase,kept
+Marker Symbols.Category,149,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,150,,"Repeater, Mobile Relay",,"Repeater, Mobile Relay",kept
+Marker Symbols.Category,150,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,151,,Telephone,هاتف,هاتف | Telephone,translated
+Marker Symbols.Category,151,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,152,,Fire Station,محطة إطفاء,محطة إطفاء | Fire Station,translated
+Marker Symbols.Category,152,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,153,,Water Source,مصدر مياه,مصدر مياه | Water Source,translated
+Marker Symbols.Category,153,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,154,,Mobile Weather Unit,وحدة,وحدة | Mobile Weather Unit,translated
+Marker Symbols.Category,154,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,155,,IR Down Link,وصلة,وصلة | IR Down Link,translated
+Marker Symbols.Category,155,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,156,,Staging Area,منطقة التجميع,منطقة التجميع | Staging Area,translated
+Marker Symbols.Category,156,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,157,,Spot Fire,حريق بؤري,حريق بؤري | Spot Fire,translated
+Marker Symbols.Category,157,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,158,,"Specified Bridge, B (T) 5.2",جسر,"جسر | Specified Bridge, B (T) 5.2",translated
+Marker Symbols.Category,158,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,159,,Hot Spot,,Hot Spot,kept
+Marker Symbols.Category,159,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,160,,Specified Cattleguard,حاجز الماشية المحدد,حاجز الماشية المحدد | Specified Cattleguard,translated
+Marker Symbols.Category,160,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,161,,Wind Speed Direction,اتجاه سرعة الرياح,اتجاه سرعة الرياح | Wind Speed Direction,translated
+Marker Symbols.Category,161,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,162,,First Aid Station,الأول محطة,الأول محطة | First Aid Station,translated
+Marker Symbols.Category,162,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,163,,Helispot,مهبط مروحية,مهبط مروحية | Helispot,translated
+Marker Symbols.Category,163,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,164,,Branches,,Branches,kept
+Marker Symbols.Category,164,,Fire Fighting,مكافحة الحرائق,مكافحة الحرائق | Fire Fighting,translated
+Marker Symbols.Name,165,,T01 Payment Unit Number,وحدة,وحدة | T01 Payment Unit Number,translated
+Marker Symbols.Category,165,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,166,,T02 Material Sources,مواد,مواد | T02 Material Sources,translated
+Marker Symbols.Category,166,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,167,,T03 Required Logging Equipment,معدات قطع الأشجار المطلوبة,معدات قطع الأشجار المطلوبة | T03 Required Logging Equipment,translated
+Marker Symbols.Category,167,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,168,,T04 Logging Equipment Prohibited,معدات قطع الأشجار محظورة,معدات قطع الأشجار محظورة | T04 Logging Equipment Prohibited,translated
+Marker Symbols.Category,168,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,169,,T05 Directional Felling Required,القطع الاتجاهي,القطع الاتجاهي | T05 Directional Felling Required,translated
+Marker Symbols.Category,169,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,170,,T06 Slash Treatment,معالجة مخلفات القطع,معالجة مخلفات القطع | T06 Slash Treatment,translated
+Marker Symbols.Category,170,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,171,,T07 Lop and Scatter,التقطيع والنثر,التقطيع والنثر | T07 Lop and Scatter,translated
+Marker Symbols.Category,171,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,172,,T08 Slash Disposal at RCW,التخلص من مخلفات القطع عند,التخلص من مخلفات القطع عند | T08 Slash Disposal at RCW,translated
+Marker Symbols.Category,172,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,173,,T09 Other Designated Areas,أخرى مناطق,أخرى مناطق | T09 Other Designated Areas,translated
+Marker Symbols.Category,173,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,174,,T10 Wetlands Protection,حماية الأراضي الرطبة,حماية الأراضي الرطبة | T10 Wetlands Protection,translated
+Marker Symbols.Category,174,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,175,,T11 Cable Yarding Required 1,السحب بالكابلات,السحب بالكابلات | T11 Cable Yarding Required 1,translated
+Marker Symbols.Category,175,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,176,,T12 F,,T12 F,kept
+Marker Symbols.Category,176,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,177,,T13 Specific Road Clearing Units,تطهير الطريق,تطهير الطريق | T13 Specific Road Clearing Units,translated
+Marker Symbols.Category,177,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,178,,T14 Protection of Improvements,حماية المنشآت,حماية المنشآت | T14 Protection of Improvements,translated
+Marker Symbols.Category,178,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,179,,T15 Protection of Special Areas,حماية المناطق الخاصة,حماية المناطق الخاصة | T15 Protection of Special Areas,translated
+Marker Symbols.Category,179,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,180,,T16 Protection of Cultural Resources,حماية الموارد الثقافية,حماية الموارد الثقافية | T16 Protection of Cultural Resources,translated
+Marker Symbols.Category,180,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,181,,T17 Protection of Habitat or Species,حماية الموطن أو الأنواع,حماية الموطن أو الأنواع | T17 Protection of Habitat or Species,translated
+Marker Symbols.Category,181,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,182,,T18 Protect Known Survey Mon.,علامة مساحية معروفة,علامة مساحية معروفة | T18 Protect Known Survey Mon.,translated
+Marker Symbols.Category,182,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,183,,T19 Protect RCW Colony,حماية مستعمرة RCW,حماية مستعمرة RCW | T19 Protect RCW Colony,translated
+Marker Symbols.Category,183,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,184,,T20 Reserve Trees,أشجار مُبقاة,أشجار مُبقاة | T20 Reserve Trees,translated
+Marker Symbols.Category,184,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,185,,T21 Traffic Control Devices,أجهزة ضبط المرور,أجهزة ضبط المرور | T21 Traffic Control Devices,translated
+Marker Symbols.Category,185,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,186,,T22 Winching Required,,T22 Winching Required,kept
+Marker Symbols.Category,186,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,187,,T23 Clearcutting Unit,وحدة القطع الشامل,وحدة القطع الشامل | T23 Clearcutting Unit,translated
+Marker Symbols.Category,187,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,188,,T24 Cut Tree Marking Unit,وسم الأشجار المقطوعة وحدة,وسم الأشجار المقطوعة وحدة | T24 Cut Tree Marking Unit,translated
+Marker Symbols.Category,188,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,189,,T25 Leave Tree Marking Unit,وسم الأشجار المتروكة وحدة,وسم الأشجار المتروكة وحدة | T25 Leave Tree Marking Unit,translated
+Marker Symbols.Category,189,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,190,,T26 Overstory Removal Unit,إزالة الطبقة العليا وحدة,إزالة الطبقة العليا وحدة | T26 Overstory Removal Unit,translated
+Marker Symbols.Category,190,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,191,,T27 Understory Removal Unit,وحدة إزالة الطبقة السفلية,وحدة إزالة الطبقة السفلية | T27 Understory Removal Unit,translated
+Marker Symbols.Category,191,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,192,,T28 Treatment of Residual Trees,معالجة الأشجار المتبقية,معالجة الأشجار المتبقية | T28 Treatment of Residual Trees,translated
+Marker Symbols.Category,192,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,193,,T29 Area Designation Units,تعيين المنطقة,تعيين المنطقة | T29 Area Designation Units,translated
+Marker Symbols.Category,193,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,194,,T30 Group Selection Units,وحدات الاختيار المجموعي,وحدات الاختيار المجموعي | T30 Group Selection Units,translated
+Marker Symbols.Category,194,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,195,,T31 Group Selection - Designation,الاختيار المجموعي,الاختيار المجموعي | T31 Group Selection - Designation,translated
+Marker Symbols.Category,195,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,196,,T32 Plantation Row Thinning,تخفيف صفوف المزرعة,تخفيف صفوف المزرعة | T32 Plantation Row Thinning,translated
+Marker Symbols.Category,196,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,197,,T33 Designation by Description,بواسطة,بواسطة | T33 Designation by Description,translated
+Marker Symbols.Category,197,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,198,,T34 Road Number,طريق,طريق | T34 Road Number,translated
+Marker Symbols.Category,198,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,199,,T35 Prehaul Maintenance,قبل النقل صيانة,قبل النقل صيانة | T35 Prehaul Maintenance,translated
+Marker Symbols.Category,199,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,200,,T36 Keep Open,يُبقى مفتوحاً,يُبقى مفتوحاً | T36 Keep Open,translated
+Marker Symbols.Category,200,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,201,,T37 Protected Streamcourse,محمية,محمية | T37 Protected Streamcourse,translated
+Marker Symbols.Category,201,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,202,,T38 Specified Gate,البوابة المحددة,البوابة المحددة | T38 Specified Gate,translated
+Marker Symbols.Category,202,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,203,,T39 Specified Bridge Construction,إنشاء الجسر المحدد,إنشاء الجسر المحدد | T39 Specified Bridge Construction,translated
+Marker Symbols.Category,203,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,204,,T40 Specified Exit Ramp,منحدر الخروج المحدد,منحدر الخروج المحدد | T40 Specified Exit Ramp,translated
+Marker Symbols.Category,204,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,205,,T41 Bridge,جسر,جسر | T41 Bridge,translated
+Marker Symbols.Category,205,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,206,,T42 Temp Rd to Remain Open,طريق مؤقت يبقى مفتوحاً,طريق مؤقت يبقى مفتوحاً | T42 Temp Rd to Remain Open,translated
+Marker Symbols.Category,206,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,207,,T43 Shelter Wood,القطع الظليلي,القطع الظليلي | T43 Shelter Wood,translated
+Marker Symbols.Category,207,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,208,,T44 Damaged Designated,,T44 Damaged Designated,kept
+Marker Symbols.Category,208,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,209,,T45 Seed Tree Area,منطقة الأشجار البذرية,منطقة الأشجار البذرية | T45 Seed Tree Area,translated
+Marker Symbols.Category,209,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,210,,T46 Cable Yarding Required 2,السحب بالكابلات,السحب بالكابلات | T46 Cable Yarding Required 2,translated
+Marker Symbols.Category,210,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,211,,T47 Cable Yarding Required 3,السحب بالكابلات,السحب بالكابلات | T47 Cable Yarding Required 3,translated
+Marker Symbols.Category,211,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,212,,T48 Cable Yarding Required 4,السحب بالكابلات,السحب بالكابلات | T48 Cable Yarding Required 4,translated
+Marker Symbols.Category,212,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,213,,T49 Limited Use Road,طريق محدود الاستخدام,طريق محدود الاستخدام | T49 Limited Use Road,translated
+Marker Symbols.Category,213,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,214,,T50 Open Wells,آبار مفتوحة,آبار مفتوحة | T50 Open Wells,translated
+Marker Symbols.Category,214,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,215,,T51 Monitoring Wells,آبار المراقبة,آبار المراقبة | T51 Monitoring Wells,translated
+Marker Symbols.Category,215,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,216,,T52 Operating Season Limitation,تقييد موسم التشغيل,تقييد موسم التشغيل | T52 Operating Season Limitation,translated
+Marker Symbols.Category,216,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,217,,"Rights Limited, No Cutting",,"Rights Limited, No Cutting",kept
+Marker Symbols.Category,217,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,218,,Leave Dead Timber Standing,أخشاب,أخشاب | Leave Dead Timber Standing,translated
+Marker Symbols.Category,218,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,219,,Leave Dead Timber Down,أخشاب,أخشاب | Leave Dead Timber Down,translated
+Marker Symbols.Category,219,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,220,,Dead Timber Removed,أخشاب,أخشاب | Dead Timber Removed,translated
+Marker Symbols.Category,220,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,221,,Leave Tree Marking,وسم الأشجار المتروكة,وسم الأشجار المتروكة | Leave Tree Marking,translated
+Marker Symbols.Category,221,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,222,,Temp Rd Leave Open,طريق مؤقت يُترك مفتوحاً,طريق مؤقت يُترك مفتوحاً | Temp Rd Leave Open,translated
+Marker Symbols.Category,222,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,223,,Wetlands Protection,حماية الأراضي الرطبة,حماية الأراضي الرطبة | Wetlands Protection,translated
+Marker Symbols.Category,223,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,224,,Clearcutting Unit,وحدة القطع الشامل,وحدة القطع الشامل | Clearcutting Unit,translated
+Marker Symbols.Category,224,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,225,,Overstory Removal,إزالة الطبقة العليا,إزالة الطبقة العليا | Overstory Removal,translated
+Marker Symbols.Category,225,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,226,,Understory Removal,إزالة الطبقة السفلية,إزالة الطبقة السفلية | Understory Removal,translated
+Marker Symbols.Category,226,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,227,,Specified Road Clearing Unit,تطهير الطريق المحدد وحدة,تطهير الطريق المحدد وحدة | Specified Road Clearing Unit,translated
+Marker Symbols.Category,227,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,228,,Reserve Trees,أشجار مُبقاة,أشجار مُبقاة | Reserve Trees,translated
+Marker Symbols.Category,228,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,229,,"Specified ""T"" Junction",عقدة,"عقدة | Specified ""T"" Junction",translated
+Marker Symbols.Category,229,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,230,,Traffic Control Device,جهاز ضبط المرور,جهاز ضبط المرور | Traffic Control Device,translated
+Marker Symbols.Category,230,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,231,,"Protect Habitat, T&E Species",,"Protect Habitat, T&E Species",kept
+Marker Symbols.Category,231,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,232,,Lower Stump,سفلية جذع مقطوع,سفلية جذع مقطوع | Lower Stump,translated
+Marker Symbols.Category,232,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,233,,Horse Skidding Specified,خيل الجر,خيل الجر | Horse Skidding Specified,translated
+Marker Symbols.Category,233,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,234,,Tractor Skidding Specified,الجر بالجرار,الجر بالجرار | Tractor Skidding Specified,translated
+Marker Symbols.Category,234,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,235,,Cable Yarding Specified,السحب بالكابلات,السحب بالكابلات | Cable Yarding Specified,translated
+Marker Symbols.Category,235,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,236,,Skyline Yarding Specified,السحب بالخط العلوي,السحب بالخط العلوي | Skyline Yarding Specified,translated
+Marker Symbols.Category,236,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,237,,Ballon Logging Specified,قطع الأشجار,قطع الأشجار | Ballon Logging Specified,translated
+Marker Symbols.Category,237,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,238,,Utilizer Skidding Specified,الجر,الجر | Utilizer Skidding Specified,translated
+Marker Symbols.Category,238,,Timber,أخشاب,أخشاب | Timber,translated
+Marker Symbols.Name,239,,Zeta,,Zeta,kept
+Marker Symbols.Category,239,,Timber,أخشاب,أخشاب | Timber,translated
+Colors.Name,1,,Primary Forest,الغابة الأولية,الغابة الأولية | Primary Forest,translated
+Colors.Category,1,,Land Regulation,تنظيم الأراضي,تنظيم الأراضي | Land Regulation,translated
+Colors.Name,2,,Primary Forest-Wilderness,الغابة الأولية - برية,الغابة الأولية - برية | Primary Forest-Wilderness,translated
+Colors.Category,2,,Land Regulation,تنظيم الأراضي,تنظيم الأراضي | Land Regulation,translated
+Colors.Name,3,,Land Admin by Other NF,أراضٍ تديرها غابة وطنية أخرى,أراضٍ تديرها غابة وطنية أخرى | Land Admin by Other NF,translated
+Colors.Category,3,,Land Regulation,تنظيم الأراضي,تنظيم الأراضي | Land Regulation,translated
+Colors.Name,4,,BLM,,BLM,kept
+Colors.Category,4,,Land Regulation,تنظيم الأراضي,تنظيم الأراضي | Land Regulation,translated
+Colors.Name,5,,Indian Reservations,محميات الهنود,محميات الهنود | Indian Reservations,translated
+Colors.Category,5,,Land Regulation,تنظيم الأراضي,تنظيم الأراضي | Land Regulation,translated
+Colors.Name,6,,NPS and Federal,المتنزهات والفيدرالية,المتنزهات والفيدرالية | NPS and Federal,translated
+Colors.Category,6,,Land Regulation,تنظيم الأراضي,تنظيم الأراضي | Land Regulation,translated
+Colors.Name,7,,State Public Use Land,أراضي الولاية للاستخدام العام,أراضي الولاية للاستخدام العام | State Public Use Land,translated
+Colors.Category,7,,Land Regulation,تنظيم الأراضي,تنظيم الأراضي | Land Regulation,translated
+Colors.Name,8,,State Land Subj to Lease,أراضي الولاية الخاضعة للتأجير,أراضي الولاية الخاضعة للتأجير | State Land Subj to Lease,translated
+Colors.Category,8,,Land Regulation,تنظيم الأراضي,تنظيم الأراضي | Land Regulation,translated
+Colors.Name,9,,Undesignated Exterior Area,منطقة,منطقة | Undesignated Exterior Area,translated
+Colors.Category,9,,Land Regulation,تنظيم الأراضي,تنظيم الأراضي | Land Regulation,translated
+Colors.Name,10,,Brown Features and Type,بني ظواهر و نوع,بني ظواهر و نوع | Brown Features and Type,translated
+Colors.Category,10,,Feature,ظاهرة,ظاهرة | Feature,translated
+Colors.Name,11,,Red Features and Type,أحمر ظواهر و نوع,أحمر ظواهر و نوع | Red Features and Type,translated
+Colors.Category,11,,Feature,ظاهرة,ظاهرة | Feature,translated
+Colors.Name,12,,Black Features and Type,أسود ظواهر و نوع,أسود ظواهر و نوع | Black Features and Type,translated
+Colors.Category,12,,Feature,ظاهرة,ظاهرة | Feature,translated
+Colors.Name,13,,Blue Features and Type,أزرق ظواهر و نوع,أزرق ظواهر و نوع | Blue Features and Type,translated
+Colors.Category,13,,Feature,ظاهرة,ظاهرة | Feature,translated
+Colors.Name,14,,Water Areas,مناطق مائية,مناطق مائية | Water Areas,translated
+Colors.Category,14,,Feature,ظاهرة,ظاهرة | Feature,translated
+Colors.Name,15,,Dark Green Route Overprint,داكن أخضر مسار,داكن أخضر مسار | Dark Green Route Overprint,translated
+Colors.Category,15,,Feature,ظاهرة,ظاهرة | Feature,translated
+Colors.Name,16,,Light Green Route Overprint,فاتح أخضر مسار,فاتح أخضر مسار | Light Green Route Overprint,translated
+Colors.Category,16,,Feature,ظاهرة,ظاهرة | Feature,translated
+Colors.Name,17,,Orange Route Overprint,برتقالي مسار,برتقالي مسار | Orange Route Overprint,translated
+Colors.Category,17,,Feature,ظاهرة,ظاهرة | Feature,translated
+Colors.Name,18,,FT White-Red-Jack Pine,أبيض أحمر دفع صنوبر,أبيض أحمر دفع صنوبر | FT White-Red-Jack Pine,translated
+Colors.Category,18,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,19,,FT Spruce-Fir,,FT Spruce-Fir,kept
+Colors.Category,19,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,20,,FT Longleaf-Slash Pine,مخلفات القطع صنوبر,مخلفات القطع صنوبر | FT Longleaf-Slash Pine,translated
+Colors.Category,20,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,21,,FT Loblolly-Shortleaf Pine,صنوبر,صنوبر | FT Loblolly-Shortleaf Pine,translated
+Colors.Category,21,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,22,,FT Oak-Pine,صنوبر,صنوبر | FT Oak-Pine,translated
+Colors.Category,22,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,23,,FT Oak-Hickory,,FT Oak-Hickory,kept
+Colors.Category,23,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,24,,FT Oak-Gum-Cypress,,FT Oak-Gum-Cypress,kept
+Colors.Category,24,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,25,,FT Elm-Ash-Cottonwood,رماد,رماد | FT Elm-Ash-Cottonwood,translated
+Colors.Category,25,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,26,,FT Maple-Beech-Birch,,FT Maple-Beech-Birch,kept
+Colors.Category,26,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,27,,FT Aspen-Birch,,FT Aspen-Birch,kept
+Colors.Category,27,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,28,,FT Douglas-Fir,,FT Douglas-Fir,kept
+Colors.Category,28,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,29,,FT Hemlock-Sitka Spruce,,FT Hemlock-Sitka Spruce,kept
+Colors.Category,29,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,30,,FT Ponderosa Pine,صنوبر,صنوبر | FT Ponderosa Pine,translated
+Colors.Category,30,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,31,,FT Western White Pine,أبيض صنوبر,أبيض صنوبر | FT Western White Pine,translated
+Colors.Category,31,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,32,,FT Lodgepole Pine,صنوبر,صنوبر | FT Lodgepole Pine,translated
+Colors.Category,32,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,33,,FT Larch,,FT Larch,kept
+Colors.Category,33,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,34,,FT Fir-Spruce,,FT Fir-Spruce,kept
+Colors.Category,34,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,35,,FT Redwood,,FT Redwood,kept
+Colors.Category,35,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,36,,FT Chaparral,,FT Chaparral,kept
+Colors.Category,36,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,37,,FT Pinyon-Juniper,,FT Pinyon-Juniper,kept
+Colors.Category,37,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,38,,FT Western Hardwoods,,FT Western Hardwoods,kept
+Colors.Category,38,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,39,,FT Aspen-Birch-Pine,صنوبر,صنوبر | FT Aspen-Birch-Pine,translated
+Colors.Category,39,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,40,,FT Unforested,,FT Unforested,kept
+Colors.Category,40,,US Forest Type,غابة نوع,غابة نوع | US Forest Type,translated
+Colors.Name,41,,Zeta Red,أحمر,أحمر | Zeta Red,translated
+Colors.Category,41,,Other,أخرى,أخرى | Other,translated
+Colors.Name,42,,Hot Spot Red,أحمر,أحمر | Hot Spot Red,translated
+Colors.Category,42,,Other,أخرى,أخرى | Other,translated
+Colors.Name,43,,Helispot Blue,مهبط مروحية أزرق,مهبط مروحية أزرق | Helispot Blue,translated
+Colors.Category,43,,Other,أخرى,أخرى | Other,translated
+Colors.Name,44,,Base Blue,أزرق,أزرق | Base Blue,translated
+Colors.Category,44,,Other,أخرى,أخرى | Other,translated
+Colors.Name,45,,Incident Blue,أزرق,أزرق | Incident Blue,translated
+Colors.Category,45,,Other,أخرى,أخرى | Other,translated
+Colors.Name,46,,Free Diving Violet Blue,حرة الغوص أزرق,حرة الغوص أزرق | Free Diving Violet Blue,translated
+Colors.Category,46,,Other,أخرى,أخرى | Other,translated
+Colors.Name,47,,Marker Red,علامة أحمر,علامة أحمر | Marker Red,translated
+Colors.Category,47,,Other,أخرى,أخرى | Other,translated
+Colors.Name,48,,White,أبيض,أبيض | White,translated
+Colors.Category,48,,Other,أخرى,أخرى | Other,translated
+North Arrows.Name,1,,Forest North 1,شمال الغابة,شمال الغابة | Forest North 1,translated
+North Arrows.Category,1,,Default,افتراضية,افتراضية | Default,translated
+North Arrows.Name,2,,Forest North 2,شمال الغابة,شمال الغابة | Forest North 2,translated
+North Arrows.Category,2,,Default,افتراضية,افتراضية | Default,translated
+North Arrows.Name,3,,Forest North 3,شمال الغابة,شمال الغابة | Forest North 3,translated
+North Arrows.Category,3,,Default,افتراضية,افتراضية | Default,translated

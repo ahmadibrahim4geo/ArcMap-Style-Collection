@@ -1,0 +1,21 @@
+﻿en,ar,type,R,G,B,width_size,category_en,category_ar
+Motorway,طريق سريع,line,232,106,94,2.2,Roads,طرق
+Trunk road,طريق جذعي,line,245,144,83,2.0,Roads,طرق
+Primary road,طريق أولى,line,252,214,164,1.8,Roads,طرق
+Secondary road,طريق ثانوية,line,247,250,120,1.4,Roads,طرق
+Tertiary road,طريق ثالثية,line,255,255,255,1.2,Roads,طرق
+Residential road,طريق سكني,line,255,255,255,1.0,Roads,طرق
+Track unpaved,درب ترابي,line,150,100,50,0.8,Roads,طرق
+Path footway,ممر مشاة,line,150,100,50,0.6,Roads,طرق
+Railway,سكة حديد,line,80,80,80,1.2,Rail,سكك
+Subway light rail,مترو وقطار خفيف,line,0,102,204,1.2,Rail,سكك
+Runway,مدرج مطار,line,120,120,120,2.0,Air,جوي
+Ferry route,خط عبارة,line,0,150,200,0.8,Water transport,نقل مائي
+Railway station,محطة قطار,point,0,0,0,16,Stations,محطات
+Bus stop,موقف حافلة,point,0,102,204,12,Stations,محطات
+Airport,مطار,point,200,0,0,16,Air,جوي
+Seaport,ميناء بحري,point,0,120,200,14,Water transport,نقل مائي
+Parking,موقف سيارات,point,0,120,0,12,Road facilities,مرافق طرق
+Fuel station,محطة وقود,point,200,100,0,12,Road facilities,مرافق طرق
+Traffic signal,إشارة مرورية,point,230,0,0,12,Road facilities,مرافق طرق
+Bridge tunnel,جسر ونفق,line,100,100,100,1.5,Roads,طرق

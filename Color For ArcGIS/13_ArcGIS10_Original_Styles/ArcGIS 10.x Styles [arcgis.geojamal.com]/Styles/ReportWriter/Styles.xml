@@ -1,0 +1,786 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ReportStyles Version="1.0">
+	<ReportStyle Name="Athens" UserStyle="False">
+		<SectionStyle Type="0" BackColor="#D1EAF0">
+			<Font Size="20" Style="Regular" Color="#04617B">Calibri</Font>
+		</SectionStyle>
+		<SectionStyle Type="1">
+			<Font Size="9" Style="Regular" Color="#04617B">Constantia</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="9" Style="Bold" Color="#04617B">Constantia</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="9" Style="Regular" Color="#000000">Calibri</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="8" Style="Regular" Color="#04617B">Calibri</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#04617B">Calibri</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#04617B">Calibri</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Baton Rouge" UserStyle="False">
+		<SectionStyle Type="0">
+			<Font Size="20" Style="Regular" Color="#69676D">Lucida Sans</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="#69676D">
+			<Font Size="10" Style="Regular" Color="#CEB966">Book Antiqua</Font>
+		</SectionStyle>
+		<SectionStyle Type="2" Lines="1" LinesColor="#69676D">
+			<Font Size="10" Style="Bold" Color="#69676D">Book Antiqua</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="10" Style="Regular" Color="#000000">Book Antiqua</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="9" Style="Regular" Color="#A0A0A0">Book Antiqua</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="9" Style="Regular" Color="#A0A0A0">Book Antiqua</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="9" Style="Regular" Color="#A0A0A0">Book Antiqua</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Cape Town" UserStyle="False">
+		<SectionStyle Type="0" BackColor="#E9F7DD">
+			<Font Size="20" Style="Regular" Color="#660066">Microsoft Sans Serif</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="#B13F9A">
+			<Font Size="9" Style="Regular" Color="#000000">Microsoft Sans Serif</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="9" Style="Bold" Color="#B13F9A">Microsoft Sans Serif</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3" AlternateColor="Black">
+			<Font Size="9" Style="Regular" Color="#000000">Microsoft Sans Serif</Font>
+			<AlternateFont Size="9" Style="Regular" Color="White">Microsoft Sans Serif</AlternateFont>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="8" Style="Regular" Color="#000000">Microsoft Sans Serif</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#000000">Microsoft Sans Serif</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#000000">Microsoft Sans Serif</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Chicago" UserStyle="False">
+		<SectionStyle Type="0" BackColor="#46465D">
+			<Font Size="20" Style="Regular" Color="#DDE9EC">Bookman Old Style</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="#46465D">
+			<Font Size="10" Style="Regular" Color="#DDE9EC">Gill Sans MT</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="10" Style="Bold" Color="#727CA3">Gill Sans MT</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3" BackColor="Gainsboro" AlternateColor="WhiteSmoke">
+			<Font Size="10" Style="Regular" Color="#46465D">Gill Sans MT</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="9" Style="Regular" Color="#000000">Gill Sans MT</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="9" Style="Regular" Color="#000000">Gill Sans MT</Font>
+		</SectionStyle>
+		<SectionStyle Type="6" BackColor="#46465D">
+			<Font Size="9" Style="Regular" Color="White">Gill Sans MT</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Copenhagen" UserStyle="False">
+		<SectionStyle Type="0">
+			<Font Size="20" Style="Bold" Color="#00224D">Cambria</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="#79A7E3">
+			<Font Size="9" Style="Bold" Color="#00224D">Calibri</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="9" Style="Bold" Color="#5C83B4">Calibri</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="9" Style="Regular" Color="#000000">Calibri</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="8" Style="Regular" Color="#000000">Calibri</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#000000">Calibri</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#000000">Calibri</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Denver" UserStyle="False">
+		<SectionStyle Type="0" BackColor="#F5F5DC">
+			<Font Size="18" Style="Bold" Color="#50308C">Verdana</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" Lines="1" LinesColor="#000000">
+			<Font Size="9" Style="Bold" Color="#50308C">Verdana</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="9" Style="Regular" Color="#4580B5">Verdana</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="9" Style="Regular" Color="#000000">Verdana</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="8" Style="Regular" Color="#000000">Verdana</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#000000">Verdana</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#000000">Verdana</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Galesburg" UserStyle="False">
+		<SectionStyle Type="0" BackColor="#3B3B3B">
+			<Font Size="20" Style="Regular" Color="#FFFFFF">Franklin Gothic Book</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="#000000">
+			<Font Size="9" Style="Regular" Color="#D4D2D0">Arial</Font>
+		</SectionStyle>
+		<SectionStyle Type="2" Lines="2" LinesColor="#979EA9">
+			<Font Size="9" Style="Bold" Color="#979EA8">Arial</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3" Lines="2" LinesColor="#979EA9">
+			<Font Size="9" Style="Regular" Color="#3B3B3B">Arial</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="8" Style="Regular" Color="#000000">Arial</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#000000">Arial</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#000000">Arial</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Havelock" UserStyle="False">
+		<SectionStyle Type="0">
+			<Font Size="20.25" Style="Bold" Color="#575F6D">Century Schoolbook</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" Lines="1" LinesColor="#FF7D26">
+			<Font Size="9" Style="Regular" Color="#000000">Century Schoolbook</Font>
+		</SectionStyle>
+		<SectionStyle Type="2" Lines="1" LinesColor="#000001">
+			<Font Size="9" Style="Bold" Color="#FF7D26">Century Schoolbook</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3" BackColor="LemonChiffon" AlternateColor="PapayaWhip">
+			<Font Size="9" Style="Regular" Color="#000000">Century Schoolbook</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="8.25" Style="Bold" Color="DarkOrange">Century Schoolbook</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="Gray">Century Schoolbook</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="Gray">Century Schoolbook</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Helsinki" UserStyle="False">
+		<SectionStyle Type="0" BackColor="AliceBlue">
+			<Font Size="20" Style="Regular" Color="#000000">Segoe UI</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="White">
+			<Font Size="9" Style="Regular" Color="Black">Segoe UI</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="9" Style="Bold" Color="#000000">Segoe UI</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3" BackColor="LightSteelBlue" AlternateColor="AliceBlue">
+			<Font Size="9" Style="Regular" Color="#000000">Segoe UI</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4" Lines="2" LinesColor="Olive">
+			<Font Size="8" Style="Regular" Color="#000000">Segoe UI</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#000000">Segoe UI</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#000000">Segoe UI</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Istanbul" UserStyle="False">
+		<SectionStyle Type="0" BackColor="#DD0000">
+			<Font Size="20" Style="Regular" Color="#FFFFFF">Eras Medium ITC</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="#282828">
+			<Font Size="10" Style="Regular" Color="#EEEEEE">Eras Medium ITC</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="10" Style="Bold" Color="#576793">Eras Medium ITC</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="10" Style="Regular" Color="#282828">Eras Medium ITC</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="9" Style="Regular" Color="#404040">Eras Medium ITC</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="9" Style="Regular" Color="#404040">Eras Medium ITC</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="9" Style="Regular" Color="#404040">Eras Medium ITC</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Jasper" UserStyle="False">
+		<SectionStyle Type="0" BackColor="#D34817">
+			<Font Size="20" Style="Regular" Color="#FFFFFF">Franklin Gothic Book</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="#855D5D">
+			<Font Size="11" Style="Regular" Color="#E9E5DC">Perpetua</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="11" Style="Bold" Color="#9B2D1F">Perpetua</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3" Lines="2" LinesColor="#E9E5DC">
+			<Font Size="11" Style="Regular" Color="#696464">Perpetua</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="10" Style="Regular" Color="#BFBFBF">Perpetua</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="10" Style="Regular" Color="#BFBFBF">Perpetua</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="10" Style="Regular" Color="#BFBFBF">Perpetua</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Kingston" UserStyle="False">
+		<SectionStyle Type="0">
+			<Font Size="26" Style="Bold" Color="#000000">Haettenschweiler</Font>
+		</SectionStyle>
+		<SectionStyle Type="1">
+			<Font Size="14" Style="Regular" Color="#000000">Haettenschweiler</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="12" Style="Regular" Color="#000000">Haettenschweiler</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="9" Style="Regular" Color="#000000">Arial</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="8" Style="Regular" Color="#000000">Arial</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#000000">Arial</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#000000">Arial</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Lima" UserStyle="False">
+		<SectionStyle Type="0" BackColor="#C0C0C0">
+			<Font Size="24" Style="Bold" Color="#FFFFFF">Arial</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" Lines="1" LinesColor="#C0C0C0">
+			<Font Size="9" Style="Regular" Color="#000000">Arial</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="9" Style="Bold" Color="#000000">Arial</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="9" Style="Regular" Color="#000000">Times New Roman</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="8" Style="Regular" Color="#000000">Times New Roman</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#000000">Times New Roman</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#000000">Times New Roman</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Lincoln" UserStyle="False">
+		<SectionStyle Type="0" Lines="1">
+			<Font Size="24" Style="Regular" Color="#000000">Tahoma</Font>
+		</SectionStyle>
+		<SectionStyle Type="1">
+			<Font Size="8" Style="Regular" Color="#000000">Tahoma</Font>
+		</SectionStyle>
+		<SectionStyle Type="2" Lines="1" LinesColor="Gainsboro">
+			<Font Size="8" Style="Bold" Color="#000000">Tahoma</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3" BackColor="SeaShell" AlternateColor="MistyRose">
+			<Font Size="8" Style="Regular" Color="#000000">Tahoma</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4" Lines="1" LinesColor="LightGrey">
+			<Font Size="8" Style="Regular" Color="#000000">Tahoma</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#000000">Tahoma</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#000000">Tahoma</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Marrakech" UserStyle="False">
+		<SectionStyle Type="0" BackColor="Gainsboro">
+			<Font Size="24" Style="Bold" Color="LightSeaGreen">Tahoma</Font>
+		</SectionStyle>
+		<SectionStyle Type="1">
+			<Font Size="10" Style="Regular" Color="#000000">Arial</Font>
+		</SectionStyle>
+		<SectionStyle Type="2" Lines="2" LinesColor="#008080">
+			<Font Size="10" Style="Bold" Color="#000000">Arial</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3" BackColor="Honeydew" AlternateColor="LightCyan">
+			<Font Size="9" Style="Regular" Color="#000000">Courier New</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="8" Style="Regular" Color="#000000">Times New Roman</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#000000">Times New Roman</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8.25" Style="Regular" Color="#000000">Tahoma</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Monaco" UserStyle="False">
+		<SectionStyle Type="0">
+			<Font Size="20" Style="Regular" Color="#000000">Times New Roman</Font>
+		</SectionStyle>
+		<SectionStyle Type="1">
+			<Font Size="9" Style="Bold" Color="#000000">Times New Roman</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="9" Style="Bold" Color="#000000">Times New Roman</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="9" Style="Regular" Color="#000000">Arial</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="8" Style="Regular" Color="#000000">Arial</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#000000">Arial</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#000000">Arial</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Moscow" UserStyle="False">
+		<SectionStyle Type="0" BackColor="#666666">
+			<Font Size="20" Style="Regular" Color="#FFFFFF">Century Gothic</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="#666666">
+			<Font Size="8" Style="Regular" Color="#FFFFFF">Century Gothic</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="8" Style="Bold" Color="#666666">Century Gothic</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="8" Style="Regular" Color="#000000">Century Gothic</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="7" Style="Regular" Color="#000000">Century Gothic</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="7" Style="Regular" Color="#000000">Century Gothic</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="7" Style="Regular" Color="#000000">Century Gothic</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="New York" UserStyle="False">
+		<SectionStyle Type="0" BackColor="#000000">
+			<Font Size="20.25" Style="Regular" Color="#FFFFFF">Elephant</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="#000000">
+			<Font Size="9" Style="Regular" Color="White">Verdana</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="9" Style="Bold" Color="#4E5B6F">Verdana</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="9" Style="Regular" Color="#000000">Verdana</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="9" Style="Regular" Color="#4E5B6F">Verdana</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#000000">Verdana</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#000000">Verdana</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Osaka" UserStyle="False">
+		<SectionStyle Type="0" BackColor="#383265">
+			<Font Size="20" Style="Regular" Color="#FFFFFF">Corbel</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="#383265">
+			<Font Size="10" Style="Regular" Color="#FFFFFF">Corbel</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="10" Style="Bold" Color="#000000">Corbel</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="10" Style="Regular" Color="#000000">Corbel</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="9" Style="Regular" Color="#000000">Corbel</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="9" Style="Regular" Color="#000000">Corbel</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="9" Style="Regular" Color="#000000">Corbel</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Pensacola" UserStyle="False">
+		<SectionStyle Type="0">
+			<Font Size="20" Style="Regular" Color="#D6614A">Georgia</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="#8CAEAD">
+			<Font Size="8" Style="Regular" Color="#E4EEF3">Georgia</Font>
+		</SectionStyle>
+		<SectionStyle Type="2" Lines="2" LinesColor="#000001">
+			<Font Size="8" Style="Bold" Color="#090000">Georgia</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3" Lines="2" LinesColor="#73A8D4">
+			<Font Size="8" Style="Regular" Color="#000000">Georgia</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="7" Style="Regular" Color="#000000">Georgia</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="7" Style="Regular" Color="#000000">Georgia</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="7" Style="Regular" Color="#000000">Georgia</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Perth" UserStyle="False">
+		<SectionStyle Type="0" BackColor="#676A55">
+			<Font Size="20" Style="Regular" Color="#FFFFFF">Rockwell</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="#676A55">
+			<Font Size="9" Style="Regular" Color="#EAEBDE">Rockwell</Font>
+		</SectionStyle>
+		<SectionStyle Type="2" BackColor="#676A55">
+			<Font Size="9" Style="Bold" Color="#EAEBDE">Rockwell</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3" Lines="2" LinesColor="#72A377">
+			<Font Size="9" Style="Regular" Color="#000000">Rockwell</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="8" Style="Regular" Color="#72A376">Rockwell</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#72A376">Rockwell</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#72A376">Rockwell</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Porto" UserStyle="False">
+		<SectionStyle Type="0" BackColor="DarkSeaGreen">
+			<Font Size="20" Style="Bold" Color="#004000">Times New Roman</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="DarkGreen">
+			<Font Size="10" Style="Bold" Color="White">Arial</Font>
+		</SectionStyle>
+		<SectionStyle Type="2" Lines="1" LinesColor="#000001">
+			<Font Size="9" Style="Italic" Color="#000000">Times New Roman</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="9" Style="Regular" Color="#000000">Times New Roman</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="9" Style="Italic" Color="#000000">Times New Roman</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#000000">Times New Roman</Font>
+		</SectionStyle>
+		<SectionStyle Type="6" Lines="1" LinesColor="DarkGreen">
+			<Font Size="8" Style="Regular" Color="#000000">Times New Roman</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="San Jose" UserStyle="False">
+		<SectionStyle Type="0" BackColor="#2DA2BF">
+			<Font Size="20" Style="Regular" Color="#282828">Eras Medium ITC</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="#282828">
+			<Font Size="9" Style="Regular" Color="#EEEEEE">Eras Medium ITC</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="9" Style="Bold" Color="#576793">Eras Medium ITC</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="9" Style="Regular" Color="#282828">Eras Medium ITC</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="8" Style="Regular" Color="#2DA2BF">Eras Medium ITC</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#2DA2BF">Eras Medium ITC</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#576793">Eras Medium ITC</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Santiago" UserStyle="False">
+		<SectionStyle Type="0">
+			<Font Size="20" Style="Regular" Color="#4E3B30">Franklin Gothic Book</Font>
+		</SectionStyle>
+		<SectionStyle Type="1">
+			<Font Size="10" Style="Bold" Color="#4E3B30">Franklin Gothic Book</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="10" Style="Bold" Color="#A5644E">Franklin Gothic Book</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="10" Style="Regular" Color="#4E3B30">Franklin Gothic Book</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="9" Style="Regular" Color="#000000">Franklin Gothic Book</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="9" Style="Regular" Color="#000000">Franklin Gothic Book</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="9" Style="Regular" Color="#000000">Franklin Gothic Book</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Shanghai" UserStyle="False">
+		<SectionStyle Type="0" BackColor="#EFF2F5">
+			<Font Size="20" Style="Regular" Color="#000000">Constantia</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="#4A606E">
+			<Font Size="9" Style="Regular" Color="#EFF2F5">Constantia</Font>
+		</SectionStyle>
+		<SectionStyle Type="2" Lines="2" LinesColor="#000001">
+			<Font Size="9" Style="Bold" Color="#4A606E">Constantia</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3" Lines="2" LinesColor="#95AEB2">
+			<Font Size="9" Style="Regular" Color="#000000">Constantia</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="8" Style="Regular" Color="#95AEB1">Constantia</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#95AEB1">Constantia</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#95AEB1">Constantia</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Simple" UserStyle="False">
+		<SectionStyle Type="0">
+			<Font Size="20" Style="Regular" Color="#000000">Calibri</Font>
+		</SectionStyle>
+		<SectionStyle Type="1">
+			<Font Size="11" Style="Regular" Color="#000000">Calibri</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="11" Style="Bold" Color="#000000">Calibri</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="11" Style="Regular" Color="#000000">Calibri</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="11" Style="Regular" Color="#000000">Calibri</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="11" Style="Regular" Color="#000000">Calibri</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="11" Style="Regular" Color="#000000">Calibri</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Stockholm" UserStyle="False">
+		<SectionStyle Type="0" BackColor="Navy">
+			<Font Size="20" Style="Regular" Color="Yellow">Segoe UI</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="Navy" Lines="1" LinesColor="Yellow">
+			<Font Size="9" Style="Regular" Color="#FFFFFF">Segoe UI</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="9" Style="Bold" Color="#616A76">Segoe UI</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="9" Style="Regular" Color="#373C43">Segoe UI</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="8" Style="Regular" Color="#000000">Segoe UI</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#000000">Segoe UI</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#000000">Segoe UI</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Tacoma" UserStyle="False">
+		<SectionStyle Type="0">
+			<Font Size="20" Style="Regular" Color="#7F001B">Microsoft Sans Serif</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="#C7C5BC">
+			<Font Size="9" Style="Regular" Color="#F9F9F7">Arial</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="9" Style="Bold" Color="#CF5216">Arial</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="9" Style="Regular" Color="#000000">Arial</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="8" Style="Regular" Color="#C7C5BC">Arial</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#C7C5BC">Arial</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#C7C5BC">Arial</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Tonawanda" UserStyle="False">
+		<SectionStyle Type="0" BackColor="#4580B5">
+			<Font Size="18" Style="Bold" Color="#FFFFFF">Verdana</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" Lines="1" LinesColor="#000000">
+			<Font Size="9" Style="Bold" Color="#4580B5">Verdana</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="9" Style="Regular" Color="#4580B5">Verdana</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="9" Style="Regular" Color="#000000">Verdana</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="8" Style="Regular" Color="#000000">Verdana</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#000000">Verdana</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#000000">Verdana</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Toronto" UserStyle="False">
+		<SectionStyle Type="0" BackColor="#775F55">
+			<Font Size="20" Style="Regular" Color="#FBEEC9">Tw Cen MT</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="#94B6D2">
+			<Font Size="10" Style="Regular" Color="#FBEEC9">Tw Cen MT</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="10" Style="Bold" Color="#775F55">Tw Cen MT</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="10" Style="Regular" Color="#000000">Tw Cen MT</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="8" Style="Regular" Color="#775F55">Tw Cen MT</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#775F55">Tw Cen MT</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#775F55">Tw Cen MT</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Tunis" UserStyle="False">
+		<SectionStyle Type="0" BackColor="#E3DED1">
+			<Font Size="18" Style="Regular" Color="#323232">Verdana</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="#323232">
+			<Font Size="8" Style="Regular" Color="#E3DED1">Verdana</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="8" Style="Bold" Color="#604878">Verdana</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="8" Style="Regular" Color="#000000">Verdana</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="7" Style="Regular" Color="#323232">Verdana</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="7" Style="Regular" Color="#323232">Verdana</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="7" Style="Regular" Color="#323232">Verdana</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Turin" UserStyle="False">
+		<SectionStyle Type="0">
+			<Font Size="20" Style="Bold, Italic" Color="#000080">Times New Roman</Font>
+		</SectionStyle>
+		<SectionStyle Type="1">
+			<Font Size="9" Style="Bold, Italic" Color="#000080">Times New Roman</Font>
+		</SectionStyle>
+		<SectionStyle Type="2" Lines="2" LinesColor="#808080">
+			<Font Size="9" Style="Bold, Italic" Color="#000080">Times New Roman</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="9" Style="Regular" Color="#000000">Arial</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="8" Style="Regular" Color="#000000">Arial</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#000000">Arial</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#000000">Arial</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Valencia" UserStyle="False">
+		<SectionStyle Type="0">
+			<Font Size="20" Style="Regular" Color="#42415A">Microsoft Sans Serif</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="#42415A">
+			<Font Size="9" Style="Regular" Color="#DEDEDE">Georgia</Font>
+		</SectionStyle>
+		<SectionStyle Type="2" Lines="2" LinesColor="#000001">
+			<Font Size="9" Style="Bold" Color="#42415A">Georgia</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="9" Style="Regular" Color="#000000">Georgia</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="8" Style="Regular" Color="#438086">Georgia</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="8" Style="Regular" Color="#438086">Georgia</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="8" Style="Regular" Color="#438086">Georgia</Font>
+		</SectionStyle>
+	</ReportStyle>
+	<ReportStyle Name="Vichy" UserStyle="False">
+		<SectionStyle Type="0" BackColor="#E7DEC9">
+			<Font Size="20" Style="Regular" Color="#4F271C">Gill Sans MT</Font>
+		</SectionStyle>
+		<SectionStyle Type="1" BackColor="#E7DEC9">
+			<Font Size="10" Style="Regular" Color="#4F271C">Gill Sans MT</Font>
+		</SectionStyle>
+		<SectionStyle Type="2">
+			<Font Size="10" Style="Bold" Color="#3891A7">Gill Sans MT</Font>
+		</SectionStyle>
+		<DetailSectionStyle Type="3">
+			<Font Size="10" Style="Regular" Color="#4F271C">Gill Sans MT</Font>
+		</DetailSectionStyle>
+		<SectionStyle Type="4">
+			<Font Size="9" Style="Regular" Color="#9F8D69">Gill Sans MT</Font>
+		</SectionStyle>
+		<SectionStyle Type="5">
+			<Font Size="9" Style="Regular" Color="#9F8D69">Gill Sans MT</Font>
+		</SectionStyle>
+		<SectionStyle Type="6">
+			<Font Size="9" Style="Regular" Color="#9F8D69">Gill Sans MT</Font>
+		</SectionStyle>
+	</ReportStyle>
+</ReportStyles>

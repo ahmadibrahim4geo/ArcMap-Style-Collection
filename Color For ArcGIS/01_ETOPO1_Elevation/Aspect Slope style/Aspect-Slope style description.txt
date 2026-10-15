@@ -1,0 +1,20 @@
+5/2/12
+
+This is a style that you can use to create and aspect-slope map that simultaneously shows the aspect (direction) and degree (steepness) of slope for a terrain (or other continuous surface).  Aspect categories are symbolized using hues (e.g., red, orange, yellow, etc.) and degree of slope classes are mapped with saturation (or brilliance of color) so that the steeper slopes are brighter. 
+ 
+The coloring is based on Moellering and Kimerling's MKS-ASPECT scheme (GIS world 1991). Cindy Brewer and Ken Marlow modified the colors as described in their online article:  
+Color Representation of Aspect and Slope Simultaneously, by Cynthia A. Brewer and Ken A. Marlow, available online at: http://www.personal.psu.edu/cab38/Terrain/AutoCarto.html.  The colors in this style are the same as those defined in the article.
+
+To learn more about this technique, here are some suggested readings:
+
+Color Representation of Aspect and Slope Simultaneously, by Cynthia A. Brewer and Ken A. Marlow, available online at: http://www.personal.psu.edu/cab38/Terrain/AutoCarto.html.
+
+GIS World, 1991, MKS-ASPECT Enhances Color Surface Renderings, GIS World, 4(October): 30-32.
+
+Moellering, H., and A.J. Kimerling, 1990, A New Digital Slope-Aspect Display Process, Cartography and Geographic Information Systems, 17(2): 151-159. 
+
+Have fun mapping!
+
+Esri Mapping Team
+
+(first published 5/22/08)

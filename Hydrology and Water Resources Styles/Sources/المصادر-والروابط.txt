@@ -1,0 +1,39 @@
+مصدر الاستايلات - Source (هيدرولوجيا وموارد مياه)
+====================================================
+
+التخصص: هيدرولوجيا / شبكات مياه وصرف (ستايلات ArcGIS Pro الرسمية .stylx + بيانات NHD)
+
+تاريخ التحميل: 28-09-2026
+
+----------------------------------------------------
+الملفات في هذا الفولدر:
+----------------------------------------------------
+1) Water-Distribution-Utility-Network.stylx
+   https://www.arcgis.com/home/item.html?id=c5a61a249bd34761aa9a4f068409e1c3
+   ستايل شبكات توزيع المياه (Utility Network).
+
+2) Water-Distribution-Editor.stylx (~1.4 MB)
+   https://www.arcgis.com/home/item.html?id=161d806369924028bf19ebf37fd50e10
+   ستايل محرر شبكات المياه.
+
+----------------------------------------------------
+مصادر بيانات مكملة (تحميل يدوي - أحجام كبيرة):
+----------------------------------------------------
+- National Hydrography Dataset (NHD) - شبكة الصرف الأمريكية (أنهار/بحيرات/سدود):
+  https://www.usgs.gov/national-hydrography/national-hydrography-dataset
+  التحميل: The National Map Download Client بصيغة File Geodatabase أو Shapefile.
+  خدمة ArcGIS: https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer
+
+- حلول ESRI للمياه (مشاريع جاهزة + ستايلات + بيانات عينة):
+  https://doc.arcgis.com/en/arcgis-solutions/latest/reference/introduction-to-water-distribution-utility-network-foundation.htm
+
+----------------------------------------------------
+نسخ ArcMap (.style) - مضافة من تثبيت ArcMap 10.8 المحلي:
+----------------------------------------------------
+ملاحظة مهمة: لا يوجد تحويل مباشر من .stylx إلى .style. لذلك أُضيفت النسخ
+الأصلية .style لنفس التخصص من مجلد تثبيت ArcMap على هذا الجهاز:
+- Water Wastewater.style (بديل ArcMap لستايلات توزيع المياه)
+- Utilities.style (مرافق عامة - مياه/كهرباء/صرف)
+الاستخدام في ArcMap: Customize > Style Manager > Styles > Add Style to List.
+
+الحقوق: ستايلات ESRI مجانية + بيانات NHD في Public Domain.

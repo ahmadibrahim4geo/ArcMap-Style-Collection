@@ -1,0 +1,1165 @@
+﻿field,id,key,original,arabic,new_value,status
+NAME,1,Gravity Main,Gravity Main,خط الانحدار الرئيسي,خط الانحدار الرئيسي | Gravity Main,translated
+CATEGORY,1,Gravity Main,Default,افتراضية,افتراضية | Default,translated
+NAME,2,Force Main/Purge Line/Stub Out,Force Main/Purge Line/Stub Out,خط الضغط الرئيسي خط التطهير مخرج مسدود,خط الضغط الرئيسي خط التطهير مخرج مسدود | Force Main/Purge Line/Stub Out,translated
+CATEGORY,2,Force Main/Purge Line/Stub Out,Default,افتراضية,افتراضية | Default,translated
+NAME,3,Distribution Main,Distribution Main,خط التوزيع الرئيسي,خط التوزيع الرئيسي | Distribution Main,translated
+CATEGORY,3,Distribution Main,Default,افتراضية,افتراضية | Default,translated
+NAME,4,Transmission Main,Transmission Main,خط النقل الرئيسي,خط النقل الرئيسي | Transmission Main,translated
+CATEGORY,4,Transmission Main,Default,افتراضية,افتراضية | Default,translated
+NAME,5,Alternate Main,Alternate Main,خط رئيسي بديل,خط رئيسي بديل | Alternate Main,translated
+CATEGORY,5,Alternate Main,Default,افتراضية,افتراضية | Default,translated
+NAME,6,Service Line,Service Line,خط الخدمة,خط الخدمة | Service Line,translated
+CATEGORY,6,Service Line,Default,افتراضية,افتراضية | Default,translated
+NAME,7,Fire Service,Fire Service,خدمة الإطفاء,خدمة الإطفاء | Fire Service,translated
+CATEGORY,7,Fire Service,Default,افتراضية,افتراضية | Default,translated
+NAME,8,Siphon/Service Lateral,Siphon/Service Lateral,سيفون الفرعية الخدمية,سيفون الفرعية الخدمية | Siphon/Service Lateral,translated
+CATEGORY,8,Siphon/Service Lateral,Default,افتراضية,افتراضية | Default,translated
+NAME,9,Undetermined Source,Undetermined Source,غير محددة مصدر,غير محددة مصدر | Undetermined Source,translated
+CATEGORY,9,Undetermined Source,Default,افتراضية,افتراضية | Default,translated
+NAME,10,O2 Release Line,O2 Release Line,تحرير خط,تحرير خط | O2 Release Line,translated
+CATEGORY,10,O2 Release Line,Default,افتراضية,افتراضية | Default,translated
+NAME,11,Hazardous Waste,Hazardous Waste,مخلفات,مخلفات | Hazardous Waste,translated
+CATEGORY,11,Hazardous Waste,Default,افتراضية,افتراضية | Default,translated
+NAME,12,Well Blue,Well Blue,بئر أزرق,بئر أزرق | Well Blue,translated
+CATEGORY,12,Well Blue,Default,افتراضية,افتراضية | Default,translated
+NAME,13,Well Green,Well Green,بئر أخضر,بئر أخضر | Well Green,translated
+CATEGORY,13,Well Green,Default,افتراضية,افتراضية | Default,translated
+NAME,14,Well Red,Well Red,بئر أحمر,بئر أحمر | Well Red,translated
+CATEGORY,14,Well Red,Default,افتراضية,افتراضية | Default,translated
+NAME,15,Well Black,Well Black,بئر أسود,بئر أسود | Well Black,translated
+CATEGORY,15,Well Black,Default,افتراضية,افتراضية | Default,translated
+NAME,16,Waste Red,Waste Red,مخلفات أحمر,مخلفات أحمر | Waste Red,translated
+CATEGORY,16,Waste Red,Default,افتراضية,افتراضية | Default,translated
+NAME,17,Drill hole,Drill hole,ثقب الحفر,ثقب الحفر | Drill hole,translated
+CATEGORY,17,Drill hole,Default,افتراضية,افتراضية | Default,translated
+NAME,18,Dry hole,Dry hole,بئر جافة,بئر جافة | Dry hole,translated
+CATEGORY,18,Dry hole,Dry,جافة,جافة | Dry,translated
+NAME,19,Dry hole converted to water well,Dry hole converted to water well,بئر جافة محولة إلى بئر مياه,بئر جافة محولة إلى بئر مياه | Dry hole converted to water well,translated
+CATEGORY,19,Dry hole converted to water well,Dry,جافة,جافة | Dry,translated
+NAME,20,Dry hole converted to injection well,Dry hole converted to injection well,بئر جافة محولة إلى حقن بئر,بئر جافة محولة إلى حقن بئر | Dry hole converted to injection well,translated
+CATEGORY,20,Dry hole converted to injection well,Dry,جافة,جافة | Dry,translated
+NAME,21,Show of oil,Show of oil,شاهد نفط,شاهد نفط | Show of oil,translated
+CATEGORY,21,Show of oil,Oil,نفط,نفط | Oil,translated
+NAME,22,Oil well,Oil well,بئر نفط,بئر نفط | Oil well,translated
+CATEGORY,22,Oil well,Oil,نفط,نفط | Oil,translated
+NAME,23,Shut-in oil well,Shut-in oil well,مغلقة بئر نفط,مغلقة بئر نفط | Shut-in oil well,translated
+CATEGORY,23,Shut-in oil well,Oil,نفط,نفط | Oil,translated
+NAME,24,Abandoned oil well,Abandoned oil well,مهجورة بئر نفط,مهجورة بئر نفط | Abandoned oil well,translated
+CATEGORY,24,Abandoned oil well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,25,Abandoned oil wel - converted to water well,Abandoned oil wel - converted to water well,مهجورة نفط محولة إلى بئر مياه,مهجورة نفط محولة إلى بئر مياه | Abandoned oil wel - converted to water well,translated
+CATEGORY,25,Abandoned oil wel - converted to water well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,26,Abandoned oil well - converted to injection,Abandoned oil well - converted to injection,مهجورة بئر نفط محولة إلى حقن,مهجورة بئر نفط محولة إلى حقن | Abandoned oil well - converted to injection,translated
+CATEGORY,26,Abandoned oil well - converted to injection,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,27,Capped oil well,Capped oil well,مغطاة بئر نفط,مغطاة بئر نفط | Capped oil well,translated
+CATEGORY,27,Capped oil well,Oil,نفط,نفط | Oil,translated
+NAME,28,Show of gas,Show of gas,شاهد غازي,شاهد غازي | Show of gas,translated
+CATEGORY,28,Show of gas,Gas,غاز,غاز | Gas,translated
+NAME,29,Gas well,Gas well,بئر غاز,بئر غاز | Gas well,translated
+CATEGORY,29,Gas well,Gas,غاز,غاز | Gas,translated
+NAME,30,Shut-in gas well,Shut-in gas well,مغلقة بئر غاز,مغلقة بئر غاز | Shut-in gas well,translated
+CATEGORY,30,Shut-in gas well,Gas,غاز,غاز | Gas,translated
+NAME,31,Abandoned gas well,Abandoned gas well,مهجورة بئر غاز,مهجورة بئر غاز | Abandoned gas well,translated
+CATEGORY,31,Abandoned gas well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,32,Abandoned gas well  - converted to water,Abandoned gas well  - converted to water,مهجورة بئر غاز محولة إلى مياه,مهجورة بئر غاز محولة إلى مياه | Abandoned gas well  - converted to water,translated
+CATEGORY,32,Abandoned gas well  - converted to water,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,33,Abandoned gas well  - converted to injection,Abandoned gas well  - converted to injection,مهجورة بئر غاز محولة إلى حقن,مهجورة بئر غاز محولة إلى حقن | Abandoned gas well  - converted to injection,translated
+CATEGORY,33,Abandoned gas well  - converted to injection,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,34,Capped gas well,Capped gas well,مغطاة بئر غاز,مغطاة بئر غاز | Capped gas well,translated
+CATEGORY,34,Capped gas well,Gas,غاز,غاز | Gas,translated
+NAME,35,Show of oil and gas,Show of oil and gas,شاهد نفط و غاز,شاهد نفط و غاز | Show of oil and gas,translated
+CATEGORY,35,Show of oil and gas,Oil and Gas,نفط و غاز,نفط و غاز | Oil and Gas,translated
+NAME,36,Oil and gas well,Oil and gas well,نفط و بئر غاز,نفط و بئر غاز | Oil and gas well,translated
+CATEGORY,36,Oil and gas well,Oil and Gas,نفط و غاز,نفط و غاز | Oil and Gas,translated
+NAME,37,Shut-in oil and gas well,Shut-in oil and gas well,مغلقة نفط و بئر غاز,مغلقة نفط و بئر غاز | Shut-in oil and gas well,translated
+CATEGORY,37,Shut-in oil and gas well,Oil and Gas,نفط و غاز,نفط و غاز | Oil and Gas,translated
+NAME,38,Abandoned oil and gas well,Abandoned oil and gas well,مهجورة نفط و بئر غاز,مهجورة نفط و بئر غاز | Abandoned oil and gas well,translated
+CATEGORY,38,Abandoned oil and gas well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,39,Capped oil and gas well,Capped oil and gas well,مغطاة نفط و بئر غاز,مغطاة نفط و بئر غاز | Capped oil and gas well,translated
+CATEGORY,39,Capped oil and gas well,Oil and Gas,نفط و غاز,نفط و غاز | Oil and Gas,translated
+NAME,40,Abandoned well - converted to water well,Abandoned well - converted to water well,مهجورة بئر محولة إلى بئر مياه,مهجورة بئر محولة إلى بئر مياه | Abandoned well - converted to water well,translated
+CATEGORY,40,Abandoned well - converted to water well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,41,Capped oil and gas well_1,Capped oil and gas well,مغطاة نفط و بئر غاز,مغطاة نفط و بئر غاز | Capped oil and gas well,translated
+CATEGORY,41,Capped oil and gas well_1,Oil and Gas,نفط و غاز,نفط و غاز | Oil and Gas,translated
+NAME,42,Abandoned well - converted to water well_1,Abandoned well - converted to water well,مهجورة بئر محولة إلى بئر مياه,مهجورة بئر محولة إلى بئر مياه | Abandoned well - converted to water well,translated
+CATEGORY,42,Abandoned well - converted to water well_1,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,43,Abandoned well - converted to injection well,Abandoned well - converted to injection well,مهجورة بئر محولة إلى حقن,مهجورة بئر محولة إلى حقن | Abandoned well - converted to injection well,translated
+CATEGORY,43,Abandoned well - converted to injection well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,44,Saltwater-disposal well,Saltwater-disposal well,بئر تخلص,بئر تخلص | Saltwater-disposal well,translated
+CATEGORY,44,Saltwater-disposal well,Mineral,معدن,معدن | Mineral,translated
+NAME,45,Water-injection well,Water-injection well,بئر حقن مياه,بئر حقن مياه | Water-injection well,translated
+CATEGORY,45,Water-injection well,Water,مياه,مياه | Water,translated
+NAME,46,Water-input well,Water-input well,بئر حقن مياه,بئر حقن مياه | Water-input well,translated
+CATEGORY,46,Water-input well,Water,مياه,مياه | Water,translated
+NAME,47,Hazardous-waste site,Hazardous-waste site,مخلفات موقع,مخلفات موقع | Hazardous-waste site,translated
+NAME,48,Hazardous-waste site shows SL flow direction,Hazardous-waste site shows SL flow direction,مخلفات موقع شواهد تدفق اتجاه,مخلفات موقع شواهد تدفق اتجاه | Hazardous-waste site shows SL flow direction,translated
+NAME,49,Hazardous-waste site CU Activities Completed,Hazardous-waste site CU Activities Completed,مخلفات موقع مكتملة,مخلفات موقع مكتملة | Hazardous-waste site CU Activities Completed,translated
+NAME,50,Inactive (closed) hazardous - waste site,Inactive (closed) hazardous - waste site,غير نشطة مغلقة مخلفات موقع,غير نشطة مغلقة مخلفات موقع | Inactive (closed) hazardous - waste site,translated
+NAME,51,Hazardous-waste site - CU activities in progress,Hazardous-waste site - CU activities in progress,مخلفات موقع في,مخلفات موقع في | Hazardous-waste site - CU activities in progress,translated
+NAME,52,Active (operating) hazardous-waste site,Active (operating) hazardous-waste site,نشطة مخلفات موقع,نشطة مخلفات موقع | Active (operating) hazardous-waste site,translated
+NAME,53,Dry hole converted to water well_1,Dry hole converted to water well,بئر جافة محولة إلى بئر مياه,بئر جافة محولة إلى بئر مياه | Dry hole converted to water well,translated
+CATEGORY,53,Dry hole converted to water well_1,Dry,جافة,جافة | Dry,translated
+NAME,54,"Injection Well, Abandoned 1","Injection Well, Abandoned 1",حقن بئر مهجورة,"حقن بئر مهجورة | Injection Well, Abandoned 1",translated
+CATEGORY,54,"Injection Well, Abandoned 1",Injection,حقن,حقن | Injection,translated
+NAME,55,"Injection Well, Abandoned 2","Injection Well, Abandoned 2",حقن بئر مهجورة,"حقن بئر مهجورة | Injection Well, Abandoned 2",translated
+CATEGORY,55,"Injection Well, Abandoned 2",Injection,حقن,حقن | Injection,translated
+NAME,56,"Injection Well, Abandoned 3","Injection Well, Abandoned 3",حقن بئر مهجورة,"حقن بئر مهجورة | Injection Well, Abandoned 3",translated
+CATEGORY,56,"Injection Well, Abandoned 3",Injection,حقن,حقن | Injection,translated
+NAME,57,Well Production Suspended,Well Production Suspended,بئر إنتاج معلقة,بئر إنتاج معلقة | Well Production Suspended,translated
+CATEGORY,57,Well Production Suspended,Suspended,معلقة,معلقة | Suspended,translated
+NAME,58,D & AB,D & AB,و,و | D & AB,translated
+CATEGORY,58,D & AB,Dry,جافة,جافة | Dry,translated
+NAME,59,"Bottom Hole, Plugged & Abandoned","Bottom Hole, Plugged & Abandoned",قاع البئر مغلقة ومهجورة,"قاع البئر مغلقة ومهجورة | Bottom Hole, Plugged & Abandoned",translated
+CATEGORY,59,"Bottom Hole, Plugged & Abandoned",Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,60,"Converted Injection Well, Abandoned","Converted Injection Well, Abandoned",محولة حقن بئر مهجورة,"محولة حقن بئر مهجورة | Converted Injection Well, Abandoned",translated
+CATEGORY,60,"Converted Injection Well, Abandoned",Injection,حقن,حقن | Injection,translated
+NAME,61,D & AG,D & AG,و,و | D & AG,translated
+CATEGORY,61,D & AG,Dry,جافة,جافة | Dry,translated
+NAME,62,"Dry Hole, 2","Dry Hole, 2",بئر جافة,"بئر جافة | Dry Hole, 2",translated
+CATEGORY,62,"Dry Hole, 2",Dry,جافة,جافة | Dry,translated
+NAME,63,"Dry hole converted to injection well, 2","Dry hole converted to injection well, 2",بئر جافة محولة إلى حقن بئر,"بئر جافة محولة إلى حقن بئر | Dry hole converted to injection well, 2",translated
+CATEGORY,63,"Dry hole converted to injection well, 2",Dry,جافة,جافة | Dry,translated
+NAME,64,"Well, Shut-In","Well, Shut-In",بئر مغلقة,"بئر مغلقة | Well, Shut-In",translated
+CATEGORY,64,"Well, Shut-In",Suspended,معلقة,معلقة | Suspended,translated
+NAME,65,"Gas Well, Abandoned","Gas Well, Abandoned",بئر غاز مهجورة,"بئر غاز مهجورة | Gas Well, Abandoned",translated
+CATEGORY,65,"Gas Well, Abandoned",Gas,غاز,غاز | Gas,translated
+NAME,66,ABDG,ABDG,,ABDG,kept
+CATEGORY,66,ABDG,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,67,"Well, Abandoned Location","Well, Abandoned Location",بئر موقع مهجور,"بئر موقع مهجور | Well, Abandoned Location",translated
+CATEGORY,67,"Well, Abandoned Location",Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,68,"Well, Abandoned for Content","Well, Abandoned for Content",بئر مهجورة للمحتوى,"بئر مهجورة للمحتوى | Well, Abandoned for Content",translated
+CATEGORY,68,"Well, Abandoned for Content",Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,69,"Well, Abandoned for Technical Reasons","Well, Abandoned for Technical Reasons",بئر مهجورة لأسباب فنية,"بئر مهجورة لأسباب فنية | Well, Abandoned for Technical Reasons",translated
+CATEGORY,69,"Well, Abandoned for Technical Reasons",Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,70,"Well, Abandoned and Plugged","Well, Abandoned and Plugged",بئر مهجورة ومغلقة,"بئر مهجورة ومغلقة | Well, Abandoned and Plugged",translated
+CATEGORY,70,"Well, Abandoned and Plugged",Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,71,"Well, Show of Gas","Well, Show of Gas",بئر شاهد غازي,"بئر شاهد غازي | Well, Show of Gas",translated
+CATEGORY,71,"Well, Show of Gas",Gas,غاز,غاز | Gas,translated
+NAME,72,"Well, Significant Show of Gas","Well, Significant Show of Gas",بئر شاهد غازي كبير,"بئر شاهد غازي كبير | Well, Significant Show of Gas",translated
+CATEGORY,72,"Well, Significant Show of Gas",Gas,غاز,غاز | Gas,translated
+NAME,73,Abandoned Location,Abandoned Location,موقع مهجور,موقع مهجور | Abandoned Location,translated
+CATEGORY,73,Abandoned Location,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,74,"Well, Temporarily Suspended 1","Well, Temporarily Suspended 1",بئر معلقة مؤقتاً,"بئر معلقة مؤقتاً | Well, Temporarily Suspended 1",translated
+CATEGORY,74,"Well, Temporarily Suspended 1",Suspended,معلقة,معلقة | Suspended,translated
+NAME,75,"Abandoned, Shut-In","Abandoned, Shut-In",مهجورة مغلقة,"مهجورة مغلقة | Abandoned, Shut-In",translated
+CATEGORY,75,"Abandoned, Shut-In",Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,76,Proposed Well Location Tight,Proposed Well Location Tight,مقترحة بئر موقع مقيدة,مقترحة بئر موقع مقيدة | Proposed Well Location Tight,translated
+CATEGORY,76,Proposed Well Location Tight,Location,موقع,موقع | Location,translated
+NAME,77,"Well, Temporarily Suspended 2","Well, Temporarily Suspended 2",بئر معلقة مؤقتاً,"بئر معلقة مؤقتاً | Well, Temporarily Suspended 2",translated
+CATEGORY,77,"Well, Temporarily Suspended 2",Suspended,معلقة,معلقة | Suspended,translated
+NAME,78,"Water Well, 1","Water Well, 1",بئر مياه,"بئر مياه | Water Well, 1",translated
+CATEGORY,78,"Water Well, 1",Water,مياه,مياه | Water,translated
+NAME,79,"Water Well, 2","Water Well, 2",بئر مياه,"بئر مياه | Water Well, 2",translated
+CATEGORY,79,"Water Well, 2",Water,مياه,مياه | Water,translated
+NAME,80,Well Point,Well Point,بئر نقطة,بئر نقطة | Well Point,translated
+CATEGORY,80,Well Point,Location,موقع,موقع | Location,translated
+NAME,81,"Well, Temporarily Suspended 3","Well, Temporarily Suspended 3",بئر معلقة مؤقتاً,"بئر معلقة مؤقتاً | Well, Temporarily Suspended 3",translated
+CATEGORY,81,"Well, Temporarily Suspended 3",Suspended,معلقة,معلقة | Suspended,translated
+NAME,82,Abandoned Oil & Condensate Well,Abandoned Oil & Condensate Well,مهجورة نفط و مكثفات بئر,مهجورة نفط و مكثفات بئر | Abandoned Oil & Condensate Well,translated
+CATEGORY,82,Abandoned Oil & Condensate Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,83,Oil & Condensate Well,Oil & Condensate Well,نفط و مكثفات بئر,نفط و مكثفات بئر | Oil & Condensate Well,translated
+CATEGORY,83,Oil & Condensate Well,Oil,نفط,نفط | Oil,translated
+NAME,84,"Oil & Distillate Well, Dry","Oil & Distillate Well, Dry",نفط و مقطر بئر جافة,"نفط و مقطر بئر جافة | Oil & Distillate Well, Dry",translated
+CATEGORY,84,"Oil & Distillate Well, Dry",Oil,نفط,نفط | Oil,translated
+NAME,85,"Distillate Well, Show of Gas","Distillate Well, Show of Gas",مقطر بئر شاهد غازي,"مقطر بئر شاهد غازي | Distillate Well, Show of Gas",translated
+CATEGORY,85,"Distillate Well, Show of Gas",Distillate,مقطر,مقطر | Distillate,translated
+NAME,86,Gas & Condensate Well 1,Gas & Condensate Well 1,غاز و مكثفات بئر,غاز و مكثفات بئر | Gas & Condensate Well 1,translated
+CATEGORY,86,Gas & Condensate Well 1,Gas,غاز,غاز | Gas,translated
+NAME,87,"Distillate Well, Injection","Distillate Well, Injection",مقطر بئر حقن,"مقطر بئر حقن | Distillate Well, Injection",translated
+CATEGORY,87,"Distillate Well, Injection",Distillate,مقطر,مقطر | Distillate,translated
+NAME,88,Gas & Condensate Well 2,Gas & Condensate Well 2,غاز و مكثفات بئر,غاز و مكثفات بئر | Gas & Condensate Well 2,translated
+CATEGORY,88,Gas & Condensate Well 2,Gas,غاز,غاز | Gas,translated
+NAME,89,DO & G,DO & G,و,و | DO & G,translated
+CATEGORY,89,DO & G,Dry,جافة,جافة | Dry,translated
+NAME,90,D & AO,D & AO,و,و | D & AO,translated
+CATEGORY,90,D & AO,Dry,جافة,جافة | Dry,translated
+NAME,91,O & G,O & G,و,و | O & G,translated
+CATEGORY,91,O & G,Oil and Gas,نفط و غاز,نفط و غاز | Oil and Gas,translated
+NAME,92,Oil & Gas Producer,Oil & Gas Producer,نفط و منتجة غاز,نفط و منتجة غاز | Oil & Gas Producer,translated
+CATEGORY,92,Oil & Gas Producer,Oil and Gas,نفط و غاز,نفط و غاز | Oil and Gas,translated
+NAME,93,"Shut-In, Suspended or Idle Producing Oil &Gas","Shut-In, Suspended or Idle Producing Oil &Gas",مغلقة معلقة أو نفط غاز,"مغلقة معلقة أو نفط غاز | Shut-In, Suspended or Idle Producing Oil &Gas",translated
+CATEGORY,93,"Shut-In, Suspended or Idle Producing Oil &Gas",Suspended,معلقة,معلقة | Suspended,translated
+NAME,94,"Oil & Gas, 1","Oil & Gas, 1",نفط و غاز,"نفط و غاز | Oil & Gas, 1",translated
+CATEGORY,94,"Oil & Gas, 1",Oil and Gas,نفط و غاز,نفط و غاز | Oil and Gas,translated
+NAME,95,"Oil & Gas, 2","Oil & Gas, 2",نفط و غاز,"نفط و غاز | Oil & Gas, 2",translated
+CATEGORY,95,"Oil & Gas, 2",Oil and Gas,نفط و غاز,نفط و غاز | Oil and Gas,translated
+NAME,96,"Oil & Gas, 3","Oil & Gas, 3",نفط و غاز,"نفط و غاز | Oil & Gas, 3",translated
+CATEGORY,96,"Oil & Gas, 3",Oil and Gas,نفط و غاز,نفط و غاز | Oil and Gas,translated
+NAME,97,"Oil Well, Plugged & Abandoned","Oil Well, Plugged & Abandoned",بئر نفط مغلقة ومهجورة,"بئر نفط مغلقة ومهجورة | Oil Well, Plugged & Abandoned",translated
+CATEGORY,97,"Oil Well, Plugged & Abandoned",Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,98,Show of Oil,Show of Oil,شاهد نفط,شاهد نفط | Show of Oil,translated
+CATEGORY,98,Show of Oil,Oil,نفط,نفط | Oil,translated
+NAME,99,"Oil Well, Junked","Oil Well, Junked",بئر نفط,"بئر نفط | Oil Well, Junked",translated
+CATEGORY,99,"Oil Well, Junked",Oil,نفط,نفط | Oil,translated
+NAME,100,"Oil Well, Junked & Abandoned","Oil Well, Junked & Abandoned",بئر نفط و مهجورة,"بئر نفط و مهجورة | Oil Well, Junked & Abandoned",translated
+CATEGORY,100,"Oil Well, Junked & Abandoned",Oil,نفط,نفط | Oil,translated
+NAME,101,"Oil Well, Gas Show 1","Oil Well, Gas Show 1",بئر نفط شاهد غازي,"بئر نفط شاهد غازي | Oil Well, Gas Show 1",translated
+CATEGORY,101,"Oil Well, Gas Show 1",Oil,نفط,نفط | Oil,translated
+NAME,102,"Oil Well, Gas Show 2","Oil Well, Gas Show 2",بئر نفط شاهد غازي,"بئر نفط شاهد غازي | Oil Well, Gas Show 2",translated
+CATEGORY,102,"Oil Well, Gas Show 2",Oil,نفط,نفط | Oil,translated
+NAME,103,"Well, dual pipe","Well, dual pipe",بئر أنبوب مزدوج,"بئر أنبوب مزدوج | Well, dual pipe",translated
+CATEGORY,103,"Well, dual pipe",Pipeline,خط أنابيب,خط أنابيب | Pipeline,translated
+NAME,104,LPG Well,LPG Well,غاز مسال بئر,غاز مسال بئر | LPG Well,translated
+CATEGORY,104,LPG Well,Liquid Petroleum Gas,غاز,غاز | Liquid Petroleum Gas,translated
+NAME,105,"LPG Well, Label","LPG Well, Label",غاز مسال بئر تسمية,"غاز مسال بئر تسمية | LPG Well, Label",translated
+CATEGORY,105,"LPG Well, Label",Liquid Petroleum Gas,غاز,غاز | Liquid Petroleum Gas,translated
+NAME,106,Pipeline Join 1,Pipeline Join 1,خط أنابيب,خط أنابيب | Pipeline Join 1,translated
+CATEGORY,106,Pipeline Join 1,Pipeline,خط أنابيب,خط أنابيب | Pipeline,translated
+NAME,107,Pipeline Join 2,Pipeline Join 2,خط أنابيب,خط أنابيب | Pipeline Join 2,translated
+CATEGORY,107,Pipeline Join 2,Pipeline,خط أنابيب,خط أنابيب | Pipeline,translated
+NAME,108,Pipeline Join 3,Pipeline Join 3,خط أنابيب,خط أنابيب | Pipeline Join 3,translated
+CATEGORY,108,Pipeline Join 3,Pipeline,خط أنابيب,خط أنابيب | Pipeline,translated
+NAME,109,Pipeline Join 4,Pipeline Join 4,خط أنابيب,خط أنابيب | Pipeline Join 4,translated
+CATEGORY,109,Pipeline Join 4,Pipeline,خط أنابيب,خط أنابيب | Pipeline,translated
+NAME,110,Oil Droplet,Oil Droplet,نفط,نفط | Oil Droplet,translated
+CATEGORY,110,Oil Droplet,Oil,نفط,نفط | Oil,translated
+NAME,111,"Oil Droplet, Half Filled","Oil Droplet, Half Filled",نفط نصف,"نفط نصف | Oil Droplet, Half Filled",translated
+CATEGORY,111,"Oil Droplet, Half Filled",Oil,نفط,نفط | Oil,translated
+NAME,112,Drill hole for mineral exploration,Drill hole for mineral exploration,ثقب الحفر لـ معدن استكشاف,ثقب الحفر لـ معدن استكشاف | Drill hole for mineral exploration,translated
+CATEGORY,112,Drill hole for mineral exploration,Mineral,معدن,معدن | Mineral,translated
+NAME,113,"Inclined adit, tunnel entry","Inclined adit, tunnel entry",دهليز نفق,"دهليز نفق | Inclined adit, tunnel entry",translated
+CATEGORY,113,"Inclined adit, tunnel entry",Adit,دهليز,دهليز | Adit,translated
+NAME,114,"Inclined adit, Inaccessible","Inclined adit, Inaccessible",دهليز,"دهليز | Inclined adit, Inaccessible",translated
+CATEGORY,114,"Inclined adit, Inaccessible",Adit,دهليز,دهليز | Adit,translated
+NAME,115,Portal,Portal,مدخل النفق,مدخل النفق | Portal,translated
+CATEGORY,115,Portal,Default,افتراضية,افتراضية | Default,translated
+NAME,116,Vertical Mine Shaft,Vertical Mine Shaft,بئر منجمية رأسية,بئر منجمية رأسية | Vertical Mine Shaft,translated
+CATEGORY,116,Vertical Mine Shaft,Shaft,بئر منجمية,بئر منجمية | Shaft,translated
+NAME,117,"Vertical Mine Shaft, Abandoned","Vertical Mine Shaft, Abandoned",بئر منجمية رأسية مهجورة,"بئر منجمية رأسية مهجورة | Vertical Mine Shaft, Abandoned",translated
+CATEGORY,117,"Vertical Mine Shaft, Abandoned",Shaft,بئر منجمية,بئر منجمية | Shaft,translated
+NAME,118,Inclined Mine Shaft,Inclined Mine Shaft,بئر منجمية مائلة,بئر منجمية مائلة | Inclined Mine Shaft,translated
+CATEGORY,118,Inclined Mine Shaft,Shaft,بئر منجمية,بئر منجمية | Shaft,translated
+NAME,119,"Inclined Mine Shaft, Abandoned","Inclined Mine Shaft, Abandoned",بئر منجمية مائلة مهجورة,"بئر منجمية مائلة مهجورة | Inclined Mine Shaft, Abandoned",translated
+CATEGORY,119,"Inclined Mine Shaft, Abandoned",Shaft,بئر منجمية,بئر منجمية | Shaft,translated
+NAME,120,Prospect (pit or small open cut),Prospect (pit or small open cut),موقع استكشاف حفرة أو مفتوحة,موقع استكشاف حفرة أو مفتوحة | Prospect (pit or small open cut),translated
+CATEGORY,120,Prospect (pit or small open cut),Pit,حفرة,حفرة | Pit,translated
+NAME,121,"Sand, gravel, clay, or placer pit","Sand, gravel, clay, or placer pit",رمل حصى طين أو غريني حفرة,"رمل حصى طين أو غريني حفرة | Sand, gravel, clay, or placer pit",translated
+CATEGORY,121,"Sand, gravel, clay, or placer pit",Pit,حفرة,حفرة | Pit,translated
+NAME,122,"Sand, gravel, clay, or placer pit, Abandoned","Sand, gravel, clay, or placer pit, Abandoned",رمل حصى طين أو غريني حفرة مهجورة,"رمل حصى طين أو غريني حفرة مهجورة | Sand, gravel, clay, or placer pit, Abandoned",translated
+CATEGORY,122,"Sand, gravel, clay, or placer pit, Abandoned",Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,123,"Open pit, quarry or glory hole","Open pit, quarry or glory hole",الحفرة المكشوفة مقلع أو حفرة,"الحفرة المكشوفة مقلع أو حفرة | Open pit, quarry or glory hole",translated
+CATEGORY,123,"Open pit, quarry or glory hole",Pit,حفرة,حفرة | Pit,translated
+NAME,124,"Open pit, quarry or glory hole, Abandoned","Open pit, quarry or glory hole, Abandoned",الحفرة المكشوفة مقلع أو حفرة مهجورة,"الحفرة المكشوفة مقلع أو حفرة مهجورة | Open pit, quarry or glory hole, Abandoned",translated
+CATEGORY,124,"Open pit, quarry or glory hole, Abandoned",Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,125,Raise or winze extending through level,Raise or winze extending through level,بئر صاعدة بئر داخلية أو منسوب,بئر صاعدة بئر داخلية أو منسوب | Raise or winze extending through level,translated
+CATEGORY,125,Raise or winze extending through level,Raise,بئر صاعدة,بئر صاعدة | Raise,translated
+NAME,126,Inclined Mine Shaft-Above and below level,Inclined Mine Shaft-Above and below level,بئر منجمية مائلة و منسوب,بئر منجمية مائلة و منسوب | Inclined Mine Shaft-Above and below level,translated
+CATEGORY,126,Inclined Mine Shaft-Above and below level,Shaft,بئر منجمية,بئر منجمية | Shaft,translated
+NAME,127,Raise or foot of winze,Raise or foot of winze,بئر صاعدة أو قاع البئر الداخلية,بئر صاعدة أو قاع البئر الداخلية | Raise or foot of winze,translated
+CATEGORY,127,Raise or foot of winze,Raise,بئر صاعدة,بئر صاعدة | Raise,translated
+NAME,128,Winze or head of raise,Winze or head of raise,بئر داخلية أو رأس البئر الصاعدة,بئر داخلية أو رأس البئر الصاعدة | Winze or head of raise,translated
+CATEGORY,128,Winze or head of raise,Raise,بئر صاعدة,بئر صاعدة | Raise,translated
+NAME,129,x1,x1,,x1,kept
+CATEGORY,129,x1,Default,افتراضية,افتراضية | Default,translated
+NAME,130,x2,x2,,x2,kept
+CATEGORY,130,x2,Default,افتراضية,افتراضية | Default,translated
+NAME,131,x3,x3,,x3,kept
+CATEGORY,131,x3,Default,افتراضية,افتراضية | Default,translated
+NAME,132,x4,x4,,x4,kept
+CATEGORY,132,x4,Default,افتراضية,افتراضية | Default,translated
+NAME,133,x5,x5,,x5,kept
+CATEGORY,133,x5,Default,افتراضية,افتراضية | Default,translated
+NAME,134,x6,x6,,x6,kept
+CATEGORY,134,x6,Default,افتراضية,افتراضية | Default,translated
+NAME,135,x7,x7,,x7,kept
+CATEGORY,135,x7,Default,افتراضية,افتراضية | Default,translated
+NAME,136,x8,x8,,x8,kept
+CATEGORY,136,x8,Default,افتراضية,افتراضية | Default,translated
+NAME,137,x9,x9,,x9,kept
+CATEGORY,137,x9,Default,افتراضية,افتراضية | Default,translated
+NAME,138,x10,x10,,x10,kept
+CATEGORY,138,x10,Default,افتراضية,افتراضية | Default,translated
+NAME,139,x11,x11,,x11,kept
+CATEGORY,139,x11,Default,افتراضية,افتراضية | Default,translated
+NAME,140,x12,x12,,x12,kept
+CATEGORY,140,x12,Default,افتراضية,افتراضية | Default,translated
+NAME,141,x13,x13,,x13,kept
+CATEGORY,141,x13,Default,افتراضية,افتراضية | Default,translated
+NAME,142,x14,x14,,x14,kept
+CATEGORY,142,x14,Default,افتراضية,افتراضية | Default,translated
+NAME,143,x15,x15,,x15,kept
+CATEGORY,143,x15,Default,افتراضية,افتراضية | Default,translated
+NAME,144,x16,x16,,x16,kept
+CATEGORY,144,x16,Default,افتراضية,افتراضية | Default,translated
+NAME,145,x17,x17,,x17,kept
+CATEGORY,145,x17,Default,افتراضية,افتراضية | Default,translated
+NAME,146,x18,x18,,x18,kept
+CATEGORY,146,x18,Default,افتراضية,افتراضية | Default,translated
+NAME,147,x19,x19,,x19,kept
+CATEGORY,147,x19,Default,افتراضية,افتراضية | Default,translated
+NAME,148,x20,x20,,x20,kept
+CATEGORY,148,x20,Default,افتراضية,افتراضية | Default,translated
+NAME,149,x21,x21,,x21,kept
+CATEGORY,149,x21,Default,افتراضية,افتراضية | Default,translated
+NAME,150,x22,x22,,x22,kept
+CATEGORY,150,x22,Default,افتراضية,افتراضية | Default,translated
+NAME,151,x23,x23,,x23,kept
+CATEGORY,151,x23,Default,افتراضية,افتراضية | Default,translated
+NAME,152,x24,x24,,x24,kept
+CATEGORY,152,x24,Default,افتراضية,افتراضية | Default,translated
+NAME,153,Abandoned - Injector,Abandoned - Injector,مهجورة حقن,مهجورة حقن | Abandoned - Injector,translated
+CATEGORY,153,Abandoned - Injector,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,154,Plugged & Abandoned Gas Shows,Plugged & Abandoned Gas Shows,مغلقة ومهجورة غاز شواهد,مغلقة ومهجورة غاز شواهد | Plugged & Abandoned Gas Shows,translated
+CATEGORY,154,Plugged & Abandoned Gas Shows,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,155,Plugged & Abandoned Dry Well + Gas Shows,Plugged & Abandoned Dry Well + Gas Shows,مغلقة ومهجورة بئر جافة غاز شواهد,مغلقة ومهجورة بئر جافة غاز شواهد | Plugged & Abandoned Dry Well + Gas Shows,translated
+CATEGORY,155,Plugged & Abandoned Dry Well + Gas Shows,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,156,Abandoned - Oil Shows,Abandoned - Oil Shows,مهجورة نفط شواهد,مهجورة نفط شواهد | Abandoned - Oil Shows,translated
+CATEGORY,156,Abandoned - Oil Shows,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,157,Junked Water Well,Junked Water Well,بئر مياه,بئر مياه | Junked Water Well,translated
+NAME,158,Junked Oil & Gas Well,Junked Oil & Gas Well,نفط و بئر غاز,نفط و بئر غاز | Junked Oil & Gas Well,translated
+NAME,159,Non-Plottable Deviated Hole,Non-Plottable Deviated Hole,حفرة,حفرة | Non-Plottable Deviated Hole,translated
+CATEGORY,159,Non-Plottable Deviated Hole,Non-Plot,قطعة قياس,قطعة قياس | Non-Plot,translated
+NAME,160,Converted Oil Producer to Steam Injection Abn,Converted Oil Producer to Steam Injection Abn,محولة منتجة نفط إلى حقن,محولة منتجة نفط إلى حقن | Converted Oil Producer to Steam Injection Abn,translated
+CATEGORY,160,Converted Oil Producer to Steam Injection Abn,Converted,محولة,محولة | Converted,translated
+NAME,161,Abandoned Oil Producer Converted to Water Well,Abandoned Oil Producer Converted to Water Well,مهجورة منتجة نفط محولة إلى بئر مياه,مهجورة منتجة نفط محولة إلى بئر مياه | Abandoned Oil Producer Converted to Water Well,translated
+CATEGORY,161,Abandoned Oil Producer Converted to Water Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,162,Observation Well-Steam,Observation Well-Steam,بئر مراقبة,بئر مراقبة | Observation Well-Steam,translated
+NAME,163,Converted Oil Producer to Water Injection - Abn,Converted Oil Producer to Water Injection - Abn,محولة منتجة نفط إلى مياه حقن,محولة منتجة نفط إلى مياه حقن | Converted Oil Producer to Water Injection - Abn,translated
+CATEGORY,163,Converted Oil Producer to Water Injection - Abn,Converted,محولة,محولة | Converted,translated
+NAME,164,Suspended Gas Injector,Suspended Gas Injector,معلقة حقن غاز,معلقة حقن غاز | Suspended Gas Injector,translated
+CATEGORY,164,Suspended Gas Injector,Suspended,معلقة,معلقة | Suspended,translated
+NAME,165,Geothermal Well,Geothermal Well,بئر,بئر | Geothermal Well,translated
+NAME,166,Suspended Dry Well,Suspended Dry Well,معلقة بئر جافة,معلقة بئر جافة | Suspended Dry Well,translated
+CATEGORY,166,Suspended Dry Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,167,Gas Injection Well,Gas Injection Well,غاز حقن بئر,غاز حقن بئر | Gas Injection Well,translated
+CATEGORY,167,Gas Injection Well,Gas,غاز,غاز | Gas,translated
+NAME,168,Air Injection Well,Air Injection Well,هواء حقن بئر,هواء حقن بئر | Air Injection Well,translated
+CATEGORY,168,Air Injection Well,Air,هواء,هواء | Air,translated
+NAME,169,Steam Injection Well,Steam Injection Well,حقن بئر,حقن بئر | Steam Injection Well,translated
+NAME,170,"Shut-In, Suspended or Idle Injection Well","Shut-In, Suspended or Idle Injection Well",مغلقة معلقة أو بئر حقن,"مغلقة معلقة أو بئر حقن | Shut-In, Suspended or Idle Injection Well",translated
+CATEGORY,170,"Shut-In, Suspended or Idle Injection Well",Suspended,معلقة,معلقة | Suspended,translated
+NAME,171,"Producing Non-Hydrocarbon Materials, Gases","Producing Non-Hydrocarbon Materials, Gases",هيدروكربون,"هيدروكربون | Producing Non-Hydrocarbon Materials, Gases",translated
+CATEGORY,171,"Producing Non-Hydrocarbon Materials, Gases",Gas,غاز,غاز | Gas,translated
+NAME,172,Steam Well,Steam Well,بئر,بئر | Steam Well,translated
+NAME,173,Junked or Junked and Abandoned,Junked or Junked and Abandoned,أو و مهجورة,أو و مهجورة | Junked or Junked and Abandoned,translated
+NAME,174,Abandoned Gas Well,Abandoned Gas Well,مهجورة بئر غاز,مهجورة بئر غاز | Abandoned Gas Well,translated
+CATEGORY,174,Abandoned Gas Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,175,Core Hole Location,Core Hole Location,حفرة موقع,حفرة موقع | Core Hole Location,translated
+CATEGORY,175,Core Hole Location,Location,موقع,موقع | Location,translated
+NAME,176,Proposed Well Location,Proposed Well Location,مقترحة بئر موقع,مقترحة بئر موقع | Proposed Well Location,translated
+CATEGORY,176,Proposed Well Location,Location,موقع,موقع | Location,translated
+NAME,177,Unknown,Unknown,مجهولة,مجهولة | Unknown,translated
+CATEGORY,177,Unknown,Default,افتراضية,افتراضية | Default,translated
+NAME,178,Core Hole or Core Test,Core Hole or Core Test,حفرة أو اختبار,حفرة أو اختبار | Core Hole or Core Test,translated
+CATEGORY,178,Core Hole or Core Test,Test,اختبار,اختبار | Test,translated
+NAME,179,Potash Well,Potash Well,بوتاس بئر,بوتاس بئر | Potash Well,translated
+CATEGORY,179,Potash Well,Potash,بوتاس,بوتاس | Potash,translated
+NAME,180,Oil & Gas Producer_1,Oil & Gas Producer,نفط و منتجة غاز,نفط و منتجة غاز | Oil & Gas Producer,translated
+CATEGORY,180,Oil & Gas Producer_1,Oil and Gas,نفط و غاز,نفط و غاز | Oil and Gas,translated
+NAME,181,Combination Oil & Abandoned,Combination Oil & Abandoned,تركيبة نفط و مهجورة,تركيبة نفط و مهجورة | Combination Oil & Abandoned,translated
+CATEGORY,181,Combination Oil & Abandoned,Oil,نفط,نفط | Oil,translated
+NAME,182,Gas Lift,Gas Lift,غاز,غاز | Gas Lift,translated
+CATEGORY,182,Gas Lift,Gas,غاز,غاز | Gas,translated
+NAME,183,Steam Geothermal,Steam Geothermal,,Steam Geothermal,kept
+NAME,184,Geopressure Well,Geopressure Well,بئر,بئر | Geopressure Well,translated
+NAME,185,C02 Producer,C02 Producer,منتجة,منتجة | C02 Producer,translated
+CATEGORY,185,C02 Producer,Gas,غاز,غاز | Gas,translated
+NAME,186,Abandoned - Gas Injector,Abandoned - Gas Injector,مهجورة حقن غاز,مهجورة حقن غاز | Abandoned - Gas Injector,translated
+CATEGORY,186,Abandoned - Gas Injector,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,187,Plugged & Abandoned Gas Well + Oil Shows,Plugged & Abandoned Gas Well + Oil Shows,مغلقة ومهجورة بئر غاز نفط شواهد,مغلقة ومهجورة بئر غاز نفط شواهد | Plugged & Abandoned Gas Well + Oil Shows,translated
+CATEGORY,187,Plugged & Abandoned Gas Well + Oil Shows,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,188,Plugged & Abandoned Dry Well + Oil Shows,Plugged & Abandoned Dry Well + Oil Shows,مغلقة ومهجورة بئر جافة نفط شواهد,مغلقة ومهجورة بئر جافة نفط شواهد | Plugged & Abandoned Dry Well + Oil Shows,translated
+CATEGORY,188,Plugged & Abandoned Dry Well + Oil Shows,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,189,Plugged & Abandoned Well,Plugged & Abandoned Well,مغلقة ومهجورة بئر,مغلقة ومهجورة بئر | Plugged & Abandoned Well,translated
+CATEGORY,189,Plugged & Abandoned Well,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,190,Junked Water Injector + Oil & Gas Shows,Junked Water Injector + Oil & Gas Shows,حقن مياه نفط و غاز شواهد,حقن مياه نفط و غاز شواهد | Junked Water Injector + Oil & Gas Shows,translated
+NAME,191,Junked Gas Well + Oil Shows,Junked Gas Well + Oil Shows,بئر غاز نفط شواهد,بئر غاز نفط شواهد | Junked Gas Well + Oil Shows,translated
+NAME,192,Converted Water Disposal to Fire Flood Inj.- A,Converted Water Disposal to Fire Flood Inj.- A,محولة التخلص من المياه إلى حريق فيضان,محولة التخلص من المياه إلى حريق فيضان | Converted Water Disposal to Fire Flood Inj.- A,translated
+CATEGORY,192,Converted Water Disposal to Fire Flood Inj.- A,Water,مياه,مياه | Water,translated
+NAME,193,Converted Oil Producer to Steam Injection,Converted Oil Producer to Steam Injection,محولة منتجة نفط إلى حقن,محولة منتجة نفط إلى حقن | Converted Oil Producer to Steam Injection,translated
+CATEGORY,193,Converted Oil Producer to Steam Injection,Converted,محولة,محولة | Converted,translated
+NAME,194,Abandoned Gas Storage Well,Abandoned Gas Storage Well,مهجورة غاز تخزين بئر,مهجورة غاز تخزين بئر | Abandoned Gas Storage Well,translated
+CATEGORY,194,Abandoned Gas Storage Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,195,Observation Well Salt Water,Observation Well Salt Water,بئر مراقبة ملح مياه,بئر مراقبة ملح مياه | Observation Well Salt Water,translated
+NAME,196,Converted Oil Producer to Water Disposal - Abnd,Converted Oil Producer to Water Disposal - Abnd,محولة منتجة نفط إلى التخلص من المياه,محولة منتجة نفط إلى التخلص من المياه | Converted Oil Producer to Water Disposal - Abnd,translated
+CATEGORY,196,Converted Oil Producer to Water Disposal - Abnd,Converted,محولة,محولة | Converted,translated
+NAME,197,Suspended Water Well,Suspended Water Well,معلقة بئر مياه,معلقة بئر مياه | Suspended Water Well,translated
+CATEGORY,197,Suspended Water Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,198,Suspended Oil & Gas Well,Suspended Oil & Gas Well,معلقة نفط و بئر غاز,معلقة نفط و بئر غاز | Suspended Oil & Gas Well,translated
+CATEGORY,198,Suspended Oil & Gas Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,199,Abandoned Propane Injection Well,Abandoned Propane Injection Well,مهجورة حقن بئر,مهجورة حقن بئر | Abandoned Propane Injection Well,translated
+CATEGORY,199,Abandoned Propane Injection Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,200,Abandoned Fire Flood Injection Well,Abandoned Fire Flood Injection Well,مهجورة حقن الغمر الناري بئر,مهجورة حقن الغمر الناري بئر | Abandoned Fire Flood Injection Well,translated
+CATEGORY,200,Abandoned Fire Flood Injection Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,201,Abandoned Water Injection Well,Abandoned Water Injection Well,مهجورة بئر حقن مياه,مهجورة بئر حقن مياه | Abandoned Water Injection Well,translated
+CATEGORY,201,Abandoned Water Injection Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,202,Suspended,Suspended,معلقة,معلقة | Suspended,translated
+CATEGORY,202,Suspended,Suspended,معلقة,معلقة | Suspended,translated
+NAME,203,"Shut-In, Suspended or Idle Water Disposal Well","Shut-In, Suspended or Idle Water Disposal Well",مغلقة معلقة أو التخلص من المياه بئر,"مغلقة معلقة أو التخلص من المياه بئر | Shut-In, Suspended or Idle Water Disposal Well",translated
+CATEGORY,203,"Shut-In, Suspended or Idle Water Disposal Well",Suspended,معلقة,معلقة | Suspended,translated
+NAME,204,Shut-In Suspended or Idle Water Well,Shut-In Suspended or Idle Water Well,مغلقة معلقة أو بئر مياه,مغلقة معلقة أو بئر مياه | Shut-In Suspended or Idle Water Well,translated
+CATEGORY,204,Shut-In Suspended or Idle Water Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,205,Proposed Location,Proposed Location,مقترحة موقع,مقترحة موقع | Proposed Location,translated
+CATEGORY,205,Proposed Location,Location,موقع,موقع | Location,translated
+NAME,206,Abandoned Gas and Condensate Well,Abandoned Gas and Condensate Well,مهجورة غاز و مكثفات بئر,مهجورة غاز و مكثفات بئر | Abandoned Gas and Condensate Well,translated
+CATEGORY,206,Abandoned Gas and Condensate Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,207,Producing Gas Well,Producing Gas Well,بئر غاز,بئر غاز | Producing Gas Well,translated
+CATEGORY,207,Producing Gas Well,Gas,غاز,غاز | Gas,translated
+NAME,208,Abandoned-Dry Hole,Abandoned-Dry Hole,مهجورة بئر جافة,مهجورة بئر جافة | Abandoned-Dry Hole,translated
+CATEGORY,208,Abandoned-Dry Hole,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,209,New Pool Wildcat,New Pool Wildcat,جديدة تجمع,جديدة تجمع | New Pool Wildcat,translated
+NAME,210,Shallower Pool Test,Shallower Pool Test,تجمع اختبار,تجمع اختبار | Shallower Pool Test,translated
+CATEGORY,210,Shallower Pool Test,Test,اختبار,اختبار | Test,translated
+NAME,211,Suspended Well,Suspended Well,معلقة بئر,معلقة بئر | Suspended Well,translated
+CATEGORY,211,Suspended Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,212,Oil Shale,Oil Shale,صخر زيتي,صخر زيتي | Oil Shale,translated
+CATEGORY,212,Oil Shale,Oil,نفط,نفط | Oil,translated
+NAME,213,Oil & Gas Shows,Oil & Gas Shows,نفط و غاز شواهد,نفط و غاز شواهد | Oil & Gas Shows,translated
+CATEGORY,213,Oil & Gas Shows,Oil and Gas,نفط و غاز,نفط و غاز | Oil and Gas,translated
+NAME,214,Salt Well,Salt Well,ملح بئر,ملح بئر | Salt Well,translated
+CATEGORY,214,Salt Well,Mineral,معدن,معدن | Mineral,translated
+NAME,215,Water Injection & Supply Well,Water Injection & Supply Well,مياه حقن و إمداد بئر,مياه حقن و إمداد بئر | Water Injection & Supply Well,translated
+CATEGORY,215,Water Injection & Supply Well,Water,مياه,مياه | Water,translated
+NAME,216,Hazardous Waste Disposal - Nuclear,Hazardous Waste Disposal - Nuclear,مخلفات تخلص,مخلفات تخلص | Hazardous Waste Disposal - Nuclear,translated
+NAME,217,Combination Gas & Injection,Combination Gas & Injection,تركيبة غاز و حقن,تركيبة غاز و حقن | Combination Gas & Injection,translated
+CATEGORY,217,Combination Gas & Injection,Gas,غاز,غاز | Gas,translated
+NAME,218,Coal,Coal,فحم,فحم | Coal,translated
+CATEGORY,218,Coal,Coal,فحم,فحم | Coal,translated
+NAME,219,Plugged & Abandoned Water Well,Plugged & Abandoned Water Well,مغلقة ومهجورة بئر مياه,مغلقة ومهجورة بئر مياه | Plugged & Abandoned Water Well,translated
+CATEGORY,219,Plugged & Abandoned Water Well,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,220,Plugged & Abandoned Gas Well,Plugged & Abandoned Gas Well,مغلقة ومهجورة بئر غاز,مغلقة ومهجورة بئر غاز | Plugged & Abandoned Gas Well,translated
+CATEGORY,220,Plugged & Abandoned Gas Well,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,221,Plugged & Abandoned Dry Well,Plugged & Abandoned Dry Well,مغلقة ومهجورة بئر جافة,مغلقة ومهجورة بئر جافة | Plugged & Abandoned Dry Well,translated
+CATEGORY,221,Plugged & Abandoned Dry Well,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,222,Junked Gas Injector + Oil & Gas Shows,Junked Gas Injector + Oil & Gas Shows,حقن غاز نفط و غاز شواهد,حقن غاز نفط و غاز شواهد | Junked Gas Injector + Oil & Gas Shows,translated
+NAME,223,Junked Water Injector + Gas Shows,Junked Water Injector + Gas Shows,حقن مياه غاز شواهد,حقن مياه غاز شواهد | Junked Water Injector + Gas Shows,translated
+NAME,224,Junked Gas Well,Junked Gas Well,بئر غاز,بئر غاز | Junked Gas Well,translated
+NAME,225,Converted Oil Producer to Fire Flood Injection,Converted Oil Producer to Fire Flood Injection,محولة منتجة نفط إلى حقن الغمر الناري,محولة منتجة نفط إلى حقن الغمر الناري | Converted Oil Producer to Fire Flood Injection,translated
+CATEGORY,225,Converted Oil Producer to Fire Flood Injection,Converted,محولة,محولة | Converted,translated
+NAME,226,Converted Oil Producer to Water Disposal,Converted Oil Producer to Water Disposal,محولة منتجة نفط إلى التخلص من المياه,محولة منتجة نفط إلى التخلص من المياه | Converted Oil Producer to Water Disposal,translated
+CATEGORY,226,Converted Oil Producer to Water Disposal,Converted,محولة,محولة | Converted,translated
+NAME,227,Abandoned Air Storage Well,Abandoned Air Storage Well,مهجورة هواء تخزين بئر,مهجورة هواء تخزين بئر | Abandoned Air Storage Well,translated
+CATEGORY,227,Abandoned Air Storage Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,228,Observation Well Fresh Water,Observation Well Fresh Water,بئر مراقبة مياه,بئر مراقبة مياه | Observation Well Fresh Water,translated
+NAME,229,Converted Oil Producer to Fire Flood Injection_1,Converted Oil Producer to Fire Flood Injection,محولة منتجة نفط إلى حقن الغمر الناري,محولة منتجة نفط إلى حقن الغمر الناري | Converted Oil Producer to Fire Flood Injection,translated
+CATEGORY,229,Converted Oil Producer to Fire Flood Injection_1,Converted,محولة,محولة | Converted,translated
+NAME,230,Suspended Water Injection Well,Suspended Water Injection Well,معلقة بئر حقن مياه,معلقة بئر حقن مياه | Suspended Water Injection Well,translated
+CATEGORY,230,Suspended Water Injection Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,231,Suspended Gas Well + Oil Shows,Suspended Gas Well + Oil Shows,معلقة بئر غاز نفط شواهد,معلقة بئر غاز نفط شواهد | Suspended Gas Well + Oil Shows,translated
+CATEGORY,231,Suspended Gas Well + Oil Shows,Suspended,معلقة,معلقة | Suspended,translated
+NAME,232,"Shut-ln,Suspended or Idle Propane Injection Well","Shut-ln,Suspended or Idle Propane Injection Well",معلقة أو حقن بئر,"معلقة أو حقن بئر | Shut-ln,Suspended or Idle Propane Injection Well",translated
+CATEGORY,232,"Shut-ln,Suspended or Idle Propane Injection Well",Suspended,معلقة,معلقة | Suspended,translated
+NAME,233,"Shut-ln,Suspended or Idle Fire Flood Injection Well","Shut-ln,Suspended or Idle Fire Flood Injection Well",معلقة أو حقن الغمر الناري بئر,"معلقة أو حقن الغمر الناري بئر | Shut-ln,Suspended or Idle Fire Flood Injection Well",translated
+CATEGORY,233,"Shut-ln,Suspended or Idle Fire Flood Injection Well",Suspended,معلقة,معلقة | Suspended,translated
+NAME,234,"Shut-In,Suspended or Idle Water Injection Well","Shut-In,Suspended or Idle Water Injection Well",مغلقة معلقة أو بئر حقن مياه,"مغلقة معلقة أو بئر حقن مياه | Shut-In,Suspended or Idle Water Injection Well",translated
+CATEGORY,234,"Shut-In,Suspended or Idle Water Injection Well",Suspended,معلقة,معلقة | Suspended,translated
+NAME,235,Proposed Well Gas Injector,Proposed Well Gas Injector,مقترحة بئر حقن غاز,مقترحة بئر حقن غاز | Proposed Well Gas Injector,translated
+CATEGORY,235,Proposed Well Gas Injector,Gas,غاز,غاز | Gas,translated
+NAME,236,"Shut-In,Susp. or Idle Non-Hydrocarbon Matis Well","Shut-In,Susp. or Idle Non-Hydrocarbon Matis Well",مغلقة أو هيدروكربون بئر,"مغلقة أو هيدروكربون بئر | Shut-In,Susp. or Idle Non-Hydrocarbon Matis Well",translated
+CATEGORY,236,"Shut-In,Susp. or Idle Non-Hydrocarbon Matis Well",Suspended,معلقة,معلقة | Suspended,translated
+NAME,237,"Shut-ln,Suspended or Idle Steam Well","Shut-ln,Suspended or Idle Steam Well",معلقة أو بئر,"معلقة أو بئر | Shut-ln,Suspended or Idle Steam Well",translated
+CATEGORY,237,"Shut-ln,Suspended or Idle Steam Well",Suspended,معلقة,معلقة | Suspended,translated
+NAME,238,Water Disposal Well,Water Disposal Well,التخلص من المياه بئر,التخلص من المياه بئر | Water Disposal Well,translated
+CATEGORY,238,Water Disposal Well,Water,مياه,مياه | Water,translated
+NAME,239,Producing Gas and Condensate Well,Producing Gas and Condensate Well,غاز و مكثفات بئر,غاز و مكثفات بئر | Producing Gas and Condensate Well,translated
+CATEGORY,239,Producing Gas and Condensate Well,Gas,غاز,غاز | Gas,translated
+NAME,240,Abandoned Oil Well,Abandoned Oil Well,مهجورة بئر نفط,مهجورة بئر نفط | Abandoned Oil Well,translated
+CATEGORY,240,Abandoned Oil Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,241,Shut-In Suspended or Idle,Shut-In Suspended or Idle,مغلقة معلقة أو,مغلقة معلقة أو | Shut-In Suspended or Idle,translated
+CATEGORY,241,Shut-In Suspended or Idle,Suspended,معلقة,معلقة | Suspended,translated
+NAME,242,Water Injector,Water Injector,حقن مياه,حقن مياه | Water Injector,translated
+CATEGORY,242,Water Injector,Water,مياه,مياه | Water,translated
+NAME,243,Tight Well,Tight Well,بئر مقيدة,بئر مقيدة | Tight Well,translated
+CATEGORY,243,Tight Well,Tight,مقيدة,مقيدة | Tight,translated
+NAME,244,Stratigraphic Test,Stratigraphic Test,اختبار طباقي,اختبار طباقي | Stratigraphic Test,translated
+CATEGORY,244,Stratigraphic Test,Test,اختبار,اختبار | Test,translated
+NAME,245,Combination Oil & Service,Combination Oil & Service,تركيبة نفط و خدمة,تركيبة نفط و خدمة | Combination Oil & Service,translated
+CATEGORY,245,Combination Oil & Service,Converted,محولة,محولة | Converted,translated
+NAME,246,Oil Shows,Oil Shows,نفط شواهد,نفط شواهد | Oil Shows,translated
+CATEGORY,246,Oil Shows,Oil,نفط,نفط | Oil,translated
+NAME,247,Multiple Oil Producer,Multiple Oil Producer,متعددة منتجة نفط,متعددة منتجة نفط | Multiple Oil Producer,translated
+CATEGORY,247,Multiple Oil Producer,Multiple Oil,متعددة نفط,متعددة نفط | Multiple Oil,translated
+NAME,248,Combination Injection & Service,Combination Injection & Service,تركيبة حقن و خدمة,تركيبة حقن و خدمة | Combination Injection & Service,translated
+CATEGORY,248,Combination Injection & Service,Injection,حقن,حقن | Injection,translated
+NAME,249,Helium Well,Helium Well,بئر,بئر | Helium Well,translated
+CATEGORY,249,Helium Well,Gas,غاز,غاز | Gas,translated
+NAME,250,Gas Shows,Gas Shows,غاز شواهد,غاز شواهد | Gas Shows,translated
+CATEGORY,250,Gas Shows,Gas,غاز,غاز | Gas,translated
+NAME,251,CO2 Injector,CO2 Injector,حقن,حقن | CO2 Injector,translated
+CATEGORY,251,CO2 Injector,Gas,غاز,غاز | Gas,translated
+NAME,252,Abandoned - Water Injector,Abandoned - Water Injector,مهجورة حقن مياه,مهجورة حقن مياه | Abandoned - Water Injector,translated
+CATEGORY,252,Abandoned - Water Injector,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,253,Plugged & Abandoned Oil Well + Gas Shows,Plugged & Abandoned Oil Well + Gas Shows,مغلقة ومهجورة بئر نفط غاز شواهد,مغلقة ومهجورة بئر نفط غاز شواهد | Plugged & Abandoned Oil Well + Gas Shows,translated
+CATEGORY,253,Plugged & Abandoned Oil Well + Gas Shows,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,254,Plugged & Abandoned Tight Well,Plugged & Abandoned Tight Well,مغلقة ومهجورة بئر مقيدة,مغلقة ومهجورة بئر مقيدة | Plugged & Abandoned Tight Well,translated
+CATEGORY,254,Plugged & Abandoned Tight Well,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,255,Junked Gas Injector + Gas Shows,Junked Gas Injector + Gas Shows,حقن غاز غاز شواهد,حقن غاز غاز شواهد | Junked Gas Injector + Gas Shows,translated
+NAME,256,Junked Water Injector + Oil Shows,Junked Water Injector + Oil Shows,حقن مياه نفط شواهد,حقن مياه نفط شواهد | Junked Water Injector + Oil Shows,translated
+NAME,257,"Shut-In, Susp. or Idle Producing Gas&Condensate","Shut-In, Susp. or Idle Producing Gas&Condensate",مغلقة أو غاز مكثفات,"مغلقة أو غاز مكثفات | Shut-In, Susp. or Idle Producing Gas&Condensate",translated
+CATEGORY,257,"Shut-In, Susp. or Idle Producing Gas&Condensate",Suspended,معلقة,معلقة | Suspended,translated
+NAME,258,Converted Oil Producer to Air Injection Abnd.,Converted Oil Producer to Air Injection Abnd.,محولة منتجة نفط إلى هواء حقن,محولة منتجة نفط إلى هواء حقن | Converted Oil Producer to Air Injection Abnd.,translated
+CATEGORY,258,Converted Oil Producer to Air Injection Abnd.,Converted,محولة,محولة | Converted,translated
+NAME,259,Gas Storage Well,Gas Storage Well,غاز تخزين بئر,غاز تخزين بئر | Gas Storage Well,translated
+CATEGORY,259,Gas Storage Well,Gas,غاز,غاز | Gas,translated
+NAME,260,Air Storage Well,Air Storage Well,هواء تخزين بئر,هواء تخزين بئر | Air Storage Well,translated
+CATEGORY,260,Air Storage Well,Air,هواء,هواء | Air,translated
+NAME,261,"Observation Well - Combustion, Water Flood","Observation Well - Combustion, Water Flood",بئر مراقبة مياه فيضان,"بئر مراقبة مياه فيضان | Observation Well - Combustion, Water Flood",translated
+NAME,262,Converted Oil Producer to Gas Injection Abnd.,Converted Oil Producer to Gas Injection Abnd.,محولة منتجة نفط إلى غاز حقن,محولة منتجة نفط إلى غاز حقن | Converted Oil Producer to Gas Injection Abnd.,translated
+CATEGORY,262,Converted Oil Producer to Gas Injection Abnd.,Converted,محولة,محولة | Converted,translated
+NAME,263,Suspended Gas Condensate Well,Suspended Gas Condensate Well,معلقة مكثفات غازية بئر,معلقة مكثفات غازية بئر | Suspended Gas Condensate Well,translated
+CATEGORY,263,Suspended Gas Condensate Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,264,Suspended Gas Well,Suspended Gas Well,معلقة بئر غاز,معلقة بئر غاز | Suspended Gas Well,translated
+CATEGORY,264,Suspended Gas Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,265,Propane Injection Well,Propane Injection Well,حقن بئر,حقن بئر | Propane Injection Well,translated
+CATEGORY,265,Propane Injection Well,Gas,غاز,غاز | Gas,translated
+NAME,266,Fire Flood Injection Well,Fire Flood Injection Well,حقن الغمر الناري بئر,حقن الغمر الناري بئر | Fire Flood Injection Well,translated
+CATEGORY,266,Fire Flood Injection Well,Fire,حريق,حريق | Fire,translated
+NAME,267,Water Injection Well,Water Injection Well,بئر حقن مياه,بئر حقن مياه | Water Injection Well,translated
+CATEGORY,267,Water Injection Well,Water,مياه,مياه | Water,translated
+NAME,268,Proposed Well Water Injection,Proposed Well Water Injection,مقترحة بئر مياه حقن,مقترحة بئر مياه حقن | Proposed Well Water Injection,translated
+CATEGORY,268,Proposed Well Water Injection,Water,مياه,مياه | Water,translated
+NAME,269,Abandoned Water Well,Abandoned Water Well,مهجورة بئر مياه,مهجورة بئر مياه | Abandoned Water Well,translated
+CATEGORY,269,Abandoned Water Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,270,"Shut-ln,Suspended or Idle Service Well","Shut-ln,Suspended or Idle Service Well",معلقة أو خدمة بئر,"معلقة أو خدمة بئر | Shut-ln,Suspended or Idle Service Well",translated
+CATEGORY,270,"Shut-ln,Suspended or Idle Service Well",Suspended,معلقة,معلقة | Suspended,translated
+NAME,271,Service Well (Undifferentiated),Service Well (Undifferentiated),خدمة بئر غير مميزة,خدمة بئر غير مميزة | Service Well (Undifferentiated),translated
+CATEGORY,271,Service Well (Undifferentiated),Service,خدمة,خدمة | Service,translated
+NAME,272,Abandoned Oil and Gas Well,Abandoned Oil and Gas Well,مهجورة نفط و بئر غاز,مهجورة نفط و بئر غاز | Abandoned Oil and Gas Well,translated
+CATEGORY,272,Abandoned Oil and Gas Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,273,"Shut-In, Suspended or Idle Oil Well","Shut-In, Suspended or Idle Oil Well",مغلقة معلقة أو بئر نفط,"مغلقة معلقة أو بئر نفط | Shut-In, Suspended or Idle Oil Well",translated
+CATEGORY,273,"Shut-In, Suspended or Idle Oil Well",Suspended,معلقة,معلقة | Suspended,translated
+NAME,274,Surface Location,Surface Location,الموقع السطحي,الموقع السطحي | Surface Location,translated
+CATEGORY,274,Surface Location,Location,موقع,موقع | Location,translated
+NAME,275,New Field Wildcat,New Field Wildcat,جديدة حقل,جديدة حقل | New Field Wildcat,translated
+NAME,276,Temperature Gradient,Temperature Gradient,تدرج حراري,تدرج حراري | Temperature Gradient,translated
+NAME,277,Service Well or Unclassified,Service Well or Unclassified,خدمة بئر أو,خدمة بئر أو | Service Well or Unclassified,translated
+CATEGORY,277,Service Well or Unclassified,Service,خدمة,خدمة | Service,translated
+NAME,278,Combination Oil & Observation,Combination Oil & Observation,تركيبة نفط و,تركيبة نفط و | Combination Oil & Observation,translated
+CATEGORY,278,Combination Oil & Observation,Converted,محولة,محولة | Converted,translated
+NAME,279,Combination Oil & Dry Hole,Combination Oil & Dry Hole,تركيبة نفط و بئر جافة,تركيبة نفط و بئر جافة | Combination Oil & Dry Hole,translated
+CATEGORY,279,Combination Oil & Dry Hole,Converted,محولة,محولة | Converted,translated
+NAME,280,Multiple Oil & Gas Producer,Multiple Oil & Gas Producer,متعددة نفط و منتجة غاز,متعددة نفط و منتجة غاز | Multiple Oil & Gas Producer,translated
+CATEGORY,280,Multiple Oil & Gas Producer,Multiple Oil and Gas,متعددة نفط و غاز,متعددة نفط و غاز | Multiple Oil and Gas,translated
+NAME,281,lodine Well,lodine Well,بئر,بئر | lodine Well,translated
+CATEGORY,281,lodine Well,Gas,غاز,غاز | Gas,translated
+NAME,282,Hot Dry Rock,Hot Dry Rock,جافة صخر,جافة صخر | Hot Dry Rock,translated
+CATEGORY,282,Hot Dry Rock,Dry,جافة,جافة | Dry,translated
+NAME,283,Gas & Condensate Well,Gas & Condensate Well,غاز و مكثفات بئر,غاز و مكثفات بئر | Gas & Condensate Well,translated
+CATEGORY,283,Gas & Condensate Well,Gas,غاز,غاز | Gas,translated
+NAME,284,Awaiting Testing,Awaiting Testing,,Awaiting Testing,kept
+CATEGORY,284,Awaiting Testing,Test,اختبار,اختبار | Test,translated
+NAME,285,Oil Producer,Oil Producer,منتجة نفط,منتجة نفط | Oil Producer,translated
+CATEGORY,285,Oil Producer,Oil,نفط,نفط | Oil,translated
+NAME,286,Plugged & Abandoned Gas Condensate Well,Plugged & Abandoned Gas Condensate Well,مغلقة ومهجورة مكثفات غازية بئر,مغلقة ومهجورة مكثفات غازية بئر | Plugged & Abandoned Gas Condensate Well,translated
+CATEGORY,286,Plugged & Abandoned Gas Condensate Well,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,287,Plugged & Abandoned Oil Well,Plugged & Abandoned Oil Well,مغلقة ومهجورة بئر نفط,مغلقة ومهجورة بئر نفط | Plugged & Abandoned Oil Well,translated
+CATEGORY,287,Plugged & Abandoned Oil Well,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,288,Abandoned - Oil & Gas Shows,Abandoned - Oil & Gas Shows,مهجورة نفط و غاز شواهد,مهجورة نفط و غاز شواهد | Abandoned - Oil & Gas Shows,translated
+CATEGORY,288,Abandoned - Oil & Gas Shows,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,289,Junked Gas Injector + Oil Shows,Junked Gas Injector + Oil Shows,حقن غاز نفط شواهد,حقن غاز نفط شواهد | Junked Gas Injector + Oil Shows,translated
+NAME,290,Junked Water Injector,Junked Water Injector,حقن مياه,حقن مياه | Junked Water Injector,translated
+NAME,291,"Shut-In, Suspended or Idle Producing Oil & Gas","Shut-In, Suspended or Idle Producing Oil & Gas",مغلقة معلقة أو نفط و غاز,"مغلقة معلقة أو نفط و غاز | Shut-In, Suspended or Idle Producing Oil & Gas",translated
+CATEGORY,291,"Shut-In, Suspended or Idle Producing Oil & Gas",Suspended,معلقة,معلقة | Suspended,translated
+NAME,292,Converted Oil Producer to Air Injection,Converted Oil Producer to Air Injection,محولة منتجة نفط إلى هواء حقن,محولة منتجة نفط إلى هواء حقن | Converted Oil Producer to Air Injection,translated
+CATEGORY,292,Converted Oil Producer to Air Injection,Converted,محولة,محولة | Converted,translated
+NAME,293,Converted Oil Producer to Water Injection,Converted Oil Producer to Water Injection,محولة منتجة نفط إلى مياه حقن,محولة منتجة نفط إلى مياه حقن | Converted Oil Producer to Water Injection,translated
+CATEGORY,293,Converted Oil Producer to Water Injection,Converted,محولة,محولة | Converted,translated
+NAME,294,Abandoned Non-Hydrocarbon Materials Well,Abandoned Non-Hydrocarbon Materials Well,مهجورة هيدروكربون بئر,مهجورة هيدروكربون بئر | Abandoned Non-Hydrocarbon Materials Well,translated
+CATEGORY,294,Abandoned Non-Hydrocarbon Materials Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,295,Abandoned Observation Well (UNDIF),Abandoned Observation Well (UNDIF),مهجورة بئر مراقبة,مهجورة بئر مراقبة | Abandoned Observation Well (UNDIF),translated
+CATEGORY,295,Abandoned Observation Well (UNDIF),Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,296,Junked - Unspecified,Junked - Unspecified,,Junked - Unspecified,kept
+NAME,297,Abandoned Geothermal Well,Abandoned Geothermal Well,مهجورة بئر,مهجورة بئر | Abandoned Geothermal Well,translated
+CATEGORY,297,Abandoned Geothermal Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,298,Suspended Oil Well & Gas,Suspended Oil Well & Gas,معلقة بئر نفط و غاز,معلقة بئر نفط و غاز | Suspended Oil Well & Gas,translated
+CATEGORY,298,Suspended Oil Well & Gas,Suspended,معلقة,معلقة | Suspended,translated
+NAME,299,Abandoned Gas Injection Well,Abandoned Gas Injection Well,مهجورة غاز حقن بئر,مهجورة غاز حقن بئر | Abandoned Gas Injection Well,translated
+CATEGORY,299,Abandoned Gas Injection Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,300,Abandoned Air Injection Well,Abandoned Air Injection Well,مهجورة هواء حقن بئر,مهجورة هواء حقن بئر | Abandoned Air Injection Well,translated
+CATEGORY,300,Abandoned Air Injection Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,301,Abandoned Steam Injection Well,Abandoned Steam Injection Well,مهجورة حقن بئر,مهجورة حقن بئر | Abandoned Steam Injection Well,translated
+CATEGORY,301,Abandoned Steam Injection Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,302,Abandoned Injection Well,Abandoned Injection Well,مهجورة حقن بئر,مهجورة حقن بئر | Abandoned Injection Well,translated
+CATEGORY,302,Abandoned Injection Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,303,Abandoned Steam Well,Abandoned Steam Well,مهجورة بئر,مهجورة بئر | Abandoned Steam Well,translated
+CATEGORY,303,Abandoned Steam Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,304,Abandoned Struct. or Strat. Test,Abandoned Struct. or Strat. Test,مهجورة أو اختبار,مهجورة أو اختبار | Abandoned Struct. or Strat. Test,translated
+CATEGORY,304,Abandoned Struct. or Strat. Test,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,305,Injection Well (Undifferentiated),Injection Well (Undifferentiated),حقن بئر غير مميزة,حقن بئر غير مميزة | Injection Well (Undifferentiated),translated
+CATEGORY,305,Injection Well (Undifferentiated),Injection,حقن,حقن | Injection,translated
+NAME,306,Producing Oil and Gas Well,Producing Oil and Gas Well,نفط و بئر غاز,نفط و بئر غاز | Producing Oil and Gas Well,translated
+CATEGORY,306,Producing Oil and Gas Well,Oil and Gas,نفط و غاز,نفط و غاز | Oil and Gas,translated
+NAME,307,Producing Oil Well,Producing Oil Well,بئر نفط,بئر نفط | Producing Oil Well,translated
+CATEGORY,307,Producing Oil Well,Oil,نفط,نفط | Oil,translated
+NAME,308,Proposed Oil Well Location,Proposed Oil Well Location,مقترحة بئر نفط موقع,مقترحة بئر نفط موقع | Proposed Oil Well Location,translated
+CATEGORY,308,Proposed Oil Well Location,Oil,نفط,نفط | Oil,translated
+NAME,309,Water Disposal,Water Disposal,التخلص من المياه,التخلص من المياه | Water Disposal,translated
+CATEGORY,309,Water Disposal,Water,مياه,مياه | Water,translated
+NAME,310,Outpost or Extension Test,Outpost or Extension Test,أو اختبار,أو اختبار | Outpost or Extension Test,translated
+CATEGORY,310,Outpost or Extension Test,Test,اختبار,اختبار | Test,translated
+NAME,311,Steam Injection,Steam Injection,حقن,حقن | Steam Injection,translated
+NAME,312,Oil Producer_1,Oil Producer,منتجة نفط,منتجة نفط | Oil Producer,translated
+CATEGORY,312,Oil Producer_1,Oil,نفط,نفط | Oil,translated
+NAME,313,"Oil, Gas & Condensate","Oil, Gas & Condensate",نفط غاز و مكثفات,"نفط غاز و مكثفات | Oil, Gas & Condensate",translated
+CATEGORY,313,"Oil, Gas & Condensate",Oil and Gas,نفط و غاز,نفط و غاز | Oil and Gas,translated
+NAME,314,Multiple Gas Producer,Multiple Gas Producer,متعددة منتجة غاز,متعددة منتجة غاز | Multiple Gas Producer,translated
+CATEGORY,314,Multiple Gas Producer,Mulitiple Gas,غاز,غاز | Mulitiple Gas,translated
+NAME,315,Injection Well,Injection Well,حقن بئر,حقن بئر | Injection Well,translated
+CATEGORY,315,Injection Well,Injection,حقن,حقن | Injection,translated
+NAME,316,Gas Producer,Gas Producer,منتجة غاز,منتجة غاز | Gas Producer,translated
+CATEGORY,316,Gas Producer,Gas,غاز,غاز | Gas,translated
+NAME,317,Development Well,Development Well,تطوير بئر,تطوير بئر | Development Well,translated
+CATEGORY,317,Development Well,Development,تطوير,تطوير | Development,translated
+NAME,318,Platform Well,Platform Well,منصة بئر,منصة بئر | Platform Well,translated
+CATEGORY,318,Platform Well,Platform,منصة,منصة | Platform,translated
+NAME,319,Completed Well,Completed Well,مكتملة بئر,مكتملة بئر | Completed Well,translated
+CATEGORY,319,Completed Well,Completed,مكتملة,مكتملة | Completed,translated
+NAME,320,Plugged & Abandoned Oil & Gas Well,Plugged & Abandoned Oil & Gas Well,مغلقة ومهجورة نفط و بئر غاز,مغلقة ومهجورة نفط و بئر غاز | Plugged & Abandoned Oil & Gas Well,translated
+CATEGORY,320,Plugged & Abandoned Oil & Gas Well,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,321,Plugged & Abandoned Dry Well + Oil & Gas Shows,Plugged & Abandoned Dry Well + Oil & Gas Shows,مغلقة ومهجورة بئر جافة نفط و غاز شواهد,مغلقة ومهجورة بئر جافة نفط و غاز شواهد | Plugged & Abandoned Dry Well + Oil & Gas Shows,translated
+CATEGORY,321,Plugged & Abandoned Dry Well + Oil & Gas Shows,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,322,Abandoned - Gas Shows,Abandoned - Gas Shows,مهجورة غاز شواهد,مهجورة غاز شواهد | Abandoned - Gas Shows,translated
+CATEGORY,322,Abandoned - Gas Shows,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,323,Junked Gas Injector,Junked Gas Injector,حقن غاز,حقن غاز | Junked Gas Injector,translated
+NAME,324,Junked Gas Condensate Well,Junked Gas Condensate Well,مكثفات غازية بئر,مكثفات غازية بئر | Junked Gas Condensate Well,translated
+NAME,325,Observation Well (Undifferentiated),Observation Well (Undifferentiated),بئر مراقبة غير مميزة,بئر مراقبة غير مميزة | Observation Well (Undifferentiated),translated
+NAME,326,Converted Oil Producer to Gas Injection,Converted Oil Producer to Gas Injection,محولة منتجة نفط إلى غاز حقن,محولة منتجة نفط إلى غاز حقن | Converted Oil Producer to Gas Injection,translated
+CATEGORY,326,Converted Oil Producer to Gas Injection,Converted,محولة,محولة | Converted,translated
+NAME,327,Abandoned Oil Producer Converted to Gas Storage,Abandoned Oil Producer Converted to Gas Storage,مهجورة منتجة نفط محولة إلى غاز تخزين,مهجورة منتجة نفط محولة إلى غاز تخزين | Abandoned Oil Producer Converted to Gas Storage,translated
+CATEGORY,327,Abandoned Oil Producer Converted to Gas Storage,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,328,Observation Well - Temperature,Observation Well - Temperature,بئر مراقبة,بئر مراقبة | Observation Well - Temperature,translated
+NAME,329,"Shut-In,Suspended or Idle Observation Well","Shut-In,Suspended or Idle Observation Well",مغلقة معلقة أو بئر مراقبة,"مغلقة معلقة أو بئر مراقبة | Shut-In,Suspended or Idle Observation Well",translated
+CATEGORY,329,"Shut-In,Suspended or Idle Observation Well",Suspended,معلقة,معلقة | Suspended,translated
+NAME,330,Suspended - Injector,Suspended - Injector,معلقة حقن,معلقة حقن | Suspended - Injector,translated
+CATEGORY,330,Suspended - Injector,Suspended,معلقة,معلقة | Suspended,translated
+NAME,331,"Shut-ln,Suspended or Idle Geothermal Well","Shut-ln,Suspended or Idle Geothermal Well",معلقة أو بئر,"معلقة أو بئر | Shut-ln,Suspended or Idle Geothermal Well",translated
+CATEGORY,331,"Shut-ln,Suspended or Idle Geothermal Well",Suspended,معلقة,معلقة | Suspended,translated
+NAME,332,Suspended Oil Well,Suspended Oil Well,معلقة بئر نفط,معلقة بئر نفط | Suspended Oil Well,translated
+CATEGORY,332,Suspended Oil Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,333,"Shut-In,Suspended or Idle Gas Injection Well","Shut-In,Suspended or Idle Gas Injection Well",مغلقة معلقة أو غاز بئر حقن,"مغلقة معلقة أو غاز بئر حقن | Shut-In,Suspended or Idle Gas Injection Well",translated
+CATEGORY,333,"Shut-In,Suspended or Idle Gas Injection Well",Suspended,معلقة,معلقة | Suspended,translated
+NAME,334,"Shut-ln,Suspended or Idle Air Injection Well","Shut-ln,Suspended or Idle Air Injection Well",معلقة أو هواء حقن بئر,"معلقة أو هواء حقن بئر | Shut-ln,Suspended or Idle Air Injection Well",translated
+CATEGORY,334,"Shut-ln,Suspended or Idle Air Injection Well",Suspended,معلقة,معلقة | Suspended,translated
+NAME,335,"Shut-in,Suspended or Idle Steam Injection Well","Shut-in,Suspended or Idle Steam Injection Well",مغلقة معلقة أو بئر حقن,"مغلقة معلقة أو بئر حقن | Shut-in,Suspended or Idle Steam Injection Well",translated
+CATEGORY,335,"Shut-in,Suspended or Idle Steam Injection Well",Suspended,معلقة,معلقة | Suspended,translated
+NAME,336,Abandoned Water Disposal Well,Abandoned Water Disposal Well,مهجورة التخلص من المياه بئر,مهجورة التخلص من المياه بئر | Abandoned Water Disposal Well,translated
+CATEGORY,336,Abandoned Water Disposal Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,337,Abandoned Service Well,Abandoned Service Well,مهجورة خدمة بئر,مهجورة خدمة بئر | Abandoned Service Well,translated
+CATEGORY,337,Abandoned Service Well,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,338,Abandoned Core Hole,Abandoned Core Hole,مهجورة حفرة,مهجورة حفرة | Abandoned Core Hole,translated
+CATEGORY,338,Abandoned Core Hole,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,339,Water Well,Water Well,بئر مياه,بئر مياه | Water Well,translated
+CATEGORY,339,Water Well,Water,مياه,مياه | Water,translated
+NAME,340,"Shut-In, Suspended or Idle Gas Well","Shut-In, Suspended or Idle Gas Well",مغلقة معلقة أو بئر غاز,"مغلقة معلقة أو بئر غاز | Shut-In, Suspended or Idle Gas Well",translated
+CATEGORY,340,"Shut-In, Suspended or Idle Gas Well",Suspended,معلقة,معلقة | Suspended,translated
+NAME,341,Structure or Stratigraphic Test Location,Structure or Stratigraphic Test Location,اختبار تركيبي أو طباقي موقع,اختبار تركيبي أو طباقي موقع | Structure or Stratigraphic Test Location,translated
+CATEGORY,341,Structure or Stratigraphic Test Location,Test,اختبار,اختبار | Test,translated
+NAME,342,Proposed Well Location Tight_1,Proposed Well Location Tight,مقترحة بئر موقع مقيدة,مقترحة بئر موقع مقيدة | Proposed Well Location Tight,translated
+CATEGORY,342,Proposed Well Location Tight_1,Location,موقع,موقع | Location,translated
+NAME,343,Uranium,Uranium,يورانيوم,يورانيوم | Uranium,translated
+CATEGORY,343,Uranium,Mineral,معدن,معدن | Mineral,translated
+NAME,344,Deeper Pool Test,Deeper Pool Test,تجمع اختبار,تجمع اختبار | Deeper Pool Test,translated
+CATEGORY,344,Deeper Pool Test,Test,اختبار,اختبار | Test,translated
+NAME,345,Gas Storage Well_1,Gas Storage Well,غاز تخزين بئر,غاز تخزين بئر | Gas Storage Well,translated
+CATEGORY,345,Gas Storage Well_1,Gas,غاز,غاز | Gas,translated
+NAME,346,Oil Injection Well,Oil Injection Well,نفط حقن بئر,نفط حقن بئر | Oil Injection Well,translated
+CATEGORY,346,Oil Injection Well,Oil,نفط,نفط | Oil,translated
+NAME,347,Observation Well,Observation Well,بئر مراقبة,بئر مراقبة | Observation Well,translated
+NAME,348,Oil (Gas Lift),Oil (Gas Lift),نفط غاز,نفط غاز | Oil (Gas Lift),translated
+CATEGORY,348,Oil (Gas Lift),Oil,نفط,نفط | Oil,translated
+NAME,349,Hazardous Waste Disposal - Nonnuclear,Hazardous Waste Disposal - Nonnuclear,مخلفات تخلص,مخلفات تخلص | Hazardous Waste Disposal - Nonnuclear,translated
+NAME,350,Combination Gas & Service,Combination Gas & Service,تركيبة غاز و خدمة,تركيبة غاز و خدمة | Combination Gas & Service,translated
+CATEGORY,350,Combination Gas & Service,Gas,غاز,غاز | Gas,translated
+NAME,351,Dry Hole,Dry Hole,بئر جافة,بئر جافة | Dry Hole,translated
+CATEGORY,351,Dry Hole,Dry,جافة,جافة | Dry,translated
+NAME,352,Water Well_1,Water Well,بئر مياه,بئر مياه | Water Well,translated
+CATEGORY,352,Water Well_1,Water,مياه,مياه | Water,translated
+NAME,353,Bottom hole Injector Well,Bottom hole Injector Well,قاع البئر حقن بئر,قاع البئر حقن بئر | Bottom hole Injector Well,translated
+CATEGORY,353,Bottom hole Injector Well,Injection,حقن,حقن | Injection,translated
+NAME,354,Bottom hole Injector After Oil Production,Bottom hole Injector After Oil Production,قاع البئر حقن نفط إنتاج,قاع البئر حقن نفط إنتاج | Bottom hole Injector After Oil Production,translated
+CATEGORY,354,Bottom hole Injector After Oil Production,Injection,حقن,حقن | Injection,translated
+NAME,355,Bottom hole Plugged & Abandoned Gas Producer,Bottom hole Plugged & Abandoned Gas Producer,قاع البئر مغلقة ومهجورة منتجة غاز,قاع البئر مغلقة ومهجورة منتجة غاز | Bottom hole Plugged & Abandoned Gas Producer,translated
+CATEGORY,355,Bottom hole Plugged & Abandoned Gas Producer,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,356,Bottom hole Suspended Gas Injector,Bottom hole Suspended Gas Injector,قاع البئر معلقة حقن غاز,قاع البئر معلقة حقن غاز | Bottom hole Suspended Gas Injector,translated
+CATEGORY,356,Bottom hole Suspended Gas Injector,Suspended,معلقة,معلقة | Suspended,translated
+NAME,357,Bottom hole Suspended Gas Producer,Bottom hole Suspended Gas Producer,قاع البئر معلقة منتجة غاز,قاع البئر معلقة منتجة غاز | Bottom hole Suspended Gas Producer,translated
+CATEGORY,357,Bottom hole Suspended Gas Producer,Suspended,معلقة,معلقة | Suspended,translated
+NAME,358,Bottom hole Suspended Dry Well,Bottom hole Suspended Dry Well,قاع البئر معلقة بئر جافة,قاع البئر معلقة بئر جافة | Bottom hole Suspended Dry Well,translated
+CATEGORY,358,Bottom hole Suspended Dry Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,359,Bottom hole Completed Gas Injector + Oil Show,Bottom hole Completed Gas Injector + Oil Show,قاع البئر مكتملة حقن غاز نفط شاهد,قاع البئر مكتملة حقن غاز نفط شاهد | Bottom hole Completed Gas Injector + Oil Show,translated
+CATEGORY,359,Bottom hole Completed Gas Injector + Oil Show,Gas,غاز,غاز | Gas,translated
+NAME,360,Bottom hole Completed Water Injector,Bottom hole Completed Water Injector,قاع البئر مكتملة حقن مياه,قاع البئر مكتملة حقن مياه | Bottom hole Completed Water Injector,translated
+CATEGORY,360,Bottom hole Completed Water Injector,Water,مياه,مياه | Water,translated
+NAME,361,Bottom hole Completed Gas Well,Bottom hole Completed Gas Well,قاع البئر مكتملة بئر غاز,قاع البئر مكتملة بئر غاز | Bottom hole Completed Gas Well,translated
+CATEGORY,361,Bottom hole Completed Gas Well,Gas,غاز,غاز | Gas,translated
+NAME,362,Bottom hole Completed Well,Bottom hole Completed Well,قاع البئر مكتملة بئر,قاع البئر مكتملة بئر | Bottom hole Completed Well,translated
+CATEGORY,362,Bottom hole Completed Well,Completed,مكتملة,مكتملة | Completed,translated
+NAME,363,Bottom hole Plugged & Abandoned Gas Well,Bottom hole Plugged & Abandoned Gas Well,قاع البئر مغلقة ومهجورة بئر غاز,قاع البئر مغلقة ومهجورة بئر غاز | Bottom hole Plugged & Abandoned Gas Well,translated
+CATEGORY,363,Bottom hole Plugged & Abandoned Gas Well,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,364,Bottom hole Plugged & Abandoned Dry Well,Bottom hole Plugged & Abandoned Dry Well,قاع البئر مغلقة ومهجورة بئر جافة,قاع البئر مغلقة ومهجورة بئر جافة | Bottom hole Plugged & Abandoned Dry Well,translated
+CATEGORY,364,Bottom hole Plugged & Abandoned Dry Well,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,365,Bottom hole Junked Gas Injector,Bottom hole Junked Gas Injector,قاع البئر حقن غاز,قاع البئر حقن غاز | Bottom hole Junked Gas Injector,translated
+NAME,366,Bottom hole Junked Gas Condensate Well,Bottom hole Junked Gas Condensate Well,قاع البئر مكثفات غازية بئر,قاع البئر مكثفات غازية بئر | Bottom hole Junked Gas Condensate Well,translated
+NAME,367,Bottom hole Junked Dry Well + Oil & Gas Shows,Bottom hole Junked Dry Well + Oil & Gas Shows,قاع البئر بئر جافة نفط و غاز شواهد,قاع البئر بئر جافة نفط و غاز شواهد | Bottom hole Junked Dry Well + Oil & Gas Shows,translated
+NAME,368,Bottom hole Suspended Gas Injector_1,Bottom hole Suspended Gas Injector,قاع البئر معلقة حقن غاز,قاع البئر معلقة حقن غاز | Bottom hole Suspended Gas Injector,translated
+CATEGORY,368,Bottom hole Suspended Gas Injector_1,Suspended,معلقة,معلقة | Suspended,translated
+NAME,369,Bottom hole Suspended Gas Well,Bottom hole Suspended Gas Well,قاع البئر معلقة بئر غاز,قاع البئر معلقة بئر غاز | Bottom hole Suspended Gas Well,translated
+CATEGORY,369,Bottom hole Suspended Gas Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,370,Bottom hole Suspended Well + Gas Shows,Bottom hole Suspended Well + Gas Shows,قاع البئر معلقة بئر غاز شواهد,قاع البئر معلقة بئر غاز شواهد | Bottom hole Suspended Well + Gas Shows,translated
+CATEGORY,370,Bottom hole Suspended Well + Gas Shows,Suspended,معلقة,معلقة | Suspended,translated
+NAME,371,Bottom hole Proposed Well Location Tight,Bottom hole Proposed Well Location Tight,قاع البئر مقترحة بئر موقع مقيدة,قاع البئر مقترحة بئر موقع مقيدة | Bottom hole Proposed Well Location Tight,translated
+CATEGORY,371,Bottom hole Proposed Well Location Tight,Location,موقع,موقع | Location,translated
+NAME,372,Bottom hole Uranium,Bottom hole Uranium,قاع البئر يورانيوم,قاع البئر يورانيوم | Bottom hole Uranium,translated
+CATEGORY,372,Bottom hole Uranium,Mineral,معدن,معدن | Mineral,translated
+NAME,373,Bottom hole Deeper Pool Test,Bottom hole Deeper Pool Test,قاع البئر تجمع اختبار,قاع البئر تجمع اختبار | Bottom hole Deeper Pool Test,translated
+CATEGORY,373,Bottom hole Deeper Pool Test,Test,اختبار,اختبار | Test,translated
+NAME,374,Bottom hole Gas Storage Well,Bottom hole Gas Storage Well,قاع البئر غاز تخزين بئر,قاع البئر غاز تخزين بئر | Bottom hole Gas Storage Well,translated
+CATEGORY,374,Bottom hole Gas Storage Well,Gas,غاز,غاز | Gas,translated
+NAME,375,Bottom hole Oil Injection Well,Bottom hole Oil Injection Well,قاع البئر نفط حقن بئر,قاع البئر نفط حقن بئر | Bottom hole Oil Injection Well,translated
+CATEGORY,375,Bottom hole Oil Injection Well,Oil,نفط,نفط | Oil,translated
+NAME,376,Bottom hole Observation Well,Bottom hole Observation Well,قاع البئر بئر مراقبة,قاع البئر بئر مراقبة | Bottom hole Observation Well,translated
+NAME,377,Bottom hole Oil (Gas Lift),Bottom hole Oil (Gas Lift),قاع البئر نفط غاز,قاع البئر نفط غاز | Bottom hole Oil (Gas Lift),translated
+CATEGORY,377,Bottom hole Oil (Gas Lift),Oil,نفط,نفط | Oil,translated
+NAME,378,Bottom hole Hazardous Waste Disposal - Nonnuclear,Bottom hole Hazardous Waste Disposal - Nonnuclear,قاع البئر مخلفات تخلص,قاع البئر مخلفات تخلص | Bottom hole Hazardous Waste Disposal - Nonnuclear,translated
+NAME,379,Bottom hole Combination Gas & Service,Bottom hole Combination Gas & Service,قاع البئر تركيبة غاز و خدمة,قاع البئر تركيبة غاز و خدمة | Bottom hole Combination Gas & Service,translated
+CATEGORY,379,Bottom hole Combination Gas & Service,Gas,غاز,غاز | Gas,translated
+NAME,380,Bottom hole Dry Hole,Bottom hole Dry Hole,قاع البئر بئر جافة,قاع البئر بئر جافة | Bottom hole Dry Hole,translated
+CATEGORY,380,Bottom hole Dry Hole,Dry,جافة,جافة | Dry,translated
+NAME,381,Bottom hole Water Well,Bottom hole Water Well,قاع البئر بئر مياه,قاع البئر بئر مياه | Bottom hole Water Well,translated
+CATEGORY,381,Bottom hole Water Well,Water,مياه,مياه | Water,translated
+NAME,382,Injector After Oil & Gas Production,Injector After Oil & Gas Production,حقن نفط و غاز إنتاج,حقن نفط و غاز إنتاج | Injector After Oil & Gas Production,translated
+CATEGORY,382,Injector After Oil & Gas Production,Injection,حقن,حقن | Injection,translated
+NAME,383,Plugged & Abandoned Injection Well,Plugged & Abandoned Injection Well,مغلقة ومهجورة حقن بئر,مغلقة ومهجورة حقن بئر | Plugged & Abandoned Injection Well,translated
+CATEGORY,383,Plugged & Abandoned Injection Well,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,384,Plugged & Abandoned Oil Producer + Gas Shows,Plugged & Abandoned Oil Producer + Gas Shows,مغلقة ومهجورة منتجة نفط غاز شواهد,مغلقة ومهجورة منتجة نفط غاز شواهد | Plugged & Abandoned Oil Producer + Gas Shows,translated
+CATEGORY,384,Plugged & Abandoned Oil Producer + Gas Shows,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,385,Suspended Gas Condensate Producer,Suspended Gas Condensate Producer,معلقة مكثفات غازية منتجة,معلقة مكثفات غازية منتجة | Suspended Gas Condensate Producer,translated
+CATEGORY,385,Suspended Gas Condensate Producer,Suspended,معلقة,معلقة | Suspended,translated
+NAME,386,Suspended Oil Shows,Suspended Oil Shows,معلقة نفط شواهد,معلقة نفط شواهد | Suspended Oil Shows,translated
+CATEGORY,386,Suspended Oil Shows,Suspended,معلقة,معلقة | Suspended,translated
+NAME,387,Completed Tight Well,Completed Tight Well,مكتملة بئر مقيدة,مكتملة بئر مقيدة | Completed Tight Well,translated
+CATEGORY,387,Completed Tight Well,Tight,مقيدة,مقيدة | Tight,translated
+NAME,388,Completed Water Well,Completed Water Well,مكتملة بئر مياه,مكتملة بئر مياه | Completed Water Well,translated
+CATEGORY,388,Completed Water Well,Water,مياه,مياه | Water,translated
+NAME,389,Completed Gas Condensate Well,Completed Gas Condensate Well,مكتملة مكثفات غازية بئر,مكتملة مكثفات غازية بئر | Completed Gas Condensate Well,translated
+CATEGORY,389,Completed Gas Condensate Well,Gas,غاز,غاز | Gas,translated
+NAME,390,Completed Gas Well,Completed Gas Well,مكتملة بئر غاز,مكتملة بئر غاز | Completed Gas Well,translated
+CATEGORY,390,Completed Gas Well,Gas,غاز,غاز | Gas,translated
+NAME,391,Oil Producer_2,Oil Producer,منتجة نفط,منتجة نفط | Oil Producer,translated
+CATEGORY,391,Oil Producer_2,Oil,نفط,نفط | Oil,translated
+NAME,392,Bottom hole Injector After Gas Condensate Producer,Bottom hole Injector After Gas Condensate Producer,قاع البئر حقن مكثفات غازية منتجة,قاع البئر حقن مكثفات غازية منتجة | Bottom hole Injector After Gas Condensate Producer,translated
+CATEGORY,392,Bottom hole Injector After Gas Condensate Producer,Injection,حقن,حقن | Injection,translated
+NAME,393,Bottom hole Plugged & Abandoned Gas Injector,Bottom hole Plugged & Abandoned Gas Injector,قاع البئر مغلقة ومهجورة حقن غاز,قاع البئر مغلقة ومهجورة حقن غاز | Bottom hole Plugged & Abandoned Gas Injector,translated
+CATEGORY,393,Bottom hole Plugged & Abandoned Gas Injector,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,394,Bottom hole Plugged & Abandoned Gas Producer_1,Bottom hole Plugged & Abandoned Gas Producer,قاع البئر مغلقة ومهجورة منتجة غاز,قاع البئر مغلقة ومهجورة منتجة غاز | Bottom hole Plugged & Abandoned Gas Producer,translated
+CATEGORY,394,Bottom hole Plugged & Abandoned Gas Producer_1,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,395,Bottom hole Suspended Water Injector,Bottom hole Suspended Water Injector,قاع البئر معلقة حقن مياه,قاع البئر معلقة حقن مياه | Bottom hole Suspended Water Injector,translated
+CATEGORY,395,Bottom hole Suspended Water Injector,Suspended,معلقة,معلقة | Suspended,translated
+NAME,396,Bottom hole Suspended Oil & Gas Shows,Bottom hole Suspended Oil & Gas Shows,قاع البئر معلقة نفط و غاز شواهد,قاع البئر معلقة نفط و غاز شواهد | Bottom hole Suspended Oil & Gas Shows,translated
+CATEGORY,396,Bottom hole Suspended Oil & Gas Shows,Suspended,معلقة,معلقة | Suspended,translated
+NAME,397,Bottom hole Producer Well,Bottom hole Producer Well,قاع البئر منتجة بئر,قاع البئر منتجة بئر | Bottom hole Producer Well,translated
+CATEGORY,397,Bottom hole Producer Well,Default,افتراضية,افتراضية | Default,translated
+NAME,398,Bottom hole Completed Gas Injector,Bottom hole Completed Gas Injector,قاع البئر مكتملة حقن غاز,قاع البئر مكتملة حقن غاز | Bottom hole Completed Gas Injector,translated
+CATEGORY,398,Bottom hole Completed Gas Injector,Gas,غاز,غاز | Gas,translated
+NAME,399,Bottom hole Completed Gas Condensate Well,Bottom hole Completed Gas Condensate Well,قاع البئر مكتملة مكثفات غازية بئر,قاع البئر مكتملة مكثفات غازية بئر | Bottom hole Completed Gas Condensate Well,translated
+CATEGORY,399,Bottom hole Completed Gas Condensate Well,Gas,غاز,غاز | Gas,translated
+NAME,400,Bottom hole Completed Oil & Service Well,Bottom hole Completed Oil & Service Well,قاع البئر مكتملة نفط و خدمة بئر,قاع البئر مكتملة نفط و خدمة بئر | Bottom hole Completed Oil & Service Well,translated
+CATEGORY,400,Bottom hole Completed Oil & Service Well,Oil,نفط,نفط | Oil,translated
+NAME,401,Bottom hole Plugged & Abandoned Water Well,Bottom hole Plugged & Abandoned Water Well,قاع البئر مغلقة ومهجورة بئر مياه,قاع البئر مغلقة ومهجورة بئر مياه | Bottom hole Plugged & Abandoned Water Well,translated
+CATEGORY,401,Bottom hole Plugged & Abandoned Water Well,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,402,Bottom hole Plugged & Abandoned Oil Well + Gas,Bottom hole Plugged & Abandoned Oil Well + Gas,قاع البئر مغلقة ومهجورة بئر نفط غاز,قاع البئر مغلقة ومهجورة بئر نفط غاز | Bottom hole Plugged & Abandoned Oil Well + Gas,translated
+CATEGORY,402,Bottom hole Plugged & Abandoned Oil Well + Gas,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,403,Bottom hole Plugged & Abandoned Tight Well,Bottom hole Plugged & Abandoned Tight Well,قاع البئر مغلقة ومهجورة بئر مقيدة,قاع البئر مغلقة ومهجورة بئر مقيدة | Bottom hole Plugged & Abandoned Tight Well,translated
+CATEGORY,403,Bottom hole Plugged & Abandoned Tight Well,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,404,Bottom hole Junked Water Well,Bottom hole Junked Water Well,قاع البئر بئر مياه,قاع البئر بئر مياه | Bottom hole Junked Water Well,translated
+NAME,405,Bottom hole Junked Oil & Gas Well,Bottom hole Junked Oil & Gas Well,قاع البئر نفط و بئر غاز,قاع البئر نفط و بئر غاز | Bottom hole Junked Oil & Gas Well,translated
+NAME,406,Bottom hole Junked Dry Well + Gas Shows,Bottom hole Junked Dry Well + Gas Shows,قاع البئر بئر جافة غاز شواهد,قاع البئر بئر جافة غاز شواهد | Bottom hole Junked Dry Well + Gas Shows,translated
+NAME,407,Bottom hole Suspended Water Well,Bottom hole Suspended Water Well,قاع البئر معلقة بئر مياه,قاع البئر معلقة بئر مياه | Bottom hole Suspended Water Well,translated
+CATEGORY,407,Bottom hole Suspended Water Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,408,Bottom hole Suspended Oil Well & Gas,Bottom hole Suspended Oil Well & Gas,قاع البئر معلقة بئر نفط و غاز,قاع البئر معلقة بئر نفط و غاز | Bottom hole Suspended Oil Well & Gas,translated
+CATEGORY,408,Bottom hole Suspended Oil Well & Gas,Suspended,معلقة,معلقة | Suspended,translated
+NAME,409,Bottom hole Suspended Well + Oil Shows,Bottom hole Suspended Well + Oil Shows,قاع البئر معلقة بئر نفط شواهد,قاع البئر معلقة بئر نفط شواهد | Bottom hole Suspended Well + Oil Shows,translated
+CATEGORY,409,Bottom hole Suspended Well + Oil Shows,Suspended,معلقة,معلقة | Suspended,translated
+NAME,410,Bottom hole Proposed Well Location,Bottom hole Proposed Well Location,قاع البئر مقترحة بئر موقع,قاع البئر مقترحة بئر موقع | Bottom hole Proposed Well Location,translated
+CATEGORY,410,Bottom hole Proposed Well Location,Location,موقع,موقع | Location,translated
+NAME,411,Bottom hole Unknown,Bottom hole Unknown,قاع البئر مجهولة,قاع البئر مجهولة | Bottom hole Unknown,translated
+CATEGORY,411,Bottom hole Unknown,Default,افتراضية,افتراضية | Default,translated
+NAME,412,Bottom hole Core Hole or Core Test,Bottom hole Core Hole or Core Test,قاع البئر حفرة أو اختبار,قاع البئر حفرة أو اختبار | Bottom hole Core Hole or Core Test,translated
+CATEGORY,412,Bottom hole Core Hole or Core Test,Test,اختبار,اختبار | Test,translated
+NAME,413,Bottom hole Potash Well,Bottom hole Potash Well,قاع البئر بوتاس بئر,قاع البئر بوتاس بئر | Bottom hole Potash Well,translated
+CATEGORY,413,Bottom hole Potash Well,Potash,بوتاس,بوتاس | Potash,translated
+NAME,414,Bottom hole Oil & Gas Producer,Bottom hole Oil & Gas Producer,قاع البئر نفط و منتجة غاز,قاع البئر نفط و منتجة غاز | Bottom hole Oil & Gas Producer,translated
+CATEGORY,414,Bottom hole Oil & Gas Producer,Oil and Gas,نفط و غاز,نفط و غاز | Oil and Gas,translated
+NAME,415,Bottom hole Combination Oil & Abandoned,Bottom hole Combination Oil & Abandoned,قاع البئر تركيبة نفط و مهجورة,قاع البئر تركيبة نفط و مهجورة | Bottom hole Combination Oil & Abandoned,translated
+CATEGORY,415,Bottom hole Combination Oil & Abandoned,Oil,نفط,نفط | Oil,translated
+NAME,416,Bottom hole Gas Lift,Bottom hole Gas Lift,قاع البئر غاز,قاع البئر غاز | Bottom hole Gas Lift,translated
+CATEGORY,416,Bottom hole Gas Lift,Gas,غاز,غاز | Gas,translated
+NAME,417,Bottom hole Steam Geothermal,Bottom hole Steam Geothermal,قاع البئر,قاع البئر | Bottom hole Steam Geothermal,translated
+NAME,418,Bottom hole Geopressure Well,Bottom hole Geopressure Well,قاع البئر بئر,قاع البئر بئر | Bottom hole Geopressure Well,translated
+NAME,419,Bottom hole C02 Producer,Bottom hole C02 Producer,قاع البئر منتجة,قاع البئر منتجة | Bottom hole C02 Producer,translated
+CATEGORY,419,Bottom hole C02 Producer,Gas,غاز,غاز | Gas,translated
+NAME,420,Bottom hole Well,Bottom hole Well,قاع البئر بئر,قاع البئر بئر | Bottom hole Well,translated
+CATEGORY,420,Bottom hole Well,Default,افتراضية,افتراضية | Default,translated
+NAME,421,Injector After Gas Production + Oil Shows,Injector After Gas Production + Oil Shows,حقن غاز إنتاج نفط شواهد,حقن غاز إنتاج نفط شواهد | Injector After Gas Production + Oil Shows,translated
+CATEGORY,421,Injector After Gas Production + Oil Shows,Injection,حقن,حقن | Injection,translated
+NAME,422,Plugged & Abandoned Water Injector,Plugged & Abandoned Water Injector,مغلقة ومهجورة حقن مياه,مغلقة ومهجورة حقن مياه | Plugged & Abandoned Water Injector,translated
+CATEGORY,422,Plugged & Abandoned Water Injector,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,423,Plugged & Abandoned Oil Producer,Plugged & Abandoned Oil Producer,مغلقة ومهجورة منتجة نفط,مغلقة ومهجورة منتجة نفط | Plugged & Abandoned Oil Producer,translated
+CATEGORY,423,Plugged & Abandoned Oil Producer,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,424,Suspended Oil & Gas Producer,Suspended Oil & Gas Producer,معلقة نفط و منتجة غاز,معلقة نفط و منتجة غاز | Suspended Oil & Gas Producer,translated
+CATEGORY,424,Suspended Oil & Gas Producer,Suspended,معلقة,معلقة | Suspended,translated
+NAME,425,Suspended Oil Producer + Gas Shows,Suspended Oil Producer + Gas Shows,معلقة منتجة نفط غاز شواهد,معلقة منتجة نفط غاز شواهد | Suspended Oil Producer + Gas Shows,translated
+CATEGORY,425,Suspended Oil Producer + Gas Shows,Suspended,معلقة,معلقة | Suspended,translated
+NAME,426,Completed Observation Well,Completed Observation Well,مكتملة بئر مراقبة,مكتملة بئر مراقبة | Completed Observation Well,translated
+NAME,427,Completed Water Injector + Oil & Gas Shows,Completed Water Injector + Oil & Gas Shows,مكتملة حقن مياه نفط و غاز شواهد,مكتملة حقن مياه نفط و غاز شواهد | Completed Water Injector + Oil & Gas Shows,translated
+CATEGORY,427,Completed Water Injector + Oil & Gas Shows,Water,مياه,مياه | Water,translated
+NAME,428,Completed Multiple Oil & Gas Well,Completed Multiple Oil & Gas Well,مكتملة متعددة نفط و بئر غاز,مكتملة متعددة نفط و بئر غاز | Completed Multiple Oil & Gas Well,translated
+CATEGORY,428,Completed Multiple Oil & Gas Well,Multiple Oil and Gas,متعددة نفط و غاز,متعددة نفط و غاز | Multiple Oil and Gas,translated
+NAME,429,Completed Oil & Service Well,Completed Oil & Service Well,مكتملة نفط و خدمة بئر,مكتملة نفط و خدمة بئر | Completed Oil & Service Well,translated
+CATEGORY,429,Completed Oil & Service Well,Oil,نفط,نفط | Oil,translated
+NAME,430,Completed Well_1,Completed Well,مكتملة بئر,مكتملة بئر | Completed Well,translated
+CATEGORY,430,Completed Well_1,Completed,مكتملة,مكتملة | Completed,translated
+NAME,431,Bottom hole Injector After Oil & Gas Production,Bottom hole Injector After Oil & Gas Production,قاع البئر حقن نفط و غاز إنتاج,قاع البئر حقن نفط و غاز إنتاج | Bottom hole Injector After Oil & Gas Production,translated
+CATEGORY,431,Bottom hole Injector After Oil & Gas Production,Injection,حقن,حقن | Injection,translated
+NAME,432,Bottom hole Plugged & Abandoned Injection Well,Bottom hole Plugged & Abandoned Injection Well,قاع البئر مغلقة ومهجورة حقن بئر,قاع البئر مغلقة ومهجورة حقن بئر | Bottom hole Plugged & Abandoned Injection Well,translated
+CATEGORY,432,Bottom hole Plugged & Abandoned Injection Well,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,433,Bottom hole Plugged & Abandoned Oil Producer,Bottom hole Plugged & Abandoned Oil Producer,قاع البئر مغلقة ومهجورة منتجة نفط,قاع البئر مغلقة ومهجورة منتجة نفط | Bottom hole Plugged & Abandoned Oil Producer,translated
+CATEGORY,433,Bottom hole Plugged & Abandoned Oil Producer,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,434,Bottom hole Suspended Gas Condensate Producer,Bottom hole Suspended Gas Condensate Producer,قاع البئر معلقة مكثفات غازية منتجة,قاع البئر معلقة مكثفات غازية منتجة | Bottom hole Suspended Gas Condensate Producer,translated
+CATEGORY,434,Bottom hole Suspended Gas Condensate Producer,Suspended,معلقة,معلقة | Suspended,translated
+NAME,435,Bottom hole Suspended Oil Shows,Bottom hole Suspended Oil Shows,قاع البئر معلقة نفط شواهد,قاع البئر معلقة نفط شواهد | Bottom hole Suspended Oil Shows,translated
+CATEGORY,435,Bottom hole Suspended Oil Shows,Suspended,معلقة,معلقة | Suspended,translated
+NAME,436,Bottom hole Completed Tight Well,Bottom hole Completed Tight Well,قاع البئر مكتملة بئر مقيدة,قاع البئر مكتملة بئر مقيدة | Bottom hole Completed Tight Well,translated
+CATEGORY,436,Bottom hole Completed Tight Well,Tight,مقيدة,مقيدة | Tight,translated
+NAME,437,Bottom hole Completed Water Well,Bottom hole Completed Water Well,قاع البئر مكتملة بئر مياه,قاع البئر مكتملة بئر مياه | Bottom hole Completed Water Well,translated
+CATEGORY,437,Bottom hole Completed Water Well,Water,مياه,مياه | Water,translated
+NAME,438,Bottom hole Completed Multiple Oil & Gas Well,Bottom hole Completed Multiple Oil & Gas Well,قاع البئر مكتملة متعددة نفط و بئر غاز,قاع البئر مكتملة متعددة نفط و بئر غاز | Bottom hole Completed Multiple Oil & Gas Well,translated
+CATEGORY,438,Bottom hole Completed Multiple Oil & Gas Well,Multiple Oil and Gas,متعددة نفط و غاز,متعددة نفط و غاز | Multiple Oil and Gas,translated
+NAME,439,Bottom hole Completed Multiple Oil Well,Bottom hole Completed Multiple Oil Well,قاع البئر مكتملة متعددة بئر نفط,قاع البئر مكتملة متعددة بئر نفط | Bottom hole Completed Multiple Oil Well,translated
+CATEGORY,439,Bottom hole Completed Multiple Oil Well,Multiple Oil,متعددة نفط,متعددة نفط | Multiple Oil,translated
+NAME,440,Bottom hole Plugged & Abandoned Gas Condensate,Bottom hole Plugged & Abandoned Gas Condensate,قاع البئر مغلقة ومهجورة مكثفات غازية,قاع البئر مغلقة ومهجورة مكثفات غازية | Bottom hole Plugged & Abandoned Gas Condensate,translated
+CATEGORY,440,Bottom hole Plugged & Abandoned Gas Condensate,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,441,Bottom hole Plugged & Abandoned Oil Well,Bottom hole Plugged & Abandoned Oil Well,قاع البئر مغلقة ومهجورة بئر نفط,قاع البئر مغلقة ومهجورة بئر نفط | Bottom hole Plugged & Abandoned Oil Well,translated
+CATEGORY,441,Bottom hole Plugged & Abandoned Oil Well,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,442,Bottom hole Plugged & Abandoned Well,Bottom hole Plugged & Abandoned Well,قاع البئر مغلقة ومهجورة بئر,قاع البئر مغلقة ومهجورة بئر | Bottom hole Plugged & Abandoned Well,translated
+CATEGORY,442,Bottom hole Plugged & Abandoned Well,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,443,Bottom hole Junked Water Injector + Oil & Gas,Bottom hole Junked Water Injector + Oil & Gas,قاع البئر حقن مياه نفط و غاز,قاع البئر حقن مياه نفط و غاز | Bottom hole Junked Water Injector + Oil & Gas,translated
+NAME,444,Bottom hole Junked Gas Well + Oil Shows,Bottom hole Junked Gas Well + Oil Shows,قاع البئر بئر غاز نفط شواهد,قاع البئر بئر غاز نفط شواهد | Bottom hole Junked Gas Well + Oil Shows,translated
+NAME,445,Bottom hole Junked Dry Well + Oil Shows,Bottom hole Junked Dry Well + Oil Shows,قاع البئر بئر جافة نفط شواهد,قاع البئر بئر جافة نفط شواهد | Bottom hole Junked Dry Well + Oil Shows,translated
+NAME,446,Bottom hole Suspended Water Injection Well,Bottom hole Suspended Water Injection Well,قاع البئر معلقة بئر حقن مياه,قاع البئر معلقة بئر حقن مياه | Bottom hole Suspended Water Injection Well,translated
+CATEGORY,446,Bottom hole Suspended Water Injection Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,447,Bottom hole Suspended Oil Well,Bottom hole Suspended Oil Well,قاع البئر معلقة بئر نفط,قاع البئر معلقة بئر نفط | Bottom hole Suspended Oil Well,translated
+CATEGORY,447,Bottom hole Suspended Oil Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,448,Bottom hole Suspended,Bottom hole Suspended,قاع البئر معلقة,قاع البئر معلقة | Bottom hole Suspended,translated
+CATEGORY,448,Bottom hole Suspended,Suspended,معلقة,معلقة | Suspended,translated
+NAME,449,Bottom hole New Pool Wildcat,Bottom hole New Pool Wildcat,قاع البئر جديدة تجمع,قاع البئر جديدة تجمع | Bottom hole New Pool Wildcat,translated
+NAME,450,Bottom hole Shallower Pool Test,Bottom hole Shallower Pool Test,قاع البئر تجمع اختبار,قاع البئر تجمع اختبار | Bottom hole Shallower Pool Test,translated
+CATEGORY,450,Bottom hole Shallower Pool Test,Test,اختبار,اختبار | Test,translated
+NAME,451,Bottom hole Sulfur Well,Bottom hole Sulfur Well,قاع البئر كبريت بئر,قاع البئر كبريت بئر | Bottom hole Sulfur Well,translated
+CATEGORY,451,Bottom hole Sulfur Well,Mineral,معدن,معدن | Mineral,translated
+NAME,452,Bottom hole Oil Shale,Bottom hole Oil Shale,قاع البئر صخر زيتي,قاع البئر صخر زيتي | Bottom hole Oil Shale,translated
+CATEGORY,452,Bottom hole Oil Shale,Oil,نفط,نفط | Oil,translated
+NAME,453,Bottom hole Oil & Gas Shows,Bottom hole Oil & Gas Shows,قاع البئر نفط و غاز شواهد,قاع البئر نفط و غاز شواهد | Bottom hole Oil & Gas Shows,translated
+CATEGORY,453,Bottom hole Oil & Gas Shows,Oil and Gas,نفط و غاز,نفط و غاز | Oil and Gas,translated
+NAME,454,Bottom hole Salt Well,Bottom hole Salt Well,قاع البئر ملح بئر,قاع البئر ملح بئر | Bottom hole Salt Well,translated
+CATEGORY,454,Bottom hole Salt Well,Mineral,معدن,معدن | Mineral,translated
+NAME,455,Bottom hole Water Injection & Supply Well,Bottom hole Water Injection & Supply Well,قاع البئر مياه حقن و إمداد بئر,قاع البئر مياه حقن و إمداد بئر | Bottom hole Water Injection & Supply Well,translated
+CATEGORY,455,Bottom hole Water Injection & Supply Well,Water,مياه,مياه | Water,translated
+NAME,456,Bottom hole Hazardous Waste Disposal - Nuclear,Bottom hole Hazardous Waste Disposal - Nuclear,قاع البئر مخلفات تخلص,قاع البئر مخلفات تخلص | Bottom hole Hazardous Waste Disposal - Nuclear,translated
+NAME,457,Bottom hole Combination Gas & Injection,Bottom hole Combination Gas & Injection,قاع البئر تركيبة غاز و حقن,قاع البئر تركيبة غاز و حقن | Bottom hole Combination Gas & Injection,translated
+CATEGORY,457,Bottom hole Combination Gas & Injection,Gas,غاز,غاز | Gas,translated
+NAME,458,Bottom hole Coal,Bottom hole Coal,قاع البئر فحم,قاع البئر فحم | Bottom hole Coal,translated
+CATEGORY,458,Bottom hole Coal,Coal,فحم,فحم | Coal,translated
+NAME,459,Well Input from Pl,Well Input from Pl,بئر من,بئر من | Well Input from Pl,translated
+CATEGORY,459,Well Input from Pl,Default,افتراضية,افتراضية | Default,translated
+NAME,460,Injector After Gas Production,Injector After Gas Production,حقن غاز إنتاج,حقن غاز إنتاج | Injector After Gas Production,translated
+CATEGORY,460,Injector After Gas Production,Injection,حقن,حقن | Injection,translated
+NAME,461,Plugged & Abandoned Gas Condensate Producer,Plugged & Abandoned Gas Condensate Producer,مغلقة ومهجورة مكثفات غازية منتجة,مغلقة ومهجورة مكثفات غازية منتجة | Plugged & Abandoned Gas Condensate Producer,translated
+CATEGORY,461,Plugged & Abandoned Gas Condensate Producer,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,462,Suspended Unknown Well,Suspended Unknown Well,معلقة مجهولة بئر,معلقة مجهولة بئر | Suspended Unknown Well,translated
+CATEGORY,462,Suspended Unknown Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,463,Suspended Gas Shows,Suspended Gas Shows,معلقة غاز شواهد,معلقة غاز شواهد | Suspended Gas Shows,translated
+CATEGORY,463,Suspended Gas Shows,Suspended,معلقة,معلقة | Suspended,translated
+NAME,464,Suspended Oil Producer,Suspended Oil Producer,معلقة منتجة نفط,معلقة منتجة نفط | Suspended Oil Producer,translated
+CATEGORY,464,Suspended Oil Producer,Suspended,معلقة,معلقة | Suspended,translated
+NAME,465,Completed Gas Injector + Oil & Gas Shows,Completed Gas Injector + Oil & Gas Shows,مكتملة حقن غاز نفط و غاز شواهد,مكتملة حقن غاز نفط و غاز شواهد | Completed Gas Injector + Oil & Gas Shows,translated
+CATEGORY,465,Completed Gas Injector + Oil & Gas Shows,Gas,غاز,غاز | Gas,translated
+NAME,466,Completed Water Injector + Gas Shows,Completed Water Injector + Gas Shows,مكتملة حقن مياه غاز شواهد,مكتملة حقن مياه غاز شواهد | Completed Water Injector + Gas Shows,translated
+CATEGORY,466,Completed Water Injector + Gas Shows,Water,مياه,مياه | Water,translated
+NAME,467,Completed Oil & Gas Well,Completed Oil & Gas Well,مكتملة نفط و بئر غاز,مكتملة نفط و بئر غاز | Completed Oil & Gas Well,translated
+CATEGORY,467,Completed Oil & Gas Well,Oil and Gas,نفط و غاز,نفط و غاز | Oil and Gas,translated
+NAME,468,Completed Multiple Oil Well,Completed Multiple Oil Well,مكتملة متعددة بئر نفط,مكتملة متعددة بئر نفط | Completed Multiple Oil Well,translated
+CATEGORY,468,Completed Multiple Oil Well,Multiple Oil,متعددة نفط,متعددة نفط | Multiple Oil,translated
+NAME,469,Abandoned - Injector_1,Abandoned - Injector,مهجورة حقن,مهجورة حقن | Abandoned - Injector,translated
+CATEGORY,469,Abandoned - Injector_1,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,470,Bottom hole Injector After Gas Production + Oil,Bottom hole Injector After Gas Production + Oil,قاع البئر حقن غاز إنتاج نفط,قاع البئر حقن غاز إنتاج نفط | Bottom hole Injector After Gas Production + Oil,translated
+CATEGORY,470,Bottom hole Injector After Gas Production + Oil,Injection,حقن,حقن | Injection,translated
+NAME,471,Bottom hole Plugged & Abandoned Water Injector,Bottom hole Plugged & Abandoned Water Injector,قاع البئر مغلقة ومهجورة حقن مياه,قاع البئر مغلقة ومهجورة حقن مياه | Bottom hole Plugged & Abandoned Water Injector,translated
+CATEGORY,471,Bottom hole Plugged & Abandoned Water Injector,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,472,Bottom hole Plugged & Abandoned Oil Producer_1,Bottom hole Plugged & Abandoned Oil Producer,قاع البئر مغلقة ومهجورة منتجة نفط,قاع البئر مغلقة ومهجورة منتجة نفط | Bottom hole Plugged & Abandoned Oil Producer,translated
+CATEGORY,472,Bottom hole Plugged & Abandoned Oil Producer_1,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,473,Bottom hole Suspended Oil & Gas Producer,Bottom hole Suspended Oil & Gas Producer,قاع البئر معلقة نفط و منتجة غاز,قاع البئر معلقة نفط و منتجة غاز | Bottom hole Suspended Oil & Gas Producer,translated
+CATEGORY,473,Bottom hole Suspended Oil & Gas Producer,Suspended,معلقة,معلقة | Suspended,translated
+NAME,474,Bottom hole Suspended Oil Producer + Gas Shows,Bottom hole Suspended Oil Producer + Gas Shows,قاع البئر معلقة منتجة نفط غاز شواهد,قاع البئر معلقة منتجة نفط غاز شواهد | Bottom hole Suspended Oil Producer + Gas Shows,translated
+CATEGORY,474,Bottom hole Suspended Oil Producer + Gas Shows,Suspended,معلقة,معلقة | Suspended,translated
+NAME,475,Bottom hole Completed Observation Well,Bottom hole Completed Observation Well,قاع البئر مكتملة بئر مراقبة,قاع البئر مكتملة بئر مراقبة | Bottom hole Completed Observation Well,translated
+NAME,476,Bottom hole Completed Water Injector + Oil & Gas Shows,Bottom hole Completed Water Injector + Oil & Gas Shows,قاع البئر مكتملة حقن مياه نفط و غاز شواهد,قاع البئر مكتملة حقن مياه نفط و غاز شواهد | Bottom hole Completed Water Injector + Oil & Gas Shows,translated
+CATEGORY,476,Bottom hole Completed Water Injector + Oil & Gas Shows,Water,مياه,مياه | Water,translated
+NAME,477,Bottom hole Completed Oil & Gas Well,Bottom hole Completed Oil & Gas Well,قاع البئر مكتملة نفط و بئر غاز,قاع البئر مكتملة نفط و بئر غاز | Bottom hole Completed Oil & Gas Well,translated
+CATEGORY,477,Bottom hole Completed Oil & Gas Well,Oil and Gas,نفط و غاز,نفط و غاز | Oil and Gas,translated
+NAME,478,Bottom hole Completed Oil Well,Bottom hole Completed Oil Well,قاع البئر مكتملة بئر نفط,قاع البئر مكتملة بئر نفط | Bottom hole Completed Oil Well,translated
+CATEGORY,478,Bottom hole Completed Oil Well,Oil,نفط,نفط | Oil,translated
+NAME,479,Bottom hole Plugged & Abandoned Oil & Gas Well,Bottom hole Plugged & Abandoned Oil & Gas Well,قاع البئر مغلقة ومهجورة نفط و بئر غاز,قاع البئر مغلقة ومهجورة نفط و بئر غاز | Bottom hole Plugged & Abandoned Oil & Gas Well,translated
+CATEGORY,479,Bottom hole Plugged & Abandoned Oil & Gas Well,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,480,Bottom hole Plugged & Abandoned Dry Well + Oil,Bottom hole Plugged & Abandoned Dry Well + Oil,قاع البئر مغلقة ومهجورة بئر جافة نفط,قاع البئر مغلقة ومهجورة بئر جافة نفط | Bottom hole Plugged & Abandoned Dry Well + Oil,translated
+CATEGORY,480,Bottom hole Plugged & Abandoned Dry Well + Oil,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,481,Bottom hole Junked Gas Injector + Oil & Gas Shows,Bottom hole Junked Gas Injector + Oil & Gas Shows,قاع البئر حقن غاز نفط و غاز شواهد,قاع البئر حقن غاز نفط و غاز شواهد | Bottom hole Junked Gas Injector + Oil & Gas Shows,translated
+NAME,482,Bottom hole Junked Water Injector + Gas Shows,Bottom hole Junked Water Injector + Gas Shows,قاع البئر حقن مياه غاز شواهد,قاع البئر حقن مياه غاز شواهد | Bottom hole Junked Water Injector + Gas Shows,translated
+NAME,483,Bottom hole Junked Gas Well,Bottom hole Junked Gas Well,قاع البئر بئر غاز,قاع البئر بئر غاز | Bottom hole Junked Gas Well,translated
+NAME,484,Bottom hole Junked Dry Well,Bottom hole Junked Dry Well,قاع البئر بئر جافة,قاع البئر بئر جافة | Bottom hole Junked Dry Well,translated
+NAME,485,Bottom hole Suspended Gas Condensate Well,Bottom hole Suspended Gas Condensate Well,قاع البئر معلقة مكثفات غازية بئر,قاع البئر معلقة مكثفات غازية بئر | Bottom hole Suspended Gas Condensate Well,translated
+CATEGORY,485,Bottom hole Suspended Gas Condensate Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,486,Bottom hole Suspended Dry Well_1,Bottom hole Suspended Dry Well,قاع البئر معلقة بئر جافة,قاع البئر معلقة بئر جافة | Bottom hole Suspended Dry Well,translated
+CATEGORY,486,Bottom hole Suspended Dry Well_1,Suspended,معلقة,معلقة | Suspended,translated
+NAME,487,Bottom hole Proposed Well Gas Injector,Bottom hole Proposed Well Gas Injector,قاع البئر مقترحة بئر حقن غاز,قاع البئر مقترحة بئر حقن غاز | Bottom hole Proposed Well Gas Injector,translated
+CATEGORY,487,Bottom hole Proposed Well Gas Injector,Gas,غاز,غاز | Gas,translated
+NAME,488,Bottom hole Water Injector,Bottom hole Water Injector,قاع البئر حقن مياه,قاع البئر حقن مياه | Bottom hole Water Injector,translated
+CATEGORY,488,Bottom hole Water Injector,Water,مياه,مياه | Water,translated
+NAME,489,Bottom hole Tight Well,Bottom hole Tight Well,قاع البئر بئر مقيدة,قاع البئر بئر مقيدة | Bottom hole Tight Well,translated
+CATEGORY,489,Bottom hole Tight Well,Tight,مقيدة,مقيدة | Tight,translated
+NAME,490,Bottom hole Stratigraphic Test,Bottom hole Stratigraphic Test,قاع البئر اختبار طباقي,قاع البئر اختبار طباقي | Bottom hole Stratigraphic Test,translated
+CATEGORY,490,Bottom hole Stratigraphic Test,Test,اختبار,اختبار | Test,translated
+NAME,491,Bottom hole Combination Oil & Service,Bottom hole Combination Oil & Service,قاع البئر تركيبة نفط و خدمة,قاع البئر تركيبة نفط و خدمة | Bottom hole Combination Oil & Service,translated
+CATEGORY,491,Bottom hole Combination Oil & Service,Oil,نفط,نفط | Oil,translated
+NAME,492,Bottom hole Oil Shows,Bottom hole Oil Shows,قاع البئر نفط شواهد,قاع البئر نفط شواهد | Bottom hole Oil Shows,translated
+CATEGORY,492,Bottom hole Oil Shows,Oil,نفط,نفط | Oil,translated
+NAME,493,Bottom hole Multiple Oil Producer,Bottom hole Multiple Oil Producer,قاع البئر متعددة منتجة نفط,قاع البئر متعددة منتجة نفط | Bottom hole Multiple Oil Producer,translated
+CATEGORY,493,Bottom hole Multiple Oil Producer,Multiple Oil,متعددة نفط,متعددة نفط | Multiple Oil,translated
+NAME,494,Bottom hole Combination Injection & Service,Bottom hole Combination Injection & Service,قاع البئر تركيبة حقن و خدمة,قاع البئر تركيبة حقن و خدمة | Bottom hole Combination Injection & Service,translated
+CATEGORY,494,Bottom hole Combination Injection & Service,Injection,حقن,حقن | Injection,translated
+NAME,495,Bottom hole Helium Well,Bottom hole Helium Well,قاع البئر بئر,قاع البئر بئر | Bottom hole Helium Well,translated
+CATEGORY,495,Bottom hole Helium Well,Gas,غاز,غاز | Gas,translated
+NAME,496,Bottom hole Gas Shows,Bottom hole Gas Shows,قاع البئر غاز شواهد,قاع البئر غاز شواهد | Bottom hole Gas Shows,translated
+CATEGORY,496,Bottom hole Gas Shows,Gas,غاز,غاز | Gas,translated
+NAME,497,Bottom hole CO2 Injector,Bottom hole CO2 Injector,قاع البئر حقن,قاع البئر حقن | Bottom hole CO2 Injector,translated
+CATEGORY,497,Bottom hole CO2 Injector,Gas,غاز,غاز | Gas,translated
+NAME,498,Observation - Unspecified,Observation - Unspecified,,Observation - Unspecified,kept
+NAME,499,Injector After Oil Production + Gas Shows,Injector After Oil Production + Gas Shows,حقن نفط إنتاج غاز شواهد,حقن نفط إنتاج غاز شواهد | Injector After Oil Production + Gas Shows,translated
+CATEGORY,499,Injector After Oil Production + Gas Shows,Injection,حقن,حقن | Injection,translated
+NAME,500,Plugged & Abandoned Oil & Gas Producer,Plugged & Abandoned Oil & Gas Producer,مغلقة ومهجورة نفط و منتجة غاز,مغلقة ومهجورة نفط و منتجة غاز | Plugged & Abandoned Oil & Gas Producer,translated
+CATEGORY,500,Plugged & Abandoned Oil & Gas Producer,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,501,Suspended Observation Well,Suspended Observation Well,معلقة بئر مراقبة,معلقة بئر مراقبة | Suspended Observation Well,translated
+CATEGORY,501,Suspended Observation Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,502,Suspended Gas Producer + Oil Shows,Suspended Gas Producer + Oil Shows,معلقة منتجة غاز نفط شواهد,معلقة منتجة غاز نفط شواهد | Suspended Gas Producer + Oil Shows,translated
+CATEGORY,502,Suspended Gas Producer + Oil Shows,Suspended,معلقة,معلقة | Suspended,translated
+NAME,503,Suspended Tight Well,Suspended Tight Well,معلقة بئر مقيدة,معلقة بئر مقيدة | Suspended Tight Well,translated
+CATEGORY,503,Suspended Tight Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,504,Completed Gas Injector + Gas Shows,Completed Gas Injector + Gas Shows,مكتملة حقن غاز غاز شواهد,مكتملة حقن غاز غاز شواهد | Completed Gas Injector + Gas Shows,translated
+CATEGORY,504,Completed Gas Injector + Gas Shows,Gas,غاز,غاز | Gas,translated
+NAME,505,Completed Water Injector + Oil Shows,Completed Water Injector + Oil Shows,مكتملة حقن مياه نفط شواهد,مكتملة حقن مياه نفط شواهد | Completed Water Injector + Oil Shows,translated
+CATEGORY,505,Completed Water Injector + Oil Shows,Water,مياه,مياه | Water,translated
+NAME,506,Completed Gas Well + Oil Shows,Completed Gas Well + Oil Shows,مكتملة بئر غاز نفط شواهد,مكتملة بئر غاز نفط شواهد | Completed Gas Well + Oil Shows,translated
+CATEGORY,506,Completed Gas Well + Oil Shows,Gas,غاز,غاز | Gas,translated
+NAME,507,Completed Oil Well,Completed Oil Well,مكتملة بئر نفط,مكتملة بئر نفط | Completed Oil Well,translated
+CATEGORY,507,Completed Oil Well,Oil,نفط,نفط | Oil,translated
+NAME,508,Abandoned - Gas Injector_1,Abandoned - Gas Injector,مهجورة حقن غاز,مهجورة حقن غاز | Abandoned - Gas Injector,translated
+CATEGORY,508,Abandoned - Gas Injector_1,Abandoned,مهجورة,مهجورة | Abandoned,translated
+NAME,509,Bottom hole Injector After Gas Production,Bottom hole Injector After Gas Production,قاع البئر حقن غاز إنتاج,قاع البئر حقن غاز إنتاج | Bottom hole Injector After Gas Production,translated
+CATEGORY,509,Bottom hole Injector After Gas Production,Injection,حقن,حقن | Injection,translated
+NAME,510,Bottom hole Plugged & Abandoned Gas Condensate_1,Bottom hole Plugged & Abandoned Gas Condensate,قاع البئر مغلقة ومهجورة مكثفات غازية,قاع البئر مغلقة ومهجورة مكثفات غازية | Bottom hole Plugged & Abandoned Gas Condensate,translated
+CATEGORY,510,Bottom hole Plugged & Abandoned Gas Condensate_1,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,511,Bottom hole Suspended Unknown Well,Bottom hole Suspended Unknown Well,قاع البئر معلقة مجهولة بئر,قاع البئر معلقة مجهولة بئر | Bottom hole Suspended Unknown Well,translated
+CATEGORY,511,Bottom hole Suspended Unknown Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,512,Bottom hole Suspended Gas Shows,Bottom hole Suspended Gas Shows,قاع البئر معلقة غاز شواهد,قاع البئر معلقة غاز شواهد | Bottom hole Suspended Gas Shows,translated
+CATEGORY,512,Bottom hole Suspended Gas Shows,Suspended,معلقة,معلقة | Suspended,translated
+NAME,513,Bottom hole Suspended Oil Producer,Bottom hole Suspended Oil Producer,قاع البئر معلقة منتجة نفط,قاع البئر معلقة منتجة نفط | Bottom hole Suspended Oil Producer,translated
+CATEGORY,513,Bottom hole Suspended Oil Producer,Suspended,معلقة,معلقة | Suspended,translated
+NAME,514,Bottom hole Completed Gas Injector + Oil & Gas,Bottom hole Completed Gas Injector + Oil & Gas,قاع البئر مكتملة حقن غاز نفط و غاز,قاع البئر مكتملة حقن غاز نفط و غاز | Bottom hole Completed Gas Injector + Oil & Gas,translated
+CATEGORY,514,Bottom hole Completed Gas Injector + Oil & Gas,Gas,غاز,غاز | Gas,translated
+NAME,515,Bottom hole Completed Water Injector + Gas Shows,Bottom hole Completed Water Injector + Gas Shows,قاع البئر مكتملة حقن مياه غاز شواهد,قاع البئر مكتملة حقن مياه غاز شواهد | Bottom hole Completed Water Injector + Gas Shows,translated
+CATEGORY,515,Bottom hole Completed Water Injector + Gas Shows,Water,مياه,مياه | Water,translated
+NAME,516,Bottom hole Completed Gas Well  + Oil Shows,Bottom hole Completed Gas Well  + Oil Shows,قاع البئر مكتملة بئر غاز نفط شواهد,قاع البئر مكتملة بئر غاز نفط شواهد | Bottom hole Completed Gas Well  + Oil Shows,translated
+CATEGORY,516,Bottom hole Completed Gas Well  + Oil Shows,Gas,غاز,غاز | Gas,translated
+NAME,517,Bottom hole Completed Oil Well + Gas Shows,Bottom hole Completed Oil Well + Gas Shows,قاع البئر مكتملة بئر نفط غاز شواهد,قاع البئر مكتملة بئر نفط غاز شواهد | Bottom hole Completed Oil Well + Gas Shows,translated
+CATEGORY,517,Bottom hole Completed Oil Well + Gas Shows,Oil,نفط,نفط | Oil,translated
+NAME,518,Bottom hole Plugged & Abandoned Gas Shows,Bottom hole Plugged & Abandoned Gas Shows,قاع البئر مغلقة ومهجورة غاز شواهد,قاع البئر مغلقة ومهجورة غاز شواهد | Bottom hole Plugged & Abandoned Gas Shows,translated
+CATEGORY,518,Bottom hole Plugged & Abandoned Gas Shows,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,519,Bottom hole Plugged & Abandoned Dry Well + Gas Shows,Bottom hole Plugged & Abandoned Dry Well + Gas Shows,قاع البئر مغلقة ومهجورة بئر جافة غاز شواهد,قاع البئر مغلقة ومهجورة بئر جافة غاز شواهد | Bottom hole Plugged & Abandoned Dry Well + Gas Shows,translated
+CATEGORY,519,Bottom hole Plugged & Abandoned Dry Well + Gas Shows,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,520,Bottom hole Junked Gas Injector + Gas Shows,Bottom hole Junked Gas Injector + Gas Shows,قاع البئر حقن غاز غاز شواهد,قاع البئر حقن غاز غاز شواهد | Bottom hole Junked Gas Injector + Gas Shows,translated
+NAME,521,Bottom hole Junked Water Injector + Oil Shows,Bottom hole Junked Water Injector + Oil Shows,قاع البئر حقن مياه نفط شواهد,قاع البئر حقن مياه نفط شواهد | Bottom hole Junked Water Injector + Oil Shows,translated
+NAME,522,Bottom hole Junked Oil Well + Gas Shows,Bottom hole Junked Oil Well + Gas Shows,قاع البئر بئر نفط غاز شواهد,قاع البئر بئر نفط غاز شواهد | Bottom hole Junked Oil Well + Gas Shows,translated
+NAME,523,Bottom hole Junked Tight Well,Bottom hole Junked Tight Well,قاع البئر بئر مقيدة,قاع البئر بئر مقيدة | Bottom hole Junked Tight Well,translated
+NAME,524,Bottom hole Suspended Oil & Gas Well,Bottom hole Suspended Oil & Gas Well,قاع البئر معلقة نفط و بئر غاز,قاع البئر معلقة نفط و بئر غاز | Bottom hole Suspended Oil & Gas Well,translated
+CATEGORY,524,Bottom hole Suspended Oil & Gas Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,525,Bottom hole Suspended Tight Well,Bottom hole Suspended Tight Well,قاع البئر معلقة بئر مقيدة,قاع البئر معلقة بئر مقيدة | Bottom hole Suspended Tight Well,translated
+CATEGORY,525,Bottom hole Suspended Tight Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,526,Bottom hole Proposed Well Water Injection,Bottom hole Proposed Well Water Injection,قاع البئر مقترحة بئر مياه حقن,قاع البئر مقترحة بئر مياه حقن | Bottom hole Proposed Well Water Injection,translated
+CATEGORY,526,Bottom hole Proposed Well Water Injection,Water,مياه,مياه | Water,translated
+NAME,527,Bottom hole New Field Wildcat,Bottom hole New Field Wildcat,قاع البئر جديدة حقل,قاع البئر جديدة حقل | Bottom hole New Field Wildcat,translated
+NAME,528,Bottom hole Temperature Gradient,Bottom hole Temperature Gradient,قاع البئر تدرج حراري,قاع البئر تدرج حراري | Bottom hole Temperature Gradient,translated
+NAME,529,Bottom hole Service Well or Unclassified,Bottom hole Service Well or Unclassified,قاع البئر خدمة بئر أو,قاع البئر خدمة بئر أو | Bottom hole Service Well or Unclassified,translated
+CATEGORY,529,Bottom hole Service Well or Unclassified,Service,خدمة,خدمة | Service,translated
+NAME,530,Bottom hole Combination Oil & Observation,Bottom hole Combination Oil & Observation,قاع البئر تركيبة نفط و,قاع البئر تركيبة نفط و | Bottom hole Combination Oil & Observation,translated
+CATEGORY,530,Bottom hole Combination Oil & Observation,Oil,نفط,نفط | Oil,translated
+NAME,531,Bottom hole Combination Oil & Dry Hole,Bottom hole Combination Oil & Dry Hole,قاع البئر تركيبة نفط و بئر جافة,قاع البئر تركيبة نفط و بئر جافة | Bottom hole Combination Oil & Dry Hole,translated
+CATEGORY,531,Bottom hole Combination Oil & Dry Hole,Oil,نفط,نفط | Oil,translated
+NAME,532,Bottom hole Multiple Oil & Gas Producer,Bottom hole Multiple Oil & Gas Producer,قاع البئر متعددة نفط و منتجة غاز,قاع البئر متعددة نفط و منتجة غاز | Bottom hole Multiple Oil & Gas Producer,translated
+CATEGORY,532,Bottom hole Multiple Oil & Gas Producer,Multiple Oil and Gas,متعددة نفط و غاز,متعددة نفط و غاز | Multiple Oil and Gas,translated
+NAME,533,Bottom hole lodine Well,Bottom hole lodine Well,قاع البئر بئر,قاع البئر بئر | Bottom hole lodine Well,translated
+CATEGORY,533,Bottom hole lodine Well,Gas,غاز,غاز | Gas,translated
+NAME,534,Bottom hole Hot Dry Rock,Bottom hole Hot Dry Rock,قاع البئر جافة صخر,قاع البئر جافة صخر | Bottom hole Hot Dry Rock,translated
+CATEGORY,534,Bottom hole Hot Dry Rock,Dry,جافة,جافة | Dry,translated
+NAME,535,Bottom hole Gas & Condensate Well,Bottom hole Gas & Condensate Well,قاع البئر غاز و مكثفات بئر,قاع البئر غاز و مكثفات بئر | Bottom hole Gas & Condensate Well,translated
+CATEGORY,535,Bottom hole Gas & Condensate Well,Gas,غاز,غاز | Gas,translated
+NAME,536,Bottom hole Awaiting Testing,Bottom hole Awaiting Testing,قاع البئر,قاع البئر | Bottom hole Awaiting Testing,translated
+CATEGORY,536,Bottom hole Awaiting Testing,Test,اختبار,اختبار | Test,translated
+NAME,537,Injector Well,Injector Well,حقن بئر,حقن بئر | Injector Well,translated
+CATEGORY,537,Injector Well,Injection,حقن,حقن | Injection,translated
+NAME,538,Injector After Oil Production,Injector After Oil Production,حقن نفط إنتاج,حقن نفط إنتاج | Injector After Oil Production,translated
+CATEGORY,538,Injector After Oil Production,Injection,حقن,حقن | Injection,translated
+NAME,539,Plugged & Abandoned Gas Producer + Oil Shows,Plugged & Abandoned Gas Producer + Oil Shows,مغلقة ومهجورة منتجة غاز نفط شواهد,مغلقة ومهجورة منتجة غاز نفط شواهد | Plugged & Abandoned Gas Producer + Oil Shows,translated
+CATEGORY,539,Plugged & Abandoned Gas Producer + Oil Shows,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,540,Suspended Gas Injector_1,Suspended Gas Injector,معلقة حقن غاز,معلقة حقن غاز | Suspended Gas Injector,translated
+CATEGORY,540,Suspended Gas Injector_1,Suspended,معلقة,معلقة | Suspended,translated
+NAME,541,Suspended Gas Producer,Suspended Gas Producer,معلقة منتجة غاز,معلقة منتجة غاز | Suspended Gas Producer,translated
+CATEGORY,541,Suspended Gas Producer,Suspended,معلقة,معلقة | Suspended,translated
+NAME,542,Suspended Dry Well_1,Suspended Dry Well,معلقة بئر جافة,معلقة بئر جافة | Suspended Dry Well,translated
+CATEGORY,542,Suspended Dry Well_1,Suspended,معلقة,معلقة | Suspended,translated
+NAME,543,Completed Gas Injector + Oil Shows,Completed Gas Injector + Oil Shows,مكتملة حقن غاز نفط شواهد,مكتملة حقن غاز نفط شواهد | Completed Gas Injector + Oil Shows,translated
+CATEGORY,543,Completed Gas Injector + Oil Shows,Gas,غاز,غاز | Gas,translated
+NAME,544,Completed Water Injector,Completed Water Injector,مكتملة حقن مياه,مكتملة حقن مياه | Completed Water Injector,translated
+CATEGORY,544,Completed Water Injector,Water,مياه,مياه | Water,translated
+NAME,545,Completed Multiple Gas Well,Completed Multiple Gas Well,مكتملة متعددة بئر غاز,مكتملة متعددة بئر غاز | Completed Multiple Gas Well,translated
+CATEGORY,545,Completed Multiple Gas Well,Mulitiple Gas,غاز,غاز | Mulitiple Gas,translated
+NAME,546,Completed Oil Well + Gas Shows,Completed Oil Well + Gas Shows,مكتملة بئر نفط غاز شواهد,مكتملة بئر نفط غاز شواهد | Completed Oil Well + Gas Shows,translated
+CATEGORY,546,Completed Oil Well + Gas Shows,Oil,نفط,نفط | Oil,translated
+NAME,547,Plugged & Abandoned Water Well_1,Plugged & Abandoned Water Well,مغلقة ومهجورة بئر مياه,مغلقة ومهجورة بئر مياه | Plugged & Abandoned Water Well,translated
+CATEGORY,547,Plugged & Abandoned Water Well_1,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,548,Bottom hole Injector After Oil Production + Gas,Bottom hole Injector After Oil Production + Gas,قاع البئر حقن نفط إنتاج غاز,قاع البئر حقن نفط إنتاج غاز | Bottom hole Injector After Oil Production + Gas,translated
+CATEGORY,548,Bottom hole Injector After Oil Production + Gas,Injection,حقن,حقن | Injection,translated
+NAME,549,Bottom hole Plugged & Abandoned Oil & Gas Producer,Bottom hole Plugged & Abandoned Oil & Gas Producer,قاع البئر مغلقة ومهجورة نفط و منتجة غاز,قاع البئر مغلقة ومهجورة نفط و منتجة غاز | Bottom hole Plugged & Abandoned Oil & Gas Producer,translated
+CATEGORY,549,Bottom hole Plugged & Abandoned Oil & Gas Producer,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,550,Bottom hole Suspended Observation Well,Bottom hole Suspended Observation Well,قاع البئر معلقة بئر مراقبة,قاع البئر معلقة بئر مراقبة | Bottom hole Suspended Observation Well,translated
+CATEGORY,550,Bottom hole Suspended Observation Well,Suspended,معلقة,معلقة | Suspended,translated
+NAME,551,Bottom hole Suspended Gas Producer + Oil Shows,Bottom hole Suspended Gas Producer + Oil Shows,قاع البئر معلقة منتجة غاز نفط شواهد,قاع البئر معلقة منتجة غاز نفط شواهد | Bottom hole Suspended Gas Producer + Oil Shows,translated
+CATEGORY,551,Bottom hole Suspended Gas Producer + Oil Shows,Suspended,معلقة,معلقة | Suspended,translated
+NAME,552,Bottom hole Suspended Tight Well_1,Bottom hole Suspended Tight Well,قاع البئر معلقة بئر مقيدة,قاع البئر معلقة بئر مقيدة | Bottom hole Suspended Tight Well,translated
+CATEGORY,552,Bottom hole Suspended Tight Well_1,Suspended,معلقة,معلقة | Suspended,translated
+NAME,553,Bottom hole Completed Gas Injector + Gas Shows,Bottom hole Completed Gas Injector + Gas Shows,قاع البئر مكتملة حقن غاز غاز شواهد,قاع البئر مكتملة حقن غاز غاز شواهد | Bottom hole Completed Gas Injector + Gas Shows,translated
+CATEGORY,553,Bottom hole Completed Gas Injector + Gas Shows,Gas,غاز,غاز | Gas,translated
+NAME,554,Bottom hole Completed Water Injector + Oil Shows,Bottom hole Completed Water Injector + Oil Shows,قاع البئر مكتملة حقن مياه نفط شواهد,قاع البئر مكتملة حقن مياه نفط شواهد | Bottom hole Completed Water Injector + Oil Shows,translated
+CATEGORY,554,Bottom hole Completed Water Injector + Oil Shows,Water,مياه,مياه | Water,translated
+NAME,555,Bottom hole Completed Multiple Gas Well,Bottom hole Completed Multiple Gas Well,قاع البئر مكتملة متعددة بئر غاز,قاع البئر مكتملة متعددة بئر غاز | Bottom hole Completed Multiple Gas Well,translated
+CATEGORY,555,Bottom hole Completed Multiple Gas Well,Mulitiple Gas,غاز,غاز | Mulitiple Gas,translated
+NAME,556,Bottom hole Oil Producer,Bottom hole Oil Producer,قاع البئر منتجة نفط,قاع البئر منتجة نفط | Bottom hole Oil Producer,translated
+CATEGORY,556,Bottom hole Oil Producer,Oil,نفط,نفط | Oil,translated
+NAME,557,Bottom hole Plugged & Abandoned Gas Well + Oil Shows,Bottom hole Plugged & Abandoned Gas Well + Oil Shows,قاع البئر مغلقة ومهجورة بئر غاز نفط شواهد,قاع البئر مغلقة ومهجورة بئر غاز نفط شواهد | Bottom hole Plugged & Abandoned Gas Well + Oil Shows,translated
+CATEGORY,557,Bottom hole Plugged & Abandoned Gas Well + Oil Shows,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,558,Bottom hole Plugged & Abandoned Dry Well + Oil Shows,Bottom hole Plugged & Abandoned Dry Well + Oil Shows,قاع البئر مغلقة ومهجورة بئر جافة نفط شواهد,قاع البئر مغلقة ومهجورة بئر جافة نفط شواهد | Bottom hole Plugged & Abandoned Dry Well + Oil Shows,translated
+CATEGORY,558,Bottom hole Plugged & Abandoned Dry Well + Oil Shows,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,559,Bottom hole Junked Gas Injector + Oil Shows,Bottom hole Junked Gas Injector + Oil Shows,قاع البئر حقن غاز نفط شواهد,قاع البئر حقن غاز نفط شواهد | Bottom hole Junked Gas Injector + Oil Shows,translated
+NAME,560,Bottom hole Junked Water Injector,Bottom hole Junked Water Injector,قاع البئر حقن مياه,قاع البئر حقن مياه | Bottom hole Junked Water Injector,translated
+NAME,561,Bottom hole Junked Oil Well,Bottom hole Junked Oil Well,قاع البئر بئر نفط,قاع البئر بئر نفط | Bottom hole Junked Oil Well,translated
+NAME,562,Bottom hole Junked Well,Bottom hole Junked Well,قاع البئر بئر,قاع البئر بئر | Bottom hole Junked Well,translated
+NAME,563,Bottom hole Suspended Gas Well + Oil Shows,Bottom hole Suspended Gas Well + Oil Shows,قاع البئر معلقة بئر غاز نفط شواهد,قاع البئر معلقة بئر غاز نفط شواهد | Bottom hole Suspended Gas Well + Oil Shows,translated
+CATEGORY,563,Bottom hole Suspended Gas Well + Oil Shows,Suspended,معلقة,معلقة | Suspended,translated
+NAME,564,Bottom hole Suspended Well + Oil & Gas Shows,Bottom hole Suspended Well + Oil & Gas Shows,قاع البئر معلقة بئر نفط و غاز شواهد,قاع البئر معلقة بئر نفط و غاز شواهد | Bottom hole Suspended Well + Oil & Gas Shows,translated
+CATEGORY,564,Bottom hole Suspended Well + Oil & Gas Shows,Suspended,معلقة,معلقة | Suspended,translated
+NAME,565,Bottom hole Proposed Oil Well Location,Bottom hole Proposed Oil Well Location,قاع البئر مقترحة بئر نفط موقع,قاع البئر مقترحة بئر نفط موقع | Bottom hole Proposed Oil Well Location,translated
+CATEGORY,565,Bottom hole Proposed Oil Well Location,Location,موقع,موقع | Location,translated
+NAME,566,Bottom hole Water Disposal,Bottom hole Water Disposal,قاع البئر التخلص من المياه,قاع البئر التخلص من المياه | Bottom hole Water Disposal,translated
+CATEGORY,566,Bottom hole Water Disposal,Water,مياه,مياه | Water,translated
+NAME,567,Bottom hole Outpost or Extension Test,Bottom hole Outpost or Extension Test,قاع البئر أو اختبار,قاع البئر أو اختبار | Bottom hole Outpost or Extension Test,translated
+CATEGORY,567,Bottom hole Outpost or Extension Test,Test,اختبار,اختبار | Test,translated
+NAME,568,Bottom hole Steam Injection,Bottom hole Steam Injection,قاع البئر حقن,قاع البئر حقن | Bottom hole Steam Injection,translated
+NAME,569,Bottom hole Oil Producer_1,Bottom hole Oil Producer,قاع البئر منتجة نفط,قاع البئر منتجة نفط | Bottom hole Oil Producer,translated
+CATEGORY,569,Bottom hole Oil Producer_1,Oil,نفط,نفط | Oil,translated
+NAME,570,"Bottom hole Oil, Gas & Condensate","Bottom hole Oil, Gas & Condensate",قاع البئر نفط غاز و مكثفات,"قاع البئر نفط غاز و مكثفات | Bottom hole Oil, Gas & Condensate",translated
+CATEGORY,570,"Bottom hole Oil, Gas & Condensate",Oil and Gas,نفط و غاز,نفط و غاز | Oil and Gas,translated
+NAME,571,Bottom hole Multiple Gas Producer,Bottom hole Multiple Gas Producer,قاع البئر متعددة منتجة غاز,قاع البئر متعددة منتجة غاز | Bottom hole Multiple Gas Producer,translated
+CATEGORY,571,Bottom hole Multiple Gas Producer,Mulitiple Gas,غاز,غاز | Mulitiple Gas,translated
+NAME,572,Bottom hole Injection Well,Bottom hole Injection Well,قاع البئر حقن بئر,قاع البئر حقن بئر | Bottom hole Injection Well,translated
+CATEGORY,572,Bottom hole Injection Well,Injection,حقن,حقن | Injection,translated
+NAME,573,Bottom hole Gas Producer,Bottom hole Gas Producer,قاع البئر منتجة غاز,قاع البئر منتجة غاز | Bottom hole Gas Producer,translated
+CATEGORY,573,Bottom hole Gas Producer,Gas,غاز,غاز | Gas,translated
+NAME,574,Bottom hole DeveIopment Well,Bottom hole DeveIopment Well,قاع البئر بئر,قاع البئر بئر | Bottom hole DeveIopment Well,translated
+CATEGORY,574,Bottom hole DeveIopment Well,Development,تطوير,تطوير | Development,translated
+NAME,575,Bottom hole Platform Well,Bottom hole Platform Well,قاع البئر منصة بئر,قاع البئر منصة بئر | Bottom hole Platform Well,translated
+CATEGORY,575,Bottom hole Platform Well,Default,افتراضية,افتراضية | Default,translated
+NAME,576,Injector After Gas Condensate Production,Injector After Gas Condensate Production,حقن مكثفات غازية إنتاج,حقن مكثفات غازية إنتاج | Injector After Gas Condensate Production,translated
+CATEGORY,576,Injector After Gas Condensate Production,Injection,حقن,حقن | Injection,translated
+NAME,577,Plugged & Abandoned Gas Injector,Plugged & Abandoned Gas Injector,مغلقة ومهجورة حقن غاز,مغلقة ومهجورة حقن غاز | Plugged & Abandoned Gas Injector,translated
+CATEGORY,577,Plugged & Abandoned Gas Injector,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,578,Plugged & Abandoned Gas Producer,Plugged & Abandoned Gas Producer,مغلقة ومهجورة منتجة غاز,مغلقة ومهجورة منتجة غاز | Plugged & Abandoned Gas Producer,translated
+CATEGORY,578,Plugged & Abandoned Gas Producer,Plugged and Abandoned,مغلقة و مهجورة,مغلقة و مهجورة | Plugged and Abandoned,translated
+NAME,579,Suspended Water Injector,Suspended Water Injector,معلقة حقن مياه,معلقة حقن مياه | Suspended Water Injector,translated
+CATEGORY,579,Suspended Water Injector,Suspended,معلقة,معلقة | Suspended,translated
+NAME,580,Suspended Oil & Gas Shows,Suspended Oil & Gas Shows,معلقة نفط و غاز شواهد,معلقة نفط و غاز شواهد | Suspended Oil & Gas Shows,translated
+CATEGORY,580,Suspended Oil & Gas Shows,Suspended,معلقة,معلقة | Suspended,translated
+NAME,581,Producer Well,Producer Well,منتجة بئر,منتجة بئر | Producer Well,translated
+CATEGORY,581,Producer Well,Default,افتراضية,افتراضية | Default,translated
+NAME,582,Completed Gas Injector,Completed Gas Injector,مكتملة حقن غاز,مكتملة حقن غاز | Completed Gas Injector,translated
+CATEGORY,582,Completed Gas Injector,Gas,غاز,غاز | Gas,translated
+NAME,583,Injector,Injector,حقن,حقن | Injector,translated
+CATEGORY,583,Injector,Injection,حقن,حقن | Injection,translated
+NAME,584,Producer - Gas with Oil Shows,Producer - Gas with Oil Shows,منتجة غاز مع نفط شواهد,منتجة غاز مع نفط شواهد | Producer - Gas with Oil Shows,translated
+CATEGORY,584,Producer - Gas with Oil Shows,Gas,غاز,غاز | Gas,translated
+NAME,585,Producer - Oil with Gas Shows,Producer - Oil with Gas Shows,منتجة نفط مع غاز شواهد,منتجة نفط مع غاز شواهد | Producer - Oil with Gas Shows,translated
+CATEGORY,585,Producer - Oil with Gas Shows,Gas,غاز,غاز | Gas,translated
+NAME,586,Gravity Main_1,Gravity Main,خط الانحدار الرئيسي,خط الانحدار الرئيسي | Gravity Main,translated
+CATEGORY,586,Gravity Main_1,Default,افتراضية,افتراضية | Default,translated
+NAME,587,Force Main,Force Main,خط الضغط الرئيسي,خط الضغط الرئيسي | Force Main,translated
+CATEGORY,587,Force Main,Default,افتراضية,افتراضية | Default,translated
+NAME,588,Distribution Main_1,Distribution Main,خط التوزيع الرئيسي,خط التوزيع الرئيسي | Distribution Main,translated
+CATEGORY,588,Distribution Main_1,Default,افتراضية,افتراضية | Default,translated
+NAME,589,Transmission Main_1,Transmission Main,خط النقل الرئيسي,خط النقل الرئيسي | Transmission Main,translated
+CATEGORY,589,Transmission Main_1,Default,افتراضية,افتراضية | Default,translated
+NAME,590,Alternate Main_1,Alternate Main,خط رئيسي بديل,خط رئيسي بديل | Alternate Main,translated
+CATEGORY,590,Alternate Main_1,Dashed,متقطعة,متقطعة | Dashed,translated
+NAME,591,Service Line_1,Service Line,خط الخدمة,خط الخدمة | Service Line,translated
+CATEGORY,591,Service Line_1,Default,افتراضية,افتراضية | Default,translated
+NAME,592,Fire Service_1,Fire Service,خدمة الإطفاء,خدمة الإطفاء | Fire Service,translated
+CATEGORY,592,Fire Service_1,Default,افتراضية,افتراضية | Default,translated
+NAME,593,Siphon,Siphon,سيفون,سيفون | Siphon,translated
+CATEGORY,593,Siphon,Default,افتراضية,افتراضية | Default,translated
+NAME,594,Stub Out,Stub Out,مخرج مسدود,مخرج مسدود | Stub Out,translated
+CATEGORY,594,Stub Out,Default,افتراضية,افتراضية | Default,translated
+NAME,595,Undetermined Source_1,Undetermined Source,غير محددة مصدر,غير محددة مصدر | Undetermined Source,translated
+CATEGORY,595,Undetermined Source_1,Default,افتراضية,افتراضية | Default,translated
+NAME,596,O2 Release Line_1,O2 Release Line,تحرير خط,تحرير خط | O2 Release Line,translated
+CATEGORY,596,O2 Release Line_1,Default,افتراضية,افتراضية | Default,translated
+NAME,597,Purge Line,Purge Line,خط التطهير,خط التطهير | Purge Line,translated
+CATEGORY,597,Purge Line,Default,افتراضية,افتراضية | Default,translated
+NAME,598,Service Lateral,Service Lateral,الفرعية الخدمية,الفرعية الخدمية | Service Lateral,translated
+CATEGORY,598,Service Lateral,Default,افتراضية,افتراضية | Default,translated
+NAME,599,Gravity Main_2,Gravity Main,خط الانحدار الرئيسي,خط الانحدار الرئيسي | Gravity Main,translated
+CATEGORY,599,Gravity Main_2,Default,افتراضية,افتراضية | Default,translated
+NAME,600,Force Main/Purge Line/Stub Out_1,Force Main/Purge Line/Stub Out,خط الضغط الرئيسي خط التطهير مخرج مسدود,خط الضغط الرئيسي خط التطهير مخرج مسدود | Force Main/Purge Line/Stub Out,translated
+CATEGORY,600,Force Main/Purge Line/Stub Out_1,Default,افتراضية,افتراضية | Default,translated
+NAME,601,Distribution Main_2,Distribution Main,خط التوزيع الرئيسي,خط التوزيع الرئيسي | Distribution Main,translated
+CATEGORY,601,Distribution Main_2,Default,افتراضية,افتراضية | Default,translated
+NAME,602,Transmission Main_2,Transmission Main,خط النقل الرئيسي,خط النقل الرئيسي | Transmission Main,translated
+CATEGORY,602,Transmission Main_2,Default,افتراضية,افتراضية | Default,translated
+NAME,603,Alternate Main_2,Alternate Main,خط رئيسي بديل,خط رئيسي بديل | Alternate Main,translated
+CATEGORY,603,Alternate Main_2,Default,افتراضية,افتراضية | Default,translated
+NAME,604,Service Line_2,Service Line,خط الخدمة,خط الخدمة | Service Line,translated
+CATEGORY,604,Service Line_2,Default,افتراضية,افتراضية | Default,translated
+NAME,605,Fire Service_2,Fire Service,خدمة الإطفاء,خدمة الإطفاء | Fire Service,translated
+CATEGORY,605,Fire Service_2,Default,افتراضية,افتراضية | Default,translated
+NAME,606,Siphon/Service Lateral_1,Siphon/Service Lateral,سيفون الفرعية الخدمية,سيفون الفرعية الخدمية | Siphon/Service Lateral,translated
+CATEGORY,606,Siphon/Service Lateral_1,Default,افتراضية,افتراضية | Default,translated
+NAME,607,Undetermined Source_2,Undetermined Source,غير محددة مصدر,غير محددة مصدر | Undetermined Source,translated
+CATEGORY,607,Undetermined Source_2,Default,افتراضية,افتراضية | Default,translated
+NAME,608,O2 Release Line_2,O2 Release Line,تحرير خط,تحرير خط | O2 Release Line,translated
+CATEGORY,608,O2 Release Line_2,Default,افتراضية,افتراضية | Default,translated
+NAME,609,Well Blue_1,Well Blue,بئر أزرق,بئر أزرق | Well Blue,translated
+CATEGORY,609,Well Blue_1,Default,افتراضية,افتراضية | Default,translated
+NAME,610,Well Green_1,Well Green,بئر أخضر,بئر أخضر | Well Green,translated
+CATEGORY,610,Well Green_1,Default,افتراضية,افتراضية | Default,translated
+NAME,611,Well Red_1,Well Red,بئر أحمر,بئر أحمر | Well Red,translated
+CATEGORY,611,Well Red_1,Default,افتراضية,افتراضية | Default,translated
+NAME,612,Well Black_1,Well Black,بئر أسود,بئر أسود | Well Black,translated
+CATEGORY,612,Well Black_1,Default,افتراضية,افتراضية | Default,translated
+NAME,613,Petro North 1,Petro North 1,شمال,شمال | Petro North 1,translated
+CATEGORY,613,Petro North 1,Default,افتراضية,افتراضية | Default,translated
+NAME,614,Petro North 2,Petro North 2,شمال,شمال | Petro North 2,translated
+CATEGORY,614,Petro North 2,Default,افتراضية,افتراضية | Default,translated
+NAME,615,Petro North 3,Petro North 3,شمال,شمال | Petro North 3,translated
+CATEGORY,615,Petro North 3,Default,افتراضية,افتراضية | Default,translated
+NAME,616,Petro North 4,Petro North 4,شمال,شمال | Petro North 4,translated
+CATEGORY,616,Petro North 4,Default,افتراضية,افتراضية | Default,translated
+NAME,617,Petro North 5,Petro North 5,شمال,شمال | Petro North 5,translated
+CATEGORY,617,Petro North 5,Default,افتراضية,افتراضية | Default,translated
+NAME,618,Petro North 6,Petro North 6,شمال,شمال | Petro North 6,translated
+CATEGORY,618,Petro North 6,Default,افتراضية,افتراضية | Default,translated

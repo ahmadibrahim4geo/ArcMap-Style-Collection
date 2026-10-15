@@ -1,0 +1,17 @@
+مصادر الاستايلات - Source (الحضري - خارج ESRI)
+====================================================
+التخصص: استخدام الأرض الحضري
+
+1) Copernicus Urban Atlas 2018 - Mapping Guide & Legend (EEA, مجاني)
+   https://land.copernicus.eu/en/products/urban-atlas
+   فئات 11100-14210 المستخدمة هنا بنفس الأكواد.
+
+2) CORINE Land Cover - urban classes 1xx (EEA)
+   https://land.copernicus.eu/en/products/corine-land-cover
+   التوافق مع كورين للمقارنة الأوروبية.
+
+3) EEA Urban Atlas Download + Illustrations
+   https://land.copernicus.eu/en/products/urban-atlas/download-mapping-guide
+   دليل الألوان والتعاريف.
+
+تاريخ البناء: 2026-09-29 | البناء محلي (ليس من ESRI).

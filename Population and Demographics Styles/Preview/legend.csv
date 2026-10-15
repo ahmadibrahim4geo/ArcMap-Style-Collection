@@ -1,0 +1,16 @@
+﻿en,ar,type,R,G,B,width_size,category_en,category_ar
+Density 0-10 per km2,كثافة 0-10 ن/كم2,poly,255,255,178,,Density,كثافة
+Density 10-50 per km2,كثافة 10-50 ن/كم2,poly,255,255,178,,Density,كثافة
+Density 50-150 per km2,كثافة 50-150 ن/كم2,poly,254,204,92,,Density,كثافة
+Density 150-500 per km2,كثافة 150-500 ن/كم2,poly,253,141,60,,Density,كثافة
+Density 500-2000 per km2,كثافة 500-2000 ن/كم2,poly,240,59,32,,Density,كثافة
+Density over 2000 per km2,كثافة فوق 2000 ن/كم2,poly,189,0,38,,Density,كثافة
+Growth strong decline,نمو منخفض بشدة,poly,92,168,218,,Growth,نمو
+Growth decline,نمو منخفض,poly,191,211,230,,Growth,نمو
+Growth stable,نمو مستقر,poly,245,245,245,,Growth,نمو
+Growth increase,نمو مرتفع,poly,251,154,153,,Growth,نمو
+Growth strong increase,نمو مرتفع بشدة,poly,227,26,28,,Growth,نمو
+City small under 100k,مدينة صغيرة تحت 100 ألف,point,255,255,178,10,Settlements,تجمعات
+City medium 100k-1M,مدينة متوسطة 100 ألف-1م,point,253,141,60,14,Settlements,تجمعات
+City large over 1M,مدينة كبيرة فوق 1م,point,189,0,38,18,Settlements,تجمعات
+Dot 500 persons,نقطة 500 نسمة,point,80,80,80,8,Dot density,نقاط الكثافة

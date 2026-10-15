@@ -1,0 +1,21 @@
+1/10/2012
+
+This .zip file contains a color map file for the topographic and bathymetric data in the National Oceanic and Atmospheric Administration (NOAA) ETOPO1 global elevation data set (http://ngdc.noaa.gov/mgg/global/global.html).
+
+The file has four columns of information: # value red green blue
+
+- # is the sequential number for a value that will be assigned a color
+
+- value is the elevation value that will be assigned the color
+
+- red is the R value of the assigned color using the RGB color model
+
+- green is the G value of the assigned color using the RGB color model
+
+- blue is the B value of the assigned color using the RGB color model
+    
+Here is the online help topic for learning more about color map files: Key concepts of raster dataset color maps (http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#/Key_concepts_of_raster_dataset_color_maps/009t0000002q000000/) 
+
+Here is the online help topic for learning more about the RGB and other color models: Working with color (http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//00s60000000q000000.htm)
+
+The Esri Mapping Center Team

@@ -1,0 +1,585 @@
+﻿field,id,key,original,arabic,new_value,status
+Fill Symbols.Name,1,,ACRISOLS,أكريسولات,أكريسولات | ACRISOLS,translated
+Fill Symbols.Category,1,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,2,,Ferric Acrisols,أكريسولات,أكريسولات | Ferric Acrisols,translated
+Fill Symbols.Category,2,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,3,,Gleyic Acrisols,غليّة أكريسولات,غليّة أكريسولات | Gleyic Acrisols,translated
+Fill Symbols.Category,3,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,4,,Humic Acrisols,دبالية أكريسولات,دبالية أكريسولات | Humic Acrisols,translated
+Fill Symbols.Category,4,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,5,,Orthic Acrisols,عادي أكريسولات,عادي أكريسولات | Orthic Acrisols,translated
+Fill Symbols.Category,5,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,6,,Plinthic Acrisols,بلينثي أكريسولات,بلينثي أكريسولات | Plinthic Acrisols,translated
+Fill Symbols.Category,6,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,7,,CAMBISOLS,كمبيسولات,كمبيسولات | CAMBISOLS,translated
+Fill Symbols.Category,7,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,8,,Calcaric Cambisols,كمبيسولات,كمبيسولات | Calcaric Cambisols,translated
+Fill Symbols.Category,8,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,9,,Chromic Cambisols,كرومية كمبيسولات,كرومية كمبيسولات | Chromic Cambisols,translated
+Fill Symbols.Category,9,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,10,,Dystric Cambisols,ديستري كمبيسولات,ديستري كمبيسولات | Dystric Cambisols,translated
+Fill Symbols.Category,10,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,11,,Eutric Cambisols,يوتري كمبيسولات,يوتري كمبيسولات | Eutric Cambisols,translated
+Fill Symbols.Category,11,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,12,,Ferralic Cambisols,فيرالية كمبيسولات,فيرالية كمبيسولات | Ferralic Cambisols,translated
+Fill Symbols.Category,12,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,13,,Gleyic Cambisols,غليّة كمبيسولات,غليّة كمبيسولات | Gleyic Cambisols,translated
+Fill Symbols.Category,13,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,14,,Humic Cambisols,دبالية كمبيسولات,دبالية كمبيسولات | Humic Cambisols,translated
+Fill Symbols.Category,14,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,15,,Calcic Cambisols,كلسية كمبيسولات,كلسية كمبيسولات | Calcic Cambisols,translated
+Fill Symbols.Category,15,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,16,,Vertic Cambisols,فيرتي كمبيسولات,فيرتي كمبيسولات | Vertic Cambisols,translated
+Fill Symbols.Category,16,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,17,,Gelic Cambisols,كمبيسولات,كمبيسولات | Gelic Cambisols,translated
+Fill Symbols.Category,17,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,18,,CHERNOZEMS,شيرنوزيمات,شيرنوزيمات | CHERNOZEMS,translated
+Fill Symbols.Category,18,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,19,,Glossic Chernozems,شيرنوزيمات,شيرنوزيمات | Glossic Chernozems,translated
+Fill Symbols.Category,19,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,20,,Haplic Chernozems,هابلي شيرنوزيمات,هابلي شيرنوزيمات | Haplic Chernozems,translated
+Fill Symbols.Category,20,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,21,,Calcic Chernozems,كلسية شيرنوزيمات,كلسية شيرنوزيمات | Calcic Chernozems,translated
+Fill Symbols.Category,21,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,22,,Luvic Chernozems,لوفي شيرنوزيمات,لوفي شيرنوزيمات | Luvic Chernozems,translated
+Fill Symbols.Category,22,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,23,,PODZOLUVISOLS,بودزولوفيسولات,بودزولوفيسولات | PODZOLUVISOLS,translated
+Fill Symbols.Category,23,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,24,,Dystric Podzoluvisols,ديستري بودزولوفيسولات,ديستري بودزولوفيسولات | Dystric Podzoluvisols,translated
+Fill Symbols.Category,24,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,25,,Eutric Podzoluvisols,يوتري بودزولوفيسولات,يوتري بودزولوفيسولات | Eutric Podzoluvisols,translated
+Fill Symbols.Category,25,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,26,,Gleyic Podzoluvisols,غليّة بودزولوفيسولات,غليّة بودزولوفيسولات | Gleyic Podzoluvisols,translated
+Fill Symbols.Category,26,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,27,,RENDZINAS,رندزينات,رندزينات | RENDZINAS,translated
+Fill Symbols.Category,27,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,28,,Cambic Rendzinas,رندزينات,رندزينات | Cambic Rendzinas,translated
+Fill Symbols.Category,28,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,29,,Histic Rendzinas,رندزينات,رندزينات | Histic Rendzinas,translated
+Fill Symbols.Category,29,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,30,,Orthic Rendzinas,عادي رندزينات,عادي رندزينات | Orthic Rendzinas,translated
+Fill Symbols.Category,30,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,31,,FERRALSOLS,فيرالوسولات,فيرالوسولات | FERRALSOLS,translated
+Fill Symbols.Category,31,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,32,,Acric Ferrasols,فيراسولات,فيراسولات | Acric Ferrasols,translated
+Fill Symbols.Category,32,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,33,,Humic Ferrasols,دبالية فيراسولات,دبالية فيراسولات | Humic Ferrasols,translated
+Fill Symbols.Category,33,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,34,,Orthic Ferrasols,عادي فيراسولات,عادي فيراسولات | Orthic Ferrasols,translated
+Fill Symbols.Category,34,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,35,,Plinthic Ferrasols,بلينثي فيراسولات,بلينثي فيراسولات | Plinthic Ferrasols,translated
+Fill Symbols.Category,35,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,36,,Rhodic Ferrasols,رودي فيراسولات,رودي فيراسولات | Rhodic Ferrasols,translated
+Fill Symbols.Category,36,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,37,,Xanthic Ferrasols,زانثي فيراسولات,زانثي فيراسولات | Xanthic Ferrasols,translated
+Fill Symbols.Category,37,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,38,,GLEYSOLS,غليسولات,غليسولات | GLEYSOLS,translated
+Fill Symbols.Category,38,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,39,,Calcaric Gleysols,غليسولات,غليسولات | Calcaric Gleysols,translated
+Fill Symbols.Category,39,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,40,,Dystric Gleysols,ديستري غليسولات,ديستري غليسولات | Dystric Gleysols,translated
+Fill Symbols.Category,40,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,41,,Eutric Gleysols,يوتري غليسولات,يوتري غليسولات | Eutric Gleysols,translated
+Fill Symbols.Category,41,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,42,,Fluvic Gleysols,غليسولات,غليسولات | Fluvic Gleysols,translated
+Fill Symbols.Category,42,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,43,,Humic Gleysols,دبالية غليسولات,دبالية غليسولات | Humic Gleysols,translated
+Fill Symbols.Category,43,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,44,,Histic Gleysols,غليسولات,غليسولات | Histic Gleysols,translated
+Fill Symbols.Category,44,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,45,,Luvic Gleysols,لوفي غليسولات,لوفي غليسولات | Luvic Gleysols,translated
+Fill Symbols.Category,45,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,46,,Mollic Gleysols,مولي غليسولات,مولي غليسولات | Mollic Gleysols,translated
+Fill Symbols.Category,46,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,47,,Plinthic Gleysols,بلينثي غليسولات,بلينثي غليسولات | Plinthic Gleysols,translated
+Fill Symbols.Category,47,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,48,,Stagnic Gleysols,ستاغني غليسولات,ستاغني غليسولات | Stagnic Gleysols,translated
+Fill Symbols.Category,48,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,49,,Thionic Gleysols,ثيوني غليسولات,ثيوني غليسولات | Thionic Gleysols,translated
+Fill Symbols.Category,49,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,50,,Gleic Gleysols,غليسولات,غليسولات | Gleic Gleysols,translated
+Fill Symbols.Category,50,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,51,,PHAEOZEMS,فيوزيمات,فيوزيمات | PHAEOZEMS,translated
+Fill Symbols.Category,51,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,52,,Calcaric Phaeozems,فيوزيمات,فيوزيمات | Calcaric Phaeozems,translated
+Fill Symbols.Category,52,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,53,,Gleyic Phaeozems,غليّة فيوزيمات,غليّة فيوزيمات | Gleyic Phaeozems,translated
+Fill Symbols.Category,53,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,54,,Haplic Phaeozems,هابلي فيوزيمات,هابلي فيوزيمات | Haplic Phaeozems,translated
+Fill Symbols.Category,54,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,55,,Luvic Phaeozems,لوفي فيوزيمات,لوفي فيوزيمات | Luvic Phaeozems,translated
+Fill Symbols.Category,55,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,56,,Orthic Phaeozems,عادي فيوزيمات,عادي فيوزيمات | Orthic Phaeozems,translated
+Fill Symbols.Category,56,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,57,,LITHOSOLS,ليثوسولات,ليثوسولات | LITHOSOLS,translated
+Fill Symbols.Category,57,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,58,,Calcaric Lithosols,ليثوسولات,ليثوسولات | Calcaric Lithosols,translated
+Fill Symbols.Category,58,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,59,,Dystric Lithosols,ديستري ليثوسولات,ديستري ليثوسولات | Dystric Lithosols,translated
+Fill Symbols.Category,59,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,60,,Eutric Lithosols,يوتري ليثوسولات,يوتري ليثوسولات | Eutric Lithosols,translated
+Fill Symbols.Category,60,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,61,,Fluvic Lithosols,ليثوسولات,ليثوسولات | Fluvic Lithosols,translated
+Fill Symbols.Category,61,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,62,,FLUVISOLS,فلوفيسولات,فلوفيسولات | FLUVISOLS,translated
+Fill Symbols.Category,62,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,63,,Calcaric Fluvisols,فلوفيسولات,فلوفيسولات | Calcaric Fluvisols,translated
+Fill Symbols.Category,63,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,64,,Dystric Fluvisols,ديستري فلوفيسولات,ديستري فلوفيسولات | Dystric Fluvisols,translated
+Fill Symbols.Category,64,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,65,,Eutric Fluvisols,يوتري فلوفيسولات,يوتري فلوفيسولات | Eutric Fluvisols,translated
+Fill Symbols.Category,65,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,66,,Mollic Fluvisols,مولي فلوفيسولات,مولي فلوفيسولات | Mollic Fluvisols,translated
+Fill Symbols.Category,66,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,67,,Thionic Fluvisols,ثيوني فلوفيسولات,ثيوني فلوفيسولات | Thionic Fluvisols,translated
+Fill Symbols.Category,67,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,68,,KASTONOZEMS,,KASTONOZEMS,kept
+Fill Symbols.Category,68,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,69,,Haplic Kastanozems,هابلي كستانوزيمات,هابلي كستانوزيمات | Haplic Kastanozems,translated
+Fill Symbols.Category,69,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,70,,Calcic Kastanozems,كلسية كستانوزيمات,كلسية كستانوزيمات | Calcic Kastanozems,translated
+Fill Symbols.Category,70,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,71,,Luvic Kastanozems,لوفي كستانوزيمات,لوفي كستانوزيمات | Luvic Kastanozems,translated
+Fill Symbols.Category,71,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,72,,LUVISOLS,لوفيسولات,لوفيسولات | LUVISOLS,translated
+Fill Symbols.Category,72,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,73,,Albic Luvisols,لوفيسولات,لوفيسولات | Albic Luvisols,translated
+Fill Symbols.Category,73,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,74,,Chromic Luvisols,كرومية لوفيسولات,كرومية لوفيسولات | Chromic Luvisols,translated
+Fill Symbols.Category,74,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,75,,Dystric Luvisols,ديستري لوفيسولات,ديستري لوفيسولات | Dystric Luvisols,translated
+Fill Symbols.Category,75,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,76,,Ferric Luvisols,لوفيسولات,لوفيسولات | Ferric Luvisols,translated
+Fill Symbols.Category,76,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,77,,Gleyic Luvisols,غليّة لوفيسولات,غليّة لوفيسولات | Gleyic Luvisols,translated
+Fill Symbols.Category,77,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,78,,Humic Luvisols,دبالية لوفيسولات,دبالية لوفيسولات | Humic Luvisols,translated
+Fill Symbols.Category,78,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,79,,Calcic Luvisols,كلسية لوفيسولات,كلسية لوفيسولات | Calcic Luvisols,translated
+Fill Symbols.Category,79,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,80,,Orthic Luvisols,عادي لوفيسولات,عادي لوفيسولات | Orthic Luvisols,translated
+Fill Symbols.Category,80,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,81,,Plinthic Luvisols,بلينثي لوفيسولات,بلينثي لوفيسولات | Plinthic Luvisols,translated
+Fill Symbols.Category,81,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,82,,Vertic Luvisols,فيرتي لوفيسولات,فيرتي لوفيسولات | Vertic Luvisols,translated
+Fill Symbols.Category,82,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,83,,GREYZEMS,,GREYZEMS,kept
+Fill Symbols.Category,83,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,84,,Gleyic Greyzem,غليّة غريزيم,غليّة غريزيم | Gleyic Greyzem,translated
+Fill Symbols.Category,84,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,85,,Orthic Greyzem,عادي غريزيم,عادي غريزيم | Orthic Greyzem,translated
+Fill Symbols.Category,85,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,86,,NITOSOLS,نيتوسولات,نيتوسولات | NITOSOLS,translated
+Fill Symbols.Category,86,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,87,,Dystric Nitosols,ديستري نيتوسولات,ديستري نيتوسولات | Dystric Nitosols,translated
+Fill Symbols.Category,87,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,88,,Eutric Nitosols,يوتري نيتوسولات,يوتري نيتوسولات | Eutric Nitosols,translated
+Fill Symbols.Category,88,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,89,,Humic Nitosols,دبالية نيتوسولات,دبالية نيتوسولات | Humic Nitosols,translated
+Fill Symbols.Category,89,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,90,,HISTOSOLS,هستوسولات,هستوسولات | HISTOSOLS,translated
+Fill Symbols.Category,90,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,91,,Dystric Histosols,ديستري هستوسولات,ديستري هستوسولات | Dystric Histosols,translated
+Fill Symbols.Category,91,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,92,,Eutric Histosols,يوتري هستوسولات,يوتري هستوسولات | Eutric Histosols,translated
+Fill Symbols.Category,92,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,93,,Gelic Histosols,هستوسولات,هستوسولات | Gelic Histosols,translated
+Fill Symbols.Category,93,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,94,,PODZOLS,بودزولات,بودزولات | PODZOLS,translated
+Fill Symbols.Category,94,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,95,,Ferric Podzols,بودزولات,بودزولات | Ferric Podzols,translated
+Fill Symbols.Category,95,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,96,,Gleyic Podzols,غليّة بودزولات,غليّة بودزولات | Gleyic Podzols,translated
+Fill Symbols.Category,96,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,97,,Humic Podzols,دبالية بودزولات,دبالية بودزولات | Humic Podzols,translated
+Fill Symbols.Category,97,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,98,,Leptic Podzols,بودزولات,بودزولات | Leptic Podzols,translated
+Fill Symbols.Category,98,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,99,,Orthic Podzols,عادي بودزولات,عادي بودزولات | Orthic Podzols,translated
+Fill Symbols.Category,99,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,100,,Placic Podzols,بلاسي بودزولات,بلاسي بودزولات | Placic Podzols,translated
+Fill Symbols.Category,100,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,101,,ARENOSOLS,أرينوسولات,أرينوسولات | ARENOSOLS,translated
+Fill Symbols.Category,101,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,102,,Albic Arenosols,أرينوسولات,أرينوسولات | Albic Arenosols,translated
+Fill Symbols.Category,102,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,103,,Cambic Arenosols,أرينوسولات,أرينوسولات | Cambic Arenosols,translated
+Fill Symbols.Category,103,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,104,,Ferralic Arenosols,فيرالية أرينوسولات,فيرالية أرينوسولات | Ferralic Arenosols,translated
+Fill Symbols.Category,104,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,105,,Luvic Arenosols,لوفي أرينوسولات,لوفي أرينوسولات | Luvic Arenosols,translated
+Fill Symbols.Category,105,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,106,,REGOSOLS,ريغوسولات,ريغوسولات | REGOSOLS,translated
+Fill Symbols.Category,106,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,107,,Calcaric Regosols,ريغوسولات,ريغوسولات | Calcaric Regosols,translated
+Fill Symbols.Category,107,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,108,,Dystric Regosols,ديستري ريغوسولات,ديستري ريغوسولات | Dystric Regosols,translated
+Fill Symbols.Category,108,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,109,,Eutric Regosols,يوتري ريغوسولات,يوتري ريغوسولات | Eutric Regosols,translated
+Fill Symbols.Category,109,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,110,,SOLONETZ,سولونيتز,سولونيتز | SOLONETZ,translated
+Fill Symbols.Category,110,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,111,,Gleyic Solonetz,غليّة سولونيتز,غليّة سولونيتز | Gleyic Solonetz,translated
+Fill Symbols.Category,111,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,112,,Mollic Solonetz,مولي سولونيتز,مولي سولونيتز | Mollic Solonetz,translated
+Fill Symbols.Category,112,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,113,,Orthic Solonetz,عادي سولونيتز,عادي سولونيتز | Orthic Solonetz,translated
+Fill Symbols.Category,113,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,114,,ANDOSOLS,أندوسولات,أندوسولات | ANDOSOLS,translated
+Fill Symbols.Category,114,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,115,,Humic Andosols,دبالية أندوسولات,دبالية أندوسولات | Humic Andosols,translated
+Fill Symbols.Category,115,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,116,,Mollic Andosols,مولي أندوسولات,مولي أندوسولات | Mollic Andosols,translated
+Fill Symbols.Category,116,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,117,,Ochric Andosols,أوكري أندوسولات,أوكري أندوسولات | Ochric Andosols,translated
+Fill Symbols.Category,117,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,118,,Vitric Andosols,فيتري أندوسولات,فيتري أندوسولات | Vitric Andosols,translated
+Fill Symbols.Category,118,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,119,,RANKERS,رانكرات,رانكرات | RANKERS,translated
+Fill Symbols.Category,119,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,120,,Dystric Rankers,ديستري رانكرات,ديستري رانكرات | Dystric Rankers,translated
+Fill Symbols.Category,120,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,121,,VERTISOLS,فيرتيسولات,فيرتيسولات | VERTISOLS,translated
+Fill Symbols.Category,121,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,122,,Chromic Vertisols,كرومية فيرتيسولات,كرومية فيرتيسولات | Chromic Vertisols,translated
+Fill Symbols.Category,122,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,123,,Pellic Vertisols,بليّة فيرتيسولات,بليّة فيرتيسولات | Pellic Vertisols,translated
+Fill Symbols.Category,123,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,124,,PLANOSOLS,بلانوسولات,بلانوسولات | PLANOSOLS,translated
+Fill Symbols.Category,124,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,125,,Dystric Planosols,ديستري بلانوسولات,ديستري بلانوسولات | Dystric Planosols,translated
+Fill Symbols.Category,125,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,126,,Eutric Planosols,يوتري بلانوسولات,يوتري بلانوسولات | Eutric Planosols,translated
+Fill Symbols.Category,126,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,127,,Humic Planosols,دبالية بلانوسولات,دبالية بلانوسولات | Humic Planosols,translated
+Fill Symbols.Category,127,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,128,,Mollic Planosols,مولي بلانوسولات,مولي بلانوسولات | Mollic Planosols,translated
+Fill Symbols.Category,128,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,129,,Solodic Planosols,سولودي بلانوسولات,سولودي بلانوسولات | Solodic Planosols,translated
+Fill Symbols.Category,129,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,130,,Gelic Planosols,بلانوسولات,بلانوسولات | Gelic Planosols,translated
+Fill Symbols.Category,130,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,131,,XEROSOLS,زيروسولات,زيروسولات | XEROSOLS,translated
+Fill Symbols.Category,131,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,132,,Haplic Xerosols,هابلي زيروسولات,هابلي زيروسولات | Haplic Xerosols,translated
+Fill Symbols.Category,132,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,133,,Calcic Xerosols,كلسية زيروسولات,كلسية زيروسولات | Calcic Xerosols,translated
+Fill Symbols.Category,133,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,134,,Luvic Xerosols,لوفي زيروسولات,لوفي زيروسولات | Luvic Xerosols,translated
+Fill Symbols.Category,134,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,135,,Gypsic Xerosols,جبسية زيروسولات,جبسية زيروسولات | Gypsic Xerosols,translated
+Fill Symbols.Category,135,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,136,,YERMOSOLS,يرموسولات,يرموسولات | YERMOSOLS,translated
+Fill Symbols.Category,136,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,137,,Haplic Yermosols,هابلي يرموسولات,هابلي يرموسولات | Haplic Yermosols,translated
+Fill Symbols.Category,137,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,138,,Calcic Yermosols,كلسية يرموسولات,كلسية يرموسولات | Calcic Yermosols,translated
+Fill Symbols.Category,138,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,139,,Luvic Yermosols,لوفي يرموسولات,لوفي يرموسولات | Luvic Yermosols,translated
+Fill Symbols.Category,139,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,140,,Takyric Yermosols,تاكيري يرموسولات,تاكيري يرموسولات | Takyric Yermosols,translated
+Fill Symbols.Category,140,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,141,,Gypsic Yermosols,جبسية يرموسولات,جبسية يرموسولات | Gypsic Yermosols,translated
+Fill Symbols.Category,141,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,142,,SOLONCHAKS,سولونشاكات,سولونشاكات | SOLONCHAKS,translated
+Fill Symbols.Category,142,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,143,,Gleyic Solonchaks,غليّة سولونشاكات,غليّة سولونشاكات | Gleyic Solonchaks,translated
+Fill Symbols.Category,143,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,144,,Mollic Solonchaks,مولي سولونشاكات,مولي سولونشاكات | Mollic Solonchaks,translated
+Fill Symbols.Category,144,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,145,,Orthic Solonchaks,عادي سولونشاكات,عادي سولونشاكات | Orthic Solonchaks,translated
+Fill Symbols.Category,145,,Default,افتراضية,افتراضية | Default,translated
+Fill Symbols.Name,146,,Takyric Solonchaks,تاكيري سولونشاكات,تاكيري سولونشاكات | Takyric Solonchaks,translated
+Fill Symbols.Category,146,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,1,,So,,So,kept
+Colors.Category,1,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,2,,T,,T,kept
+Colors.Category,2,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,3,,Th,,Th,kept
+Colors.Category,3,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,4,,Tm,,Tm,kept
+Colors.Category,4,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,5,,To,,To,kept
+Colors.Category,5,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,6,,Tv,,Tv,kept
+Colors.Category,6,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,7,,U,,U,kept
+Colors.Category,7,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,8,,Ud,,Ud,kept
+Colors.Category,8,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,9,,V,,V,kept
+Colors.Category,9,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,10,,Vc,,Vc,kept
+Colors.Category,10,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,11,,Vp,,Vp,kept
+Colors.Category,11,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,12,,W,,W,kept
+Colors.Category,12,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,13,,Bv,,Bv,kept
+Colors.Category,13,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,14,,Bx,,Bx,kept
+Colors.Category,14,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,15,,C,,C,kept
+Colors.Category,15,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,16,,Cg,,Cg,kept
+Colors.Category,16,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,17,,Ch,,Ch,kept
+Colors.Category,17,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,18,,Ck,,Ck,kept
+Colors.Category,18,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,19,,Cl,,Cl,kept
+Colors.Category,19,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,20,,D,,D,kept
+Colors.Category,20,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,21,,Dd,,Dd,kept
+Colors.Category,21,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,22,,De,,De,kept
+Colors.Category,22,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,23,,Dg,,Dg,kept
+Colors.Category,23,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,24,,E,,E,kept
+Colors.Category,24,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,25,,Ec,,Ec,kept
+Colors.Category,25,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,26,,Eh,,Eh,kept
+Colors.Category,26,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,27,,Eo,,Eo,kept
+Colors.Category,27,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,28,,F,,F,kept
+Colors.Category,28,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,29,,Wd,,Wd,kept
+Colors.Category,29,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,30,,Fa,,Fa,kept
+Colors.Category,30,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,31,,Fh,,Fh,kept
+Colors.Category,31,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,32,,Fo,,Fo,kept
+Colors.Category,32,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,33,,Fp,,Fp,kept
+Colors.Category,33,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,34,,Fr,,Fr,kept
+Colors.Category,34,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,35,,Fx,,Fx,kept
+Colors.Category,35,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,36,,G,,G,kept
+Colors.Category,36,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,37,,Gc,,Gc,kept
+Colors.Category,37,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,38,,Gd,,Gd,kept
+Colors.Category,38,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,39,,Ge,,Ge,kept
+Colors.Category,39,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,40,,Gf,,Gf,kept
+Colors.Category,40,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,41,,Gh,,Gh,kept
+Colors.Category,41,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,42,,Gi,,Gi,kept
+Colors.Category,42,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,43,,Gl,,Gl,kept
+Colors.Category,43,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,44,,Gm,,Gm,kept
+Colors.Category,44,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,45,,Gp,,Gp,kept
+Colors.Category,45,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,46,,Gs,,Gs,kept
+Colors.Category,46,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,47,,Gt,,Gt,kept
+Colors.Category,47,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,48,,Gx,,Gx,kept
+Colors.Category,48,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,49,,H,,H,kept
+Colors.Category,49,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,50,,Hc,,Hc,kept
+Colors.Category,50,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,51,,Hg,,Hg,kept
+Colors.Category,51,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,52,,Hh,,Hh,kept
+Colors.Category,52,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,53,,Hl,,Hl,kept
+Colors.Category,53,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,54,,Ho,,Ho,kept
+Colors.Category,54,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,55,,I,,I,kept
+Colors.Category,55,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,56,,Ic,,Ic,kept
+Colors.Category,56,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,57,,Id,,Id,kept
+Colors.Category,57,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,58,,Ie,,Ie,kept
+Colors.Category,58,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,59,,If,,If,kept
+Colors.Category,59,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,60,,J,,J,kept
+Colors.Category,60,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,61,,Jc,,Jc,kept
+Colors.Category,61,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,62,,Jd,,Jd,kept
+Colors.Category,62,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,63,,Je,,Je,kept
+Colors.Category,63,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,64,,Jm,,Jm,kept
+Colors.Category,64,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,65,,Jt,,Jt,kept
+Colors.Category,65,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,66,,K,,K,kept
+Colors.Category,66,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,67,,Kh,,Kh,kept
+Colors.Category,67,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,68,,Kk,,Kk,kept
+Colors.Category,68,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,69,,Kl,,Kl,kept
+Colors.Category,69,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,70,,L,,L,kept
+Colors.Category,70,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,71,,La,,La,kept
+Colors.Category,71,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,72,,Lc,,Lc,kept
+Colors.Category,72,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,73,,Ld,,Ld,kept
+Colors.Category,73,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,74,,Lf,,Lf,kept
+Colors.Category,74,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,75,,Lg,,Lg,kept
+Colors.Category,75,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,76,,Lh,,Lh,kept
+Colors.Category,76,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,77,,Lk,,Lk,kept
+Colors.Category,77,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,78,,Lo,,Lo,kept
+Colors.Category,78,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,79,,Lp,,Lp,kept
+Colors.Category,79,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,80,,Lv,,Lv,kept
+Colors.Category,80,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,81,,M,,M,kept
+Colors.Category,81,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,82,,Mg,,Mg,kept
+Colors.Category,82,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,83,,Mo,,Mo,kept
+Colors.Category,83,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,84,,N,,N,kept
+Colors.Category,84,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,85,,Nd,,Nd,kept
+Colors.Category,85,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,86,,Ne,,Ne,kept
+Colors.Category,86,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,87,,Nh,,Nh,kept
+Colors.Category,87,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,88,,O,,O,kept
+Colors.Category,88,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,89,,Od,,Od,kept
+Colors.Category,89,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,90,,Oe,,Oe,kept
+Colors.Category,90,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,91,,Ox,,Ox,kept
+Colors.Category,91,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,92,,P,,P,kept
+Colors.Category,92,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,93,,Pf,,Pf,kept
+Colors.Category,93,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,94,,Pg,,Pg,kept
+Colors.Category,94,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,95,,Ph,,Ph,kept
+Colors.Category,95,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,96,,Pl,,Pl,kept
+Colors.Category,96,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,97,,Po,,Po,kept
+Colors.Category,97,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,98,,Pp,,Pp,kept
+Colors.Category,98,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,99,,Q,,Q,kept
+Colors.Category,99,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,100,,Qa,,Qa,kept
+Colors.Category,100,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,101,,Qc,,Qc,kept
+Colors.Category,101,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,102,,Qf,,Qf,kept
+Colors.Category,102,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,103,,Ql,,Ql,kept
+Colors.Category,103,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,104,,R,,R,kept
+Colors.Category,104,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,105,,Rc,,Rc,kept
+Colors.Category,105,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,106,,Rd,,Rd,kept
+Colors.Category,106,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,107,,Re,,Re,kept
+Colors.Category,107,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,108,,S,,S,kept
+Colors.Category,108,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,109,,Sg,,Sg,kept
+Colors.Category,109,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,110,,Sm,,Sm,kept
+Colors.Category,110,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,111,,We,,We,kept
+Colors.Category,111,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,112,,Wh,,Wh,kept
+Colors.Category,112,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,113,,Wm,,Wm,kept
+Colors.Category,113,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,114,,A,,A,kept
+Colors.Category,114,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,115,,Af,,Af,kept
+Colors.Category,115,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,116,,Ag,,Ag,kept
+Colors.Category,116,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,117,,Ah,,Ah,kept
+Colors.Category,117,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,118,,Ao,,Ao,kept
+Colors.Category,118,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,119,,Ap,,Ap,kept
+Colors.Category,119,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,120,,B,,B,kept
+Colors.Category,120,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,121,,Ba,,Ba,kept
+Colors.Category,121,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,122,,Bc,,Bc,kept
+Colors.Category,122,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,123,,Bd,,Bd,kept
+Colors.Category,123,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,124,,Be,,Be,kept
+Colors.Category,124,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,125,,Bf,,Bf,kept
+Colors.Category,125,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,126,,Bg,,Bg,kept
+Colors.Category,126,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,127,,Bh,,Bh,kept
+Colors.Category,127,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,128,,Bk,,Bk,kept
+Colors.Category,128,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,129,,Ws,,Ws,kept
+Colors.Category,129,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,130,,Wx,,Wx,kept
+Colors.Category,130,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,131,,X,,X,kept
+Colors.Category,131,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,132,,Xh,,Xh,kept
+Colors.Category,132,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,133,,Xk,,Xk,kept
+Colors.Category,133,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,134,,Xl,,Xl,kept
+Colors.Category,134,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,135,,Xy,,Xy,kept
+Colors.Category,135,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,136,,Y,,Y,kept
+Colors.Category,136,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,137,,Yh,,Yh,kept
+Colors.Category,137,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,138,,Yk,,Yk,kept
+Colors.Category,138,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,139,,Yl,,Yl,kept
+Colors.Category,139,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,140,,Yt,,Yt,kept
+Colors.Category,140,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,141,,Yy,,Yy,kept
+Colors.Category,141,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,142,,Z,,Z,kept
+Colors.Category,142,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,143,,Zg,,Zg,kept
+Colors.Category,143,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,144,,Zm,,Zm,kept
+Colors.Category,144,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,145,,Zo,,Zo,kept
+Colors.Category,145,,Default,افتراضية,افتراضية | Default,translated
+Colors.Name,146,,Zt,,Zt,kept
+Colors.Category,146,,Default,افتراضية,افتراضية | Default,translated

@@ -1,0 +1,30 @@
+/* Lines to Append to "fontindex" file for ARC/INFO Workstation v9.x
+/* Fonts referenced in this section are:
+/*  FGDCGeoAge 1.0  (Postscript & TrueType)
+/* ========================================================
+
+/* ---------------------------------------------------
+/* FGDCGeoAge fonts.  Replacement for Stratagem & GeoAge, WPG, USGS, 06.10.29
+/* FGDCGeoAge group 1.0  (Mod. 06.10.29, WPG, USGS)
+/* Sans serif fonts with geologic age char. in place of some standard char.
+/* This fontindex section references both Postscript & TrueType fonts
+/* Fonts to be stored in:  $ARCHOME/fonts/FGDCgeoage/
+
+POSTSCRIPT 4555570 $ARCHOME/fonts/fgdcgeoage/FGDCGA__.PFB 4555570
+POSTSCRIPT 'FGDC GeoAge'
+   NAME = FGDCGeoAge
+   FAMILY = FGDCGeoAge
+   STYLE = Normal
+   PS-NAME = FGDCGA__.PFB
+   METRICS = FGDCGA__.PFM
+
+TRUETYPE 1570 $ARCHOME/fonts/fgdcgeoage/FGDCGA__.TTF 1570
+TRUETYPE 'FGDCGeoAgeTT'
+   Name = FGDCGeoAgeTT
+   Name = FGDCGeoAge
+   FAMILY = FGDCGeoAge
+   STYLE = Normal
+   PS-NAME = FGDCGA__.PFB
+   METRICS = FGDCGA__.PFM
+/* ---------------------------------------------------
+

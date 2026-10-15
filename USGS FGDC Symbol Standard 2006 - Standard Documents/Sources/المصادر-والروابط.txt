@@ -1,0 +1,40 @@
+مصدر الوثيقة - Source (المعيار الرسمي FGDC للرموز الجيولوجية)
+====================================================
+
+الوثيقة: FGDC Digital Cartographic Standard for Geologic Map Symbolization
+المعيار الوطني الأمريكي للتمثيل الكارتوغرافي الرقمي للخرائط الجيولوجية
+Federal Geographic Data Committee, Document Number FGDC-STD-013-2006 (290 صفحة + لوحتان)
+
+صفحة المعيار الرئيسية (المطلوبة):
+https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php
+
+صفحة تحميل الوثيقة PDF:
+https://ngmdb.usgs.gov/fgdc_gds/geolsymstd/download.php
+
+تاريخ التحميل: 28-09-2026
+
+----------------------------------------------------
+الملفات في هذا الفولدر:
+----------------------------------------------------
+1) fgdc-geolsym-all.pdf (~34 MB)
+   https://ngmdb.usgs.gov/fgdc_gds/geolsymstd/fgdc-geolsym-all.pdf
+   الوثيقة الكاملة: المقدمة + الفهرس + الملحق A (الأقسام 1-39: كل الرموز
+   الخطية والنقطية والألوان والأنماط) + Color Chart + Pattern Chart.
+   هذه هي المرجع الذي بُنيت عليه كل ستايلات FGDC/GeMS في الفولدر الآخر:
+   "USGS FGDC-GeMS - Standard Geologic Symbology".
+
+----------------------------------------------------
+روابط مكملة من نفس الصفحة (لم تُحمّل - للعلم):
+----------------------------------------------------
+- نسخة PostScript (لبرامج التصميم مثل Illustrator):
+  http://pubs.usgs.gov/tm/2006/11A02/
+- النسخة مقسمة حسب الأقسام + مرتبة موضوعياً:
+  https://ngmdb.usgs.gov/fgdc_gds/geolsymstd/downloadbytheme.php
+- سجل المراجعات (للتأكد من أحدث نسخة):
+  https://ngmdb.usgs.gov/fgdc_gds/geolsymstd/revisionlog.php
+
+ملاحظة: رابط "نسخة ArcGIS 10" المذكور في الصفحة
+(arcgis.com item bb02aa75305f40ff87fb6106aa297da9 - قالب esriNcgmpOnline)
+لم يعد متاحاً على ArcGIS Online (العنصر محذوف) - تم التحقق بتاريخ التحميل.
+
+الحقوق: Public Domain (حكومة أمريكية - USGS/FGDC).

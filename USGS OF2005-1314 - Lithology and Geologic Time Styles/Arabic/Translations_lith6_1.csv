@@ -1,0 +1,833 @@
+﻿field,id,key,original,arabic,new_value,status
+Fill Symbols.Name,1,,alkali granite (alaskite),جرانيت,جرانيت | alkali granite (alaskite),translated
+Fill Symbols.Category,1,,,,,kept
+Fill Symbols.Name,2,,alkali rhyolite,ريوليت,ريوليت | alkali rhyolite,translated
+Fill Symbols.Category,2,,,,,kept
+Fill Symbols.Name,3,,alkali syenite,سيانيت,سيانيت | alkali syenite,translated
+Fill Symbols.Category,3,,,,,kept
+Fill Symbols.Name,4,,alkali trachyte,تراكيت,تراكيت | alkali trachyte,translated
+Fill Symbols.Category,4,,,,,kept
+Fill Symbols.Name,5,,alkalic intrusive rock,متداخلة صخر,متداخلة صخر | alkalic intrusive rock,translated
+Fill Symbols.Category,5,,,,,kept
+Fill Symbols.Name,6,,alkalic volcanic rock,بركانية صخر,بركانية صخر | alkalic volcanic rock,translated
+Fill Symbols.Category,6,,,,,kept
+Fill Symbols.Name,7,,alkaline basalt,قلوية بازلت,قلوية بازلت | alkaline basalt,translated
+Fill Symbols.Category,7,,,,,kept
+Fill Symbols.Name,8,,alluvial fan,مروحة فيضية,مروحة فيضية | alluvial fan,translated
+Fill Symbols.Category,8,,,,,kept
+Fill Symbols.Name,9,,alluvial terrace,فيضية مصطبة,فيضية مصطبة | alluvial terrace,translated
+Fill Symbols.Category,9,,,,,kept
+Fill Symbols.Name,10,,alluvium,رواسب فيضية,رواسب فيضية | alluvium,translated
+Fill Symbols.Category,10,,,,,kept
+Fill Symbols.Name,11,,amphibole schist,شست,شست | amphibole schist,translated
+Fill Symbols.Category,11,,,,,kept
+Fill Symbols.Name,12,,amphibolite,أمفيبوليت,أمفيبوليت | amphibolite,translated
+Fill Symbols.Category,12,,,,,kept
+Fill Symbols.Name,13,,andesite,أنديزيت,أنديزيت | andesite,translated
+Fill Symbols.Category,13,,,,,kept
+Fill Symbols.Name,14,,anorthosite,أنورثوسيت,أنورثوسيت | anorthosite,translated
+Fill Symbols.Category,14,,,,,kept
+Fill Symbols.Name,15,,aplite,أبليت,أبليت | aplite,translated
+Fill Symbols.Category,15,,,,,kept
+Fill Symbols.Name,16,,arenite,أرينيت,أرينيت | arenite,translated
+Fill Symbols.Category,16,,,,,kept
+Fill Symbols.Name,17,,argillite,أرجيليت,أرجيليت | argillite,translated
+Fill Symbols.Category,17,,,,,kept
+Fill Symbols.Name,18,,arkose,أركوز,أركوز | arkose,translated
+Fill Symbols.Category,18,,,,,kept
+Fill Symbols.Name,19,,ash-flow tuff,طف التدفق الرمادي,طف التدفق الرمادي | ash-flow tuff,translated
+Fill Symbols.Category,19,,,,,kept
+Fill Symbols.Name,20,,augen gneiss,نايس,نايس | augen gneiss,translated
+Fill Symbols.Category,20,,,,,kept
+Fill Symbols.Name,21,,basalt,بازلت,بازلت | basalt,translated
+Fill Symbols.Category,21,,,,,kept
+Fill Symbols.Name,22,,beach sand,رمال الشواطئ,رمال الشواطئ | beach sand,translated
+Fill Symbols.Category,22,,,,,kept
+Fill Symbols.Name,23,,bentonite,بنتونيت,بنتونيت | bentonite,translated
+Fill Symbols.Category,23,,,,,kept
+Fill Symbols.Name,24,,bimodal suite,جناح,جناح | bimodal suite,translated
+Fill Symbols.Category,24,,,,,kept
+Fill Symbols.Name,25,,biogenic sediment,راسب,راسب | biogenic sediment,translated
+Fill Symbols.Category,25,,,,,kept
+Fill Symbols.Name,26,,biotite gneiss,بيوتيت نايس,بيوتيت نايس | biotite gneiss,translated
+Fill Symbols.Category,26,,,,,kept
+Fill Symbols.Name,27,,black shale,أسود صخر طيني,أسود صخر طيني | black shale,translated
+Fill Symbols.Category,27,,,,,kept
+Fill Symbols.Name,28,,blueschist,شست أزرق,شست أزرق | blueschist,translated
+Fill Symbols.Category,28,,,,,kept
+Fill Symbols.Name,29,,calcarenite,كالكارينيت,كالكارينيت | calcarenite,translated
+Fill Symbols.Category,29,,,,,kept
+Fill Symbols.Name,30,,calc-silicate rock,صخر,صخر | calc-silicate rock,translated
+Fill Symbols.Category,30,,,,,kept
+Fill Symbols.Name,31,,calc-silicate schist,شست,شست | calc-silicate schist,translated
+Fill Symbols.Category,31,,,,,kept
+Fill Symbols.Name,32,,carbonate,كربوناتية,كربوناتية | carbonate,translated
+Fill Symbols.Category,32,,,,,kept
+Fill Symbols.Name,33,,cataclasite,كاتاكلاسيت,كاتاكلاسيت | cataclasite,translated
+Fill Symbols.Category,33,,,,,kept
+Fill Symbols.Name,34,,chemical,كيميائية,كيميائية | chemical,translated
+Fill Symbols.Category,34,,,,,kept
+Fill Symbols.Name,35,,chert,صوان,صوان | chert,translated
+Fill Symbols.Category,35,,,,,kept
+Fill Symbols.Name,36,,clastic,فتاتية,فتاتية | clastic,translated
+Fill Symbols.Category,36,,,,,kept
+Fill Symbols.Name,37,,clay or mud,طين أو طين الحفر,طين أو طين الحفر | clay or mud,translated
+Fill Symbols.Category,37,,,,,kept
+Fill Symbols.Name,38,,claystone,حجر صلصالي,حجر صلصالي | claystone,translated
+Fill Symbols.Category,38,,,,,kept
+Fill Symbols.Name,39,,coal,فحم,فحم | coal,translated
+Fill Symbols.Category,39,,,,,kept
+Fill Symbols.Name,40,,coarse-grained mixed clastic,خشنة مختلطة فتاتية,خشنة مختلطة فتاتية | coarse-grained mixed clastic,translated
+Fill Symbols.Category,40,,,,,kept
+Fill Symbols.Name,41,,colluvium,ركام السفوح,ركام السفوح | colluvium,translated
+Fill Symbols.Category,41,,,,,kept
+Fill Symbols.Name,42,,conglomerate,كونجلوميرات,كونجلوميرات | conglomerate,translated
+Fill Symbols.Category,42,,,,,kept
+Fill Symbols.Name,43,,coral,مرجان,مرجان | coral,translated
+Fill Symbols.Category,43,,,,,kept
+Fill Symbols.Name,44,,dacite,داسيت,داسيت | dacite,translated
+Fill Symbols.Category,44,,,,,kept
+Fill Symbols.Name,45,,debris flow,حطام تدفق,حطام تدفق | debris flow,translated
+Fill Symbols.Category,45,,,,,kept
+Fill Symbols.Name,46,,delta,دلتا,دلتا | delta,translated
+Fill Symbols.Category,46,,,,,kept
+Fill Symbols.Name,47,,diabase,ديابيز,ديابيز | diabase,translated
+Fill Symbols.Category,47,,,,,kept
+Fill Symbols.Name,48,,diorite,ديوريت,ديوريت | diorite,translated
+Fill Symbols.Category,48,,,,,kept
+Fill Symbols.Name,49,,dolostone (dolomite),دولوميت,دولوميت | dolostone (dolomite),translated
+Fill Symbols.Category,49,,,,,kept
+Fill Symbols.Name,50,,dune sand,كثيب رمل,كثيب رمل | dune sand,translated
+Fill Symbols.Category,50,,,,,kept
+Fill Symbols.Name,51,,dunite,دونيت,دونيت | dunite,translated
+Fill Symbols.Category,51,,,,,kept
+Fill Symbols.Name,52,,eclogite,إكلوجيت,إكلوجيت | eclogite,translated
+Fill Symbols.Category,52,,,,,kept
+Fill Symbols.Name,53,,eolian,ريحية,ريحية | eolian,translated
+Fill Symbols.Category,53,,,,,kept
+Fill Symbols.Name,54,,evaporite,متبخرات,متبخرات | evaporite,translated
+Fill Symbols.Category,54,,,,,kept
+Fill Symbols.Name,55,,exhalite,إكسهاليت,إكسهاليت | exhalite,translated
+Fill Symbols.Category,55,,,,,kept
+Fill Symbols.Name,56,,felsic gneiss,فلسية نايس,فلسية نايس | felsic gneiss,translated
+Fill Symbols.Category,56,,,,,kept
+Fill Symbols.Name,57,,felsic metavolcanic rock,فلسية بركانية متحولة صخر,فلسية بركانية متحولة صخر | felsic metavolcanic rock,translated
+Fill Symbols.Category,57,,,,,kept
+Fill Symbols.Name,58,,felsic volcanic rock,فلسية بركانية صخر,فلسية بركانية صخر | felsic volcanic rock,translated
+Fill Symbols.Category,58,,,,,kept
+Fill Symbols.Name,59,,fine-grained mixed clastic,ناعمة مختلطة فتاتية,ناعمة مختلطة فتاتية | fine-grained mixed clastic,translated
+Fill Symbols.Category,59,,,,,kept
+Fill Symbols.Name,60,,flaser gneiss,نايس,نايس | flaser gneiss,translated
+Fill Symbols.Category,60,,,,,kept
+Fill Symbols.Name,61,,flood plain,فيضان,فيضان | flood plain,translated
+Fill Symbols.Category,61,,,,,kept
+Fill Symbols.Name,62,,gabbro,جابرو,جابرو | gabbro,translated
+Fill Symbols.Category,62,,,,,kept
+Fill Symbols.Name,63,,gabbroid,غابرويد,غابرويد | gabbroid,translated
+Fill Symbols.Category,63,,,,,kept
+Fill Symbols.Name,64,,glacial drift,دهليز أفقي,دهليز أفقي | glacial drift,translated
+Fill Symbols.Category,64,,,,,kept
+Fill Symbols.Name,65,,glacial-marine,بحرية,بحرية | glacial-marine,translated
+Fill Symbols.Category,65,,,,,kept
+Fill Symbols.Name,66,,glaciolacustrine,جليدية بحيرية,جليدية بحيرية | glaciolacustrine,translated
+Fill Symbols.Category,66,,,,,kept
+Fill Symbols.Name,67,,glassy volcanic rock,زجاجية بركانية صخر,زجاجية بركانية صخر | glassy volcanic rock,translated
+Fill Symbols.Category,67,,,,,kept
+Fill Symbols.Name,68,,gneiss,نايس,نايس | gneiss,translated
+Fill Symbols.Category,68,,,,,kept
+Fill Symbols.Name,69,,granite,جرانيت,جرانيت | granite,translated
+Fill Symbols.Category,69,,,,,kept
+Fill Symbols.Name,70,,granitic gneiss,نايس,نايس | granitic gneiss,translated
+Fill Symbols.Category,70,,,,,kept
+Fill Symbols.Name,71,,granitoid,غرانيتويد,غرانيتويد | granitoid,translated
+Fill Symbols.Category,71,,,,,kept
+Fill Symbols.Name,72,,granodiorite,جرانوديوريت,جرانوديوريت | granodiorite,translated
+Fill Symbols.Category,72,,,,,kept
+Fill Symbols.Name,73,,granofels,غرانوفلس,غرانوفلس | granofels,translated
+Fill Symbols.Category,73,,,,,kept
+Fill Symbols.Name,74,,granulite,جرانوليت,جرانوليت | granulite,translated
+Fill Symbols.Category,74,,,,,kept
+Fill Symbols.Name,75,,gravel,حصى,حصى | gravel,translated
+Fill Symbols.Category,75,,,,,kept
+Fill Symbols.Name,76,,graywacke,غريواكي,غريواكي | graywacke,translated
+Fill Symbols.Category,76,,,,,kept
+Fill Symbols.Name,77,,greenschist,شست أخضر,شست أخضر | greenschist,translated
+Fill Symbols.Category,77,,,,,kept
+Fill Symbols.Name,78,,greenstone,حجر أخضر,حجر أخضر | greenstone,translated
+Fill Symbols.Category,78,,,,,kept
+Fill Symbols.Name,79,,greisen,غريزن,غريزن | greisen,translated
+Fill Symbols.Category,79,,,,,kept
+Fill Symbols.Name,80,,hawaiite,هاوييت,هاوييت | hawaiite,translated
+Fill Symbols.Category,80,,,,,kept
+Fill Symbols.Name,81,,hornblendite,هورنبلنديت,هورنبلنديت | hornblendite,translated
+Fill Symbols.Category,81,,,,,kept
+Fill Symbols.Name,82,,hornfels,هورنفلس,هورنفلس | hornfels,translated
+Fill Symbols.Category,82,,,,,kept
+Fill Symbols.Name,83,,ignimbrite,إجنيمبريت,إجنيمبريت | ignimbrite,translated
+Fill Symbols.Category,83,,,,,kept
+Fill Symbols.Name,84,,intermediate metavolcanic rock,متوسطة بركانية متحولة صخر,متوسطة بركانية متحولة صخر | intermediate metavolcanic rock,translated
+Fill Symbols.Category,84,,,,,kept
+Fill Symbols.Name,85,,intermediate volcanic rock,متوسطة بركانية صخر,متوسطة بركانية صخر | intermediate volcanic rock,translated
+Fill Symbols.Category,85,,,,,kept
+Fill Symbols.Name,86,,intrusive carbonatite,متداخلة كربوناتيت,متداخلة كربوناتيت | intrusive carbonatite,translated
+Fill Symbols.Category,86,,,,,kept
+Fill Symbols.Name,87,,iron formation,تكوين حديدي,تكوين حديدي | iron formation,translated
+Fill Symbols.Category,87,,,,,kept
+Fill Symbols.Name,88,,keratophyre,كيراتوفير,كيراتوفير | keratophyre,translated
+Fill Symbols.Category,88,,,,,kept
+Fill Symbols.Name,89,,kimberlite,كمبرليت,كمبرليت | kimberlite,translated
+Fill Symbols.Category,89,,,,,kept
+Fill Symbols.Name,90,,lahar,لاهار,لاهار | lahar,translated
+Fill Symbols.Category,90,,,,,kept
+Fill Symbols.Name,91,,lake or marine deposit,بحيرة أو بحرية,بحيرة أو بحرية | lake or marine deposit,translated
+Fill Symbols.Category,91,,,,,kept
+Fill Symbols.Name,92,,lamprophyre,لامبروفير,لامبروفير | lamprophyre,translated
+Fill Symbols.Category,92,,,,,kept
+Fill Symbols.Name,93,,landslide,انهيار أرضي,انهيار أرضي | landslide,translated
+Fill Symbols.Category,93,,,,,kept
+Fill Symbols.Name,94,,latite,لاتيت,لاتيت | latite,translated
+Fill Symbols.Category,94,,,,,kept
+Fill Symbols.Name,95,,lava flow,تدفق,تدفق | lava flow,translated
+Fill Symbols.Category,95,,,,,kept
+Fill Symbols.Name,96,,levee,ساتر ترابي,ساتر ترابي | levee,translated
+Fill Symbols.Category,96,,,,,kept
+Fill Symbols.Name,97,,limestone,حجر جيري,حجر جيري | limestone,translated
+Fill Symbols.Category,97,,,,,kept
+Fill Symbols.Name,98,,loess,لوس,لوس | loess,translated
+Fill Symbols.Category,98,,,,,kept
+Fill Symbols.Name,99,,mafic gneiss,مافية نايس,مافية نايس | mafic gneiss,translated
+Fill Symbols.Category,99,,,,,kept
+Fill Symbols.Name,100,,mafic metavolcanic rock,مافية بركانية متحولة صخر,مافية بركانية متحولة صخر | mafic metavolcanic rock,translated
+Fill Symbols.Category,100,,,,,kept
+Fill Symbols.Name,101,,mafic volcanic rock,مافية بركانية صخر,مافية بركانية صخر | mafic volcanic rock,translated
+Fill Symbols.Category,101,,,,,kept
+Fill Symbols.Name,102,,marble,رخام,رخام | marble,translated
+Fill Symbols.Category,102,,,,,kept
+Fill Symbols.Name,103,,mass wasting,كتلة,كتلة | mass wasting,translated
+Fill Symbols.Category,103,,,,,kept
+Fill Symbols.Name,104,,medium-grained mixed clastic,مختلطة فتاتية,مختلطة فتاتية | medium-grained mixed clastic,translated
+Fill Symbols.Category,104,,,,,kept
+Fill Symbols.Name,105,,melange,ميلانج,ميلانج | melange,translated
+Fill Symbols.Category,105,,,,,kept
+Fill Symbols.Name,106,,meta-argillite,أرجيليت متحول,أرجيليت متحول | meta-argillite,translated
+Fill Symbols.Category,106,,,,,kept
+Fill Symbols.Name,107,,meta-basalt,متحولة بازلت,متحولة بازلت | meta-basalt,translated
+Fill Symbols.Category,107,,,,,kept
+Fill Symbols.Name,108,,meta-conglomerate,متحولة كونجلوميرات,متحولة كونجلوميرات | meta-conglomerate,translated
+Fill Symbols.Category,108,,,,,kept
+Fill Symbols.Name,109,,meta-rhyolite,متحولة ريوليت,متحولة ريوليت | meta-rhyolite,translated
+Fill Symbols.Category,109,,,,,kept
+Fill Symbols.Name,110,,metaluminous granite,جرانيت,جرانيت | metaluminous granite,translated
+Fill Symbols.Category,110,,,,,kept
+Fill Symbols.Name,111,,metamorphic rock,متحولة صخر,متحولة صخر | metamorphic rock,translated
+Fill Symbols.Category,111,,,,,kept
+Fill Symbols.Name,112,,metasedimentary rock,رسوبية متحولة صخر,رسوبية متحولة صخر | metasedimentary rock,translated
+Fill Symbols.Category,112,,,,,kept
+Fill Symbols.Name,113,,metavolcanic rock,بركانية متحولة صخر,بركانية متحولة صخر | metavolcanic rock,translated
+Fill Symbols.Category,113,,,,,kept
+Fill Symbols.Name,114,,mica schist,ميكا شست,ميكا شست | mica schist,translated
+Fill Symbols.Category,114,,,,,kept
+Fill Symbols.Name,115,,migmatite,ميغماتيت,ميغماتيت | migmatite,translated
+Fill Symbols.Category,115,,,,,kept
+Fill Symbols.Name,116,,mixed clastic/carbonate,مختلطة فتاتية كربوناتية,مختلطة فتاتية كربوناتية | mixed clastic/carbonate,translated
+Fill Symbols.Category,116,,,,,kept
+Fill Symbols.Name,117,,mixed clastic/coal,مختلطة فتاتية فحم,مختلطة فتاتية فحم | mixed clastic/coal,translated
+Fill Symbols.Category,117,,,,,kept
+Fill Symbols.Name,118,,mixed clastic/volcanic,مختلطة فتاتية بركانية,مختلطة فتاتية بركانية | mixed clastic/volcanic,translated
+Fill Symbols.Category,118,,,,,kept
+Fill Symbols.Name,119,,monzodiorite,مونزوديوريت,مونزوديوريت | monzodiorite,translated
+Fill Symbols.Category,119,,,,,kept
+Fill Symbols.Name,120,,monzogabbro,مونزوغابرو,مونزوغابرو | monzogabbro,translated
+Fill Symbols.Category,120,,,,,kept
+Fill Symbols.Name,121,,monzonite,مونزونيت,مونزونيت | monzonite,translated
+Fill Symbols.Category,121,,,,,kept
+Fill Symbols.Name,122,,moraine,مورين,مورين | moraine,translated
+Fill Symbols.Category,122,,,,,kept
+Fill Symbols.Name,123,,mud flat,طين الحفر,طين الحفر | mud flat,translated
+Fill Symbols.Category,123,,,,,kept
+Fill Symbols.Name,124,,mudflow,تدفق طيني,تدفق طيني | mudflow,translated
+Fill Symbols.Category,124,,,,,kept
+Fill Symbols.Name,125,,mudstone,حجر طيني,حجر طيني | mudstone,translated
+Fill Symbols.Category,125,,,,,kept
+Fill Symbols.Name,126,,mylonite,ميلونيت,ميلونيت | mylonite,translated
+Fill Symbols.Category,126,,,,,kept
+Fill Symbols.Name,127,,nepheline syenite,سيانيت نفليني,سيانيت نفليني | nepheline syenite,translated
+Fill Symbols.Category,127,,,,,kept
+Fill Symbols.Name,128,,norite,نوريت,نوريت | norite,translated
+Fill Symbols.Category,128,,,,,kept
+Fill Symbols.Name,129,,novaculite,نوفاكيوليت,نوفاكيوليت | novaculite,translated
+Fill Symbols.Category,129,,,,,kept
+Fill Symbols.Name,130,,obsidian,أوبسيديان,أوبسيديان | obsidian,translated
+Fill Symbols.Category,130,,,,,kept
+Fill Symbols.Name,131,,oil shale,صخر زيتي,صخر زيتي | oil shale,translated
+Fill Symbols.Category,131,,,,,kept
+Fill Symbols.Name,132,,olistostrome,أوليستوستروم,أوليستوستروم | olistostrome,translated
+Fill Symbols.Category,132,,,,,kept
+Fill Symbols.Name,133,,orthogneiss,أورثونايس,أورثونايس | orthogneiss,translated
+Fill Symbols.Category,133,,,,,kept
+Fill Symbols.Name,134,,orthoquartzite,أورثوكوارتزيت,أورثوكوارتزيت | orthoquartzite,translated
+Fill Symbols.Category,134,,,,,kept
+Fill Symbols.Name,135,,outwash,رواسب الذوبان,رواسب الذوبان | outwash,translated
+Fill Symbols.Category,135,,,,,kept
+Fill Symbols.Name,136,,paragneiss,بارانايس,بارانايس | paragneiss,translated
+Fill Symbols.Category,136,,,,,kept
+Fill Symbols.Name,137,,peat,خث,خث | peat,translated
+Fill Symbols.Category,137,,,,,kept
+Fill Symbols.Name,138,,pegmatite,بيغماتيت,بيغماتيت | pegmatite,translated
+Fill Symbols.Category,138,,,,,kept
+Fill Symbols.Name,139,,pelitic schist,شست,شست | pelitic schist,translated
+Fill Symbols.Category,139,,,,,kept
+Fill Symbols.Name,140,,peralkaline granite,جرانيت,جرانيت | peralkaline granite,translated
+Fill Symbols.Category,140,,,,,kept
+Fill Symbols.Name,141,,peraluminous granite,جرانيت,جرانيت | peraluminous granite,translated
+Fill Symbols.Category,141,,,,,kept
+Fill Symbols.Name,142,,peridotite,بريدوتيت,بريدوتيت | peridotite,translated
+Fill Symbols.Category,142,,,,,kept
+Fill Symbols.Name,143,,phonolite,فونوليت,فونوليت | phonolite,translated
+Fill Symbols.Category,143,,,,,kept
+Fill Symbols.Name,144,,phosphorite,فوسفوريت,فوسفوريت | phosphorite,translated
+Fill Symbols.Category,144,,,,,kept
+Fill Symbols.Name,145,,phyllite,فيليت,فيليت | phyllite,translated
+Fill Symbols.Category,145,,,,,kept
+Fill Symbols.Name,146,,phyllonite,فيلونيت,فيلونيت | phyllonite,translated
+Fill Symbols.Category,146,,,,,kept
+Fill Symbols.Name,147,,playa,سبخة,سبخة | playa,translated
+Fill Symbols.Category,147,,,,,kept
+Fill Symbols.Name,148,,plutonic rock (phaneritic),بلوتونية صخر خشنة التبلور,بلوتونية صخر خشنة التبلور | plutonic rock (phaneritic),translated
+Fill Symbols.Category,148,,,,,kept
+Fill Symbols.Name,149,,porphyry,بورفيري,بورفيري | porphyry,translated
+Fill Symbols.Category,149,,,,,kept
+Fill Symbols.Name,150,,pumice,خفاف,خفاف | pumice,translated
+Fill Symbols.Category,150,,,,,kept
+Fill Symbols.Name,151,,pyroclastic,فتاتية نارية,فتاتية نارية | pyroclastic,translated
+Fill Symbols.Category,151,,,,,kept
+Fill Symbols.Name,152,,pyroxenite,بيروكسينيت,بيروكسينيت | pyroxenite,translated
+Fill Symbols.Category,152,,,,,kept
+Fill Symbols.Name,153,,quartz diorite,مرو ديوريت,مرو ديوريت | quartz diorite,translated
+Fill Symbols.Category,153,,,,,kept
+Fill Symbols.Name,154,,quartz gabbro,مرو جابرو,مرو جابرو | quartz gabbro,translated
+Fill Symbols.Category,154,,,,,kept
+Fill Symbols.Name,155,,quartz latite,مرو لاتيت,مرو لاتيت | quartz latite,translated
+Fill Symbols.Category,155,,,,,kept
+Fill Symbols.Name,156,,quartz monzodiorite,مرو مونزوديوريت,مرو مونزوديوريت | quartz monzodiorite,translated
+Fill Symbols.Category,156,,,,,kept
+Fill Symbols.Name,157,,quartz monzogabbro,مرو مونزوغابرو,مرو مونزوغابرو | quartz monzogabbro,translated
+Fill Symbols.Category,157,,,,,kept
+Fill Symbols.Name,158,,quartz monzonite,مرو مونزونيت,مرو مونزونيت | quartz monzonite,translated
+Fill Symbols.Category,158,,,,,kept
+Fill Symbols.Name,159,,quartz syenite,مرو سيانيت,مرو سيانيت | quartz syenite,translated
+Fill Symbols.Category,159,,,,,kept
+Fill Symbols.Name,160,,quartz-feldspar schist,مرو فلسبار شست,مرو فلسبار شست | quartz-feldspar schist,translated
+Fill Symbols.Category,160,,,,,kept
+Fill Symbols.Name,161,,quartzite,كوارتزيت,كوارتزيت | quartzite,translated
+Fill Symbols.Category,161,,,,,kept
+Fill Symbols.Name,162,,residuum,بقايا تجوية,بقايا تجوية | residuum,translated
+Fill Symbols.Category,162,,,,,kept
+Fill Symbols.Name,163,,rhyodacite,ريوداسيت,ريوداسيت | rhyodacite,translated
+Fill Symbols.Category,163,,,,,kept
+Fill Symbols.Name,164,,rhyolite,ريوليت,ريوليت | rhyolite,translated
+Fill Symbols.Category,164,,,,,kept
+Fill Symbols.Name,165,,sand,رمل,رمل | sand,translated
+Fill Symbols.Category,165,,,,,kept
+Fill Symbols.Name,166,,sand sheet,رمل,رمل | sand sheet,translated
+Fill Symbols.Category,166,,,,,kept
+Fill Symbols.Name,167,,sandstone,حجر رملي,حجر رملي | sandstone,translated
+Fill Symbols.Category,167,,,,,kept
+Fill Symbols.Name,168,,schist,شست,شست | schist,translated
+Fill Symbols.Category,168,,,,,kept
+Fill Symbols.Name,169,,sedimentary breccia,رسوبية بريشيا,رسوبية بريشيا | sedimentary breccia,translated
+Fill Symbols.Category,169,,,,,kept
+Fill Symbols.Name,170,,sedimentary rock,رسوبية صخر,رسوبية صخر | sedimentary rock,translated
+Fill Symbols.Category,170,,,,,kept
+Fill Symbols.Name,171,,serpentinite,سربنتينيت,سربنتينيت | serpentinite,translated
+Fill Symbols.Category,171,,,,,kept
+Fill Symbols.Name,172,,shale,صخر طيني,صخر طيني | shale,translated
+Fill Symbols.Category,172,,,,,kept
+Fill Symbols.Name,173,,silt,غرين,غرين | silt,translated
+Fill Symbols.Category,173,,,,,kept
+Fill Symbols.Name,174,,siltstone,حجر غريني,حجر غريني | siltstone,translated
+Fill Symbols.Category,174,,,,,kept
+Fill Symbols.Name,175,,skarn (tactite),سكارن تاكتيت,سكارن تاكتيت | skarn (tactite),translated
+Fill Symbols.Category,175,,,,,kept
+Fill Symbols.Name,176,,slate,أردواز,أردواز | slate,translated
+Fill Symbols.Category,176,,,,,kept
+Fill Symbols.Name,177,,spilite,سبيليت,سبيليت | spilite,translated
+Fill Symbols.Category,177,,,,,kept
+Fill Symbols.Name,178,,stratified glacial sediment,راسب,راسب | stratified glacial sediment,translated
+Fill Symbols.Category,178,,,,,kept
+Fill Symbols.Name,179,,sub- and supra-glacial sediment,و راسب,و راسب | sub- and supra-glacial sediment,translated
+Fill Symbols.Category,179,,,,,kept
+Fill Symbols.Name,180,,subaluminous granite,جرانيت,جرانيت | subaluminous granite,translated
+Fill Symbols.Category,180,,,,,kept
+Fill Symbols.Name,181,,syenite,سيانيت,سيانيت | syenite,translated
+Fill Symbols.Category,181,,,,,kept
+Fill Symbols.Name,182,,talus,ركام انحداري,ركام انحداري | talus,translated
+Fill Symbols.Category,182,,,,,kept
+Fill Symbols.Name,183,,tectonic breccia,بريشيا,بريشيا | tectonic breccia,translated
+Fill Symbols.Category,183,,,,,kept
+Fill Symbols.Name,184,,tectonic melange,ميلانج,ميلانج | tectonic melange,translated
+Fill Symbols.Category,184,,,,,kept
+Fill Symbols.Name,185,,tectonic rock,صخر,صخر | tectonic rock,translated
+Fill Symbols.Category,185,,,,,kept
+Fill Symbols.Name,186,,tectonite,تيكتونيت,تيكتونيت | tectonite,translated
+Fill Symbols.Category,186,,,,,kept
+Fill Symbols.Name,187,,tephrite (basinite),تيفريت بازينيت,تيفريت بازينيت | tephrite (basinite),translated
+Fill Symbols.Category,187,,,,,kept
+Fill Symbols.Name,188,,terrace,مصطبة,مصطبة | terrace,translated
+Fill Symbols.Category,188,,,,,kept
+Fill Symbols.Name,189,,tholeite,ثولييت,ثولييت | tholeite,translated
+Fill Symbols.Category,189,,,,,kept
+Fill Symbols.Name,190,,till,ركام جليدي,ركام جليدي | till,translated
+Fill Symbols.Category,190,,,,,kept
+Fill Symbols.Name,191,,tonalite,توناليت,توناليت | tonalite,translated
+Fill Symbols.Category,191,,,,,kept
+Fill Symbols.Name,192,,trachyandesite,تراكي أنديزيت,تراكي أنديزيت | trachyandesite,translated
+Fill Symbols.Category,192,,,,,kept
+Fill Symbols.Name,193,,trachybasalt,تراكي بازلت,تراكي بازلت | trachybasalt,translated
+Fill Symbols.Category,193,,,,,kept
+Fill Symbols.Name,194,,trachyte,تراكيت,تراكيت | trachyte,translated
+Fill Symbols.Category,194,,,,,kept
+Fill Symbols.Name,195,,troctolite,تروكتوليت,تروكتوليت | troctolite,translated
+Fill Symbols.Category,195,,,,,kept
+Fill Symbols.Name,196,,trondhjemite,ترونجييميت,ترونجييميت | trondhjemite,translated
+Fill Symbols.Category,196,,,,,kept
+Fill Symbols.Name,197,,tuff,طف بركاني,طف بركاني | tuff,translated
+Fill Symbols.Category,197,,,,,kept
+Fill Symbols.Name,198,,ultramafic intrusive rock,فوق مافية متداخلة صخر,فوق مافية متداخلة صخر | ultramafic intrusive rock,translated
+Fill Symbols.Category,198,,,,,kept
+Fill Symbols.Name,199,,ultramafitite (komatiite),ألترامافيتايت كوماتييت,ألترامافيتايت كوماتييت | ultramafitite (komatiite),translated
+Fill Symbols.Category,199,,,,,kept
+Fill Symbols.Name,200,,unconsolidated,غير متماسكة,غير متماسكة | unconsolidated,translated
+Fill Symbols.Category,200,,,,,kept
+Fill Symbols.Name,201,,vitrophyre,فيتروفير,فيتروفير | vitrophyre,translated
+Fill Symbols.Category,201,,,,,kept
+Fill Symbols.Name,202,,volcanic ash,بركانية رماد,بركانية رماد | volcanic ash,translated
+Fill Symbols.Category,202,,,,,kept
+Fill Symbols.Name,203,,volcanic breccia (agglomerate),بركانية بريشيا,بركانية بريشيا | volcanic breccia (agglomerate),translated
+Fill Symbols.Category,203,,,,,kept
+Fill Symbols.Name,204,,volcanic carbonatite,بركانية كربوناتيت,بركانية كربوناتيت | volcanic carbonatite,translated
+Fill Symbols.Category,204,,,,,kept
+Fill Symbols.Name,205,,volcanic rock (aphanitic),بركانية صخر دقيقة التبلور,بركانية صخر دقيقة التبلور | volcanic rock (aphanitic),translated
+Fill Symbols.Category,205,,,,,kept
+Fill Symbols.Name,206,,wacke,واكي,واكي | wacke,translated
+Fill Symbols.Category,206,,,,,kept
+Fill Symbols.Name,207,,welded tuff,طف بركاني,طف بركاني | welded tuff,translated
+Fill Symbols.Category,207,,,,,kept
+Colors.Name,1,,252 82 98,,252 82 98,kept
+Colors.Category,1,,,,,kept
+Colors.Name,2,,254 220 126,,254 220 126,kept
+Colors.Category,2,,,,,kept
+Colors.Name,3,,248 190 174,,248 190 174,kept
+Colors.Category,3,,,,,kept
+Colors.Name,4,,254 183 134,,254 183 134,kept
+Colors.Category,4,,,,,kept
+Colors.Name,5,,255 111 145,,255 111 145,kept
+Colors.Category,5,,,,,kept
+Colors.Name,6,,133 79 43,,133 79 43,kept
+Colors.Category,6,,,,,kept
+Colors.Name,7,,169 101 55,,169 101 55,kept
+Colors.Category,7,,,,,kept
+Colors.Name,8,,255 250 233,,255 250 233,kept
+Colors.Category,8,,,,,kept
+Colors.Name,9,,250 238 122,,250 238 122,kept
+Colors.Category,9,,,,,kept
+Colors.Name,10,,255 255 213,,255 255 213,kept
+Colors.Category,10,,,,,kept
+Colors.Name,11,,182 182 206,,182 182 206,kept
+Colors.Category,11,,,,,kept
+Colors.Name,12,,172 127 80,,172 127 80,kept
+Colors.Category,12,,,,,kept
+Colors.Name,13,,177 72 1,,177 72 1,kept
+Colors.Category,13,,,,,kept
+Colors.Name,14,,255 163 185,,255 163 185,kept
+Colors.Category,14,,,,,kept
+Colors.Name,15,,255 200 191,,255 200 191,kept
+Colors.Category,15,,,,,kept
+Colors.Name,16,,203 239 206,,203 239 206,kept
+Colors.Category,16,,,,,kept
+Colors.Name,17,,149 255 202,,149 255 202,kept
+Colors.Category,17,,,,,kept
+Colors.Name,18,,184 234 195,,184 234 195,kept
+Colors.Category,18,,,,,kept
+Colors.Name,19,,255 200 195,,255 200 195,kept
+Colors.Category,19,,,,,kept
+Colors.Name,20,,136 127 80,,136 127 80,kept
+Colors.Category,20,,,,,kept
+Colors.Name,21,,221 179 151,,221 179 151,kept
+Colors.Category,21,,,,,kept
+Colors.Name,22,,228 216 190,,228 216 190,kept
+Colors.Category,22,,,,,kept
+Colors.Name,23,,146 220 183,,146 220 183,kept
+Colors.Category,23,,,,,kept
+Colors.Name,24,,255 162 39,,255 162 39,kept
+Colors.Category,24,,,,,kept
+Colors.Name,25,,247 243 161,,247 243 161,kept
+Colors.Category,25,,,,,kept
+Colors.Name,26,,0 164 160,,0 164 160,kept
+Colors.Category,26,,,,,kept
+Colors.Name,27,,219 254 188,,219 254 188,kept
+Colors.Category,27,,,,,kept
+Colors.Name,28,,192 192 192,,192 192 192,kept
+Colors.Category,28,,,,,kept
+Colors.Name,29,,125 255 227,,125 255 227,kept
+Colors.Category,29,,,,,kept
+Colors.Name,30,,70 0 140,,70 0 140,kept
+Colors.Category,30,,,,,kept
+Colors.Name,31,,180 207 228,,180 207 228,kept
+Colors.Category,31,,,,,kept
+Colors.Name,32,,1 156 205,,1 156 205,kept
+Colors.Category,32,,,,,kept
+Colors.Name,33,,244 255 213,,244 255 213,kept
+Colors.Category,33,,,,,kept
+Colors.Name,34,,205 222 255,,205 222 255,kept
+Colors.Category,34,,,,,kept
+Colors.Name,35,,170 194 200,,170 194 200,kept
+Colors.Category,35,,,,,kept
+Colors.Name,36,,217 253 211,,217 253 211,kept
+Colors.Category,36,,,,,kept
+Colors.Name,37,,255 219 103,,255 219 103,kept
+Colors.Category,37,,,,,kept
+Colors.Name,38,,213 230 204,,213 230 204,kept
+Colors.Category,38,,,,,kept
+Colors.Name,39,,110 73 0,,110 73 0,kept
+Colors.Category,39,,,,,kept
+Colors.Name,40,,188 192 197,,188 192 197,kept
+Colors.Category,40,,,,,kept
+Colors.Name,41,,225 227 195,,225 227 195,kept
+Colors.Category,41,,,,,kept
+Colors.Name,42,,183 217 204,,183 217 204,kept
+Colors.Category,42,,,,,kept
+Colors.Name,43,,255 234 167,,255 234 167,kept
+Colors.Category,43,,,,,kept
+Colors.Name,44,,254 205 172,,254 205 172,kept
+Colors.Category,44,,,,,kept
+Colors.Name,45,,201 190 137,,201 190 137,kept
+Colors.Category,45,,,,,kept
+Colors.Name,46,,253 244 63,,253 244 63,kept
+Colors.Category,46,,,,,kept
+Colors.Name,47,,232 28 0,,232 28 0,kept
+Colors.Category,47,,,,,kept
+Colors.Name,48,,255 51 23,,255 51 23,kept
+Colors.Category,48,,,,,kept
+Colors.Name,49,,0 148 248,,0 148 248,kept
+Colors.Category,49,,,,,kept
+Colors.Name,50,,224 210 180,,224 210 180,kept
+Colors.Category,50,,,,,kept
+Colors.Name,51,,176 0 42,,176 0 42,kept
+Colors.Category,51,,,,,kept
+Colors.Name,52,,255 79 255,,255 79 255,kept
+Colors.Category,52,,,,,kept
+Colors.Name,53,,224 176 0,,224 176 0,kept
+Colors.Category,53,,,,,kept
+Colors.Name,54,,154 206 254,,154 206 254,kept
+Colors.Category,54,,,,,kept
+Colors.Name,55,,152 0 76,,152 0 76,kept
+Colors.Category,55,,,,,kept
+Colors.Name,56,,15 255 255,,15 255 255,kept
+Colors.Category,56,,,,,kept
+Colors.Name,57,,255 141 255,,255 141 255,kept
+Colors.Category,57,,,,,kept
+Colors.Name,58,,244 139 0,,244 139 0,kept
+Colors.Category,58,,,,,kept
+Colors.Name,59,,225 240 216,,225 240 216,kept
+Colors.Category,59,,,,,kept
+Colors.Name,60,,176 167 120,,176 167 120,kept
+Colors.Category,60,,,,,kept
+Colors.Name,61,,255 255 183,,255 255 183,kept
+Colors.Category,61,,,,,kept
+Colors.Name,62,,233 147 190,,233 147 190,kept
+Colors.Category,62,,,,,kept
+Colors.Name,63,,255 149 174,,255 149 174,kept
+Colors.Category,63,,,,,kept
+Colors.Name,64,,191 167 67,,191 167 67,kept
+Colors.Category,64,,,,,kept
+Colors.Name,65,,254 219 46,,254 219 46,kept
+Colors.Category,65,,,,,kept
+Colors.Name,66,,254 226 88,,254 226 88,kept
+Colors.Category,66,,,,,kept
+Colors.Name,67,,255 229 243,,255 229 243,kept
+Colors.Category,67,,,,,kept
+Colors.Name,68,,121 255 255,,121 255 255,kept
+Colors.Category,68,,,,,kept
+Colors.Name,69,,251 35 56,,251 35 56,kept
+Colors.Category,69,,,,,kept
+Colors.Name,70,,0 219 214,,0 219 214,kept
+Colors.Category,70,,,,,kept
+Colors.Name,71,,252 110 124,,252 110 124,kept
+Colors.Category,71,,,,,kept
+Colors.Name,72,,233 121 166,,233 121 166,kept
+Colors.Category,72,,,,,kept
+Colors.Name,73,,171 255 255,,171 255 255,kept
+Colors.Category,73,,,,,kept
+Colors.Name,74,,132 97 62,,132 97 62,kept
+Colors.Category,74,,,,,kept
+Colors.Name,75,,236 180 0,,236 180 0,kept
+Colors.Category,75,,,,,kept
+Colors.Name,76,,105 207 156,,105 207 156,kept
+Colors.Category,76,,,,,kept
+Colors.Name,77,,202 202 220,,202 202 220,kept
+Colors.Category,77,,,,,kept
+Colors.Name,78,,0 128 0,,0 128 0,kept
+Colors.Category,78,,,,,kept
+Colors.Name,79,,236 0 236,,236 0 236,kept
+Colors.Category,79,,,,,kept
+Colors.Name,80,,198 128 80,,198 128 80,kept
+Colors.Category,80,,,,,kept
+Colors.Name,81,,163 1 9,,163 1 9,kept
+Colors.Category,81,,,,,kept
+Colors.Name,82,,234 175 255,,234 175 255,kept
+Colors.Category,82,,,,,kept
+Colors.Name,83,,255 229 195,,255 229 195,kept
+Colors.Category,83,,,,,kept
+Colors.Name,84,,201 85 126,,201 85 126,kept
+Colors.Category,84,,,,,kept
+Colors.Name,85,,235 96 1,,235 96 1,kept
+Colors.Category,85,,,,,kept
+Colors.Name,86,,117 1 7,,117 1 7,kept
+Colors.Category,86,,,,,kept
+Colors.Name,87,,185 149 152,,185 149 152,kept
+Colors.Category,87,,,,,kept
+Colors.Name,88,,254 103 0,,254 103 0,kept
+Colors.Category,88,,,,,kept
+Colors.Name,89,,148 0 35,,148 0 35,kept
+Colors.Category,89,,,,,kept
+Colors.Name,90,,211 202 159,,211 202 159,kept
+Colors.Category,90,,,,,kept
+Colors.Name,91,,244 239 228,,244 239 228,kept
+Colors.Category,91,,,,,kept
+Colors.Name,92,,253 207 207,,253 207 207,kept
+Colors.Category,92,,,,,kept
+Colors.Name,93,,188 175 108,,188 175 108,kept
+Colors.Category,93,,,,,kept
+Colors.Name,94,,254 117 24,,254 117 24,kept
+Colors.Category,94,,,,,kept
+Colors.Name,95,,255 193 11,,255 193 11,kept
+Colors.Category,95,,,,,kept
+Colors.Name,96,,255 255 137,,255 255 137,kept
+Colors.Category,96,,,,,kept
+Colors.Name,97,,20 158 248,,20 158 248,kept
+Colors.Category,97,,,,,kept
+Colors.Name,98,,245 225 189,,245 225 189,kept
+Colors.Category,98,,,,,kept
+Colors.Name,99,,0 118 115,,0 118 115,kept
+Colors.Category,99,,,,,kept
+Colors.Name,100,,185 59 104,,185 59 104,kept
+Colors.Category,100,,,,,kept
+Colors.Name,101,,147 60 1,,147 60 1,kept
+Colors.Category,101,,,,,kept
+Colors.Name,102,,0 0 255,,0 0 255,kept
+Colors.Category,102,,,,,kept
+Colors.Name,103,,207 187 143,,207 187 143,kept
+Colors.Category,103,,,,,kept
+Colors.Name,104,,144 165 101,,144 165 101,kept
+Colors.Category,104,,,,,kept
+Colors.Name,105,,165 170 173,,165 170 173,kept
+Colors.Category,105,,,,,kept
+Colors.Name,106,,201 255 201,,201 255 201,kept
+Colors.Category,106,,,,,kept
+Colors.Name,107,,135 43 76,,135 43 76,kept
+Colors.Category,107,,,,,kept
+Colors.Name,108,,125 255 125,,125 255 125,kept
+Colors.Category,108,,,,,kept
+Colors.Name,109,,255 87 255,,255 87 255,kept
+Colors.Category,109,,,,,kept
+Colors.Name,110,,244 26 135,,244 26 135,kept
+Colors.Category,110,,,,,kept
+Colors.Name,111,,230 205 255,,230 205 255,kept
+Colors.Category,111,,,,,kept
+Colors.Name,112,,233 255 233,,233 255 233,kept
+Colors.Category,112,,,,,kept
+Colors.Name,113,,255 167 255,,255 167 255,kept
+Colors.Category,113,,,,,kept
+Colors.Name,114,,177 177 177,,177 177 177,kept
+Colors.Category,114,,,,,kept
+Colors.Name,115,,172 0 0,,172 0 0,kept
+Colors.Category,115,,,,,kept
+Colors.Name,116,,69 197 194,,69 197 194,kept
+Colors.Category,116,,,,,kept
+Colors.Name,117,,217 194 163,,217 194 163,kept
+Colors.Category,117,,,,,kept
+Colors.Name,118,,56 176 162,,56 176 162,kept
+Colors.Category,118,,,,,kept
+Colors.Name,119,,255 169 157,,255 169 157,kept
+Colors.Category,119,,,,,kept
+Colors.Name,120,,255 214 209,,255 214 209,kept
+Colors.Category,120,,,,,kept
+Colors.Name,121,,255 39 90,,255 39 90,kept
+Colors.Category,121,,,,,kept
+Colors.Name,122,,255 238 191,,255 238 191,kept
+Colors.Category,122,,,,,kept
+Colors.Name,123,,234 225 204,,234 225 204,kept
+Colors.Category,123,,,,,kept
+Colors.Name,124,,220 213 180,,220 213 180,kept
+Colors.Category,124,,,,,kept
+Colors.Name,125,,172 228 200,,172 228 200,kept
+Colors.Category,125,,,,,kept
+Colors.Name,126,,208 203 176,,208 203 176,kept
+Colors.Category,126,,,,,kept
+Colors.Name,127,,255 27 81,,255 27 81,kept
+Colors.Category,127,,,,,kept
+Colors.Name,128,,227 119 173,,227 119 173,kept
+Colors.Category,128,,,,,kept
+Colors.Name,129,,192 174 182,,192 174 182,kept
+Colors.Category,129,,,,,kept
+Colors.Name,130,,255 209 234,,255 209 234,kept
+Colors.Category,130,,,,,kept
+Colors.Name,131,,187 255 221,,187 255 221,kept
+Colors.Category,131,,,,,kept
+Colors.Name,132,,141 190 205,,141 190 205,kept
+Colors.Category,132,,,,,kept
+Colors.Name,133,,51 204 204,,51 204 204,kept
+Colors.Category,133,,,,,kept
+Colors.Name,134,,166 252 170,,166 252 170,kept
+Colors.Category,134,,,,,kept
+Colors.Name,135,,255 223 133,,255 223 133,kept
+Colors.Category,135,,,,,kept
+Colors.Name,136,,45 182 179,,45 182 179,kept
+Colors.Category,136,,,,,kept
+Colors.Name,137,,255 204 153,,255 204 153,kept
+Colors.Category,137,,,,,kept
+Colors.Name,138,,255 209 220,,255 209 220,kept
+Colors.Category,138,,,,,kept
+Colors.Name,139,,150 150 150,,150 150 150,kept
+Colors.Category,139,,,,,kept
+Colors.Name,140,,228 88 145,,228 88 145,kept
+Colors.Category,140,,,,,kept
+Colors.Name,141,,244 60 108,,244 60 108,kept
+Colors.Category,141,,,,,kept
+Colors.Name,142,,206 0 49,,206 0 49,kept
+Colors.Category,142,,,,,kept
+Colors.Name,143,,95 57 31,,95 57 31,kept
+Colors.Category,143,,,,,kept
+Colors.Name,144,,191 227 220,,191 227 220,kept
+Colors.Category,144,,,,,kept
+Colors.Name,145,,237 237 243,,237 237 243,kept
+Colors.Category,145,,,,,kept
+Colors.Name,146,,51 153 102,,51 153 102,kept
+Colors.Category,146,,,,,kept
+Colors.Name,147,,238 231 214,,238 231 214,kept
+Colors.Category,147,,,,,kept
+Colors.Name,148,,255 239 243,,255 239 243,kept
+Colors.Category,148,,,,,kept
+Colors.Name,149,,255 225 232,,255 225 232,kept
+Colors.Category,149,,,,,kept
+Colors.Name,150,,255 195 228,,255 195 228,kept
+Colors.Category,150,,,,,kept
+Colors.Name,151,,255 237 191,,255 237 191,kept
+Colors.Category,151,,,,,kept
+Colors.Name,152,,193 1 10,,193 1 10,kept
+Colors.Category,152,,,,,kept
+Colors.Name,153,,255 111 91,,255 111 91,kept
+Colors.Category,153,,,,,kept
+Colors.Name,154,,237 167 202,,237 167 202,kept
+Colors.Category,154,,,,,kept
+Colors.Name,155,,254 135 54,,254 135 54,kept
+Colors.Category,155,,,,,kept
+Colors.Name,156,,255 204 197,,255 204 197,kept
+Colors.Category,156,,,,,kept
+Colors.Name,157,,255 129 159,,255 129 159,kept
+Colors.Category,157,,,,,kept
+Colors.Name,158,,255 99 136,,255 99 136,kept
+Colors.Category,158,,,,,kept
+Colors.Name,159,,249 181 187,,249 181 187,kept
+Colors.Category,159,,,,,kept
+Colors.Name,160,,162 162 192,,162 162 192,kept
+Colors.Category,160,,,,,kept
+Colors.Name,161,,159 255 159,,159 255 159,kept
+Colors.Category,161,,,,,kept
+Colors.Name,162,,255 227 137,,255 227 137,kept
+Colors.Category,162,,,,,kept
+Colors.Name,163,,254 198 42,,254 198 42,kept
+Colors.Category,163,,,,,kept
+Colors.Name,164,,254 215 104,,254 215 104,kept
+Colors.Category,164,,,,,kept
+Colors.Name,165,,255 203 35,,255 203 35,kept
+Colors.Category,165,,,,,kept
+Colors.Name,166,,219 204 169,,219 204 169,kept
+Colors.Category,166,,,,,kept
+Colors.Name,167,,205 255 217,,205 255 217,kept
+Colors.Category,167,,,,,kept
+Colors.Name,168,,219 219 231,,219 219 231,kept
+Colors.Category,168,,,,,kept
+Colors.Name,169,,167 186 134,,167 186 134,kept
+Colors.Category,169,,,,,kept
+Colors.Name,170,,207 239 223,,207 239 223,kept
+Colors.Category,170,,,,,kept
+Colors.Name,171,,0 92 0,,0 92 0,kept
+Colors.Category,171,,,,,kept
+Colors.Name,172,,192 208 192,,192 208 192,kept
+Colors.Category,172,,,,,kept
+Colors.Name,173,,255 211 69,,255 211 69,kept
+Colors.Category,173,,,,,kept
+Colors.Name,174,,214 254 154,,214 254 154,kept
+Colors.Category,174,,,,,kept
+Colors.Name,175,,102 0 204,,102 0 204,kept
+Colors.Category,175,,,,,kept
+Colors.Name,176,,167 167 255,,167 167 255,kept
+Colors.Category,176,,,,,kept
+Colors.Name,177,,255 0 0,,255 0 0,kept
+Colors.Category,177,,,,,kept
+Colors.Name,178,,255 229 157,,255 229 157,kept
+Colors.Category,178,,,,,kept
+Colors.Name,179,,254 230 112,,254 230 112,kept
+Colors.Category,179,,,,,kept
+Colors.Name,180,,221 41 114,,221 41 114,kept
+Colors.Category,180,,,,,kept
+Colors.Name,181,,255 167 188,,255 167 188,kept
+Colors.Category,181,,,,,kept
+Colors.Name,182,,157 137 53,,157 137 53,kept
+Colors.Category,182,,,,,kept
+Colors.Name,183,,42 0 42,,42 0 42,kept
+Colors.Category,183,,,,,kept
+Colors.Name,184,,106 0 106,,106 0 106,kept
+Colors.Category,184,,,,,kept
+Colors.Name,185,,198 0 198,,198 0 198,kept
+Colors.Category,185,,,,,kept
+Colors.Name,186,,156 0 156,,156 0 156,kept
+Colors.Category,186,,,,,kept
+Colors.Name,187,,194 65 0,,194 65 0,kept
+Colors.Category,187,,,,,kept
+Colors.Name,188,,255 246 217,,255 246 217,kept
+Colors.Category,188,,,,,kept
+Colors.Name,189,,211 157 121,,211 157 121,kept
+Colors.Category,189,,,,,kept
+Colors.Name,190,,210 194 124,,210 194 124,kept
+Colors.Category,190,,,,,kept
+Colors.Name,191,,255 111 107,,255 111 107,kept
+Colors.Category,191,,,,,kept
+Colors.Name,192,,201 82 1,,201 82 1,kept
+Colors.Category,192,,,,,kept
+Colors.Name,193,,236 213 198,,236 213 198,kept
+Colors.Category,193,,,,,kept
+Colors.Name,194,,254 160 96,,254 160 96,kept
+Colors.Category,194,,,,,kept
+Colors.Name,195,,255 191 206,,255 191 206,kept
+Colors.Category,195,,,,,kept
+Colors.Name,196,,255 179 197,,255 179 197,kept
+Colors.Category,196,,,,,kept
+Colors.Name,197,,255 239 217,,255 239 217,kept
+Colors.Category,197,,,,,kept
+Colors.Name,198,,232 0 55,,232 0 55,kept
+Colors.Category,198,,,,,kept
+Colors.Name,199,,160 53 0,,160 53 0,kept
+Colors.Category,199,,,,,kept
+Colors.Name,200,,255 255 233,,255 255 233,kept
+Colors.Category,200,,,,,kept
+Colors.Name,201,,255 195 248,,255 195 248,kept
+Colors.Category,201,,,,,kept
+Colors.Name,202,,214 197 158,,214 197 158,kept
+Colors.Category,202,,,,,kept
+Colors.Name,203,,255 213 157,,255 213 157,kept
+Colors.Category,203,,,,,kept
+Colors.Name,204,,110 37 0,,110 37 0,kept
+Colors.Category,204,,,,,kept
+Colors.Name,205,,249 211 211,,249 211 211,kept
+Colors.Category,205,,,,,kept
+Colors.Name,206,,189 219 241,,189 219 241,kept
+Colors.Category,206,,,,,kept
+Colors.Name,207,,255 183 222,,255 183 222,kept
+Colors.Category,207,,,,,kept
+Text Symbols.Name,1,,lithclass6_1,,lithclass6_1,kept
+Text Symbols.Category,1,,,,,kept
+Borders.Name,1,,Element,عنصر,عنصر | Element,translated
+Borders.Category,1,,,,,kept
